@@ -9,7 +9,7 @@
 
 <p align="center"><em>A curated, layer-by-layer map of the tools I actually use to build AI agents — from the coding agent in your terminal down to the model serving the tokens.</em></p>
 
-**560+ entries across 30 layers.** The top of each section is my own picks — tools I have used, read, or evaluated. The **More** lists extend each layer with projects that pass a mechanical bar: actively maintained (pushed in the last 12 months), not archived, 1,500+ stars, and cross-referenced from other reputable lists. Organized as a **stack** so you can find the right tool for each layer of an agent system.
+**590+ entries across 30 layers.** The top of each section is my own picks — tools I have used, read, or evaluated. The **More** lists extend each layer with projects that pass a mechanical bar: actively maintained (pushed in the last 12 months), not archived, 1,500+ stars, and cross-referenced from other reputable lists. Organized as a **stack** so you can find the right tool for each layer of an agent system.
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -574,6 +574,10 @@
 - [Helicone/helicone](https://github.com/Helicone/helicone) - Open-source LLM observability platform plus AI gateway with caching and cost tracking.
 - [openlit/openlit](https://github.com/openlit/openlit) - OpenTelemetry-native observability and evaluation for AI and coding agents.
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - LLM evaluation framework from the UK AI Security Institute with 200+ agentic benchmarks.
+
+- [microsoft/promptflow](https://github.com/microsoft/promptflow) - Microsoft's toolkit for building, tracing, and evaluating LLM flows and agents.
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF distributed tracing platform; the standard trace backend for production systems.
+- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Data validation framework for testing eval datasets and pipeline data quality.
 ## Production Architectures & Reference Systems
 
 *Complete, opinionated systems worth reading end to end.*
@@ -593,6 +597,8 @@
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - Production-ready agent templates for Google Cloud with CI/CD, evals, and observability.
 - [google/adk-recipes](https://github.com/google/adk-recipes) - Official sample agents built with Google's Agent Development Kit.
 - [vercel/chatbot](https://github.com/vercel/chatbot) - Full-featured, hackable Next.js AI chatbot template built by Vercel.
+
+- [apache/kafka](https://github.com/apache/kafka) - Distributed event-streaming platform; the backbone of event-driven agent systems.
 ## UI & Application Layer
 
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build conversational AI UIs in minutes.
@@ -606,6 +612,9 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - AI-assisted diagramming with draw.io in Next.js.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Design and UI resources for developers.
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Accessible React component standard behind most production AI chat frontends.
+- [vercel/next.js](https://github.com/vercel/next.js) - The React framework most production AI apps are built and deployed on.
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - Node-based canvas library powering agent workflow builders like Langflow.
 ## Learning Path
 
 *Ordered roughly from beginner to advanced.*
@@ -657,6 +666,8 @@
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers).
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - Tiny autograd engine; build backpropagation from scratch.
+- [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - Code companion for Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.
 ## Voice, Speech & Audio
 
 *Speech-to-text, text-to-speech and voice agents.*
@@ -675,6 +686,10 @@
 - [livekit/agents](https://github.com/livekit/agents) - Realtime multimodal voice-agent framework on LiveKit's WebRTC infrastructure.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Pipeline framework for voice and multimodal conversational AI agents.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - State-of-the-art open-source text-to-speech with rapid voice cloning.
+
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NVIDIA's toolkit for building production ASR, TTS, and conversational AI.
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Alibaba's industrial-grade speech recognition toolkit for production ASR.
+- [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Real-time full-duplex speech-text model for conversational voice agents.
 ## Vision & Multimodal
 
 *Image/video understanding and vision-language models.*
@@ -689,6 +704,9 @@
 - [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox.
 
 - [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - Open-source multimodal model family rivaling proprietary vision-language models.
+
+- [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - Meta's promptable segmentation for images and video; a vision pipeline staple.
+- [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - Meta's self-supervised vision foundation model for visual perception backbones.
 ## Image, Video & Creative Generation
 
 *Diffusion, image and video generation tooling.*
@@ -707,6 +725,8 @@
 
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Alibaba's open text/image-to-video generation and video-editing model suite.
 - [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) - GUI and CLI toolkit for training and fine-tuning diffusion models including LoRA.
+
+- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - Lightricks' open real-time text-to-video generation model.
 ## Computer Use & GUI Agents
 
 *Agents that operate desktops, phones and apps.*
@@ -722,6 +742,8 @@
 
 - [trycua/cua](https://github.com/trycua/cua) - Open-source computer-use stack: drivers, cross-OS VM fleets, models, and benchmarks.
 - [google-research/android_world](https://github.com/google-research/android_world) - Official Google Research Android environment and benchmark for autonomous GUI agents.
+
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - The W3C WebDriver standard for browser automation that GUI agents build on.
 ## Structured Output, Guardrails & Safety
 
 *Validation, constrained decoding, jailbreak and injection defense.*
@@ -738,6 +760,7 @@
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit.
 - [PKU-Alignment/safe-rlhf](https://github.com/PKU-Alignment/safe-rlhf) - Safe RLHF: Constrained Value Alignment via Safe Reinforcement Learning from Human Feedback.
 
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - Microsoft's language for structured, constrained LLM generation.
 ## Chat UIs & Application Layer
 
 *Front-ends, chat interfaces and app scaffolds.*
@@ -750,6 +773,8 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cross-platform AI desktop client with multi-provider support and MCP tools.
+
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Hugging Face's open chat UI; the reference self-hosted ChatGPT-style frontend.
 ## Deployment, Serving & MLOps
 
 *Ship and operate models and agents in production.*
@@ -768,6 +793,14 @@
 
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Multi-cloud AI compute orchestration for training and serving.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Official SDKs for Modal's serverless GPU cloud platform.
+
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - Cross-platform inference engine for serving ML models in production.
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard format for portable, interoperable ML models.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Kubernetes-native workflow engine for orchestrating ML and agent pipelines.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - GitOps continuous delivery for Kubernetes; how agents ship to clusters.
+- [helm/helm](https://github.com/helm/helm) - The package manager for Kubernetes; the standard way to ship apps to clusters.
+- [apache/airflow](https://github.com/apache/airflow) - The de-facto platform for orchestrating ML and data pipelines in production.
+- [kedacore/keda](https://github.com/kedacore/keda) - Event-driven autoscaling for Kubernetes, including scale-to-zero GPU inference.
 ## Data, Datasets & Synthetic Data
 
 *Data curation, labeling, synthetic generation and datasets.*
@@ -782,6 +815,8 @@
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic data generation for tabular data.
 - [Data-Centric-AI-Community/fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic) - Synthetic data generators for tabular and time-series data.
 
+- [iterative/dvc](https://github.com/iterative/dvc) - Data version control for ML: version datasets and models like code.
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - Metadata platform for data discovery, observability, and governance.
 ## Domain Agents: Finance, Healthcare, Research & More
 
 *Vertical agents and assistants for specific industries.*
@@ -797,6 +832,8 @@
 - [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。.
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget).
 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - Multi-agent hedge fund: analyst, researcher, risk, and portfolio manager agents.
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Open-source finance LLMs and agents for financial data analysis.
 ## Assistants, Copilots & Personal Agents
 
 *General-purpose assistants you run yourself.*
@@ -809,6 +846,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT desktop app for Mac, Windows and Linux.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - Open-source personal assistant you self-host.
 
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - Open-source agent that runs code locally to complete tasks on your computer.
 ## Interpretability, Alignment & Research
 
 *Understanding and steering model behaviour.*
@@ -822,6 +860,8 @@
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - Tool for investigating specific behaviors of small language models.
 - [ndif-team/nnsight](https://github.com/ndif-team/nnsight) - Interpret and manipulate the internals of deep models.
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - Minimal, hackable GPT training codebase for LLM training research.
+- [state-spaces/mamba](https://github.com/state-spaces/mamba) - Selective state-space sequence models; the leading Transformer alternative.
 ## Developer Tools & Utilities
 
 *Useful things that don't fit a layer.*
@@ -834,6 +874,9 @@
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - Extremely fast Python package and project manager written in Rust.
 - [jdx/mise](https://github.com/jdx/mise) - Dev-tool version manager, env vars, and task runner in one binary.
+
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - High-performance Python API framework for serving agents over HTTP.
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation in Python using type hints; core of most agent frameworks.
 ## Other Awesome Lists
 
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - 120+ LLM libraries by category.
@@ -854,6 +897,7 @@
 - [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) - [TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - Awesome list of AI Agents.
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - The root awesome list; the index every curated list descends from.
 ## Contributing
 
 Contributions welcome — read [CONTRIBUTING.md](CONTRIBUTING.md) first. The bar: you have used it, it is maintained, and it fits a layer of the stack.
