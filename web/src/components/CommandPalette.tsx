@@ -18,7 +18,12 @@ export function PaletteProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const typing = /INPUT|TEXTAREA|SELECT/.test((e.target as HTMLElement).tagName);
-      if ((e.key === "k" && (e.metaKey || e.ctrlKey)) || (e.key === "/" && !typing)) {
+      // A page with its own search box (the home page) takes "/" for itself.
+      const pageSearch = document.querySelector<HTMLInputElement>("[data-page-search]");
+      if (e.key === "/" && !typing && pageSearch) {
+        e.preventDefault();
+        pageSearch.focus();
+      } else if ((e.key === "k" && (e.metaKey || e.ctrlKey)) || (e.key === "/" && !typing)) {
         e.preventDefault();
         setOpen((o) => !o);
       }
