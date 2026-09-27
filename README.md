@@ -2,14 +2,29 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://tayyabimam1.github.io/awesome-ai-agent-stack/"><img src="https://img.shields.io/badge/website-live-0969da?style=flat" alt="Website"></a>
   <a href="https://github.com/tayyabimam1/awesome-ai-agent-stack/stargazers"><img src="https://img.shields.io/github/stars/tayyabimam1/awesome-ai-agent-stack?style=flat" alt="Stars"></a>
   <a href="https://github.com/tayyabimam1/awesome-ai-agent-stack/commits/main"><img src="https://img.shields.io/github/last-commit/tayyabimam1/awesome-ai-agent-stack?style=flat" alt="Last commit"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0-lightgrey?style=flat" alt="CC0"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey?style=flat" alt="CC BY 4.0"></a>
 </p>
 
 <p align="center"><em>A curated, layer-by-layer map of the tools I actually use to build AI agents — from the coding agent in your terminal down to the model serving the tokens.</em></p>
 
-**3,000+ entries across 30 layers.** The top of each section is my own picks — tools I have used, read, or evaluated. The **More** lists extend each layer with projects that pass a mechanical bar: real, public, not archived, actively maintained (pushed in the last 18 months). The most established entries also meet a stricter bar — 1,500+ stars and cross-referenced from other reputable lists. Organized as a **stack** so you can find the right tool for each layer of an agent system.
+<p align="center">
+  <a href="https://tayyabimam1.github.io/awesome-ai-agent-stack/"><strong>Browse the website</strong></a> ·
+  <a href="https://tayyabimam1.github.io/awesome-ai-agent-stack/starter-stacks.html">Starter stacks</a> ·
+  <a href="https://github.com/tayyabimam1/awesome-ai-agent-stack/edit/main/README.md">Suggest a tool</a>
+</p>
+
+<p align="center">
+  <a href="https://tayyabimam1.github.io/awesome-ai-agent-stack/"><img src=".github/site-preview.jpg" alt="The Awesome AI Agent Stack website: 2,990 tools in 29 categories, ranked by GitHub stars" width="860"></a>
+</p>
+
+**~3,000 tools across 29 categories, ranked by GitHub stars.** The top of each section is my own picks — tools I have used, read, or evaluated. The **More** lists extend each layer with projects that pass a mechanical bar: real, public, not archived, actively maintained (pushed in the last 18 months). The most established entries also meet a stricter bar — 1,500+ stars and cross-referenced from other reputable lists. Organized as a **stack** so you can find the right tool for each layer of an agent system.
+
+**On the website** you can search every tool, sort any category by stars, and see the most-starred projects in each layer. It rebuilds from this README on every change.
+
+> If this list saves you time, **[give it a star](https://github.com/tayyabimam1/awesome-ai-agent-stack/stargazers)** — it helps other builders find it.
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -3419,8 +3434,18 @@
 - [Rodert/awesome-skill](https://github.com/Rodert/awesome-skill) - Curated list of practical skills for Codex, Claude Code, and OpenCode.
 ## Contributing
 
-Contributions welcome — read [CONTRIBUTING.md](CONTRIBUTING.md) first. The bar: you have used it, it is maintained, and it fits a layer of the stack.
+Contributions welcome — read [CONTRIBUTING.md](CONTRIBUTING.md) first. The bar: you have used it, it is maintained, and it fits a layer of the stack. The quickest way in is to [edit this README](https://github.com/tayyabimam1/awesome-ai-agent-stack/edit/main/README.md) and open a pull request; the website updates itself once it is merged.
+
+<a href="https://github.com/tayyabimam1/awesome-ai-agent-stack/graphs/contributors"><img src="https://contrib.rocks/image?repo=tayyabimam1/awesome-ai-agent-stack" alt="Contributors"></a>
+
+### Star history
+
+<a href="https://star-history.com/#tayyabimam1/awesome-ai-agent-stack&Date"><img src="https://api.star-history.com/svg?repos=tayyabimam1/awesome-ai-agent-stack&type=Date" alt="Star history chart" width="600"></a>
 
 ## License
 
-[CC0 1.0](LICENSE) — public domain. Maintained by [Tayyab Imam](https://github.com/tayyabimam1).
+[CC BY 4.0](LICENSE) — free to share and adapt, including commercially, as long as you give credit. Maintained by [Tayyab Imam](https://github.com/tayyabimam1).
+
+When you reuse this list, please credit it like this:
+
+> Based on [Awesome AI Agent Stack](https://github.com/tayyabimam1/awesome-ai-agent-stack) by Tayyab Imam, licensed under CC BY 4.0.

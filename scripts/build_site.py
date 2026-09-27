@@ -117,6 +117,8 @@ def parse_body(body: str, stars: dict):
             blocks.append(group)
         elif re.fullmatch(r"\*(.+)\*", s) and not tagline and not blocks:
             tagline = s[1:-1].strip()
+        elif s.startswith(("<", "#")):
+            continue  # raw HTML (images, charts) and sub-headings are README-only
         elif s.startswith("|"):
             cells = [c.strip() for c in s.strip("|").split("|")]
             if all(re.fullmatch(r":?-+:?", c) for c in cells if c):

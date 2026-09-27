@@ -182,7 +182,7 @@ export function Layout() {
           </motion.main>
           <footer className="border-t border-line">
             <div className="mx-auto flex max-w-5xl flex-col gap-2 px-4 py-6 text-sm text-muted sm:flex-row sm:px-8">
-              <p>Generated from the {data ? <a className="text-accent hover:underline" href={data.repo + "#readme"}>README</a> : "README"}. Released under CC0-1.0.</p>
+              <p>Generated from the {data ? <a className="text-accent hover:underline" href={data.repo + "#readme"}>README</a> : "README"}. Released under CC BY 4.0.</p>
               <p className="sm:ml-auto">Found a dead link or a missing tool? <Link className="text-accent hover:underline" to="/contributing.html">Here is how to contribute.</Link></p>
             </div>
           </footer>
