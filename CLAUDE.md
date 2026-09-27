@@ -29,9 +29,10 @@ Two stages: Python parses, React renders.
   - Star counts come from `site-data/stars.json` (`owner/repo` -> count, looked up case-insensitively). No script in the repo updates it.
 - `web/` is a Vite + React + TypeScript + Tailwind v4 + Motion app:
   - `src/data.ts` fetches `data.json` once and holds the shared types, search ranking and tier colours.
-  - `src/components/`: `Layout` (header, theme toggle, scroll progress), `Home` (hero, stack map, most-starred), `Layer` (layer page with sidebar, filter and sort), `CommandPalette` (Ctrl K or `/` searches every tool), `ui` (animated primitives).
+  - `src/components/`: `Layout` (header, category sidebar on every page and a drawer on mobile, theme toggle), `Sidebar` (the category list), `Home` (every repo ranked by stars, then the top 3 per category), `Layer` (one category, ranked by stars by default, or in the README's curated order), `RepoList` (the GitHub-style repo row), `CommandPalette` (Ctrl K or `/` searches every tool), `ui` (animated primitives).
+  - The site is star-driven: rankings come from `site-data/stars.json`, so refreshing that file reorders the site.
   - Routing uses `BrowserRouter` with base `/awesome-ai-agent-stack/`. GitHub Pages has no SPA rewrites, so the `perPageHtml` plugin in `vite.config.ts` copies `index.html` to one `<slug>.html` per layer (each with its own title and description) plus `404.html`.
-  - Colours are CSS variables in `src/index.css`. `--bg`, `--ink`, etc. switch with the `.dark` class. The stack's tier colours are `t0`–`t6`, a spectrum from deep blue to amber.
+  - Colours are GitHub Primer values, set as CSS variables in `src/index.css` and switched by the `.dark` class. The font is Mona Sans.
 - `.github/workflows/site.yml` runs the Python step and `npm run build` on every push to `main` that touches README, the script, stars.json or `web/`. It then commits `docs/` as `github-actions[bot]`. Hand edits to `docs/` get overwritten.
 
 ## README conventions (from CONTRIBUTING.md)

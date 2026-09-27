@@ -119,7 +119,7 @@ function Palette({ onClose }: { onClose: () => void }) {
                 )}
                 <span className="relative">
                   {it.kind === "tool" ? <Avatar owner={it.owner} name={it.title} />
-                    : <span className="grid size-8 place-items-center rounded-lg bg-t2 text-white"><Layers className="size-4" /></span>}
+                    : <span className="grid size-8 place-items-center rounded-md bg-accent text-white"><Layers className="size-4" /></span>}
                 </span>
                 <span className="relative min-w-0 flex-1">
                   <span className="block truncate font-semibold text-ink">{it.title}</span>

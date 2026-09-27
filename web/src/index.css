@@ -2,31 +2,34 @@
 
 @custom-variant dark (&:where(.dark, .dark *));
 
+/* GitHub Primer colours, so the site feels at home next to the repos it lists */
 :root {
-  --bg: #f6f5fb;
+  --bg: #ffffff;
   --surface: #ffffff;
-  --raised: #f1effa;
-  --ink: #1a1733;
-  --muted: #5d5878;
-  --line: #e3e0f0;
-  --accent: #6d28d9;
-  --star: #b45309;
+  --raised: #f6f8fa;
+  --ink: #1f2328;
+  --muted: #59636e;
+  --line: #d1d9e0;
+  --accent: #0969da;
+  --star: #9a6700;
+  --success: #1a7f37;
   color-scheme: light;
 }
 .dark {
-  --bg: #0d0c1d;
-  --surface: #15142b;
-  --raised: #1c1a38;
-  --ink: #ecebf7;
-  --muted: #a09cc0;
-  --line: #29264d;
-  --accent: #b69cff;
-  --star: #fbbf57;
+  --bg: #0d1117;
+  --surface: #151b23;
+  --raised: #151b23;
+  --ink: #f0f6fc;
+  --muted: #9198a1;
+  --line: #3d444d;
+  --accent: #4493f8;
+  --star: #d29922;
+  --success: #3fb950;
   color-scheme: dark;
 }
 
 @theme inline {
-  --font-display: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Mona Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
   --color-bg: var(--bg);
   --color-surface: var(--surface);
   --color-raised: var(--raised);
@@ -35,17 +38,7 @@
   --color-line: var(--line);
   --color-accent: var(--accent);
   --color-star: var(--star);
-}
-
-/* strata: a sunset spectrum, deep blue at the top of the stack to amber at the base */
-@theme {
-  --color-t0: #1e3a8a;
-  --color-t1: #3730a3;
-  --color-t2: #6d28d9;
-  --color-t3: #a21caf;
-  --color-t4: #be185d;
-  --color-t5: #c2410c;
-  --color-t6: #f59e0b;
+  --color-success: var(--success);
 }
 
 html { background: var(--bg); }
@@ -53,26 +46,22 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--ink);
-  font-family: var(--font-display);
-  font-optical-sizing: auto;
+  font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
 }
-:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
-::selection { background: color-mix(in srgb, var(--accent) 35%, transparent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+::selection { background: color-mix(in srgb, var(--accent) 30%, transparent); }
 
 /* HTML from the README (descriptions, tables, prose) */
-.md a { color: var(--accent); text-decoration: underline; text-underline-offset: 0.18em; }
-.md code { font-size: 0.9em; background: var(--line); padding: 0.05em 0.3em; border-radius: 4px; }
-.md strong { font-weight: 650; color: var(--ink); }
+.md a { color: var(--accent); }
+.md a:hover { text-decoration: underline; }
+.md code { font-size: 0.88em; background: color-mix(in srgb, var(--muted) 18%, transparent); padding: 0.1em 0.35em; border-radius: 6px; }
+.md strong { font-weight: 600; color: var(--ink); }
 
 /* entry flashed when a search result jumps to it */
 @keyframes flash {
-  0%, 40% { box-shadow: 0 0 0 3px var(--accent); }
-  100% { box-shadow: 0 0 0 3px transparent; }
+  0%, 40% { background: color-mix(in srgb, var(--star) 22%, transparent); }
+  100% { background: transparent; }
 }
-.flash { animation: flash 2.2s ease-out; }
-@media (prefers-reduced-motion: reduce) { .flash { animation: none; outline: 3px solid var(--accent); } }
-
-.spectrum {
-  background: linear-gradient(90deg, var(--color-t0), var(--color-t2), var(--color-t3), var(--color-t4), var(--color-t5), var(--color-t6));
-}
+.flash { animation: flash 2.4s ease-out; }
+@media (prefers-reduced-motion: reduce) { .flash { animation: none; outline: 2px solid var(--accent); } }

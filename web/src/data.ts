@@ -13,7 +13,7 @@ export type Data = {
   repo: string; edit: string; tagline: string; total: number;
   tiers: string[]; sections: Section[];
 };
-export type Hit = { e: Entry; sec: Section };
+export type Hit = { e: Entry; sec: Section; picked: boolean };
 
 let cache: Data | null = null;
 let pending: Promise<Data> | null = null;
@@ -33,7 +33,9 @@ export function useData(): Data | null {
 
 export function allEntries(data: Data): Hit[] {
   return data.sections.flatMap((sec) =>
-    sec.blocks.flatMap((b) => (b.type === "group" ? b.entries.map((e) => ({ e, sec })) : [])),
+    sec.blocks.flatMap((b) =>
+      b.type === "group" ? b.entries.map((e) => ({ e, sec, picked: b.title !== "More" })) : [],
+    ),
   );
 }
 
@@ -55,10 +57,14 @@ export const fmtStars = (n: number) =>
 
 export const layerPath = (slug: string) => `/${slug}.html`;
 
-export const tierClass = [
-  "bg-t0 text-white", "bg-t1 text-white", "bg-t2 text-white", "bg-t3 text-white",
-  "bg-t4 text-white", "bg-t5 text-white", "bg-t6 text-[#2a1600]",
-];
-export const tierBorder = [
-  "border-t0", "border-t1", "border-t2", "border-t3", "border-t4", "border-t5", "border-t6",
-];
+/** Every GitHub repo once (a repo can sit in several layers), most stars first. */
+export function topRepos(data: Data): Hit[] {
+  const seen = new Set<string>();
+  return allEntries(data)
+    .filter((h) => h.e.s > 0)
+    .sort((a, b) => b.e.s - a.e.s)
+    .filter(({ e }) => !seen.has(e.u.toLowerCase()) && !!seen.add(e.u.toLowerCase()));
+}
+
+export const fmtBig = (n: number) =>
+  n >= 1e6 ? (n / 1e6).toFixed(1).replace(".0", "") + "M" : n >= 1e3 ? fmtStars(n) : String(n);

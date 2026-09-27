@@ -1,28 +1,28 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link, useLocation, useParams } from "react-router";
-import { AnimatePresence, motion } from "motion/react";
-import clsx from "clsx";
-import { ChevronDown, Search, X } from "lucide-react";
-import { layerPath, tierBorder, useData, type Block, type Data, type Entry, type Section } from "../data";
-import { Avatar, BlurText, SlidingTabs, SpotlightCard, Stars } from "./ui";
+import { motion } from "motion/react";
+import { Search, X } from "lucide-react";
+import { allEntries, fmtBig, useData, type Data, type Hit, type Section } from "../data";
+import { RepoList, RepoRow } from "./RepoList";
+import { SlidingTabs } from "./ui";
 
-type Sort = "list" | "stars";
+type Sort = "stars" | "curated";
 
 export function LayerRoute() {
   const data = useData();
   const { page = "" } = useParams();
-  if (!data) return <div className="mx-auto max-w-7xl px-6 py-24 text-muted">Loading…</div>;
+  if (!data) return <div className="px-8 py-16 text-muted">Loading…</div>;
   const section = data.sections.find((s) => s.slug === page.replace(/\.html$/, ""));
   document.title = `${section ? section.title : "Page not found"} — Awesome AI Agent Stack`;
-  return section ? <Layer data={data} section={section} /> : <NotFound />;
+  return section ? <Layer key={section.slug} data={data} section={section} /> : <NotFound />;
 }
 
 export function NotFound() {
   return (
-    <section className="mx-auto max-w-7xl px-4 py-28 sm:px-6">
-      <h1 className="text-5xl font-extrabold tracking-tight">That page isn't in the stack.</h1>
-      <p className="mt-4 max-w-xl text-lg text-muted">
-        The link may be old, or the layer may have been renamed. <Link className="text-accent underline" to="/">Go back to the map</Link>, or press Ctrl K to search every tool.
+    <section className="mx-auto max-w-5xl px-4 py-20 sm:px-8">
+      <h1 className="text-3xl font-semibold">That page isn't in the stack.</h1>
+      <p className="mt-3 max-w-xl text-muted">
+        The link may be old, or the category may have been renamed. Pick a category from the list, <Link className="text-accent hover:underline" to="/">see the top repositories</Link>, or press Ctrl K to search every tool.
       </p>
     </section>
   );
@@ -31,11 +31,11 @@ export function NotFound() {
 function Layer({ data, section }: { data: Data; section: Section }) {
   const { hash } = useLocation();
   const [q, setQ] = useState("");
-  const [sort, setSort] = useState<Sort>("list");
-  const groups = useMemo(
-    () => section.blocks.filter((b): b is Extract<Block, { type: "group" }> => b.type === "group"),
-    [section],
-  );
+  const [sort, setSort] = useState<Sort>("stars");
+
+  const hits = useMemo(() => allEntries(data).filter((h) => h.sec.slug === section.slug), [data, section]);
+  const stars = hits.reduce((a, h) => a + h.e.s, 0);
+  const picked = hits.filter((h) => h.picked).length;
 
   // Arriving from search: clear the filter, scroll to the entry and flash it.
   useEffect(() => {
@@ -50,196 +50,118 @@ function Layer({ data, section }: { data: Data; section: Section }) {
       el.classList.add("flash");
     }, 350);
     return () => clearTimeout(t);
-  }, [hash, section.slug]);
+  }, [hash]);
 
   const lq = q.trim().toLowerCase();
-  const shown = useMemo(
-    () => groups.map((g) => {
-      let es = lq ? g.entries.filter((e) => (e.n + " " + e.d).toLowerCase().includes(lq)) : g.entries;
-      if (sort === "stars") es = [...es].sort((a, b) => b.s - a.s || a.i - b.i);
-      return { title: g.title, total: g.entries.length, entries: es };
-    }),
-    [groups, lq, sort],
+  const match = (h: Hit) => !lq || (h.e.n + " " + h.e.d).toLowerCase().includes(lq);
+  const ranked = useMemo(
+    () => hits.filter(match).sort((a, b) => b.e.s - a.e.s || a.e.i - b.e.i),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [hits, lq],
   );
-  const visible = shown.reduce((a, g) => a + g.entries.length, 0);
 
   return (
-    <div className="mx-auto grid max-w-7xl gap-8 px-4 pt-8 pb-24 sm:px-6 lg:grid-cols-[250px_minmax(0,1fr)] lg:gap-12">
-      <Sidebar data={data} current={section.slug} />
-      <div className="min-w-0">
-        <Link to={`/#tier-${section.tier}`}
-          className={clsx("inline-block border-l-4 pl-2 text-sm text-muted hover:text-ink", tierBorder[section.tier])}>
-          {data.tiers[section.tier]}
-        </Link>
-        <h1 className="mt-3 text-4xl font-extrabold tracking-[-0.03em] sm:text-5xl">
-          <BlurText key={section.slug} text={section.title} />
-        </h1>
-        {section.tagline && (
-          <p className="md mt-4 max-w-2xl text-lg text-muted" dangerouslySetInnerHTML={{ __html: section.tagline }} />
-        )}
-        {groups.length > 1 && (
-          <nav aria-label="On this page" className="mt-5 flex flex-wrap gap-x-5 gap-y-1.5 text-sm">
-            {groups.map((g, gi) => (
-              <a key={gi} href={`#g-${gi}`} className="text-accent hover:underline">
-                {g.title || "Picks"} <span className="text-muted">{g.entries.length}</span>
-              </a>
-            ))}
-          </nav>
-        )}
+    <div className="mx-auto max-w-5xl px-4 py-8 sm:px-8">
+      <p className="text-sm text-muted">
+        <Link to="/" className="hover:text-accent">Top repositories</Link> / {data.tiers[section.tier]}
+      </p>
+      <h1 className="mt-2 text-3xl font-semibold tracking-tight">{section.title}</h1>
+      {section.tagline && (
+        <p className="md mt-2 max-w-2xl text-lg text-muted" dangerouslySetInnerHTML={{ __html: section.tagline }} />
+      )}
+      {section.count > 0 && (
+        <p className="mt-3 text-sm text-muted">
+          <span className="font-semibold text-ink">{section.count}</span> tools,{" "}
+          <span className="font-semibold text-ink">{picked}</span> hand-picked,{" "}
+          <span className="font-semibold text-ink">{fmtBig(stars)}</span> combined stars
+        </p>
+      )}
 
-        {section.count > 0 && (
-          <div className="sticky top-16 z-30 -mx-1 mt-6 flex flex-wrap items-center gap-3 bg-bg/85 px-1 py-3 backdrop-blur-xl">
-            <label className="relative flex min-w-[220px] flex-1 items-center sm:max-w-md">
-              <Search className="pointer-events-none absolute left-3 size-4 text-muted" aria-hidden />
-              <span className="sr-only">Filter tools in this layer</span>
-              <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={`Filter ${section.count} tools`}
-                className="h-10 w-full rounded-lg border border-line bg-surface pr-9 pl-9 text-ink outline-none transition-shadow placeholder:text-muted focus:border-accent focus:ring-3 focus:ring-accent/20" />
-              {q && (
-                <button type="button" onClick={() => setQ("")} aria-label="Clear filter" className="absolute right-2 rounded p-1 text-muted hover:text-ink">
-                  <X className="size-4" />
-                </button>
-              )}
-            </label>
-            <SlidingTabs id="sort" label="Sort" value={sort} onChange={setSort}
-              options={[{ value: "list", label: "List order" }, { value: "stars", label: "Most stars" }]} />
-            <span className="text-sm text-muted tabular-nums" aria-live="polite">
-              {lq ? `${visible} of ${section.count} match` : `${section.count} tools`}
-            </span>
-          </div>
-        )}
+      {section.count > 0 && (
+        <div className="sticky top-14 z-30 -mx-1 mt-5 flex flex-wrap items-center gap-3 border-b border-line bg-bg/90 px-1 py-3 backdrop-blur-md">
+          <label className="relative flex min-w-[220px] flex-1 items-center sm:max-w-sm">
+            <Search className="pointer-events-none absolute left-2.5 size-4 text-muted" aria-hidden />
+            <span className="sr-only">Filter tools in this category</span>
+            <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={`Filter ${section.count} tools`}
+              className="h-8 w-full rounded-md border border-line bg-bg pr-8 pl-8 text-sm text-ink outline-none placeholder:text-muted focus:border-accent focus:ring-2 focus:ring-accent/25" />
+            {q && (
+              <button type="button" onClick={() => setQ("")} aria-label="Clear filter" className="absolute right-1.5 rounded p-1 text-muted hover:text-ink">
+                <X className="size-3.5" />
+              </button>
+            )}
+          </label>
+          <SlidingTabs id="sort" label="Order" value={sort} onChange={setSort}
+            options={[{ value: "stars", label: "Most stars" }, { value: "curated", label: "Curated order" }]} />
+          <span className="ml-auto text-sm text-muted tabular-nums" aria-live="polite">
+            {lq ? `${ranked.length} of ${section.count} match` : `${section.count} tools`}
+          </span>
+        </div>
+      )}
 
-        {lq && visible === 0 && (
-          <p className="mt-10 text-muted">
-            Nothing in this layer matches “{q}”. Press Ctrl K to search every layer.
-          </p>
-        )}
+      {lq && ranked.length === 0 && (
+        <p className="mt-8 text-muted">Nothing in this category matches “{q}”. Press Ctrl K to search every category.</p>
+      )}
 
-        {(() => {
-          let gi = -1;
-          return section.blocks.map((b, bi) => {
-            if (b.type === "p") return <p key={bi} className="md mt-6 max-w-2xl" dangerouslySetInnerHTML={{ __html: b.html }} />;
-            if (b.type === "table") return <Table key={bi} rows={b.rows} />;
-            gi += 1;
-            const g = shown[gi];
-            if (!g.entries.length) return null;
-            return (
-              <section key={bi} id={`g-${gi}`} className="mt-10 scroll-mt-36">
-                <h2 className="flex items-baseline gap-3 text-2xl font-bold tracking-tight">
-                  {g.title || "Picks"}
-                  <span className="text-base font-normal text-muted tabular-nums">{g.total}</span>
-                </h2>
-                {g.title === "More" && (
-                  <p className="mt-1 text-sm text-muted">Screened, not hand-tested: public, maintained in the last 18 months, not archived.</p>
-                )}
-                <motion.ul layout className="mt-4 grid gap-3 xl:grid-cols-2">
-                  <AnimatePresence initial={false} mode="popLayout">
-                    {g.entries.map((e) => <EntryCard key={e.i} e={e} />)}
-                  </AnimatePresence>
-                </motion.ul>
-              </section>
-            );
-          });
-        })()}
-      </div>
+      {sort === "stars" && ranked.length > 0 && (
+        <div className="mt-5">
+          <RepoList>{ranked.map((h, i) => <RepoRow key={h.e.i} hit={h} rank={i + 1} anchor />)}</RepoList>
+        </div>
+      )}
+
+      {(sort === "curated" || section.count === 0) && <Curated section={section} hits={hits} match={match} />}
     </div>
   );
 }
 
-function EntryCard({ e }: { e: Entry }) {
+/** The README's own order: prose, tables and each sub-group as written. */
+function Curated({ section, hits, match }: { section: Section; hits: Hit[]; match: (h: Hit) => boolean }) {
+  let gi = -1;
   return (
-    <motion.li
-      layout="position"
-      id={`e-${e.i}`}
-      className="scroll-mt-40 rounded-xl"
-      initial={{ opacity: 0, scale: 0.97 }}
-      animate={{ opacity: 1, scale: 1 }}
-      exit={{ opacity: 0, scale: 0.97 }}
-      transition={{ type: "spring", stiffness: 420, damping: 34 }}
-    >
-      <SpotlightCard className="h-full">
-        <div className="flex gap-3 p-4">
-          <Avatar owner={e.o} name={e.n} />
-          <div className="min-w-0 flex-1">
-            <div className="flex items-start gap-3">
-              <a href={e.u} className="min-w-0 flex-1 font-semibold break-words text-ink after:absolute after:inset-0 hover:text-accent">
-                {e.n}
-              </a>
-              <Stars n={e.s} />
+    <>
+      {section.blocks.map((b, bi) => {
+        if (b.type === "p") return <p key={bi} className="md mt-6 max-w-2xl" dangerouslySetInnerHTML={{ __html: b.html }} />;
+        if (b.type === "table") return <Table key={bi} rows={b.rows} />;
+        gi += 1;
+        const rows = b.entries.map((e) => hits.find((h) => h.e.i === e.i)!).filter(match);
+        if (!rows.length) return null;
+        return (
+          <section key={bi} className="mt-8">
+            <h2 className="flex items-baseline gap-2 text-lg font-semibold">
+              {b.title || "Hand-picked"}
+              <span className="rounded-full bg-raised px-2 text-xs font-medium text-muted">{b.entries.length}</span>
+            </h2>
+            {b.title === "More" && (
+              <p className="mt-1 text-sm text-muted">Screened, not hand-tested: public, maintained in the last 18 months, not archived.</p>
+            )}
+            <div className="mt-3">
+              <RepoList>{rows.map((h) => <RepoRow key={h.e.i} hit={{ ...h, picked: false }} anchor={gi >= 0} />)}</RepoList>
             </div>
-            {e.h && <p className="md relative mt-1 text-[15px] leading-snug text-muted" dangerouslySetInnerHTML={{ __html: e.h }} />}
-          </div>
-        </div>
-      </SpotlightCard>
-    </motion.li>
+          </section>
+        );
+      })}
+    </>
   );
 }
 
 function Table({ rows }: { rows: string[][] }) {
   const [head, ...body] = rows;
   return (
-    <div className="mt-8 overflow-x-auto rounded-xl border border-line bg-surface">
-      <table className="md w-full border-collapse text-left">
+    <div className="mt-6 overflow-x-auto rounded-md border border-line">
+      <table className="md w-full border-collapse text-left text-sm">
         <thead>
-          <tr>{head.map((c, i) => <th key={i} className="bg-raised px-4 py-3 font-bold" dangerouslySetInnerHTML={{ __html: c }} />)}</tr>
+          <tr>{head.map((c, i) => <th key={i} className="bg-raised px-4 py-2.5 font-semibold" dangerouslySetInnerHTML={{ __html: c }} />)}</tr>
         </thead>
         <tbody>
           {body.map((r, ri) => (
-            <motion.tr key={ri} initial={{ opacity: 0, x: -8 }} whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }} transition={{ delay: ri * 0.03 }} className="border-t border-line hover:bg-raised">
+            <motion.tr key={ri} initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }}
+              transition={{ delay: ri * 0.03 }} className="border-t border-line hover:bg-raised">
               {r.map((c, ci) => ci === 0
-                ? <th key={ci} scope="row" className="px-4 py-3 font-semibold whitespace-nowrap" dangerouslySetInnerHTML={{ __html: c }} />
-                : <td key={ci} className="px-4 py-3 text-muted" dangerouslySetInnerHTML={{ __html: c }} />)}
+                ? <th key={ci} scope="row" className="px-4 py-2.5 font-semibold whitespace-nowrap" dangerouslySetInnerHTML={{ __html: c }} />
+                : <td key={ci} className="px-4 py-2.5 text-muted" dangerouslySetInnerHTML={{ __html: c }} />)}
             </motion.tr>
           ))}
         </tbody>
       </table>
     </div>
-  );
-}
-
-function Sidebar({ data, current }: { data: Data; current: string }) {
-  const [open, setOpen] = useState(false);
-  const tiers = data.tiers
-    .map((name, ti) => ({ name, ti, layers: data.sections.filter((s) => s.tier === ti && s.inMap) }))
-    .filter((t) => t.layers.length);
-  const list = (
-    <nav aria-label="Layers" className="space-y-5 text-[15px]">
-      {tiers.map((t) => (
-        <div key={t.ti} className={clsx("border-l-4 pl-3", tierBorder[t.ti])}>
-          <h3 className="mb-1.5 text-sm font-semibold text-muted">{t.name}</h3>
-          {t.layers.map((s) => (
-            <Link key={s.slug} to={layerPath(s.slug)} aria-current={s.slug === current ? "page" : undefined}
-              className={clsx("relative block rounded-md px-2 py-1 leading-snug",
-                s.slug === current ? "font-semibold text-ink" : "text-muted hover:text-ink")}>
-              {s.slug === current && (
-                <motion.span layoutId="side-active" className="absolute inset-0 rounded-md bg-accent/12"
-                  transition={{ type: "spring", stiffness: 500, damping: 40 }} />
-              )}
-              <span className="relative">{s.title}</span>
-            </Link>
-          ))}
-        </div>
-      ))}
-    </nav>
-  );
-  return (
-    <aside>
-      <div className="sticky top-24 hidden max-h-[calc(100vh-7rem)] overflow-y-auto pr-2 pb-6 lg:block">{list}</div>
-      <div className="rounded-xl border border-line bg-surface lg:hidden">
-        <button type="button" onClick={() => setOpen((o) => !o)} aria-expanded={open}
-          className="flex w-full items-center justify-between px-4 py-3 font-semibold">
-          All layers
-          <motion.span animate={{ rotate: open ? 180 : 0 }}><ChevronDown className="size-5" /></motion.span>
-        </button>
-        <AnimatePresence initial={false}>
-          {open && (
-            <motion.div initial={{ height: 0, opacity: 0 }} animate={{ height: "auto", opacity: 1 }}
-              exit={{ height: 0, opacity: 0 }} className="overflow-hidden">
-              <div className="px-4 pb-4">{list}</div>
-            </motion.div>
-          )}
-        </AnimatePresence>
-      </div>
-    </aside>
   );
 }
