@@ -63,7 +63,7 @@ function Layer({ data, section }: { data: Data; section: Section }) {
   return (
     <div className="mx-auto max-w-5xl px-4 py-8 sm:px-8">
       <p className="text-sm text-muted">
-        <Link to="/" className="hover:text-accent">Top repositories</Link> / {data.tiers[section.tier]}
+        <Link to="/" className="hover:text-accent">Home</Link> / {data.tiers[section.tier]}
       </p>
       <h1 className="mt-2 text-3xl font-semibold tracking-tight">{section.title}</h1>
       {section.tagline && (

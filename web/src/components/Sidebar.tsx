@@ -48,7 +48,7 @@ export function CategoryNav({ onNavigate }: { onNavigate?: () => void }) {
         <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Filter categories"
           className="h-8 w-full rounded-md border border-line bg-bg pr-2 pl-8 text-sm text-ink outline-none placeholder:text-muted focus:border-accent focus:ring-2 focus:ring-accent/25" />
       </label>
-      {!lq && item("/", <span className="flex items-center gap-2"><Home className="size-4" aria-hidden />Top repositories</span>, isHome)}
+      {!lq && item("/", <span className="flex items-center gap-2"><Home className="size-4" aria-hidden />Home</span>, isHome)}
       {tiers.map((t) => (
         <div key={t.name} className="mt-4">
           <h3 className="px-2 pb-1 text-xs font-semibold text-muted">{t.name}</h3>
