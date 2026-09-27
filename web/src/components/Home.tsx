@@ -1,9 +1,8 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo } from "react";
 import { Link } from "react-router";
 import { motion } from "motion/react";
-import { ArrowRight, Search, X } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import { allEntries, fmtBig, layerPath, topRepos, useData, type Data, type Hit } from "../data";
-import { useOpenPalette } from "./CommandPalette";
 import { Avatar, Counter, SpotlightCard, Stars } from "./ui";
 
 export function Home() {
@@ -22,8 +21,6 @@ type Category = {
 };
 
 function HomeContent({ data }: { data: Data }) {
-  const openPalette = useOpenPalette();
-  const [q, setQ] = useState("");
   const hits = useMemo(() => allEntries(data), [data]);
   const top = useMemo(() => topRepos(data), [data]);
 
@@ -37,10 +34,8 @@ function HomeContent({ data }: { data: Data }) {
       };
     }), [data, hits]);
 
-  const lq = q.trim().toLowerCase();
-  const shown = categories.filter((c) => !lq || (c.title + " " + c.tagline).toLowerCase().includes(lq));
   const tiers = data.tiers
-    .map((name, ti) => ({ name, cats: shown.filter((c) => c.tier === ti) }))
+    .map((name, ti) => ({ name, cats: categories.filter((c) => c.tier === ti) }))
     .filter((t) => t.cats.length);
   const stars = top.reduce((a, h) => a + h.e.s, 0);
 
@@ -53,7 +48,7 @@ function HomeContent({ data }: { data: Data }) {
         </motion.h1>
         <motion.p initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.08, duration: 0.4 }}
           className="mt-4 text-lg text-muted">
-          A curated map of the tools for building AI agents, sorted into categories and ranked by GitHub stars. Pick a category to see its repositories.
+          A curated map of the tools for building AI agents, sorted into categories and ranked by GitHub stars. Pick a category below or from the sidebar, or search every tool from the bar at the top.
         </motion.p>
         <dl className="mt-6 flex flex-wrap gap-x-10 gap-y-3">
           {[
@@ -69,30 +64,10 @@ function HomeContent({ data }: { data: Data }) {
         </dl>
       </header>
 
-      <div className="mt-10 flex flex-wrap items-center gap-3">
-        <label className="relative flex max-w-md flex-1 items-center">
-          <Search className="pointer-events-none absolute left-3 size-4 text-muted" aria-hidden />
-          <span className="sr-only">Filter categories</span>
-          <input value={q} onChange={(e) => setQ(e.target.value)} onKeyDown={(e) => e.key === "Escape" && setQ("")}
-            placeholder="Filter categories"
-            className="h-10 w-full rounded-md border border-line bg-bg pr-9 pl-9 text-ink outline-none placeholder:text-muted focus:border-accent focus:ring-3 focus:ring-accent/25" />
-          {q && (
-            <button type="button" onClick={() => setQ("")} aria-label="Clear filter" className="absolute right-2 rounded p-1 text-muted hover:text-ink">
-              <X className="size-4" />
-            </button>
-          )}
-        </label>
-        <button type="button" onClick={openPalette} className="text-sm text-accent hover:underline">
-          Looking for a specific tool? Search all {data.total.toLocaleString()}
-        </button>
-      </div>
 
-      {tiers.length === 0 && (
-        <p className="mt-10 text-muted">No category matches “{q.trim()}”. Try the tool search instead.</p>
-      )}
 
       {tiers.map((t) => (
-        <section key={t.name} className="mt-10" aria-labelledby={`tier-${t.name}`}>
+        <section key={t.name} className="mt-12 first-of-type:mt-10" aria-labelledby={`tier-${t.name}`}>
           <h2 id={`tier-${t.name}`} className="border-b border-line pb-2 text-lg font-semibold">{t.name}</h2>
           <div className="mt-4 grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
             {t.cats.map((c, i) => <CategoryCard key={c.slug} c={c} i={i} />)}

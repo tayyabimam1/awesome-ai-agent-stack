@@ -47,8 +47,8 @@ function ThemeToggle() {
   );
 }
 
-function Header({ onMenu, onToggle, collapsed, showNav }: {
-  onMenu: () => void; onToggle: () => void; collapsed: boolean; showNav: boolean;
+function Header({ onMenu, onToggle, collapsed }: {
+  onMenu: () => void; onToggle: () => void; collapsed: boolean;
 }) {
   const data = useData();
   const openPalette = useOpenPalette();
@@ -58,19 +58,15 @@ function Header({ onMenu, onToggle, collapsed, showNav }: {
   return (
     <header className="sticky top-0 z-50 border-b border-line bg-raised/90 backdrop-blur-md">
       <div className="flex h-14 items-center gap-3 px-4">
-        {showNav && (
-          <>
-            <button type="button" onClick={onMenu} aria-label="Open categories"
-              className="grid size-8 place-items-center rounded-md border border-line text-muted hover:text-ink lg:hidden">
-              <Menu className="size-4" />
-            </button>
-            <motion.button type="button" onClick={onToggle} whileTap={{ scale: 0.9 }}
-              aria-label={collapsed ? "Show categories sidebar" : "Hide categories sidebar"} aria-expanded={!collapsed}
-              className="hidden size-8 place-items-center rounded-md border border-line text-muted hover:bg-bg hover:text-ink lg:grid">
-              {collapsed ? <PanelLeftOpen className="size-4" /> : <PanelLeftClose className="size-4" />}
-            </motion.button>
-          </>
-        )}
+        <button type="button" onClick={onMenu} aria-label="Open categories"
+          className="grid size-8 place-items-center rounded-md border border-line text-muted hover:text-ink lg:hidden">
+          <Menu className="size-4" />
+        </button>
+        <motion.button type="button" onClick={onToggle} whileTap={{ scale: 0.9 }}
+          aria-label={collapsed ? "Show categories sidebar" : "Hide categories sidebar"} aria-expanded={!collapsed}
+          className="hidden size-8 place-items-center rounded-md border border-line text-muted hover:bg-bg hover:text-ink lg:grid">
+          {collapsed ? <PanelLeftOpen className="size-4" /> : <PanelLeftClose className="size-4" />}
+        </motion.button>
         <Logo />
         <button type="button" onClick={openPalette}
           className="ml-auto flex h-8 w-full max-w-xs items-center gap-2 rounded-md border border-line bg-bg px-2.5 text-sm text-muted hover:border-accent/60 md:ml-6 md:max-w-md">
@@ -154,6 +150,9 @@ export function Layout() {
     return !c;
   });
   const isHome = pathname === "/" || pathname === "/index.html";
+  // Home starts with the sidebar shut; category pages remember the last choice.
+  const [homeOpen, setHomeOpen] = useState(false);
+  const shut = isHome ? !homeOpen : collapsed;
   useEffect(() => { if (!hash) window.scrollTo(0, 0); }, [pathname, hash]);
 
   return (
@@ -161,12 +160,12 @@ export function Layout() {
       <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[200] focus:rounded focus:bg-surface focus:px-3 focus:py-2">
         Skip to content
       </a>
-      <Header onMenu={() => setDrawer(true)} onToggle={toggle} collapsed={collapsed} showNav={!isHome} />
+      <Header onMenu={() => setDrawer(true)} onToggle={isHome ? () => setHomeOpen((o) => !o) : toggle} collapsed={shut} />
       <Drawer open={drawer} onClose={() => setDrawer(false)} />
       <div className="flex">
         {/* Desktop sidebar: only on category pages; slides shut and open. */}
         <AnimatePresence initial={false}>
-          {!isHome && !collapsed && (
+          {!shut && (
             <motion.aside key="sidebar" className="hidden shrink-0 overflow-clip border-r border-line lg:block"
               initial={{ width: 0, opacity: 0 }} animate={{ width: 288, opacity: 1 }} exit={{ width: 0, opacity: 0 }}
               transition={{ type: "spring", stiffness: 320, damping: 36 }}>
