@@ -9,23 +9,30 @@ A curated "awesome list" of AI agent tooling. **`README.md` is the source of tru
 ## Commands
 
 ```sh
-python scripts/build_site.py   # regenerate docs/ from README.md (run from repo root; stdlib only, no deps)
+python scripts/build_site.py      # README.md -> web/public/data.json (+ sitemap, robots); stdlib only
+cd web && npm install             # once
+cd web && npm run dev             # local dev server at http://localhost:5173/awesome-ai-agent-stack/
+cd web && npm run build           # typecheck + build the site into ../docs/
 ```
 
-There are no tests, linter, or package manifest. You can build again at any time and get the same result. Check the build by reading its summary line (`built N pages | N entries | N github links`).
+Run the Python step before `dev` or `build`: the generated files in `web/public/` are gitignored. There are no tests. `npm run build` runs `tsc --noEmit`, so a clean build means it typechecks.
 
 ## Architecture
 
-- `scripts/build_site.py` parses README.md and writes the whole static site:
-  - Every `## Heading` becomes `docs/<slugify(title)>.html`, except the headings in `SKIP_SECTIONS` (`Contents`, `License`).
-  - An entry is any line matching `- [name](url) - description`. Links that start with `#` (TOC anchors) are ignored.
-  - A section's tagline is the first `*italic line*` in its body that is longer than 10 characters.
-  - Inside a section, a bold-only line (`**Title**`) starts a new group of entries; `**More**` starts the screened list. Markdown tables and plain paragraphs are rendered too (Starter Stacks is a table).
-  - `TIERS` sorts each section into a tier of the stack map on the home page and the sidebar. A slug that isn't listed lands in the last tier, "Further reading". Add a new section's slug to the right tier.
-  - It also writes `index.html`, `data.json` (the search index), `404.html`, `sitemap.xml`, `robots.txt` and `favicon.svg`.
-- `scripts/site_assets.py` holds the CSS and JS as Python strings. They are written to `docs/assets/style.css` and `docs/assets/app.js` (the client-side search that reads `data.json`). **Edit the assets here, never in `docs/`.**
-- `site-data/stars.json` maps `owner/repo` to a star count. Lookups ignore case. No script in the repo updates this file; it is maintained outside the repo.
-- `.github/workflows/site.yml` runs the build on every push to `main` that touches README, the scripts, or stars.json, then commits `docs/` as `github-actions[bot]`. Hand edits to `docs/` get overwritten.
+Two stages: Python parses, React renders.
+
+- `scripts/build_site.py` parses README.md into `web/public/data.json`:
+  - Every `## Heading` becomes a section (a "layer"), except those in `SKIP_SECTIONS`. Its slug (`slugify(title)`) is also its page URL, `<slug>.html`.
+  - An entry is any line matching `- [name](url) - description`. A bold-only line (`**Title**`) starts a new group of entries; `**More**` starts the screened list. Markdown tables and plain paragraphs are kept as blocks too (Starter Stacks is a table).
+  - Inline markdown (links, bold, italics, code) is turned into HTML by `md_inline`, which escapes first and only allows http(s)/`#` links. The React side renders that HTML with `dangerouslySetInnerHTML`. Keep all HTML generation in `md_inline`.
+  - `TIERS` sorts sections into the tiers of the stack map (home page and sidebar). A slug that isn't listed lands in the last tier, "Further reading". Add a new section's slug to the right tier.
+  - Star counts come from `site-data/stars.json` (`owner/repo` -> count, looked up case-insensitively). No script in the repo updates it.
+- `web/` is a Vite + React + TypeScript + Tailwind v4 + Motion app:
+  - `src/data.ts` fetches `data.json` once and holds the shared types, search ranking and tier colours.
+  - `src/components/`: `Layout` (header, theme toggle, scroll progress), `Home` (hero, stack map, most-starred), `Layer` (layer page with sidebar, filter and sort), `CommandPalette` (Ctrl K or `/` searches every tool), `ui` (animated primitives).
+  - Routing uses `BrowserRouter` with base `/awesome-ai-agent-stack/`. GitHub Pages has no SPA rewrites, so the `perPageHtml` plugin in `vite.config.ts` copies `index.html` to one `<slug>.html` per layer (each with its own title and description) plus `404.html`.
+  - Colours are CSS variables in `src/index.css`. `--bg`, `--ink`, etc. switch with the `.dark` class. The stack's tier colours are `t0`–`t6`, a spectrum from deep blue to amber.
+- `.github/workflows/site.yml` runs the Python step and `npm run build` on every push to `main` that touches README, the script, stars.json or `web/`. It then commits `docs/` as `github-actions[bot]`. Hand edits to `docs/` get overwritten.
 
 ## README conventions (from CONTRIBUTING.md)
 

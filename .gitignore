@@ -1,1 +1,6 @@
 __pycache__/
+node_modules/
+# generated from README.md by scripts/build_site.py
+web/public/data.json
+web/public/sitemap.xml
+web/public/robots.txt
