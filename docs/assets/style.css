@@ -90,6 +90,15 @@ a { color: inherit; }
 .hero-search::before { content: '\1F50D'; position: absolute; left: 18px; top: 14px;
   font-size: 1.1rem; opacity: 0.6; }
 .hero-search .results { top: 62px; left: 0; right: 0; width: auto; text-align: left; }
+.hero-cta { display: flex; gap: 12px; justify-content: center; margin-top: 26px; flex-wrap: wrap; }
+.btn-star { display: inline-block; text-decoration: none; font-weight: 700; font-size: 0.92rem;
+  color: #08080c; background: linear-gradient(135deg, #a78bfa, #60a5fa);
+  padding: 12px 24px; border-radius: 12px; }
+.btn-star:hover { filter: brightness(1.1); }
+.btn-ghost { display: inline-block; text-decoration: none; font-weight: 600; font-size: 0.92rem;
+  color: var(--text); border: 1px solid var(--card-border); background: var(--card);
+  padding: 12px 24px; border-radius: 12px; }
+.btn-ghost:hover { border-color: var(--accent); }
 
 /* stats */
 .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
