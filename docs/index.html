@@ -1,43 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Awesome AI Agent Stack</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <meta name="description" content="A curated, layer-by-layer map of ~3,000 open-source AI agent tools — from the coding agent in your terminal down to the model serving the tokens.">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-  <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Home — Awesome AI Agent Stack</title>
+<meta name="description" content="A curated, layer-by-layer map of the tools I actually use to build AI agents — from the coding agent in your terminal down to the model serving the tokens.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
 </head>
 <body>
-  <div id="app">Loading the stack…</div>
-  <script>
-    window.$docsify = {
-      name: 'Awesome AI Agent Stack',
-      repo: 'https://github.com/tayyabimam1/awesome-ai-agent-stack',
-      homepage: 'home.md',
-      loadSidebar: true,
-      coverpage: true,
-      auto2top: true,
-      subMaxLevel: 2,
-      search: {
-        maxAge: 86400000,
-        paths: 'auto',
-        placeholder: 'Search 3,000+ tools…',
-        noData: 'No results found.',
-        depth: 3,
-        hideOtherSidebarContent: false
-      },
-      pagination: {
-        previousText: '← Previous',
-        nextText: 'Next →',
-        crossChapter: true,
-        crossChapterText: true
-      }
-    };
-  </script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<nav class="nav"><div class="wrap nav-inner">
+  <a class="logo" href="index.html"><b>▲</b> AI Agent Stack</a>
+  <div class="nav-links">
+    <a href="index.html#layers">Layers</a>
+    <a href="starter-stacks.html">Starter Stacks</a>
+    <a href="contributing.html">Contribute</a>
+  </div>
+  <div class="nav-search" data-search>
+    <input type="text" placeholder="Search 3,000+ tools…  ( / )" autocomplete="off">
+    <div class="results"></div>
+  </div>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <span class="pill"><span class="dot"></span>2,990+ tools · 31 chapters · 0 dead links</span>
+  <h1>Every tool for building<br><span class="grad">AI agents.</span> One map.</h1>
+  <p class="sub">A curated, layer-by-layer map of the tools I actually use to build AI agents — from the coding agent in your terminal down to the model serving the tokens.</p>
+  <div class="hero-search" data-search>
+    <input type="text" placeholder="Try “memory”, “mcp server”, “eval”…" autocomplete="off">
+    <div class="results"></div>
+  </div>
+</div></header>
+<main class="wrap">
+  <div class="stats">
+    <div class="stat"><b>2,990</b><span>curated entries</span></div>
+    <div class="stat"><b>31</b><span>chapters</span></div>
+    <div class="stat"><b>2,985</b><span>GitHub projects</span></div>
+    <div class="stat"><b>0</b><span>dead links</span></div>
+  </div>
+  <div class="sec-title" id="layers">
+    <h2>Browse by layer</h2>
+    <p>Hand-picked leaders at the top of each chapter, extended by mechanically screened lists — public, unarchived, actively maintained.</p>
+  </div>
+  <div class="cards">
+    <a class="card" href="starter-stacks.html"><div class="icon">🚀</div><h3>Starter Stacks</h3><p>Three opinionated combinations that work together out of the box. Start here if you don&#x27;t want to choose.</p></a><a class="card" href="coding-agents-harnesses.html"><div class="icon">⌨️</div><h3>Coding Agents &amp; Harnesses</h3><p>The agent that writes the code. Pick one, learn it deeply.</p><span class="count">145 entries →</span></a><a class="card" href="skills-plugins-context-engineering.html"><div class="icon">🧩</div><h3>Skills, Plugins &amp; Context Engineering</h3><p>What you put in front of the agent matters more than which agent. Skills, CLAUDE.md files, methodology.</p><span class="count">157 entries →</span></a><a class="card" href="agent-frameworks-orchestration.html"><div class="icon">🏗️</div><h3>Agent Frameworks &amp; Orchestration</h3><p>Build your own agents and multi-agent systems.</p><span class="count">163 entries →</span></a><a class="card" href="memory-persistent-context.html"><div class="icon">🧠</div><h3>Memory &amp; Persistent Context</h3><p>Agents forget between sessions unless you give them somewhere to remember.</p><span class="count">117 entries →</span></a><a class="card" href="rag-retrieval.html"><div class="icon">🔍</div><h3>RAG &amp; Retrieval</h3><p>*Vector databases*</p><span class="count">126 entries →</span></a><a class="card" href="mcp-servers-tool-integration.html"><div class="icon">🔌</div><h3>MCP Servers &amp; Tool Integration</h3><p>The Model Context Protocol is the USB-C of agent tooling.</p><span class="count">137 entries →</span></a><a class="card" href="sandboxes-browsers-computer-use.html"><div class="icon">📦</div><h3>Sandboxes, Browsers &amp; Computer Use</h3><p>*Sandboxes*</p><span class="count">100 entries →</span></a><a class="card" href="document-processing-data-ingestion.html"><div class="icon">📄</div><h3>Document Processing &amp; Data Ingestion</h3><p>Getting real-world files into a form agents can use.</p><span class="count">95 entries →</span></a><a class="card" href="workflow-automation.html"><div class="icon">⚙️</div><h3>Workflow Automation</h3><p>No-code and code-first automation with AI steps — the glue between your agents and everything else.</p><span class="count">101 entries →</span></a><a class="card" href="model-gateways-routing.html"><div class="icon">🌐</div><h3>Model Gateways &amp; Routing</h3><p>One endpoint, many providers, automatic fallback.</p><span class="count">189 entries →</span></a><a class="card" href="free-llm-apis-free-tiers.html"><div class="icon">🎁</div><h3>Free LLM APIs &amp; Free Tiers</h3><p>Build and learn without a credit card.</p><span class="count">97 entries →</span></a><a class="card" href="local-models-inference-hardware.html"><div class="icon">💻</div><h3>Local Models, Inference &amp; Hardware</h3><p>*Training &amp; fine-tuning*</p><span class="count">134 entries →</span></a><a class="card" href="evaluation-observability-code-review.html"><div class="icon">📊</div><h3>Evaluation, Observability &amp; Code Review</h3><p>*Tracing &amp; observability*</p><span class="count">153 entries →</span></a><a class="card" href="production-architectures-reference-systems.html"><div class="icon">🚀</div><h3>Production Architectures &amp; Reference Systems</h3><p>Complete, opinionated systems worth reading end to end.</p><span class="count">61 entries →</span></a><a class="card" href="ui-application-layer.html"><div class="icon">🎨</div><h3>UI &amp; Application Layer</h3><p>Frontends, chat components, and app frameworks for putting agents in front of users.</p><span class="count">84 entries →</span></a><a class="card" href="learning-path.html"><div class="icon">📚</div><h3>Learning Path</h3><p>Ordered roughly from beginner to advanced.</p><span class="count">99 entries →</span></a><a class="card" href="voice-speech-audio.html"><div class="icon">🎙️</div><h3>Voice, Speech &amp; Audio</h3><p>Speech-to-text, text-to-speech and voice agents.</p><span class="count">103 entries →</span></a><a class="card" href="vision-multimodal.html"><div class="icon">👁️</div><h3>Vision &amp; Multimodal</h3><p>Image/video understanding and vision-language models.</p><span class="count">93 entries →</span></a><a class="card" href="image-video-creative-generation.html"><div class="icon">🎬</div><h3>Image, Video &amp; Creative Generation</h3><p>Diffusion, image and video generation tooling.</p><span class="count">108 entries →</span></a><a class="card" href="computer-use-gui-agents.html"><div class="icon">🎨</div><h3>Computer Use &amp; GUI Agents</h3><p>Agents that operate desktops, phones and apps.</p><span class="count">113 entries →</span></a><a class="card" href="structured-output-guardrails-safety.html"><div class="icon">🛡️</div><h3>Structured Output, Guardrails &amp; Safety</h3><p>Validation, constrained decoding, jailbreak and injection defense.</p><span class="count">58 entries →</span></a><a class="card" href="chat-uis-application-layer.html"><div class="icon">🎨</div><h3>Chat UIs &amp; Application Layer</h3><p>Front-ends, chat interfaces and app scaffolds.</p><span class="count">61 entries →</span></a><a class="card" href="deployment-serving-mlops.html"><div class="icon">☁️</div><h3>Deployment, Serving &amp; MLOps</h3><p>Ship and operate models and agents in production.</p><span class="count">129 entries →</span></a><a class="card" href="data-datasets-synthetic-data.html"><div class="icon">🗂️</div><h3>Data, Datasets &amp; Synthetic Data</h3><p>Data curation, labeling, synthetic generation and datasets.</p><span class="count">68 entries →</span></a><a class="card" href="domain-agents-finance-healthcare-research-more.html"><div class="icon">🏦</div><h3>Domain Agents: Finance, Healthcare, Research &amp; More</h3><p>Vertical agents and assistants for specific industries.</p><span class="count">60 entries →</span></a><a class="card" href="assistants-copilots-personal-agents.html"><div class="icon">🤖</div><h3>Assistants, Copilots &amp; Personal Agents</h3><p>General-purpose assistants you run yourself.</p><span class="count">53 entries →</span></a><a class="card" href="interpretability-alignment-research.html"><div class="icon">🔬</div><h3>Interpretability, Alignment &amp; Research</h3><p>Understanding and steering model behaviour.</p><span class="count">58 entries →</span></a><a class="card" href="developer-tools-utilities.html"><div class="icon">🛠️</div><h3>Developer Tools &amp; Utilities</h3><p>Useful things that don&#x27;t fit a layer.</p><span class="count">69 entries →</span></a><a class="card" href="other-awesome-lists.html"><div class="icon">📑</div><h3>Other Awesome Lists</h3><p>Sibling lists worth mining when you need to go deeper on a niche.</p><span class="count">59 entries →</span></a>
+  </div>
+</main>
+<footer class="footer"><div class="wrap">
+  <a href="https://github.com/tayyabimam1/awesome-ai-agent-stack">GitHub</a>
+  <a href="contributing.html">Contributing</a>
+  <a href="https://github.com/tayyabimam1/awesome-ai-agent-stack#license">CC0-1.0 license</a>
+  <span class="right">Generated from the README — every link verified.</span>
+</div></footer>
+<script src="assets/app.js"></script>
 </body>
 </html>

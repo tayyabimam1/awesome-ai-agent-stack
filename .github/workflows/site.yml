@@ -8,8 +8,8 @@ on:
     paths:
       - README.md
       - scripts/build_site.py
-      - docs/index.html
-      - docs/style.css
+      - scripts/site_assets.py
+      - site-data/stars.json
       - .github/workflows/site.yml
   workflow_dispatch:
 
