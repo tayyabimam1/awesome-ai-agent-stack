@@ -5,7 +5,6 @@
   <a href="https://tayyabimam1.github.io/awesome-ai-agent-stack/"><img src="https://img.shields.io/badge/website-live-0969da?style=flat" alt="Website"></a>
   <a href="https://github.com/tayyabimam1/awesome-ai-agent-stack/stargazers"><img src="https://img.shields.io/github/stars/tayyabimam1/awesome-ai-agent-stack?style=flat" alt="Stars"></a>
   <a href="https://github.com/tayyabimam1/awesome-ai-agent-stack/commits/main"><img src="https://img.shields.io/github/last-commit/tayyabimam1/awesome-ai-agent-stack?style=flat" alt="Last commit"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey?style=flat" alt="CC BY 4.0"></a>
 </p>
 
 <p align="center"><em>A curated, layer-by-layer map of the tools I actually use to build AI agents — from the coding agent in your terminal down to the model serving the tokens.</em></p>
@@ -72,8 +71,6 @@
 - [Interpretability, Alignment & Research](#interpretability-alignment--research)
 - [Developer Tools & Utilities](#developer-tools--utilities)
 - [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Starter Stacks
 
@@ -3442,10 +3439,8 @@ Contributions welcome — read [CONTRIBUTING.md](CONTRIBUTING.md) first. The bar
 
 <a href="https://star-history.com/#tayyabimam1/awesome-ai-agent-stack&Date"><img src="https://api.star-history.com/svg?repos=tayyabimam1/awesome-ai-agent-stack&type=Date" alt="Star history chart" width="600"></a>
 
-## License
+## Footnotes
 
-[CC BY 4.0](LICENSE) — free to share and adapt, including commercially, as long as you give credit. Maintained by [Tayyab Imam](https://github.com/tayyabimam1).
+Maintained by [Tayyab Imam](https://github.com/tayyabimam1). If you reuse this list, please credit it:
 
-When you reuse this list, please credit it like this:
-
-> Based on [Awesome AI Agent Stack](https://github.com/tayyabimam1/awesome-ai-agent-stack) by Tayyab Imam, licensed under CC BY 4.0.
+> Based on [Awesome AI Agent Stack](https://github.com/tayyabimam1/awesome-ai-agent-stack) by Tayyab Imam.

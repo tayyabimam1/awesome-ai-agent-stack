@@ -26,7 +26,7 @@ TAGLINE = ("A curated, layer-by-layer map of the tools I actually use to build "
            "AI agents — from the coding agent in your terminal down to the "
            "model serving the tokens.")
 
-SKIP_SECTIONS = {"Contents", "License"}
+SKIP_SECTIONS = {"Contents", "License", "Footnotes"}
 
 # The stack map. Sections not listed here land in the last tier, so a new
 # README section always shows up somewhere.
