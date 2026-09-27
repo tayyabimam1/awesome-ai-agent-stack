@@ -1,0 +1,103 @@
+## Vision & Multimodal
+
+*Image/video understanding and vision-language models.*
+
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools.
+- [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+- [openai/CLIP](https://github.com/openai/CLIP) - Contrastive image-text model; the backbone of most multimodal retrieval.
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - Promptable image segmentation from Meta.
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - YOLO models for detection, segmentation and tracking.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant; open GPT-4V-style model.
+- [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox.
+
+- [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - Open-source multimodal model family rivaling proprietary vision-language models.
+
+- [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - Meta's promptable segmentation for images and video; a vision pipeline staple.
+- [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - Meta's self-supervised vision foundation model for visual perception backbones.
+
+
+**More**
+
+- [LLaVA-VL/LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - Open-source large multimodal models for image and video understanding.
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - Pocket-sized multimodal LLM for efficient image and video understanding on phones.
+- [NVlabs/Eagle](https://github.com/NVlabs/Eagle) - Frontier vision-language models trained with data-centric strategies.
+- [NVlabs/VILA](https://github.com/NVlabs/VILA) - Vision-language models for multimodal AI across edge, data center, and cloud.
+- [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - Native unified multimodal model for understanding, reasoning, and generation.
+- [m87-labs/moondream](https://github.com/m87-labs/moondream) - Tiny vision-language model for fast image understanding on any device.
+- [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - Powerful multimodal large language model family for vision-language tasks.
+- [ATH-MaaS/Ovis](https://github.com/ATH-MaaS/Ovis) - Multimodal LLM architecture structurally aligning visual and textual embeddings.
+- [InternLM/InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - Multimodal system for long-term streaming video and audio interaction.
+- [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) - Reinforcement learning framework for visual understanding with VLMs.
+- [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Evaluation toolkit covering 220+ multimodal models and 80+ benchmarks.
+- [perezjoan/UVLM](https://github.com/perezjoan/UVLM) - Unified Python interface for reproducible vision-language model benchmarking.
+- [eulogik/TinyDoc-VLM](https://github.com/eulogik/TinyDoc-VLM) - 256M-parameter document VLM that runs on CPU with ONNX export.
+- [andreagemelli/baguettotron-vlm](https://github.com/andreagemelli/baguettotron-vlm) - Fully reproducible sub-1B vision-language model with open training.
+- [studio-dots-ai/dots.ocr](https://github.com/studio-dots-ai/dots.ocr) - Multilingual document layout parsing inside a single vision-language model.
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR and document extraction powered by vision models.
+- [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for fast OCR from images.
+- [grobidOrg/grobid](https://github.com/grobidOrg/grobid) - Machine learning for extracting structured data from scholarly documents.
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Rust-core document intelligence extracting text, tables, and metadata.
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - OCR plus translation pipeline that rewrites text inside images and manga.
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Platform for object detection, segmentation, and visual recognition tasks.
+- [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - Lightweight Segment Anything variant for mobile and real-time use.
+- [facebookresearch/sam3](https://github.com/facebookresearch/sam3) - Segment Anything Model 3: promptable segmentation for images and video.
+- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - High-quality Segment Anything with refined mask details.
+- [yujunwei04/UnSAMv2](https://github.com/yujunwei04/UnSAMv2) - Self-supervised segmentation at any granularity without manual labels.
+- [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2) - Ground and track anything in videos using text prompts.
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - Real-time detection transformer, SOTA on COCO and built for fine-tuning.
+- [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - Real-time detection transformer beating YOLOs on the speed-accuracy curve.
+- [Peterande/D-FINE](https://github.com/Peterande/D-FINE) - Fine-grained distribution refinement for DETR-style object detectors.
+- [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - Real-time open-vocabulary detection: see anything at YOLO speed.
+- [obss/sahi](https://github.com/obss/sahi) - Sliced inference framework for small-object detection on large images.
+- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - PaddlePaddle toolkit for detection, segmentation, and tracking.
+- [qubvel-org/segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) - Segmentation models with 500+ pretrained convolutional and transformer backbones.
+- [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - Research platform for DETR-based detection, segmentation, and pose estimation.
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - Pluggable state-of-the-art multi-object tracking modules for any detector.
+- [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight library adding real-time multi-object tracking to any detector.
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with real-time local object detection for IP cameras.
+- [roboflow/inference](https://github.com/roboflow/inference) - Deploy computer vision models to any computer or edge device.
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D face analysis toolkit.
+- [serengil/deepface](https://github.com/serengil/deepface) - Lightweight face recognition and facial attribute analysis for Python.
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The simplest facial recognition API for Python and the command line.
+- [microsoft/Magma](https://github.com/microsoft/Magma) - Foundation model for multimodal AI agents acting in digital worlds.
+- [apple-aiml-research/ml-ferret](https://github.com/apple-aiml-research/ml-ferret) - Apple's region-aware VLM for referring expression grounding.
+- [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - Open-source implementation of CLIP with many pretrained weights.
+- [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Self-supervised vision transformer for dense visual features.
+- [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Compute CLIP embeddings and build billion-scale image search.
+- [illuin-tech/colpali](https://github.com/illuin-tech/colpali) - Train and run ColPali/ColQwen visual document retrieval models.
+- [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - One embedding space binding images, text, audio, and more.
+- [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - Video foundation models and data for multimodal understanding.
+- [mbzuai-oryx/Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) - Video conversation model generating dialogue about video content.
+- [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - VideoChat: conversational video understanding with chat models.
+- [RenShuhuai-Andy/TimeChat](https://github.com/RenShuhuai-Andy/TimeChat) - Time-sensitive multimodal LLM for long video understanding.
+- [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Scene cut and transition detection for video processing pipelines.
+- [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) - Pythonic bindings for FFmpeg libraries in video ML pipelines.
+- [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - Capable foundation model for monocular depth estimation.
+- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) - Depth and geometry from any views with a single plain transformer.
+- [DepthAnything/Video-Depth-Anything](https://github.com/DepthAnything/Video-Depth-Anything) - Consistent depth estimation for super-long videos.
+- [localai-org/depth-anything.cpp](https://github.com/localai-org/depth-anything.cpp) - From-scratch C++17/ggml port of Depth Anything 2 and 3.
+- [apple-aiml-research/ml-depth-pro](https://github.com/apple-aiml-research/ml-depth-pro) - Sharp monocular metric depth in under a second.
+- [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - Diffusion-based monocular depth estimation repurposing image generators.
+- [lpiccinelli-eth/UniDepth](https://github.com/lpiccinelli-eth/UniDepth) - Universal monocular metric depth without camera intrinsics.
+- [microsoft/MoGe](https://github.com/microsoft/MoGe) - Accurate monocular geometry estimation for open-domain images.
+- [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - Transformer inferring cameras, depth, and 3D tracks from any views.
+- [naver/dust3r](https://github.com/naver/dust3r) - Easy geometric 3D reconstruction from unposed images.
+- [HengyiWang/amb3r](https://github.com/HengyiWang/amb3r) - Feed-forward metric-scale 3D reconstruction with backend optimization.
+- [naver/mast3r](https://github.com/naver/mast3r) - 3D-grounded image matching for reconstruction and pose estimation.
+- [colmap/colmap](https://github.com/colmap/colmap) - Structure-from-motion and multi-view stereo reconstruction pipeline.
+- [isl-org/Open3D](https://github.com/isl-org/Open3D) - Modern library for 3D data processing and visualization.
+- [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - Reusable components for deep learning with 3D data.
+- [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - Collaboration-friendly studio for neural radiance fields.
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original 3D Gaussian Splatting reference implementation.
+- [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA-accelerated Gaussian splatting rasterization library.
+- [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - Fast 3D object reconstruction from a single image.
+- [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-resolution 3D asset generation with diffusion models.
+- [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Structured 3D latents for scalable and versatile 3D generation.
+- [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) - Pose estimation toolbox and benchmark suite.
+- [pytorch/vision](https://github.com/pytorch/vision) - Datasets, transforms, and models for computer vision.
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - Largest collection of PyTorch image backbones with pretrained weights.
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with polygons and AI-assisted labeling.
+- [open-mmlab/mmcv](https://github.com/open-mmlab/mmcv) - OpenMMLab computer vision foundation library.
+- [kornia/kornia](https://github.com/kornia/kornia) - Differentiable geometric computer vision library.
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Curate datasets and evaluate visual AI models.
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream multimodal robotics and vision data.

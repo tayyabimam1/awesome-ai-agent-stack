@@ -1,0 +1,139 @@
+## Deployment, Serving & MLOps
+
+*Ship and operate models and agents in production.*
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a.
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!.
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
+- [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club. Register here to get notified about the next cohort.
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems.
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone.
+- [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for AI/ML.
+- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML : One AI Platform from Pipelines to Agents. https://zenml.io.
+- [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - Sunglasses: A curated list of awesome MLOps tools.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Multi-cloud AI compute orchestration for training and serving.
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Official SDKs for Modal's serverless GPU cloud platform.
+
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - Cross-platform inference engine for serving ML models in production.
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard format for portable, interoperable ML models.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Kubernetes-native workflow engine for orchestrating ML and agent pipelines.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - GitOps continuous delivery for Kubernetes; how agents ship to clusters.
+- [helm/helm](https://github.com/helm/helm) - The package manager for Kubernetes; the standard way to ship apps to clusters.
+- [apache/airflow](https://github.com/apache/airflow) - The de-facto platform for orchestrating ML and data pipelines in production.
+- [kedacore/keda](https://github.com/kedacore/keda) - Event-driven autoscaling for Kubernetes, including scale-to-zero GPU inference.
+
+
+**More**
+
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized serverless inference platform on Kubernetes for predictive and generative AI.
+- [triton-inference-server/server](https://github.com/triton-inference-server/server) - NVIDIA's multi-framework inference server with dynamic batching and ensembles.
+- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - MLOps framework to package, deploy, monitor, and manage production ML models.
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build and serve model inference APIs, job queues, and multi-model pipelines.
+- [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - Multi-framework ML inference server with multi-model serving support.
+- [basetenlabs/truss](https://github.com/basetenlabs/truss) - The simplest way to package and serve AI/ML models in production.
+- [tensorflow/serving](https://github.com/tensorflow/serving) - Flexible, high-performance serving system for machine learning models.
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning: package models reproducibly behind an API.
+- [vllm-project/production-stack](https://github.com/vllm-project/production-stack) - Reference system for Kubernetes-native, cluster-wide vLLM deployment.
+- [vllm-project/aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient, pluggable infrastructure components for GenAI inference.
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Kubernetes-native distributed LLM inference with state-of-the-art performance.
+- [ogx-ai/ogx](https://github.com/ogx-ai/ogx) - OpenAI-compatible agentic API server; run any model on any infrastructure.
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - Datacenter-scale distributed inference serving framework from NVIDIA.
+- [xorbitsai/inference](https://github.com/xorbitsai/inference) - Unified production API to serve LLMs, embeddings, and multimodal models.
+- [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - Toolkit for compressing, deploying, and serving LLMs at high throughput.
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - CPU-GPU heterogeneous inference for giant MoE models on modest hardware.
+- [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - High-speed LLM serving for local deployment on consumer GPUs.
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - Open platform for training, serving, and evaluating large language models.
+- [dphnAI/sonar](https://github.com/dphnAI/sonar) - Large-scale LLM inference engine, successor of the Aphrodite Engine fork.
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference engine in Rust with an OpenAI-compatible API.
+- [ServerlessLLM/ServerlessLLM](https://github.com/ServerlessLLM/ServerlessLLM) - Serverless LLM serving with fast cold starts for everyone.
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust with CUDA and inference support.
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - Run local LLMs on any device with a desktop app and API.
+- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp with an OpenAI-compatible API server.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Next-generation deep learning framework for Rust: flexible and portable.
+- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliably hot-swap models behind any OpenAI-compatible local server.
+- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server scaling to thousands of fine-tuned adapters.
+- [ModelTC/LightLLM](https://github.com/ModelTC/LightLLM) - Lightweight, easy-to-scale, high-speed Python LLM serving framework.
+- [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models in C++ and Python.
+- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Envoy-powered control plane for AI and agent traffic, formerly Envoy AI Gateway.
+- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - Cloud-native API gateway and AI gateway built on Envoy.
+- [vllm-project/guidellm](https://github.com/vllm-project/guidellm) - Benchmark and optimize LLM deployments for real-world inference needs.
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - Official CLI and Python client for the Hugging Face model Hub.
+- [higress-group/higress](https://github.com/higress-group/higress) - AI-native API gateway with LLM routing, caching, and guardrails.
+- [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Self-hosted AI gateway with multi-key scheduling, failover, and usage logs.
+- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn scheduler core for big-data and ML job placement.
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - Cloud-native batch scheduling system for AI and HPC workloads.
+- [Veloera/Veloera](https://github.com/Veloera/Veloera) - Self-hosted AI gateway for unified multi-provider LLM API management.
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native job queueing for batch AI and ML workloads.
+- [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - Flexible, high-performance Kubernetes node autoscaler.
+- [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) - Automates GPU provisioning, configuration, and management on Kubernetes.
+- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Share heterogeneous GPUs across Kubernetes workloads efficiently.
+- [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator) - Kubernetes operator for MPI-based distributed training jobs.
+- [kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws) - Deploy leader-worker pod groups as a unit for multi-node inference.
+- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed model training and LLM fine-tuning on Kubernetes.
+- [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) - Kubernetes-native API for distributed ML training and HPC jobs.
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - Toolkit to run Ray AI applications on Kubernetes.
+- [project-codeflare/codeflare-operator](https://github.com/project-codeflare/codeflare-operator) - Operate Red Hat's distributed AI workload stack on OpenShift.
+- [openshift/microshift](https://github.com/openshift/microshift) - Small-form-factor Kubernetes optimized for edge computing.
+- [openyurtio/openyurt](https://github.com/openyurtio/openyurt) - Extend native Kubernetes to edge nodes, a CNCF project.
+- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes-native edge computing framework, a CNCF project.
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight certified Kubernetes distribution for edge and IoT.
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - Zero-friction lightweight Kubernetes for edge and bare metal.
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Immutable Linux distribution purpose-built for Kubernetes.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - Orchestrate training and inference across GPU clouds, K8s, and bare metal.
+- [gpustack/gpustack](https://github.com/gpustack/gpustack) - GPU cluster manager for vLLM/SGLang serving and on-demand GPU instances.
+- [knative/serving](https://github.com/knative/serving) - Scale-to-zero, request-driven serverless compute on Kubernetes.
+- [openfaas/faas](https://github.com/openfaas/faas) - Serverless functions made simple, on Kubernetes or faasd.
+- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-performance serverless event and data processing platform.
+- [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open GitOps continuous delivery solution for Kubernetes.
+- [fission/fission](https://github.com/fission/fission) - Fast and simple serverless functions for Kubernetes.
+- [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery operator: canary, A/B testing, blue-green.
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive delivery for Kubernetes with canary analysis.
+- [shipwright-io/build](https://github.com/shipwright-io/build) - Framework for building container images on Kubernetes.
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds with familiar Dockerfile-like syntax.
+- [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image updates for Argo CD applications.
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud-native control plane for infrastructure as code.
+- [werf/werf](https://github.com/werf/werf) - Efficient, consistent software delivery to Kubernetes.
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and repeatable Kubernetes development workflows.
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your Kubernetes dev environment as code.
+- [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes cluster.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Self-hostable PaaS to deploy apps and AI services with Docker.
+- [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - Develop and deploy software directly inside Kubernetes.
+- [garden-io/garden](https://github.com/garden-io/garden) - Spin up production-like environments for dev, test, and CI.
+- [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualize Kedro data and ML pipelines and track experiments.
+- [tensorflow/tfx](https://github.com/tensorflow/tfx) - End-to-end platform for deploying production ML pipelines.
+- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Portable, scalable machine learning workflows on Kubernetes.
+- [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLOps platform for continuous ML applications across their lifecycle.
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI orchestration and control plane for ML workloads.
+- [kubeflow/katib](https://github.com/kubeflow/katib) - Automated hyperparameter tuning and neural architecture search on K8s.
+- [optuna/optuna](https://github.com/optuna/optuna) - Automatic hyperparameter optimization framework for ML.
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Self-hostable experiment tracker built for high-volume run comparison.
+- [treeverse/dvclive](https://github.com/treeverse/dvclive) - Log and track ML metrics, parameters, and models with Git/DVC.
+- [iterative/gto](https://github.com/iterative/gto) - Turn any Git repository into an artifact and model registry.
+- [iterative/cml](https://github.com/iterative/cml) - CI/CD for ML: run experiments and report results in pull requests.
+- [kubeflow/hub](https://github.com/kubeflow/hub) - Central model registry UI for the Kubeflow MLOps lifecycle.
+- [guildai/guildai](https://github.com/guildai/guildai) - Lightweight experiment tracking and ML developer tooling.
+- [DagsHub/client](https://github.com/DagsHub/client) - Client libraries for the DagsHub ML experiment tracking platform.
+- [quintoandar/butterfree](https://github.com/quintoandar/butterfree) - Build feature stores on Spark with declarative definitions.
+- [featureform/featureform](https://github.com/featureform/featureform) - Virtual feature store over your existing data infrastructure.
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like data version control for your data lake.
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - Open standard for data and ML pipeline lineage metadata.
+- [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize data ecosystem metadata.
+- [elementary-data/elementary](https://github.com/elementary-data/elementary) - dbt-native data observability for data and analytics engineers.
+- [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - Lightweight statistical data testing for dataframes.
+- [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data contracts engine for the modern data stack.
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Continuous validation tests for ML models and data.
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Estimate post-deployment model performance without ground truth.
+- [langwatch/langwatch](https://github.com/langwatch/langwatch) - Open platform for LLM evaluations and AI agent testing.
+- [alibaba/MNN](https://github.com/alibaba/MNN) - Blazing-fast lightweight inference engine for on-device and edge AI.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Collaboration workspace for building high-quality AI datasets.
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference optimized for mobile.
+- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - Optimize and deploy AI inference across Intel hardware.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform ML solutions for live and streaming media.
+- [Tencent/TNN](https://github.com/Tencent/TNN) - Cross-platform deep learning inference for mobile, desktop, and server.
+- [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Ultrafast serverless GPU inference, sandboxes, and background jobs.
+- [apple/coremltools](https://github.com/apple/coremltools) - Tools for Core ML model conversion, editing, and validation.
+- [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine learning containers for NVIDIA Jetson edge deployment.
+- [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile and embedded for PyTorch models.

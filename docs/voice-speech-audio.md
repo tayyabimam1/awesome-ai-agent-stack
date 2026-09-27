@@ -1,0 +1,113 @@
+## Voice, Speech & Audio
+
+*Speech-to-text, text-to-speech and voice agents.*
+
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision.
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning).
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI.
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++.
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2.
+- [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization).
+- [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System.
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the.
+
+- [livekit/agents](https://github.com/livekit/agents) - Realtime multimodal voice-agent framework on LiveKit's WebRTC infrastructure.
+- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Pipeline framework for voice and multimodal conversational AI agents.
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - State-of-the-art open-source text-to-speech with rapid voice cloning.
+
+- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - NVIDIA's toolkit for building production ASR, TTS, and conversational AI.
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Alibaba's industrial-grade speech recognition toolkit for production ASR.
+- [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Real-time full-duplex speech-text model for conversational voice agents.
+
+
+**More**
+
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant multilingual voice cloning from a short reference clip.
+- [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - Compact open-source speech synthesizer for 100+ languages and accents.
+- [nari-labs/dia](https://github.com/nari-labs/dia) - 1.6B TTS model generating ultra-realistic multi-speaker dialogue in one pass.
+- [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - LLM-based bilingual TTS with fine-grained voice control and cloning.
+- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - 82M-parameter Apache-licensed TTS with studio quality running on CPU.
+- [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Flow-matching TTS with faithful zero-shot voice cloning from short samples.
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS under 25MB for CPU and edge devices.
+- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge neural TTS voices from Python with no API key.
+- [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion based on DDSP.
+- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Train a voice conversion model on 10 minutes of audio via web UI.
+- [edwko/OuteTTS](https://github.com/edwko/OuteTTS) - Lightweight interface for the OuteTTS 0.5B/1B voice-cloning models.
+- [bshall/knn-vc](https://github.com/bshall/knn-vc) - Any-to-any voice conversion with just nearest neighbors.
+- [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - Conversational speech generation model for natural dialogue voices.
+- [ictnlp/LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - Low-latency end-to-end speech interaction model built on Llama 3.1 8B.
+- [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Streaming TTS with voice cloning and natural-language voice design.
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime WebRTC stack connecting humans and AI agents.
+- [QwenLM/Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio) - Large audio-language model for voice chat and audio understanding.
+- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for building conversational voice AI agents.
+- [bolna-ai/bolna](https://github.com/bolna-ai/bolna) - Build production conversational voice AI agents quickly.
+- [roomkit-live/roomkit](https://github.com/roomkit-live/roomkit) - Async Python framework for multi-channel conversation agents.
+- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational models for state-of-the-art speech and text translation.
+- [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) - Multilingual ASR with language ID, emotion and audio-event detection.
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Offline ASR, TTS, diarization, VAD and enhancement via ONNX Runtime.
+- [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Speech-to-text server framework built on next-gen Kaldi.
+- [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - PyTorch toolkit for ASR, diarization and speech processing.
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition for mobile, Raspberry Pi and servers.
+- [espnet/espnet](https://github.com/espnet/espnet) - End-to-end speech processing toolkit for ASR, TTS and translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Speech toolkit: streaming ASR/TTS, punctuation, speaker verification.
+- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device speech AI for Apple Silicon (WhisperKit).
+- [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Real-time streaming Whisper transcription and translation.
+- [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI Whisper.
+- [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - OpenAI-compatible speech-to-text and text-to-speech inference server.
+- [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - Whisper ASR exposed as a webservice API.
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - Low-latency speech-to-text with VAD and wake-word activation.
+- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - Whisper transcription accelerated with transformers and optimum.
+- [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual ASR with word-level timestamps and confidence scores.
+- [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Convert text to speech in realtime with low latency.
+- [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - Offline hotkey-driven dictation app with high accuracy and low latency.
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low-latency speech-to-text for voice agents and interfaces.
+- [Picovoice/cheetah](https://github.com/Picovoice/cheetah) - On-device streaming speech-to-text engine.
+- [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine for private local transcription.
+- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection engine.
+- [Picovoice/cobra](https://github.com/Picovoice/cobra) - On-device voice activity detection engine.
+- [Picovoice/falcon](https://github.com/Picovoice/falcon) - On-device speaker diarization engine.
+- [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Enterprise-grade pre-trained voice activity detector.
+- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Pre-trained TTS models with a simple one-line inference API.
+- [juanmc2005/diart](https://github.com/juanmc2005/diart) - Real-time speaker diarization and audio streaming toolkit.
+- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization pipelines.
+- [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive language-audio pretraining for retrieval and zero-shot.
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Source separation library with pretrained models.
+- [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - PyTorch audio source separation toolkit for researchers.
+- [facebookresearch/audioseal](https://github.com/facebookresearch/audioseal) - Localized watermarking for AI-generated speech audio.
+- [iver56/audiomentations](https://github.com/iver56/audiomentations) - Audio data augmentation library for robust real-world ML models.
+- [descriptinc/descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) - State-of-the-art neural audio codec with 90x compression.
+- [lhotse-speech/lhotse](https://github.com/lhotse-speech/lhotse) - Tools for handling speech data in machine learning projects.
+- [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+- [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio analysis, description and synthesis.
+- [pytorch/audio](https://github.com/pytorch/audio) - Audio signal processing and transforms for PyTorch.
+- [aubio/aubio](https://github.com/aubio/aubio) - Library for audio and music analysis and onset detection.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - Python library for audio effects and plugin processing.
+- [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - Software-defined telecom stack for voice and video.
+- [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk open-source PBX repository.
+- [OpenSIPS/opensips](https://github.com/OpenSIPS/opensips) - High-performance SIP server for VoIP platforms.
+- [drachtio/drachtio-server](https://github.com/drachtio/drachtio-server) - SIP call processing server controlled via Node.js applications.
+- [kamailio/kamailio](https://github.com/kamailio/kamailio) - Open-source SIP server for large real-time communication platforms.
+- [sipwise/rtpengine](https://github.com/sipwise/rtpengine) - Media proxy for Kamailio SIP deployments.
+- [baresip/baresip](https://github.com/baresip/baresip) - Modular SIP user agent with audio and video support.
+- [pjsip/pjproject](https://github.com/pjsip/pjproject) - Multimedia communication library with a SIP stack.
+- [jambonz/jambonz-feature-server](https://github.com/jambonz/jambonz-feature-server) - Telephony feature server for the Jambonz CPaaS platform.
+- [OpenVoiceOS/ovos-audio](https://github.com/OpenVoiceOS/ovos-audio) - Audio output daemon for the OpenVoiceOS voice assistant.
+- [kyutai-labs/hibiki](https://github.com/kyutai-labs/hibiki) - Simultaneous speech translation that adapts its flow as you speak.
+- [OHF-Voice/wyoming](https://github.com/OHF-Voice/wyoming) - Peer-to-peer protocol for Home Assistant voice assistants.
+- [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Kyutai's streaming speech-to-text and text-to-speech models.
+- [kyutai-labs/moshi-finetune](https://github.com/kyutai-labs/moshi-finetune) - Fine-tuning toolkit for the Moshi full-duplex spoken dialogue model.
+- [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Llama-based TTS with emotion tags and ~200ms streaming latency.
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SOTA open-source TTS with zero-shot voice cloning and emotion control.
+- [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multilingual voice generation with full inference, training and deployment stack.
+- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-quality voice-cloning TTS supporting 600+ languages.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - Fully-local ElevenLabs alternative: cloning, dubbing, dictation, audiobooks.
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with TTS and voice cloning.
+- [kadirnar/voicehub](https://github.com/kadirnar/voicehub) - Unified inference interface across many open TTS models.
+- [agent-next/call-use](https://github.com/agent-next/call-use) - Open-source runtime giving AI agents outbound phone-call ability.
+- [gemelo-ai/vocos](https://github.com/gemelo-ai/vocos) - Fast high-quality neural vocoder bridging time and Fourier domains.
+- [yizhilll/MERT](https://github.com/yizhilll/MERT) - Self-supervised acoustic music understanding model.
+- [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - Hierarchical audio transformer for sound classification and detection.
+- [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production-first, production-ready end-to-end speech recognition toolkit.
+- [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - Recipes and training pipelines for next-gen Kaldi speech models.

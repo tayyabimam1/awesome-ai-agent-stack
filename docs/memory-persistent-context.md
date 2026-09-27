@@ -1,0 +1,127 @@
+## Memory & Persistent Context
+
+*Agents forget between sessions unless you give them somewhere to remember.*
+
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Drop-in memory layer for agents and apps.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Stateful agents with self-editing memory (formerly MemGPT).
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Temporal knowledge graphs for agent memory.
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory built from knowledge graphs plus vector search.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent cross-session context for Claude Code and other agents.
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - Persistent memory for coding agents, benchmarked on real workloads.
+- [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - Shared context hub for agents.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn a codebase plus its docs, schemas and PDFs into a queryable graph.
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Interactive knowledge graphs from any code.
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code-intelligence graph so agents read only what matters.
+- [TeleAI-UAGI/Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Systems, benchmarks and papers on agent memory.
+
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini.
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and.
+- [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) - Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models.
+- [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+- [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - [NeurIPS'24] RAG framework inspired by human long-term memory for deeper multi-hop reasoning.
+- [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
+- [getzep/zep](https://github.com/getzep/zep) - Zep | Examples, Integrations, & More.
+
+- [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine) - Open-source long-term memory layer for AI agents with MCP server support.
+
+
+**More**
+
+- [garrytan/gbrain](https://github.com/garrytan/gbrain) - Self-wiring knowledge graph brain for AI agents with hybrid search.
+- [memvid/memvid](https://github.com/memvid/memvid) - Single-file memory layer for AI agents in Rust with ultra-low-latency recall.
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: agent memory that learns from outcomes.
+- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Agent-native memory infrastructure: an LLM-agnostic memory layer.
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory across agents.
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Long-term memory for agent coding CLIs with cross-vendor handoff.
+- [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable, local-first memory layer for every AI agent.
+- [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI: the portable memory layer for autonomous coding agents.
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents.
+- [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - [ICML'26] SimpleMem: efficient lifelong memory for LLM agents.
+- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer.
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack.
+- [BAI-LAB/MemoryOS](https://github.com/BAI-LAB/MemoryOS) - [EMNLP 2025] MemoryOS: a memory operating system for personalized AI.
+- [mex-memory/mex](https://github.com/mex-memory/mex) - Team memory for engineers and their AI agents, living in your repo.
+- [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - Make your agents learn from experience.
+- [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin giving coding agents persistent memory locally.
+- [import-ai/omnibox](https://github.com/import-ai/omnibox) - Anywhere, anything to memory, memory to anything.
+- [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os) - A 7-layer memory operating system for persistent agent memory.
+- [Dataojitori/nocturne_memory](https://github.com/Dataojitori/nocturne_memory) - Lightweight, rollbackable, visual long-term memory server for MCP.
+- [kitfunso/hippo-memory](https://github.com/kitfunso/hippo-memory) - Biologically-inspired memory for AI agents with decay and retrieval strength.
+- [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) - Persistent project knowledge graph for coding agents via MCP.
+- [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory.
+- [agiresearch/A-mem](https://github.com/agiresearch/A-mem) - A-MEM: Agentic Memory for LLM Agents.
+- [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) - Git-native persistent memory for AI coding agents.
+- [FjgarciaMac/AIrecall](https://github.com/FjgarciaMac/AIrecall) - Drop-in long-term memory layer for AI agents: episodic plus semantic.
+- [Siddhant-K-code/distill](https://github.com/Siddhant-K-code/distill) - Context intelligence layer for LLM agents with persistent memory.
+- [kael-bit/engram-rs](https://github.com/kael-bit/engram-rs) - Memory engine for AI agents with a 3-layer time-decay axis.
+- [spectrayan/spector](https://github.com/spectrayan/spector) - Memory backbone for AI agents: four-tier working, episodic, semantic store.
+- [Kyros-494/kyros-ai](https://github.com/Kyros-494/kyros-ai) - Kyros: the memory OS for AI agents, secure and self-hosted.
+- [zensation-ai/zenbrain](https://github.com/zensation-ai/zenbrain) - Agent memory for LLM agents with 7 neuroscience-inspired layers.
+- [DragonShadows1978/AI-AfterImage](https://github.com/DragonShadows1978/AI-AfterImage) - Episodic memory for AI coding agents: recall of code and decisions.
+- [dog-last/E-mem](https://github.com/dog-last/E-mem) - [ICML 2026] E-mem: multi-agent episodic context reconstruction.
+- [C-Bjorn/MegaMem](https://github.com/C-Bjorn/MegaMem) - Transform your Obsidian vault into a knowledge graph served over MCP.
+- [LeandroPG19/Memorys](https://github.com/LeandroPG19/Memorys) - Persistent memory MCP server for AI agents in Rust with 19 tools.
+- [PlateerLab/synaptic-memory](https://github.com/PlateerLab/synaptic-memory) - Knowledge graph plus MCP tool server for LLM agents with hybrid retrieval.
+- [2aronS/agent-git](https://github.com/2aronS/agent-git) - Git-based knowledge management system for AI agents.
+- [neo4j-labs/meta-knowledge-graph](https://github.com/neo4j-labs/meta-knowledge-graph) - Self-improving, harness-agnostic memory layer for AI agents on Neo4j.
+- [alibaizhanov/mengram](https://github.com/alibaizhanov/mengram) - Human-like memory for AI agents: semantic, episodic, and procedural.
+- [dvquy13/qrec](https://github.com/dvquy13/qrec) - Session recall engine: persistent daemon with BM25 plus vector hybrid.
+- [memseekai/memseek](https://github.com/memseekai/memseek) - Open source declarative context engine for AI agents.
+- [AutoTrustAI/PaperGuru-Benchmark](https://github.com/AutoTrustAI/PaperGuru-Benchmark) - Lifecycle-aware memory benchmark for long-horizon LLM agents.
+- [eminsk/nanovector](https://github.com/eminsk/nanovector) - The SQLite of vector search and episodic memory for AI agents in ~120KB.
+- [InternLM/EMemBench](https://github.com/InternLM/EMemBench) - [EMNLP 2026] EMemBench: interactive episodic memory benchmark.
+- [ZongqianLi/500xCompressor](https://github.com/ZongqianLi/500xCompressor) - [ACL 2025] 500xCompressor: generalized prompt compression for LLMs.
+- [carriex/recomp](https://github.com/carriex/recomp) - RECOMP: compress and selectively augment retrieved documents for RAG.
+- [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js-style compression of tech docs for LLM context.
+- [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) - Caveman Compression: semantic compression for LLM context.
+- [ojuschugh1/sqz](https://github.com/ojuschugh1/sqz) - Context compression for AI coding agents, compressing tool output.
+- [ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp) - Measure token savings per coding agent and optimize context.
+- [sci-m-wang/OpenCE](https://github.com/sci-m-wang/OpenCE) - OpenCE: community toolkit to implement and evaluate context engineering.
+- [Context-Engine-AI/Context-Engine](https://github.com/Context-Engine-AI/Context-Engine) - Agentic context compression suite delivered over MCP.
+- [Ahren09/SARA](https://github.com/Ahren09/SARA) - [ACL 2026] SARA: selective and adaptive context compression.
+- [Huzaifa785/context-compressor](https://github.com/Huzaifa785/context-compressor) - AI-powered text compression library for RAG systems and API calls.
+- [microsoft/acon](https://github.com/microsoft/acon) - ACON: optimizing context compression for long-context LLMs.
+- [snchimata/tokenfold](https://github.com/snchimata/tokenfold) - Private, provider-neutral, reversible context compression for LLMs.
+- [yzhangchuck/Sentinel](https://github.com/yzhangchuck/Sentinel) - Sentinel: lightweight, interpretable context compression for LLMs.
+- [Supercompress/Supercompress](https://github.com/Supercompress/Supercompress) - Query-aware context compression for LLMs, cutting about 65% of tokens.
+- [dshakes/distil](https://github.com/dshakes/distil) - Compression with a quality contract: cache-aware and causally pruned.
+- [Adityapal67/context-graph-compressor](https://github.com/Adityapal67/context-graph-compressor) - Convert long AI conversations into portable conversation state graphs.
+- [spotify/annoy](https://github.com/spotify/annoy) - Approximate nearest neighbors for static vectors.
+- [langchain-ai/langmem](https://github.com/langchain-ai/langmem) - Long-term memory SDK for agents.
+- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Real-time graph database with Cypher.
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - Multi-model cloud database in Rust.
+- [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graph database for connected data.
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - Multi-model NoSQL database for graphs and documents.
+- [redis/redis](https://github.com/redis/redis) - In-memory data store for cache and state.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - Open-source Redis fork for in-memory data.
+- [dmlc/dgl](https://github.com/dmlc/dgl) - Deep learning on graphs at scale.
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - Drop-in Redis replacement built for scale.
+- [networkx/networkx](https://github.com/networkx/networkx) - Graph analysis and algorithms in Python.
+- [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph neural networks in PyTorch.
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Distributed GraphQL-native graph database.
+- [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - Distributed graph database on Cassandra and HBase.
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed key-value store for configuration.
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Full-text search engine library in Rust.
+- [apache/zookeeper](https://github.com/apache/zookeeper) - Coordination service for distributed systems.
+- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - Distributed graph database for large graphs.
+- [igraph/igraph](https://github.com/igraph/igraph) - Fast graph library for R, Python and C.
+- [networkit/networkit](https://github.com/networkit/networkit) - High-performance network analysis toolkit.
+- [gephi/gephi](https://github.com/gephi/gephi) - Interactive graph exploration and visualization.
+- [rapidsai/cugraph](https://github.com/rapidsai/cugraph) - GPU-accelerated graph analytics.
+- [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx) - High-performance graph library in Rust.
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Distributed search and analytics engine.
+- [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structures for Rust.
+- [graspologic-org/graspologic](https://github.com/graspologic-org/graspologic) - Statistical analysis of network data.
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Search and analytics suite, Apache 2.0 fork.
+- [apache/solr](https://github.com/apache/solr) - Enterprise full-text search platform.
+- [spacejam/sled](https://github.com/spacejam/sled) - Embedded database in Rust.
+- [skytable/skytable](https://github.com/skytable/skytable) - NoSQL database with a focus on simplicity.
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database.
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Database clustering for horizontal MySQL scaling.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - Distributed SQL database that scales.
+- [apache/cassandra](https://github.com/apache/cassandra) - Distributed NoSQL wide-column store.

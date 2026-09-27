@@ -1,0 +1,198 @@
+## Model Gateways & Routing
+
+*One endpoint, many providers, automatic fallback.*
+
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call 100+ LLM APIs in OpenAI format with cost tracking and guardrails.
+- [maximhq/bifrost](https://github.com/maximhq/bifrost) - Enterprise AI gateway with adaptive load balancing.
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - Blazing-fast gateway with routing, caching and guardrails.
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - MIT gateway over 350+ providers with quota-aware fallback and token compression.
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - Stack 34 free-tier providers behind one `/v1` endpoint.
+- [tayyabimam1/freellmapi](https://github.com/tayyabimam1/freellmapi) - My fork with additional custom-endpoint support.
+
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs.
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google.
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider.
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms.
+- [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs.
+- [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy.
+
+
+**More**
+
+- [decolua/9router](https://github.com/decolua/9router) - Free AI coding router: one endpoint for 40+ providers with auto-fallback for coding agents.
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Programmable mixture-of-models router for heterogeneous LLM inference on vLLM.
+- [weave-os/router](https://github.com/weave-os/router) - Model router for agentic systems routing each prompt to the right model in under 50ms.
+- [ulab-uiuc/LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - Open-source library for routing LLM requests across models and providers.
+- [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with Kimi and DeepSeek support plus safe migration.
+- [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Proxy that lets Claude Code run on OpenAI-compatible models.
+- [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) - Self-hosted unified interface running coding harnesses through one API with failover.
+- [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) - Self-hosted OpenAI-compatible LLM router with BYOK and a managed safety net.
+- [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze LLM requests across providers through one unified API.
+- [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) - Single control plane to call coding agents and agent APIs through one interface.
+- [kittors/CliRelay](https://github.com/kittors/CliRelay) - Self-hosted AI gateway giving coding CLIs one OpenAI/Claude/Gemini/Codex endpoint.
+- [LanceZPF/agent-as-a-router](https://github.com/LanceZPF/agent-as-a-router) - Reference implementations of Agent-as-a-Router for agentic model routing in coding tasks.
+- [modelbus/one-api-pro](https://github.com/modelbus/one-api-pro) - Enterprise-grade AI API gateway built on one-api with billing and clustering.
+- [Nya-Foundation/NyaProxy](https://github.com/Nya-Foundation/NyaProxy) - Central manager for AI and web API access keys with reliability and security controls.
+- [routatic/proxy](https://github.com/routatic/proxy) - Routes Claude Code requests across multiple upstreams with automatic model selection.
+- [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) - Reverse proxy exposing the Command Code API as OpenAI- and Anthropic-compatible endpoints.
+- [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - Proxy converting the OpenAI API protocol to the Google Gemini protocol.
+- [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - Lightweight Go proxy for reaching OpenAI and ChatGPT APIs.
+- [NadirRouter/NadirClaw](https://github.com/NadirRouter/NadirClaw) - LLM router and cost optimizer routing simple prompts to cheap models automatically.
+- [Compresr-ai/Context-Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy adding history compaction and context optimization to agent workflows.
+- [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - Open-source AI gateway for routing LLM traffic with observability built in.
+- [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Universal LLM gateway with OpenAI/Anthropic-compatible endpoints and load balancing.
+- [adaline/gateway](https://github.com/adaline/gateway) - Fully local SDK providing one unified interface for calling 200+ LLMs.
+- [labring/aiproxy](https://github.com/labring/aiproxy) - High-performance AI gateway with multi-channel management, rate limiting, and monitoring.
+- [geekai-pub/openai-proxy](https://github.com/geekai-pub/openai-proxy) - Go-based OpenAI HTTP proxy deployable on serverless platforms or self-hosted.
+- [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI-to-Google-Gemini proxy running on Deno edge infrastructure.
+- [Sinholms/setup-gateway](https://github.com/Sinholms/setup-gateway) - Zero-dependency configurator deploying an OpenAI-compatible gateway for coding CLIs.
+- [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) - Routes Claude Code tasks to the cheapest capable model using Jev.
+- [asdecided/WayfinderRouter](https://github.com/asdecided/WayfinderRouter) - CLI tool for deterministic routing of queries between local and hosted LLMs.
+- [dataiku/kiji-proxy](https://github.com/dataiku/kiji-proxy) - Privacy proxy that scrubs sensitive content from OpenAI requests.
+- [humantonylee/free-router](https://github.com/humantonylee/free-router) - Free AI model router with comparison and switching across providers.
+- [kcolemangt/llm-router](https://github.com/kcolemangt/llm-router) - LLM router acting as a Base URL for editors to reach OpenAI, Groq, and Ollama.
+- [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - Intelligent entry point routing inference requests across the llm-d serving stack.
+- [HernanJiang/CodexRouter](https://github.com/HernanJiang/CodexRouter) - Local-first Codex multi-model router with a Windows configurator.
+- [TokenFlux/TokenRouter](https://github.com/TokenFlux/TokenRouter) - Next-generation LLM gateway with token-aware routing.
+- [CaddyGlow/ccproxy-api](https://github.com/CaddyGlow/ccproxy-api) - Local reverse proxy giving unified access to Claude and Codex through one interface.
+- [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter) - Tiny 10K-parameter router learning which open-source model should answer each query.
+- [OctaFuse/octafuse-gateway](https://github.com/OctaFuse/octafuse-gateway) - Self-hosted AI gateway unifying providers and keys with routing and budget controls.
+- [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) - Unified AI gateway for 30+ LLMs with caching, guardrails, and cost controls.
+- [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude Code proxy platform forwarding requests to any OpenAI-compatible API.
+- [alexazhou/gt_ai_gateway](https://github.com/alexazhou/gt_ai_gateway) - Lightweight high-performance AI gateway with protocol translation and caching.
+- [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) - Lightweight Jev-powered router for models, tools, and subagents.
+- [LeenHawk/gproxy](https://github.com/LeenHawk/gproxy) - Rust multi-channel LLM proxy with OpenAI/Claude/Gemini-style APIs and admin console.
+- [OrionStarAI/claudecode-vertex-proxy](https://github.com/OrionStarAI/claudecode-vertex-proxy) - Proxy letting Claude Code access Claude models through GCP Vertex AI.
+- [bitrouter/bitrouter](https://github.com/bitrouter/bitrouter) - Minimal interpretable model router that learns and adapts to agent workflows.
+- [LiteLLM-Labs/litellm-rust](https://github.com/LiteLLM-Labs/litellm-rust) - Minimal Rust gateway for coding agents, LiteLLM-compatible.
+- [QImageLab/cf-proxy](https://github.com/QImageLab/cf-proxy) - Zero-config reverse proxy on Cloudflare Workers for AI API traffic.
+- [tingxifa/claude_proxy](https://github.com/tingxifa/claude_proxy) - Cloudflare Workers proxy translating Claude API format to OpenAI format.
+- [MrFadiAi/free-llm-gateway](https://github.com/MrFadiAi/free-llm-gateway) - OpenAI-compatible gateway aggregating 14+ free LLM providers with fallback routing.
+- [mos1128/ccg-gateway](https://github.com/mos1128/ccg-gateway) - Multi-agent compatible LLM gateway with efficiency tooling.
+- [RelayPlane/proxy](https://github.com/RelayPlane/proxy) - Local-first LLM proxy metering agent-run costs and stopping runaway spend.
+- [inference-gateway/inference-gateway](https://github.com/inference-gateway/inference-gateway) - Cloud-native gateway unifying local and cloud LLM providers behind one API.
+- [google-gemini/proxy-to-gemini](https://github.com/google-gemini/proxy-to-gemini) - Proxy sidecar accessing Gemini models via OpenAI and Ollama APIs.
+- [kbykb/OpenAI-Compatible-API-Proxy-for-Z](https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z) - OpenAI-compatible proxy serving Zai GLM models through a standard API format.
+- [THESIS-AGENT/AIRouter](https://github.com/THESIS-AGENT/AIRouter) - Intelligent AI router with unified API, load balancing, and failover across LLM providers.
+- [arch3rPro/Trae-Proxy](https://github.com/arch3rPro/Trae-Proxy) - Intelligent proxy intercepting and redirecting OpenAI API requests with multi-backend support.
+- [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - REST API routing user prompts to various AI model providers.
+- [arcships/aimux](https://github.com/arcships/aimux) - Rust LLM access layer exposing one API across 325 AI providers.
+- [GreyGunG/grokbuild-proxy](https://github.com/GreyGunG/grokbuild-proxy) - Local self-hosted proxy bridging Grok Build to Claude Code and OpenAI formats.
+- [yolorouter/yolorouter](https://github.com/yolorouter/yolorouter) - Self-hosted OpenAI-compatible gateway with multi-provider failover and key rotation.
+- [aptdnfapt/qwen-code-oai-proxy](https://github.com/aptdnfapt/qwen-code-oai-proxy) - Proxy exposing Qwen Code coder models to any OpenAI-compatible tool.
+- [XxxXTeam/codex-proxy](https://github.com/XxxXTeam/codex-proxy) - Codex API proxy service with OpenAI and Claude multi-protocol compatibility.
+- [ClawLabsAI/free-ai-models](https://github.com/ClawLabsAI/free-ai-models) - Daily-updated ranked list of free AI models with one OpenAI-compatible routing endpoint.
+- [Nayjest/lm-proxy](https://github.com/Nayjest/lm-proxy) - OpenAI-compatible HTTP LLM proxy and gateway for multi-provider inference.
+- [egoist/ai-proxy](https://github.com/egoist/ai-proxy) - Simple proxy for AI services including OpenAI, Anthropic, Gemini, Groq, and Perplexity.
+- [rxliuli/llm-api-proxy](https://github.com/rxliuli/llm-api-proxy) - OpenAI-compatible proxy for multiple LLM models deployable to edge runtimes.
+- [ulab-uiuc/Router-R1](https://github.com/ulab-uiuc/Router-R1) - Research implementation teaching LLMs multi-round routing and aggregation via RL.
+- [nettee/gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) - Wraps the Gemini CLI as an OpenAI-compatible API service.
+- [PicoMLX/PicoAIProxy](https://github.com/PicoMLX/PicoAIProxy) - Reverse proxy for OpenAI and Anthropic written in server-side Swift.
+- [peva3/SmarterRouter](https://github.com/peva3/SmarterRouter) - Intelligent LLM gateway and VRAM-aware router for Ollama, llama.cpp, and OpenAI.
+- [mydisha/keirouter](https://github.com/mydisha/keirouter) - Blazing-fast self-hostable AI gateway with intelligent routing.
+- [trylonai/gateway](https://github.com/trylonai/gateway) - Open-source firewall for LLMs: self-hosted gateway with guardrails and controls.
+- [RouteWorks/RouterArena](https://github.com/RouteWorks/RouterArena) - Open framework for evaluating LLM routers with datasets, metrics, and leaderboard.
+- [Felix-au/OmniKey-AI-Unified-Key-Manager](https://github.com/Felix-au/OmniKey-AI-Unified-Key-Manager) - Self-hosted LLM proxy and failover gateway with encrypted credential storage.
+- [nidjbs/go-ai-gateway](https://github.com/nidjbs/go-ai-gateway) - Lightweight AI gateway written in Go.
+- [MoyuFamily/ai-relay](https://github.com/MoyuFamily/ai-relay) - Serverless AI API gateway for Vercel and Cloudflare with multi-provider fallback chains.
+- [ihsan-ramadhan/bansos-router](https://github.com/ihsan-ramadhan/bansos-router) - Keyless router serving free coding models to every coding harness via one endpoint.
+- [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) - Multi-LLM router with task-aware routing, cost optimization, and safety controls.
+- [MilkThink-Lab/RouterEval](https://github.com/MilkThink-Lab/RouterEval) - Benchmark suite for evaluating routing strategies across LLMs.
+- [marco-jardim/opencode-model-router](https://github.com/marco-jardim/opencode-model-router) - OpenCode plugin for automatic model-tier delegation by task weight.
+- [ynulihao/LLMRouterBench](https://github.com/ynulihao/LLMRouterBench) - Massive benchmark and unified framework for LLM routing research.
+- [0xzr/freellmpool](https://github.com/0xzr/freellmpool) - Free LLM gateway spanning 22 providers and 178 routes with keyless startup.
+- [bigdata2211it-web/opencode-free-proxy](https://github.com/bigdata2211it-web/opencode-free-proxy) - Proxy for OpenCode free-tier models via Zen API with OpenAI and Anthropic compatibility.
+- [LiteLLM-Labs/litellm-relay](https://github.com/LiteLLM-Labs/litellm-relay) - Onboards coding tools onto a LiteLLM AI gateway with zero setup.
+- [AlephantAI/AIephant-AI-Agent-Gateway](https://github.com/AlephantAI/AIephant-AI-Agent-Gateway) - AI agent gateway for routing, tracking, and controlling LLM usage across agents.
+- [Shaf2665/Hermes-router](https://github.com/Shaf2665/Hermes-router) - OpenAI/Anthropic-compatible router with provider failover, key rotation, and caching.
+- [omarluq/cc-relay](https://github.com/omarluq/cc-relay) - Blazing-fast LLM API gateway written in Go.
+- [azrtydxb/Fastllm-proxy](https://github.com/azrtydxb/Fastllm-proxy) - Lowest-overhead production LLM router: one OpenAI-compatible endpoint for 80 providers.
+- [luqman-v1/9router-go](https://github.com/luqman-v1/9router-go) - High-performance Go proxy gateway for 9Router LLM routing at 32K RPS.
+- [openziti/llm-gateway](https://github.com/openziti/llm-gateway) - Zero-trust LLM gateway with semantic routing and identity-based access control.
+- [Noveum/ai-gateway](https://github.com/Noveum/ai-gateway) - Low-latency provider-agnostic AI gateway for demanding AI workflows.
+- [Inebrio/Routerly](https://github.com/Inebrio/Routerly) - Self-hosted LLM gateway routing across providers with cost tracking and budgets.
+- [greynewell/infermux](https://github.com/greynewell/infermux) - Lightweight multiplexer routing inference requests across providers.
+- [CassiopeiaCode/CosyRedactGateway](https://github.com/CassiopeiaCode/CosyRedactGateway) - Stateless privacy gateway redacting secrets before LLM upstreams and restoring them.
+- [mxyhi/token_proxy](https://github.com/mxyhi/token_proxy) - Local AI API gateway with token accounting, load balancing, and one-click setup.
+- [m0n0x41d/anthropic-proxy-rs](https://github.com/m0n0x41d/anthropic-proxy-rs) - Rust proxy converting Anthropic API requests to OpenAI-compatible format.
+- [klarkxy/open-console-gateway](https://github.com/klarkxy/open-console-gateway) - Unified gateway managing AI subscriptions for desktop apps and coding tools.
+- [ypollak2/llm-router](https://github.com/ypollak2/llm-router) - Universal LLM router for coding tools with a free-first fallback chain.
+- [tzachbon/claude-model-router-hook](https://github.com/tzachbon/claude-model-router-hook) - Claude Code hooks auto-switching model tier based on task complexity.
+- [llm-proxy/llm-proxy](https://github.com/llm-proxy/llm-proxy) - Lightweight proxy simplifying and optimizing everyday LLM usage.
+- [ubiomni/mrouter](https://github.com/ubiomni/mrouter) - Terminal-driven router: one endpoint for every model with monitoring and failover.
+- [zhengqia/ModelHub](https://github.com/zhengqia/ModelHub) - Smart routing across 1000+ global model endpoints for cheaper, faster access.
+- [invariantlabs-ai/invariant-gateway](https://github.com/invariantlabs-ai/invariant-gateway) - LLM proxy for observing and debugging what AI agents are doing.
+- [blue-pen5805/llm-proxy-on-cloudflare-workers](https://github.com/blue-pen5805/llm-proxy-on-cloudflare-workers) - Serverless multi-LLM proxy built on Cloudflare Workers.
+- [ulab-uiuc/GraphRouter](https://github.com/ulab-uiuc/GraphRouter) - Graph-based router for LLM selection from ICLR 2025 research.
+- [Able-rip/cc-VisionRouter](https://github.com/Able-rip/cc-VisionRouter) - Transparent Claude Code proxy auto-routing image requests to multimodal models.
+- [arbs-io/github-copilot-llm-gateway](https://github.com/arbs-io/github-copilot-llm-gateway) - Copilot extension adding self-hosted open-source models to the chat experience.
+- [dev2k6/command-code-proxy-server](https://github.com/dev2k6/command-code-proxy-server) - OpenAI-compatible proxy server exposing CommandCode API endpoints locally.
+- [BytePioneer-AI/weixin-agent-gateway](https://github.com/BytePioneer-AI/weixin-agent-gateway) - WeChat-facing AI gateway unifying OpenClaw, Codex, and Claude Code backends.
+- [yuseferi/opencode-litellm](https://github.com/yuseferi/opencode-litellm) - OpenCode plugin adding LiteLLM proxy support with dynamic model discovery.
+- [mylxsw/llm-gateway](https://github.com/mylxsw/llm-gateway) - Enterprise-grade LLM gateway with intelligent routing, failover, and a dashboard.
+- [yeliu84/pi-model-router](https://github.com/yeliu84/pi-model-router) - Pi agent extension routing each turn to the right LLM tier by intent and budget.
+- [superagent-ai/gateway](https://github.com/superagent-ai/gateway) - Tiny Rust gateway for running coding agents across model providers safely.
+- [microsoft/best-route-llm](https://github.com/microsoft/best-route-llm) - Multi-sampling LLM query router cutting costs up to 60% with minimal quality loss.
+- [1Panel-dev/1Panel-Gateway](https://github.com/1Panel-dev/1Panel-Gateway) - Enterprise AI gateway with unified access, smart routing, and compliance auditing.
+- [KochC/opencode-llm-proxy](https://github.com/KochC/opencode-llm-proxy) - Local OpenCode-backed LLM gateway with streaming and tool calling.
+- [Lucasmantou/codex-proxy](https://github.com/Lucasmantou/codex-proxy) - Proxy letting Codex use any LLM, cutting costs 30-50x via cheaper providers.
+- [agentsmith-project/llm-universal-proxy](https://github.com/agentsmith-project/llm-universal-proxy) - Universal proxy unifying access to multiple LLM providers.
+- [yinxulai/claude-proxy](https://github.com/yinxulai/claude-proxy) - Free proxy converting Claude API format to OpenAI format with streaming and tool calls.
+- [mibgb65-cloud/OmniProxy](https://github.com/mibgb65-cloud/OmniProxy) - Local token scheduler and quota monitor doubling as a desktop proxy gateway.
+- [iqmeta/copilot-ollama-multi-provider-ai-proxy](https://github.com/iqmeta/copilot-ollama-multi-provider-ai-proxy) - Proxy running DeepSeek, Groq, Ollama, and more models inside GitHub Copilot.
+- [ziozzang/llm-toolcall-proxy](https://github.com/ziozzang/llm-toolcall-proxy) - General-purpose proxy normalizing tool-calling APIs across providers.
+- [ttimasdf/pi-provider-newapi](https://github.com/ttimasdf/pi-provider-newapi) - Pi provider extension for self-hosted NewAPI gateways with cost calculation.
+- [flowapi-net/flow-llm-router](https://github.com/flowapi-net/flow-llm-router) - Token-saving LLM router with automatic provider selection.
+- [Devansh-365/freellm](https://github.com/Devansh-365/freellm) - OpenAI-compatible gateway aggregating 8 free LLM providers with smart failover.
+- [promptadvisers/grokrouter](https://github.com/promptadvisers/grokrouter) - Bring-your-own-model router for Grok Bot, Codex, and OpenRouter on Mac.
+- [say828/claude-router](https://github.com/say828/claude-router) - Router enabling open models inside Claude Code workflows.
+- [sxueck/llm-gateway](https://github.com/sxueck/llm-gateway) - Lightweight distributed LLM gateway with a web UI for model management.
+- [MiXaiLL76/auto_ai_router](https://github.com/MiXaiLL76/auto_ai_router) - High-performance LLM proxy router with load balancing and rate limiting.
+- [chand1012/claude-code-mlx-proxy](https://github.com/chand1012/claude-code-mlx-proxy) - Proxy running Claude Code on local MLX-powered models.
+- [bold84/cot_proxy](https://github.com/bold84/cot_proxy) - Smart LLM proxy with per-model parameter control and automatic mode switching.
+- [muxi-ai/onellm](https://github.com/muxi-ai/onellm) - Unified interface for hundreds of LLMs with caching and fallback mechanisms.
+- [VonSdite/LLM_Proxy](https://github.com/VonSdite/LLM_Proxy) - Unified LLM proxy with custom request and response transformation.
+- [yatesdr/go-llm-proxy](https://github.com/yatesdr/go-llm-proxy) - Lightweight Go proxy for LLM API traffic.
+- [PriceNing/LLM-AIO-Gateway](https://github.com/PriceNing/LLM-AIO-Gateway) - Unified OpenAI/Anthropic/Responses gateway with vision injection for text-only models.
+- [occludra/gateway](https://github.com/occludra/gateway) - Self-hosted AI security proxy redacting PII and blocking prompt injection.
+- [florath/qwen3-call-patch-proxy](https://github.com/florath/qwen3-call-patch-proxy) - HTTP proxy fixing malformed Qwen3-Coder tool calls for OpenCode integration.
+- [evanlong-me/nvidia-anthropic-proxy](https://github.com/evanlong-me/nvidia-anthropic-proxy) - Cloudflare Worker proxy enabling Claude Code to use NVIDIA NIM models.
+- [xorbitsai/xrouter-llm](https://github.com/xorbitsai/xrouter-llm) - Prompt-aware router predicting which model completes each request and picking the cheapest.
+- [cniu6/anyproxyai](https://github.com/cniu6/anyproxyai) - Universal AI API gateway GUI for routing and converting multiple provider APIs.
+- [Instawork/llm-proxy](https://github.com/Instawork/llm-proxy) - Go-based LLM proxy for cost tracking and rate limiting.
+- [theRizwan/llm7-codex-proxy](https://github.com/theRizwan/llm7-codex-proxy) - Python proxy letting the Codex app talk to LLM7 via an OpenAI-compatible endpoint.
+- [pjq/sap-ai-core-llm-proxy](https://github.com/pjq/sap-ai-core-llm-proxy) - OpenAI-compatible LLM proxy for SAP AI Core deployments.
+- [GoDiao/Free-Way](https://github.com/GoDiao/Free-Way) - Local gateway giving coding tools free access to 14+ LLM providers.
+- [miztertea/nim-proxy](https://github.com/miztertea/nim-proxy) - Tiny rate-limit-aware OpenAI-compatible proxy for the NVIDIA NIM API.
+- [luwill/Claude-Code-Model-Router](https://github.com/luwill/Claude-Code-Model-Router) - Lightweight gateway switching Claude Code to third-party AI models.
+- [vkeenan/ai-gateway](https://github.com/vkeenan/ai-gateway) - AI gateway integrating OpenAI models into Salesforce for text generation.
+- [ZiChuanLan/meta-gateway](https://github.com/ZiChuanLan/meta-gateway) - OpenAI-compatible multi-channel LLM relay gateway with admin console.
+- [spf0209/FreeAI-Gateway](https://github.com/spf0209/FreeAI-Gateway) - OpenAI-compatible gateway for free AI web APIs like GLM, Kimi, and Qwen.
+- [CodeBoy2006/falProxy](https://github.com/CodeBoy2006/falProxy) - Self-hosted Deno proxy making Fal.ai models OpenAI image-API compatible.
+- [obirler/LLMProxy](https://github.com/obirler/LLMProxy) - Intelligent backend routing proxy for large language models.
+- [fabiojbg/LLMApiGateway](https://github.com/fabiojbg/LLMApiGateway) - Personal LLM gateway with retries, model sequencing, and fault tolerance.
+- [RunMintOn/OpenCode-Qwen-Proxy](https://github.com/RunMintOn/OpenCode-Qwen-Proxy) - OAuth plugin using a Qwen account for OpenCode CLI models.
+- [thy-chan/model-gateway](https://github.com/thy-chan/model-gateway) - AI model gateway aggregating free LLM quotas with smart polling and failover.
+- [8monkey-ai/hebo-gateway](https://github.com/8monkey-ai/hebo-gateway) - AI gateway framework for full control over models, routing, and lifecycle.
+- [cgaeking/ClawRouter](https://github.com/cgaeking/ClawRouter) - Smart LLM router with direct API keys and OpenRouter support.
+- [Alorse/llm-proxy](https://github.com/Alorse/llm-proxy) - Lets BYOK editors connect to any OpenAI-compatible LLM by aliasing models.
+- [shenald-dev/one-api](https://github.com/shenald-dev/one-api) - Single-binary OpenAI-compatible gateway for 20+ LLM providers.
+- [elixir-vibe/llm_proxy](https://github.com/elixir-vibe/llm_proxy) - Elixir-native LiteLLM alternative for multi-provider routing and fallbacks.
+- [llm-d/llm-d-batch-gateway](https://github.com/llm-d/llm-d-batch-gateway) - Standalone backend-agnostic OpenAI-compatible batch API processing engine.
+- [Lincoln-cn/JAiRouter](https://github.com/Lincoln-cn/JAiRouter) - Production AI model gateway with load balancing, circuit breaking, and failover.
+- [lunargate-ai/gateway](https://github.com/lunargate-ai/gateway) - High-performance self-hosted OpenAI-compatible AI gateway with retries.
+- [seaavey/SRouter](https://github.com/seaavey/SRouter) - Local-first AI gateway connecting coding tools to multiple providers with failover.
+- [izzoa/polyrouter](https://github.com/izzoa/polyrouter) - Self-hostable LLM router with explicit-first routing, fallbacks, and spend limits.
+- [markwaveio/FreeRouter](https://github.com/markwaveio/FreeRouter) - Zero-price model router built on LiteLLM for agents and OpenAI-compatible clients.
+- [12errh/zen-proxy](https://github.com/12errh/zen-proxy) - Local proxy exposing OpenCode free Zen models to any agent tool.
+- [AlphaBitCore/nexus-gateway](https://github.com/AlphaBitCore/nexus-gateway) - Enterprise AI traffic gateway with compliance, semantic cache, and quotas.
+- [fridge1/llmgateway](https://github.com/fridge1/llmgateway) - Unified LLM API gateway and commercial platform with billing and admin console.
+- [mrexodia/logging-proxy](https://github.com/mrexodia/logging-proxy) - High-performance reverse proxy for logging LLM traces.
+- [vimalinx/LocalRouter](https://github.com/vimalinx/LocalRouter) - Loopback-first universal API gateway for local AI agents.
+- [NoelJudeNoel/open-free-router](https://github.com/NoelJudeNoel/open-free-router) - Aggregator auto-discovering, routing, and proxying free LLM models worldwide.
+- [mlpal-ai/mlpal-gateway](https://github.com/mlpal-ai/mlpal-gateway) - Open-source AI gateway with per-request cost metering and per-key budgets.
+- [JichinX/codex-glm-proxy](https://github.com/JichinX/codex-glm-proxy) - Local proxy enabling Codex CLI to work with GLM models.
+- [shihabshahrier/freelm](https://github.com/shihabshahrier/freelm) - Free LLM client and gateway for Python and TypeScript over free-tier providers.
+- [fontesmidias/saci](https://github.com/fontesmidias/saci) - Router for free-tier LLMs with fallback, quota tracking, and a model catalog.
+- [Artur21101965/freegate](https://github.com/Artur21101965/freegate) - Free multi-provider LLM proxy with automatic failover across 18 free models.
+- [ezzcodeezzlife/freerouter](https://github.com/ezzcodeezzlife/freerouter) - One OpenAI-compatible endpoint with quality-waterfall routing for free LLM keys.
