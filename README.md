@@ -112,7 +112,6 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Route Claude Code requests across models and providers.
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - Expose your chat subscriptions as local OpenAI-compatible endpoints.
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy Antigravity-provided Claude/Gemini models to any client.
-- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - OAuth bridge so OpenCode can use Antigravity rate limits.
 
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1.
@@ -253,7 +252,6 @@
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills from Addy Osmani.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Garry Tan's opinionated Claude Code toolset.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - Harness performance-optimization system: skills, instincts, evals.
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - Meta-prompting, context engineering and spec-driven workflow.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - AI task-management system that drops into Cursor, Claude Code or Lovable.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - File-based persistent planning for long-running agent tasks.
 - [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - Skill-management layer for agents.
@@ -442,7 +440,7 @@
 - [567-labs/instructor](https://github.com/567-labs/instructor) - Structured outputs from any LLM via Pydantic models.
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Constrained generation: guarantee JSON, regex or grammar-valid output.
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Input/output validators for LLM applications.
-- [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Programmable rails for conversational systems.
+- [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - Programmable rails for conversational systems.
 
 **Visual & low-code builders**
 
@@ -456,7 +454,6 @@
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-agent LLM financial-trading framework; a good study in role-specialized agents.
 - [microsoft/Agents-for-python](https://github.com/microsoft/Agents-for-python) - Microsoft 365 Agents SDK for Python.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Drag-and-drop builder for LangChain flows and agents.
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Low-code UI for building LLM flows and agents.
 
 **Durable execution & background agents**
 
@@ -746,7 +743,7 @@
 
 **Embeddings, rerankers & search**
 
-- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Standard library for embedding models and cross-encoder rerankers.
+- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - Standard library for embedding models and cross-encoder rerankers.
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - BGE embeddings and rerankers; strong open baselines.
 - [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - ColBERT late-interaction retrieval made easy.
 - [xhluca/bm25s](https://github.com/xhluca/bm25s) - Fast BM25 in Python for the lexical half of hybrid search.
@@ -1040,7 +1037,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Let agents drive a real browser.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - The browser automation library everything else wraps.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - Natural-language browser automation built on Playwright.
-- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - Includes the reference computer-use demo.
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - Includes the reference computer-use demo.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Crawl and scrape any site into LLM-ready Markdown.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source LLM-friendly crawler.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - Headless browser purpose-built for agents and scraping.
@@ -1362,7 +1359,6 @@
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call 100+ LLM APIs in OpenAI format with cost tracking and guardrails.
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Enterprise AI gateway with adaptive load balancing.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - Blazing-fast gateway with routing, caching and guardrails.
-- [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) - OpenRouter's inference runner; use [openrouter.ai](https://openrouter.ai) for one key to every model.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - MIT gateway over 350+ providers with quota-aware fallback and token compression.
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - Stack 34 free-tier providers behind one `/v1` endpoint.
 - [tayyabimam1/freellmapi](https://github.com/tayyabimam1/freellmapi) - My fork with additional custom-endpoint support.
@@ -1668,7 +1664,6 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - High-throughput production serving with paged attention.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - Fast serving with structured generation and prefix caching.
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - CLI for LM Studio's local model server.
-- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Hugging Face's production inference server.
 
 **Training & fine-tuning**
 
@@ -1823,20 +1818,19 @@
 
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test prompts and agents like code; CI-friendly with red-teaming.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - Pytest-style unit tests for LLM outputs.
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation metrics for RAG pipelines.
+- [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Evaluation metrics for RAG pipelines.
 - [openai/evals](https://github.com/openai/evals) - OpenAI's eval framework and registry.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - Standard framework for few-shot LLM evaluation.
 
 **Security**
 
-- [protectai/llm-guard](https://github.com/protectai/llm-guard) - Prompt-injection, PII and toxicity scanners for inputs and outputs.
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Llama Guard and CyberSecEval for safe deployments.
 - [OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) - The OWASP Top 10 for LLM apps; read before shipping an agent with tools.
 
 **Code review**
 
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Hybrid deterministic + LLM code review, battle-tested at Alibaba scale.
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - AI pull-request review, description and improvement suggestions.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - AI pull-request review, description and improvement suggestions.
 - [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360) - Fairness metrics and bias-mitigation algorithms.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - Terminal UI for reviewing what your agent just did to git.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open-source screen recording for demos and bug reports.
@@ -1855,7 +1849,7 @@
 
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Microsoft's toolkit for building, tracing, and evaluating LLM flows and agents.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF distributed tracing platform; the standard trace backend for production systems.
-- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Data validation framework for testing eval datasets and pipeline data quality.
+- [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Data validation framework for testing eval datasets and pipeline data quality.
 
 
 **More**
@@ -2169,7 +2163,6 @@
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - Resources for Chip Huyen's *AI Engineering*.
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Code for the O'Reilly book.
 - [ProjectProRepo/Agentic-AI](https://github.com/ProjectProRepo/Agentic-AI) - Agentic AI learning resources.
-- [MicrosoftLearning/AI-102-AIEngineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer) - Lab files for the AI-102 certification.
 
 **Must-read essays & guides**
 
@@ -2288,7 +2281,7 @@
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Pipeline framework for voice and multimodal conversational AI agents.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - State-of-the-art open-source text-to-speech with rapid voice cloning.
 
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NVIDIA's toolkit for building production ASR, TTS, and conversational AI.
+- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - NVIDIA's toolkit for building production ASR, TTS, and conversational AI.
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - Alibaba's industrial-grade speech recognition toolkit for production ASR.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Real-time full-duplex speech-text model for conversational voice agents.
 
@@ -2392,12 +2385,11 @@
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - Promptable image segmentation from Meta.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - YOLO models for detection, segmentation and tracking.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant; open GPT-4V-style model.
-- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - Library for language-vision intelligence (BLIP-2 and friends).
 - [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox.
 
 - [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - Open-source multimodal model family rivaling proprietary vision-language models.
 
-- [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - Meta's promptable segmentation for images and video; a vision pipeline staple.
+- [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - Meta's promptable segmentation for images and video; a vision pipeline staple.
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - Meta's self-supervised vision foundation model for visual perception backbones.
 
 
@@ -2798,7 +2790,7 @@
 
 *Front-ends, chat interfaces and app scaffolds.*
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI.
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience.
@@ -3018,7 +3010,7 @@
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic data generation for tabular data.
 - [Data-Centric-AI-Community/fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic) - Synthetic data generators for tabular and time-series data.
 
-- [iterative/dvc](https://github.com/iterative/dvc) - Data version control for ML: version datasets and models like code.
+- [treeverse/dvc](https://github.com/treeverse/dvc) - Data version control for ML: version datasets and models like code.
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - Metadata platform for data discovery, observability, and governance.
 
 
@@ -3158,7 +3150,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - CLI and Python library for talking to any LLM, with plugins.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI: shell assistant, RAG, agents.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - Command-line productivity tool powered by LLMs.
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Desktop client for many LLM APIs.
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Desktop client for many LLM APIs.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT desktop app for Mac, Windows and Linux.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - Open-source personal assistant you self-host.
 
@@ -3220,7 +3212,7 @@
 - [MaartenGr/BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics.
 - [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - A library for mechanistic interpretability of GPT-style language models.
 - [dair-ai/AI-Papers-of-the-Week](https://github.com/dair-ai/AI-Papers-of-the-Week) - Highlighting the top ML papers every week.
-- [jbloomAus/SAELens](https://github.com/jbloomAus/SAELens) - Train and analyze sparse autoencoders on language models.
+- [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - Train and analyze sparse autoencoders on language models.
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - Tool for investigating specific behaviors of small language models.
 - [ndif-team/nnsight](https://github.com/ndif-team/nnsight) - Interpret and manipulate the internals of deep models.
 
@@ -3291,7 +3283,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - Extremely fast Python package and project manager written in Rust.
 - [jdx/mise](https://github.com/jdx/mise) - Dev-tool version manager, env vars, and task runner in one binary.
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - High-performance Python API framework for serving agents over HTTP.
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - High-performance Python API framework for serving agents over HTTP.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation in Python using type hints; core of most agent frameworks.
 
 
