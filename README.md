@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tayyabimam1.github.io/awesome-ai-agent-stack/"><img src=".github/site-preview.jpg" alt="The Awesome AI Agent Stack website: ~2,800 tools in 29 categories, ranked by GitHub stars" width="860"></a>
+  <a href="https://tayyabimam1.github.io/awesome-ai-agent-stack/"><img src=".github/site-preview.jpg" alt="The Awesome AI Agent Stack website: 2,990 tools in 29 categories, ranked by GitHub stars" width="860"></a>
 </p>
 
 **~2,800 tools across 29 categories, ranked by GitHub stars.** The top of each section is my own picks — tools I have used, read, or evaluated. The **More** lists extend each layer with projects that pass a mechanical bar: real, public, not archived, actively maintained (pushed in the last 18 months). The most established entries also meet a stricter bar — 1,500+ stars and cross-referenced from other reputable lists. Organized as a **stack** so you can find the right tool for each layer of an agent system.
