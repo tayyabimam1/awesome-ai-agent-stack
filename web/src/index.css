@@ -13,6 +13,7 @@
   --accent: #0969da;
   --star: #9a6700;
   --success: #1a7f37;
+  --dot: #d1d9e0;
   color-scheme: light;
 }
 .dark {
@@ -25,6 +26,7 @@
   --accent: #4493f8;
   --star: #d29922;
   --success: #3fb950;
+  --dot: #262c36;
   color-scheme: dark;
 }
 
@@ -44,7 +46,8 @@
 html { background: var(--bg); }
 body {
   margin: 0;
-  background: var(--bg);
+  /* faint dot grid; fixed so it doesn't scroll with the content */
+  background: radial-gradient(var(--dot) 1px, transparent 1px) 0 0 / 22px 22px fixed, var(--bg);
   color: var(--ink);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
