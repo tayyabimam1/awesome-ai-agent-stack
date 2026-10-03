@@ -19,7 +19,7 @@
   <a href="https://tayyabimam1.github.io/awesome-ai-agent-stack/"><img src=".github/site-preview.jpg" alt="The Awesome AI Agent Stack website: 2,990 tools in 29 categories, ranked by GitHub stars" width="860"></a>
 </p>
 
-**~3,000 tools across 29 categories, ranked by GitHub stars.** The top of each section is my own picks — tools I have used, read, or evaluated. The **More** lists extend each layer with projects that pass a mechanical bar: real, public, not archived, actively maintained (pushed in the last 18 months). The most established entries also meet a stricter bar — 1,500+ stars and cross-referenced from other reputable lists. Organized as a **stack** so you can find the right tool for each layer of an agent system.
+**~2,800 tools across 29 categories, ranked by GitHub stars.** The top of each section is my own picks — tools I have used, read, or evaluated. The **More** lists extend each layer with projects that pass a mechanical bar: real, public, not archived, actively maintained (pushed in the last 18 months). The most established entries also meet a stricter bar — 1,500+ stars and cross-referenced from other reputable lists. Organized as a **stack** so you can find the right tool for each layer of an agent system.
 
 **On the website** you can search every tool, sort any category by stars, and see the most-starred projects in each layer. It rebuilds from this README on every change.
 
@@ -150,7 +150,6 @@
 - [antongulin/robin](https://github.com/antongulin/robin) - Free AI code reviews on every pull request via Actions.
 - [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding with verification.
 - [AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker) - Autonomous coding agent orchestrator for multi-agent builds.
-- [AutoCodeRoverSG/auto-code-rover](https://github.com/AutoCodeRoverSG/auto-code-rover) - Autonomous agent that analyzes issues and writes patches.
 - [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Cursor-style AI coding features for Neovim.
 - [aws-samples/remote-swe-agents](https://github.com/aws-samples/remote-swe-agents) - AWS samples for running SWE agents remotely.
 - [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - AWS Labs harness for orchestrating CLI coding agents.
@@ -171,7 +170,6 @@
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - macOS menu-bar monitor for Codex CLI sessions.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local desktop AI app builder that iterates on full-stack code.
 - [dhanji/g3](https://github.com/dhanji/g3) - Minimal terminal coding agent with multi-model support.
-- [entropy-research/Devon](https://github.com/entropy-research/Devon) - Autonomous pair programmer exploring and debugging repos.
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - Terminal coding agent tuned for DeepSeek models.
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Terminal multi-agent coding orchestrator.
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight Rust coding agent with Git worktrees and ACP.
@@ -189,7 +187,6 @@
 - [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) - Run multiple coding agents in parallel workspaces.
 - [kbwo/ccmanager](https://github.com/kbwo/ccmanager) - Session manager for Claude Code with usage tracking.
 - [joeblackwaslike/ai-review-bot](https://github.com/joeblackwaslike/ai-review-bot) - Autonomous multi-agent PR reviewer.
-- [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Autonomous VS Code agent building projects iteratively.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic coding assistant for builders who ship.
 - [launchapp-dev/animus-cli](https://github.com/launchapp-dev/animus-cli) - Orchestrator running multi-model dev teams from YAML.
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful terminal coding agent with persistent memory.
@@ -336,7 +333,6 @@
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code hooks with patterns and examples.
 - [egorfedorov/claude-context-optimizer](https://github.com/egorfedorov/claude-context-optimizer) - Tracks token usage and wasted context, saving 30-50% on API costs.
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - Utility CLI syncing agent rules across coding tools.
-- [eth-sri/lmql](https://github.com/eth-sri/lmql) - Language for constraint-guided, efficient LLM programming.
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with exit detection.
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more.
 - [gadievron/raptor](https://github.com/gadievron/raptor) - Turns Claude Code into an offensive and defensive security agent.
@@ -410,7 +406,6 @@
 - [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Hook any Claude Code request, modify responses, route custom models.
 - [skills-directory/skill-codex](https://github.com/skills-directory/skill-codex) - Skill that delegates prompts to Codex from Claude Code.
 - [stefanprodan/cctop](https://github.com/stefanprodan/cctop) - Live top-style monitor for Claude Code sessions.
-- [tallesborges/agentic-system-prompts](https://github.com/tallesborges/agentic-system-prompts) - System prompts and tool definitions from production coding agents.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - Framework enhancing Claude Code with commands, personas, and token-efficient modes.
 - [tjboudreaux/cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) - 28 eval-informed mental models and critical-thinking skills for agents.
 - [TexasBedouin/vibe-check](https://github.com/TexasBedouin/vibe-check) - Turns a vague idea into a buildable plan, then guides the build.
@@ -427,7 +422,6 @@
 - [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - Skill turning any codebase into an interactive HTML course.
 - [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - Plugins and skills for AWS development: IaC, serverless, cost ops, AgentCore.
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Setup, commands, workflows, agents, skills, and tips from beginner to power user.
-- [zou-group/textgrad](https://github.com/zou-group/textgrad) - Automatic differentiation via text: backpropagating textual gradients.
 ## Agent Frameworks & Orchestration
 
 *Build your own agents and multi-agent systems.*
@@ -537,7 +531,6 @@
 - [Coral-Protocol/coral-server](https://github.com/Coral-Protocol/coral-server) - CoralOS: registry, runtime, and payments between your agents and production.
 - [daydreamsai/daydreams](https://github.com/daydreamsai/daydreams) - TypeScript toolkit for building commerce-focused AI agents.
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI agent platform to speed up knowledge work.
-- [eumemic/ai-legion](https://github.com/eumemic/ai-legion) - LLM-powered autonomous agent platform for team-like collaboration.
 - [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Build AI agents atomically with modular, composable components.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - JVM agent framework for predictable, enterprise-grade agents.
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - Fast multimodal LLM for real-time voice agents.
@@ -571,7 +564,6 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents with Model Context Protocol and simple workflows.
 - [loopx-project/loopx](https://github.com/loopx-project/loopx) - Control plane with durable state kernel for long-horizon agents.
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - Experimental web-browsing agent that works across the browser.
-- [MadcowD/ell](https://github.com/MadcowD/ell) - Language model programming library for prompt engineering as code.
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM anti-framework: minimal abstractions over provider APIs.
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript.
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team; open-source and self-hostable.
@@ -598,7 +590,6 @@
 - [Runfusion/Fusion](https://github.com/Runfusion/Fusion) - Software factory: multi-node agents building software around the clock.
 - [restatedev/restate](https://github.com/restatedev/restate) - Resilient applications with durable workflows that tolerate any failure.
 - [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Declarative governance and orchestration framework for AI agents.
-- [sublayerapp/sublayer](https://github.com/sublayerapp/sublayer) - Model-agnostic Ruby DSL and framework for generative AI agents.
 - [Shopify/roast](https://github.com/Shopify/roast) - Structured AI workflows made easy in Ruby.
 - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - Application framework for AI engineering on Spring.
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - Library to build and auto-optimize LLM applications.
@@ -660,7 +651,6 @@
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents.
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - [ICML'26] SimpleMem: efficient lifelong memory for LLM agents.
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer.
-- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack.
 - [BAI-LAB/MemoryOS](https://github.com/BAI-LAB/MemoryOS) - [EMNLP 2025] MemoryOS: a memory operating system for personalized AI.
 - [mex-memory/mex](https://github.com/mex-memory/mex) - Team memory for engineers and their AI agents, living in your repo.
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - Make your agents learn from experience.
@@ -701,7 +691,6 @@
 - [sci-m-wang/OpenCE](https://github.com/sci-m-wang/OpenCE) - OpenCE: community toolkit to implement and evaluate context engineering.
 - [Context-Engine-AI/Context-Engine](https://github.com/Context-Engine-AI/Context-Engine) - Agentic context compression suite delivered over MCP.
 - [Ahren09/SARA](https://github.com/Ahren09/SARA) - [ACL 2026] SARA: selective and adaptive context compression.
-- [Huzaifa785/context-compressor](https://github.com/Huzaifa785/context-compressor) - AI-powered text compression library for RAG systems and API calls.
 - [microsoft/acon](https://github.com/microsoft/acon) - ACON: optimizing context compression for long-context LLMs.
 - [snchimata/tokenfold](https://github.com/snchimata/tokenfold) - Private, provider-neutral, reversible context compression for LLMs.
 - [yzhangchuck/Sentinel](https://github.com/yzhangchuck/Sentinel) - Sentinel: lightweight, interpretable context compression for LLMs.
@@ -828,7 +817,6 @@
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree: hybrid AI search engine and AI page generator.
 - [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Agentic RAG for local and self-hosted document search with hybrid retrieval.
 - [pingcap/autoflow](https://github.com/pingcap/autoflow) - Graph RAG-based conversational knowledge base.
-- [shibing624/ChatPDF](https://github.com/shibing624/ChatPDF) - RAG for local LLMs: chat with PDF, doc, and txt files.
 - [notadev-iamaura/OneRAG](https://github.com/notadev-iamaura/OneRAG) - Production-ready RAG framework with 1-line config swaps for providers.
 - [MoMoM101/RAG-ReActAgent](https://github.com/MoMoM101/RAG-ReActAgent) - Retrieval-augmented generation system with a ReAct agent loop.
 - [flamehaven01/Flamehaven-Filesearch](https://github.com/flamehaven01/Flamehaven-Filesearch) - Self-hosted RAG search engine: 34 formats, BM25 plus hybrid search.
@@ -847,7 +835,6 @@
 - [Muvon/octocode](https://github.com/Muvon/octocode) - Structural code intelligence for AI agents: semantic search and knowledge graphs.
 - [gibram-io/gibram](https://github.com/gibram-io/gibram) - GibRAM: in-memory knowledge graph server designed for retrieval.
 - [jeffhajewski/latticedb](https://github.com/jeffhajewski/latticedb) - Embedded single-file knowledge graph database with vector search.
-- [Jallermax/knowledge-nexus](https://github.com/Jallermax/knowledge-nexus) - GraphRAG for second brain: ingest knowledge and build knowledge graphs.
 - [lyon-industries/graphrag-workbench](https://github.com/lyon-industries/graphrag-workbench) - Interactive 3D visualization of knowledge graphs generated by GraphRAG.
 - [Abhishek-Aditya-bs/CodeGraph](https://github.com/Abhishek-Aditya-bs/CodeGraph) - GraphRAG over any codebase: a Neo4j knowledge graph of code entities.
 - [FareedKhan-dev/agentic-knowledge-graph](https://github.com/FareedKhan-dev/agentic-knowledge-graph) - Knowledge-graph RAG built from structured metadata instead of LLM extraction.
@@ -855,7 +842,6 @@
 - [yonk-labs/pg-raggraph](https://github.com/yonk-labs/pg-raggraph) - PostgreSQL-native GraphRAG: vector search, full-text, and knowledge graphs.
 - [awslabs/unified-kg-rag-on-aws](https://github.com/awslabs/unified-kg-rag-on-aws) - AWS-native knowledge graph RAG framework unifying graph-retrieval approaches.
 - [machuangtao/LLM-KG4QA](https://github.com/machuangtao/LLM-KG4QA) - [EMNLP2025] LLM-KG4QA: large language models and knowledge graphs for QA.
-- [SteveTANTAN/PoG](https://github.com/SteveTANTAN/PoG) - [WWW 2025] Paths-over-Graph: knowledge graph empowered LLMs.
 - [AmirhosseinHonardoust/Graph-RAG-Engine](https://github.com/AmirhosseinHonardoust/Graph-RAG-Engine) - An explainable AI system combining graph intelligence and vector search.
 - [Aliu-AiRobot/ESEILANE](https://github.com/Aliu-AiRobot/ESEILANE) - High-performance knowledge graph engine for AI, LLMs, and GraphRAG.
 - [intuit/infigraph](https://github.com/intuit/infigraph) - AST-powered code intelligence engine: graph database plus hybrid semantic search.
@@ -872,14 +858,11 @@
 - [shell-nlp/gpt_server](https://github.com/shell-nlp/gpt_server) - Open framework for production deployment of LLMs, embeddings, and rerankers.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs, fully integrated with LangChain and LlamaIndex.
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity: high-throughput, low-latency serving for embeddings and rerankers.
-- [codefuse-ai/ModelCache](https://github.com/codefuse-ai/ModelCache) - A LLM semantic caching system to enhance user experience and cut costs.
-- [hcd233/Aris-AI-Model-Server](https://github.com/hcd233/Aris-AI-Model-Server) - An OpenAI-compatible API integrating LLM, embedding, and reranker.
 - [aqstack/mimir](https://github.com/aqstack/mimir) - A drop-in proxy caching LLM API responses using semantic similarity.
 - [messkan/prompt-cache](https://github.com/messkan/prompt-cache) - Cut LLM costs by up to 80% with sub-millisecond cached responses.
 - [sensoris/semcache](https://github.com/sensoris/semcache) - Semantic caching layer for your LLM applications.
 - [vcache-project/vCache](https://github.com/vcache-project/vCache) - Reliable and efficient semantic prompt caching with vCache.
 - [botirkhaltaev/semanticcache](https://github.com/botirkhaltaev/semanticcache) - A Go library for semantic caching with LRU eviction.
-- [devanmolsharma/cachelm](https://github.com/devanmolsharma/cachelm) - A semantic caching layer for LLM apps to cut repeated calls.
 - [nickleodoen/ferrocache](https://github.com/nickleodoen/ferrocache) - A distributed semantic cache service for LLM applications.
 - [zakariaf/RAG-Cache](https://github.com/zakariaf/RAG-Cache) - High-performance LLM query cache with semantic search.
 - [Cozymori/VectorWave](https://github.com/Cozymori/VectorWave) - One decorator for semantic caching plus golden-data regression testing.
@@ -942,9 +925,7 @@
 - [agentrpc/agentrpc](https://github.com/agentrpc/agentrpc) - Universal RPC layer connecting AI agents to functions in any language.
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via MCP or clipboard, with rule-based customization.
 - [raw-labs/mxcp](https://github.com/raw-labs/mxcp) - Model eXecution + Context Protocol: Enterprise-Grade Data-to-AI Infrastructure.
-- [hamidra/yamcp](https://github.com/hamidra/yamcp) - Organize MCP servers in local workspaces and share them with one command.
 - [SatyamSingh8306/mcp_arena](https://github.com/SatyamSingh8306/mcp_arena) - Python library for building MCP servers with intelligent agent orchestration.
-- [appsec-innovation-labs/secure-mcp-fetch](https://github.com/appsec-innovation-labs/secure-mcp-fetch) - Simple secured fetch.
 - [supabase/mcp](https://github.com/supabase/mcp) - Official Supabase MCP server connecting AI assistants to your projects.
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) - An official Qdrant Model Context Protocol (MCP) server implementation.
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) - A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases.
@@ -954,24 +935,19 @@
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) - Airtable MCP server letting AI systems interact with your Airtable bases.
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic.
 - [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) - Local MCP server for DuckDB and MotherDuck.
-- [furey/mongodb-lens](https://github.com/furey/mongodb-lens) - MongoDB Lens: Full Featured MCP Server for MongoDB Databases.
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) - A Model Context Protocol Server for MongoDB.
-- [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) - MCP server implementation for DuckDB database interaction.
 - [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) - MCP server for Snowflake with read/write operations and insight tracking.
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) - A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery.
 - [weaviate/mcp-server-weaviate](https://github.com/weaviate/mcp-server-weaviate) - Official Weaviate MCP server for vector search and data management.
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) - A Model Context Protocol server that provides access to BigQuery.
-- [donghao1393/mcp-dbutils](https://github.com/donghao1393/mcp-dbutils) - All-in-one MCP service connecting LLMs to SQLite, MySQL, Postgres, and more.
 - [jparkerweb/mcp-sqlite](https://github.com/jparkerweb/mcp-sqlite) - Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction.
 - [edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server) - MCP server for the NocoDB open-source database.
-- [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) - MCP server for TiDB databases.
 - [datastax/astra-db-mcp](https://github.com/datastax/astra-db-mcp) - MCP server for Astra DB database workloads.
 - [pinecone-io/pinecone-mcp](https://github.com/pinecone-io/pinecone-mcp) - Official Pinecone MCP server for managing vector database projects.
 - [iunera/druid-mcp-server](https://github.com/iunera/druid-mcp-server) - Comprehensive MCP server for Apache Druid cluster management and analysis.
 - [couchbase/mcp-server-couchbase](https://github.com/couchbase/mcp-server-couchbase) - MCP server connecting AI agents to Couchbase and Capella.
 - [JaviMaligno/postgres_mcp](https://github.com/JaviMaligno/postgres_mcp) - PostgreSQL MCP server with Docker-friendly connectivity.
 - [Janadasroor/pg-mnemosyne-mcp](https://github.com/Janadasroor/pg-mnemosyne-mcp) - PostgreSQL-backed MCP server for agent memory, task tracking, and coordination.
-- [KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server) - MCP server for VikingDB collections, indexes, and vector search.
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS.
 - [kosminus/querywise-mcp](https://github.com/kosminus/querywise-mcp) - MCP server and CLI for natural-language database queries via a semantic layer.
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands.
@@ -997,11 +973,7 @@
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) - Scrapeless Mcp Server.
 - [ChanMeng666/server-google-news](https://github.com/ChanMeng666/server-google-news) - MCP server for Google News search via SerpAPI with categorization and multi-language support.
 - [damionrashford/RivalSearchMCP](https://github.com/damionrashford/RivalSearchMCP) - Deterministic research MCP server with multi-engine web and social search.
-- [mnhlt/WebSearch-MCP](https://github.com/mnhlt/WebSearch-MCP) - Self-hosted web search MCP server over stdio transport.
-- [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) - MCP server for the Tavily web search API.
-- [DumplingAI/mcp-server-dumplingai](https://github.com/DumplingAI/mcp-server-dumplingai) - MCP (Model Context Protocol) server for Dumpling AI.
 - [adawalli/nexus](https://github.com/adawalli/nexus) - MCP Server to make searching openrouter easy.
-- [hbg/mcp-paperswithcode](https://github.com/hbg/mcp-paperswithcode) - An unofficial MCP interface to interact with the PapersWithCode API.
 - [angheljf/nyt](https://github.com/angheljf/nyt) - MCP server for searching and reading New York Times articles.
 - [uju777/coupang-mcp](https://github.com/uju777/coupang-mcp) - MCP server for Coupang product search with price comparison and Rocket delivery filter.
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - Feature-rich Slack MCP server with channels, DMs, and smart history fetch.
@@ -1014,27 +986,18 @@
 - [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) - A Model Context Protocol (MCP) server for interacting with Microsoft 365 and Microsoft Office.
 - [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) - A Model Context Protocol server for connecting Notion to MCP-compatible clients.
 - [onebirdrocks/ebook-mcp](https://github.com/onebirdrocks/ebook-mcp) - MCP server for EPUB and PDF eBook interaction with LLMs.
-- [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server) - MCP server for Todoist integration enabling natural language task management with Claude.
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) - Persistent memory for AI coding agents.
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) - MCP server exposing Voidtools Everything instant file search to AI clients.
 - [efforthye/fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp) - High-performance MCP server for secure filesystem access.
 - [siva010928/multi-chat-mcp-server](https://github.com/siva010928/multi-chat-mcp-server) - Google Chat MCP server letting AI assistants join team conversations.
 - [feuerdev/keep-mcp](https://github.com/feuerdev/keep-mcp) - MCP server for Google Keep.
-- [hexitex/MCP-Backup-Server](https://github.com/hexitex/MCP-Backup-Server) - MCP server for file backup and restoration.
-- [mintmcp/servers](https://github.com/mintmcp/servers) - MCP servers for Google Calendar, Gmail, Outlook Calendar, and Outlook Mail.
-- [jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp) - Model Context Protocol (MCP) that allows LLMs to use QGIS Desktop.
 - [pipeboard-co/meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp) - Meta Ads MCP server for Claude, ChatGPT, Perplexity, and Cursor.
 - [fajarmf/slite-mcp](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration - search and retrieve notes from your.
-- [Cheffromspace/mcp-nextcloud-calendar](https://github.com/Cheffromspace/mcp-nextcloud-calendar) - CalDAV-based Nextcloud calendar integration for managing events via MCP.
 - [paypal/agent-toolkit](https://github.com/paypal/agent-toolkit) - PayPal agent toolkit for building AI-powered commerce experiences.
 - [gomarble-ai/facebook-ads-mcp-server](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server for querying and analyzing Facebook Ads performance data.
-- [kurdin/github-repos-manager-mcp](https://github.com/kurdin/github-repos-manager-mcp) - MCP server for managing GitHub repositories from AI clients.
 - [gomarble-ai/google-ads-mcp-server](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server for analyzing Google Ads performance data.
 - [k-jarzyna/mcp-miro](https://github.com/k-jarzyna/mcp-miro) - Miro integration for Model Context Protocol.
-- [aantti/mcp-netbird](https://github.com/aantti/mcp-netbird) - MCP Server for Netbird.
-- [iplocate/mcp-server-iplocate](https://github.com/iplocate/mcp-server-iplocate) - MCP server for IP geolocation, network info, and VPN detection.
 - [ip2location/mcp-ip2location-io](https://github.com/ip2location/mcp-ip2location-io) - IP Geolocation MCP server using IP2Location.io API.
-- [mackenly/mcp-fathom-analytics](https://github.com/mackenly/mcp-fathom-analytics) - MCP server for Fathom Analytics.
 - [BartWaardenburg/spaceship-mcp](https://github.com/BartWaardenburg/spaceship-mcp) - MCP server for the Spaceship API: domains, DNS, contacts, listings.
 ## Sandboxes, Browsers & Computer Use
 
@@ -1190,11 +1153,9 @@
 - [mindee/doctr](https://github.com/mindee/doctr) - Deep-learning OCR library for document text recognition.
 - [sirfz/tesserocr](https://github.com/sirfz/tesserocr) - A Python wrapper for the tesseract-ocr API.
 - [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - Open-source tool recognizing layouts, tables, formulas, and text as Markdown.
-- [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - Packaged CRAFT text detector with Keras CRNN recognition model.
 - [manisandro/gImageReader](https://github.com/manisandro/gImageReader) - A Gtk/Qt front-end to tesseract-ocr.
 - [mittagessen/kraken](https://github.com/mittagessen/kraken) - OCR engine for all the languages.
 - [breezedeus/CnSTD](https://github.com/breezedeus/CnSTD) - PyTorch-based package for scene text detection and document layout analysis.
-- [opendatalab/DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO) - Document layout analysis via diverse synthetic data and adaptive perception.
 - [Calamari-OCR/calamari](https://github.com/Calamari-OCR/calamari) - Line based ATR Engine based on OCRopy.
 - [google-research/pix2struct](https://github.com/google-research/pix2struct) - Google's vision-language model for parsing screenshots and documents into structured text.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - Document AI toolkit for layout analysis and information extraction.
@@ -1226,7 +1187,6 @@
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Foundational low latency web data collecting in Rust.
 - [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python.
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - News-please - an integrated web crawler and information extractor for news that just works.
-- [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction.
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors.
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup.
@@ -1248,7 +1208,6 @@
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - Unified interface to local and remote filesystems.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - The standard toolkit for audio and video processing.
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
-- [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Citation parser for academic references.
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Stream large files from S3, GCS and HDFS.
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extract annotations from PDF files.
 - [apache/pdfbox](https://github.com/apache/pdfbox) - Java library for working with PDF documents.
@@ -1409,14 +1368,12 @@
 - [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Universal LLM gateway with OpenAI/Anthropic-compatible endpoints and load balancing.
 - [adaline/gateway](https://github.com/adaline/gateway) - Fully local SDK providing one unified interface for calling 200+ LLMs.
 - [labring/aiproxy](https://github.com/labring/aiproxy) - High-performance AI gateway with multi-channel management, rate limiting, and monitoring.
-- [geekai-pub/openai-proxy](https://github.com/geekai-pub/openai-proxy) - Go-based OpenAI HTTP proxy deployable on serverless platforms or self-hosted.
 - [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI-to-Google-Gemini proxy running on Deno edge infrastructure.
 - [Sinholms/setup-gateway](https://github.com/Sinholms/setup-gateway) - Zero-dependency configurator deploying an OpenAI-compatible gateway for coding CLIs.
 - [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) - Routes Claude Code tasks to the cheapest capable model using Jev.
 - [asdecided/WayfinderRouter](https://github.com/asdecided/WayfinderRouter) - CLI tool for deterministic routing of queries between local and hosted LLMs.
 - [dataiku/kiji-proxy](https://github.com/dataiku/kiji-proxy) - Privacy proxy that scrubs sensitive content from OpenAI requests.
 - [humantonylee/free-router](https://github.com/humantonylee/free-router) - Free AI model router with comparison and switching across providers.
-- [kcolemangt/llm-router](https://github.com/kcolemangt/llm-router) - LLM router acting as a Base URL for editors to reach OpenAI, Groq, and Ollama.
 - [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - Intelligent entry point routing inference requests across the llm-d serving stack.
 - [HernanJiang/CodexRouter](https://github.com/HernanJiang/CodexRouter) - Local-first Codex multi-model router with a Windows configurator.
 - [TokenFlux/TokenRouter](https://github.com/TokenFlux/TokenRouter) - Next-generation LLM gateway with token-aware routing.
@@ -1424,7 +1381,6 @@
 - [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter) - Tiny 10K-parameter router learning which open-source model should answer each query.
 - [OctaFuse/octafuse-gateway](https://github.com/OctaFuse/octafuse-gateway) - Self-hosted AI gateway unifying providers and keys with routing and budget controls.
 - [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) - Unified AI gateway for 30+ LLMs with caching, guardrails, and cost controls.
-- [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude Code proxy platform forwarding requests to any OpenAI-compatible API.
 - [alexazhou/gt_ai_gateway](https://github.com/alexazhou/gt_ai_gateway) - Lightweight high-performance AI gateway with protocol translation and caching.
 - [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) - Lightweight Jev-powered router for models, tools, and subagents.
 - [LeenHawk/gproxy](https://github.com/LeenHawk/gproxy) - Rust multi-channel LLM proxy with OpenAI/Claude/Gemini-style APIs and admin console.
@@ -1438,9 +1394,6 @@
 - [RelayPlane/proxy](https://github.com/RelayPlane/proxy) - Local-first LLM proxy metering agent-run costs and stopping runaway spend.
 - [inference-gateway/inference-gateway](https://github.com/inference-gateway/inference-gateway) - Cloud-native gateway unifying local and cloud LLM providers behind one API.
 - [google-gemini/proxy-to-gemini](https://github.com/google-gemini/proxy-to-gemini) - Proxy sidecar accessing Gemini models via OpenAI and Ollama APIs.
-- [kbykb/OpenAI-Compatible-API-Proxy-for-Z](https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z) - OpenAI-compatible proxy serving Zai GLM models through a standard API format.
-- [THESIS-AGENT/AIRouter](https://github.com/THESIS-AGENT/AIRouter) - Intelligent AI router with unified API, load balancing, and failover across LLM providers.
-- [arch3rPro/Trae-Proxy](https://github.com/arch3rPro/Trae-Proxy) - Intelligent proxy intercepting and redirecting OpenAI API requests with multi-backend support.
 - [msmarkgu/RelayFreeLLM](https://github.com/msmarkgu/RelayFreeLLM) - REST API routing user prompts to various AI model providers.
 - [arcships/aimux](https://github.com/arcships/aimux) - Rust LLM access layer exposing one API across 325 AI providers.
 - [GreyGunG/grokbuild-proxy](https://github.com/GreyGunG/grokbuild-proxy) - Local self-hosted proxy bridging Grok Build to Claude Code and OpenAI formats.
@@ -1449,14 +1402,12 @@
 - [XxxXTeam/codex-proxy](https://github.com/XxxXTeam/codex-proxy) - Codex API proxy service with OpenAI and Claude multi-protocol compatibility.
 - [ClawLabsAI/free-ai-models](https://github.com/ClawLabsAI/free-ai-models) - Daily-updated ranked list of free AI models with one OpenAI-compatible routing endpoint.
 - [Nayjest/lm-proxy](https://github.com/Nayjest/lm-proxy) - OpenAI-compatible HTTP LLM proxy and gateway for multi-provider inference.
-- [egoist/ai-proxy](https://github.com/egoist/ai-proxy) - Simple proxy for AI services including OpenAI, Anthropic, Gemini, Groq, and Perplexity.
 - [rxliuli/llm-api-proxy](https://github.com/rxliuli/llm-api-proxy) - OpenAI-compatible proxy for multiple LLM models deployable to edge runtimes.
 - [ulab-uiuc/Router-R1](https://github.com/ulab-uiuc/Router-R1) - Research implementation teaching LLMs multi-round routing and aggregation via RL.
 - [nettee/gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) - Wraps the Gemini CLI as an OpenAI-compatible API service.
 - [PicoMLX/PicoAIProxy](https://github.com/PicoMLX/PicoAIProxy) - Reverse proxy for OpenAI and Anthropic written in server-side Swift.
 - [peva3/SmarterRouter](https://github.com/peva3/SmarterRouter) - Intelligent LLM gateway and VRAM-aware router for Ollama, llama.cpp, and OpenAI.
 - [mydisha/keirouter](https://github.com/mydisha/keirouter) - Blazing-fast self-hostable AI gateway with intelligent routing.
-- [trylonai/gateway](https://github.com/trylonai/gateway) - Open-source firewall for LLMs: self-hosted gateway with guardrails and controls.
 - [RouteWorks/RouterArena](https://github.com/RouteWorks/RouterArena) - Open framework for evaluating LLM routers with datasets, metrics, and leaderboard.
 - [Felix-au/OmniKey-AI-Unified-Key-Manager](https://github.com/Felix-au/OmniKey-AI-Unified-Key-Manager) - Self-hosted LLM proxy and failover gateway with encrypted credential storage.
 - [nidjbs/go-ai-gateway](https://github.com/nidjbs/go-ai-gateway) - Lightweight AI gateway written in Go.
@@ -1484,7 +1435,6 @@
 - [klarkxy/open-console-gateway](https://github.com/klarkxy/open-console-gateway) - Unified gateway managing AI subscriptions for desktop apps and coding tools.
 - [ypollak2/llm-router](https://github.com/ypollak2/llm-router) - Universal LLM router for coding tools with a free-first fallback chain.
 - [tzachbon/claude-model-router-hook](https://github.com/tzachbon/claude-model-router-hook) - Claude Code hooks auto-switching model tier based on task complexity.
-- [llm-proxy/llm-proxy](https://github.com/llm-proxy/llm-proxy) - Lightweight proxy simplifying and optimizing everyday LLM usage.
 - [ubiomni/mrouter](https://github.com/ubiomni/mrouter) - Terminal-driven router: one endpoint for every model with monitoring and failover.
 - [zhengqia/ModelHub](https://github.com/zhengqia/ModelHub) - Smart routing across 1000+ global model endpoints for cheaper, faster access.
 - [invariantlabs-ai/invariant-gateway](https://github.com/invariantlabs-ai/invariant-gateway) - LLM proxy for observing and debugging what AI agents are doing.
@@ -1511,17 +1461,14 @@
 - [flowapi-net/flow-llm-router](https://github.com/flowapi-net/flow-llm-router) - Token-saving LLM router with automatic provider selection.
 - [Devansh-365/freellm](https://github.com/Devansh-365/freellm) - OpenAI-compatible gateway aggregating 8 free LLM providers with smart failover.
 - [promptadvisers/grokrouter](https://github.com/promptadvisers/grokrouter) - Bring-your-own-model router for Grok Bot, Codex, and OpenRouter on Mac.
-- [say828/claude-router](https://github.com/say828/claude-router) - Router enabling open models inside Claude Code workflows.
 - [sxueck/llm-gateway](https://github.com/sxueck/llm-gateway) - Lightweight distributed LLM gateway with a web UI for model management.
 - [MiXaiLL76/auto_ai_router](https://github.com/MiXaiLL76/auto_ai_router) - High-performance LLM proxy router with load balancing and rate limiting.
 - [chand1012/claude-code-mlx-proxy](https://github.com/chand1012/claude-code-mlx-proxy) - Proxy running Claude Code on local MLX-powered models.
-- [bold84/cot_proxy](https://github.com/bold84/cot_proxy) - Smart LLM proxy with per-model parameter control and automatic mode switching.
 - [muxi-ai/onellm](https://github.com/muxi-ai/onellm) - Unified interface for hundreds of LLMs with caching and fallback mechanisms.
 - [VonSdite/LLM_Proxy](https://github.com/VonSdite/LLM_Proxy) - Unified LLM proxy with custom request and response transformation.
 - [yatesdr/go-llm-proxy](https://github.com/yatesdr/go-llm-proxy) - Lightweight Go proxy for LLM API traffic.
 - [PriceNing/LLM-AIO-Gateway](https://github.com/PriceNing/LLM-AIO-Gateway) - Unified OpenAI/Anthropic/Responses gateway with vision injection for text-only models.
 - [occludra/gateway](https://github.com/occludra/gateway) - Self-hosted AI security proxy redacting PII and blocking prompt injection.
-- [florath/qwen3-call-patch-proxy](https://github.com/florath/qwen3-call-patch-proxy) - HTTP proxy fixing malformed Qwen3-Coder tool calls for OpenCode integration.
 - [evanlong-me/nvidia-anthropic-proxy](https://github.com/evanlong-me/nvidia-anthropic-proxy) - Cloudflare Worker proxy enabling Claude Code to use NVIDIA NIM models.
 - [xorbitsai/xrouter-llm](https://github.com/xorbitsai/xrouter-llm) - Prompt-aware router predicting which model completes each request and picking the cheapest.
 - [cniu6/anyproxyai](https://github.com/cniu6/anyproxyai) - Universal AI API gateway GUI for routing and converting multiple provider APIs.
@@ -1534,14 +1481,12 @@
 - [vkeenan/ai-gateway](https://github.com/vkeenan/ai-gateway) - AI gateway integrating OpenAI models into Salesforce for text generation.
 - [ZiChuanLan/meta-gateway](https://github.com/ZiChuanLan/meta-gateway) - OpenAI-compatible multi-channel LLM relay gateway with admin console.
 - [spf0209/FreeAI-Gateway](https://github.com/spf0209/FreeAI-Gateway) - OpenAI-compatible gateway for free AI web APIs like GLM, Kimi, and Qwen.
-- [CodeBoy2006/falProxy](https://github.com/CodeBoy2006/falProxy) - Self-hosted Deno proxy making Fal.ai models OpenAI image-API compatible.
 - [obirler/LLMProxy](https://github.com/obirler/LLMProxy) - Intelligent backend routing proxy for large language models.
 - [fabiojbg/LLMApiGateway](https://github.com/fabiojbg/LLMApiGateway) - Personal LLM gateway with retries, model sequencing, and fault tolerance.
 - [RunMintOn/OpenCode-Qwen-Proxy](https://github.com/RunMintOn/OpenCode-Qwen-Proxy) - OAuth plugin using a Qwen account for OpenCode CLI models.
 - [thy-chan/model-gateway](https://github.com/thy-chan/model-gateway) - AI model gateway aggregating free LLM quotas with smart polling and failover.
 - [8monkey-ai/hebo-gateway](https://github.com/8monkey-ai/hebo-gateway) - AI gateway framework for full control over models, routing, and lifecycle.
 - [cgaeking/ClawRouter](https://github.com/cgaeking/ClawRouter) - Smart LLM router with direct API keys and OpenRouter support.
-- [Alorse/llm-proxy](https://github.com/Alorse/llm-proxy) - Lets BYOK editors connect to any OpenAI-compatible LLM by aliasing models.
 - [shenald-dev/one-api](https://github.com/shenald-dev/one-api) - Single-binary OpenAI-compatible gateway for 20+ LLM providers.
 - [elixir-vibe/llm_proxy](https://github.com/elixir-vibe/llm_proxy) - Elixir-native LiteLLM alternative for multi-provider routing and fallbacks.
 - [llm-d/llm-d-batch-gateway](https://github.com/llm-d/llm-d-batch-gateway) - Standalone backend-agnostic OpenAI-compatible batch API processing engine.
@@ -1738,16 +1683,13 @@
 - [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Fast local AI engine for Apple Silicon with tool calling and prompt caching.
 - [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - High-performance inference and deployment toolkit for LLMs and VLMs.
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - Fork of llama.cpp with state-of-the-art quantization formats and faster inference.
-- [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq) - Activation-aware weight quantization for efficient LLM compression and speed.
 - [containers/ramalama](https://github.com/containers/ramalama) - Serve local AI models through familiar container workflows, from any model source.
 - [rednote-machine-learning/RedKnot](https://github.com/rednote-machine-learning/RedKnot) - Efficient long-context LLM serving with head-aware KV cache reuse.
 - [intel/neural-compressor](https://github.com/intel/neural-compressor) - Low-bit quantization and sparsity toolkit for PyTorch, TensorFlow, and ONNX.
 - [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) - Curated papers, benchmarks, and tools for model quantization.
 - [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090, 4090, and 5090 GPUs.
-- [666DZY666/micronet](https://github.com/666DZY666/micronet) - Model compression and deployment library with quantization-aware training.
 - [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) - Run a 1-billion-parameter LLM on a $10 board with 256MB of RAM.
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Node.js bindings for llama.cpp to run AI models locally with JSON schema output.
-- [horseee/Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) - Curated list of research on efficient large language models.
 - [ROCm/FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen AI NPUs, purpose-built and deeply optimized.
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Core ML model zoo for iOS and macOS with conversion scripts and sample apps.
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Terminal manager for your Ollama models, written in Go.
@@ -1774,7 +1716,6 @@
 - [sgl-project/SpecForge](https://github.com/sgl-project/SpecForge) - Train speculative decoding models and port them to SGLang serving.
 - [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant) - KV cache compression via block-diagonal rotation with llama.cpp integration.
 - [kessler/gemma-gem](https://github.com/kessler/gemma-gem) - Run Google's Gemma model entirely on-device via WebGPU, no cloud needed.
-- [microsoft/T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU and NPU using lookup-table acceleration.
 - [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native bindings for llama.cpp.
 - [openvinotoolkit/model_server](https://github.com/openvinotoolkit/model_server) - Scalable inference server for models optimized with OpenVINO.
 - [foldl/chatllm.cpp](https://github.com/foldl/chatllm.cpp) - Pure C++ implementation of several models for real-time chat on CPU and GPU.
@@ -1796,7 +1737,6 @@
 - [spark-arena/sparkrun](https://github.com/spark-arena/sparkrun) - Launch and manage LLM inference workloads on NVIDIA DGX Spark systems.
 - [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - Self-hosted inference server for LLMs, speech-to-text, and text-to-speech.
 - [zolotukhin/zinc](https://github.com/zolotukhin/zinc) - Zig inference engine for local LLM inference on AMD GPUs and Apple Silicon.
-- [sunshine0523/OllamaServer](https://github.com/sunshine0523/OllamaServer) - Start the Ollama service on Android with one click, no Termux needed.
 - [NightMean/OlliteRT](https://github.com/NightMean/OlliteRT) - Turn an Android phone into an OpenAI-compatible local LLM inference server.
 - [xybrid-ai/xybrid](https://github.com/xybrid-ai/xybrid) - Cross-platform on-device AI toolkit for phones, desktops, and edge devices.
 - [mudler/vllm.cpp](https://github.com/mudler/vllm.cpp) - Community C++ engine mirroring vLLM with continuous batching and paged KV cache.
@@ -1809,13 +1749,10 @@
 - [Picovoice/picollm](https://github.com/Picovoice/picollm) - On-device LLM inference powered by X-bit quantization.
 - [thushan/olla](https://github.com/thushan/olla) - Lightweight proxy and load balancer for LLM infrastructure with failover.
 - [mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM) - Run any local LLM engine auto-tuned to your GPU with web UI and OpenAI-compatible API.
-- [Pelochus/ezrknpu](https://github.com/Pelochus/ezrknpu) - Easy installation and use of Rockchip NPUs on RK3588 and similar SoCs.
-- [modelscope/dash-infer](https://github.com/modelscope/dash-infer) - Native LLM inference engine optimized for CUDA, x86, and ARM hardware.
 - [onnx/turnkeyml](https://github.com/onnx/turnkeyml) - No-code CLI for accelerating ONNX model deployment workflows.
 - [gengchaogit/llm_speedtest](https://github.com/gengchaogit/llm_speedtest) - Speed test tool for local LLM inference.
 - [timtoole02/Camelid](https://github.com/timtoole02/Camelid) - Rust-native local inference backend with evidence-gated model compatibility.
 - [uncSoft/anubis-oss](https://github.com/uncSoft/anubis-oss) - Local LLM testing and benchmarking for Apple Silicon.
-- [adriancable/qwen3.c](https://github.com/adriancable/qwen3.c) - Local Qwen3 inference in a single dependency-free C source file.
 - [wladimiravila/esp32s3-distributed-ai](https://github.com/wladimiravila/esp32s3-distributed-ai) - Distributed LLM inference across ESP32-S3 boards, fully offline.
 ## Evaluation, Observability & Code Review
 
@@ -1886,7 +1823,6 @@
 - [plurai-ai/intellagent](https://github.com/plurai-ai/intellagent) - Diagnose AI agents through synthetic interactions.
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry instrumentation for AI applications.
 - [JudgmentLabs/judgeval](https://github.com/JudgmentLabs/judgeval) - Continuous improvement stack for AI agent evaluation.
-- [prometheus-eval/prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - Open-source LLM evaluator models and benchmarks.
 - [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - OpenTelemetry-based LLM observability SDK.
 - [TIGER-AI-Lab/ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Benchmark for browser-use AI agents.
 - [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) - Observability for self-improving AI agents.
@@ -1905,16 +1841,12 @@
 - [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) - AI governance platform with LLM evaluations.
 - [miracodeai/mira](https://github.com/miracodeai/mira) - Self-hosted AI code reviewer.
 - [aiverify-foundation/moonshot](https://github.com/aiverify-foundation/moonshot) - Toolkit for LLM evaluation and red-teaming.
-- [TonicAI/tonic_validate](https://github.com/TonicAI/tonic_validate) - Metrics and benchmarks for RAG evaluation.
-- [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) - SDK for running LLM evaluations.
 - [OpenBMB/UltraEval-Audio](https://github.com/OpenBMB/UltraEval-Audio) - Benchmark for audio language models.
-- [gitbito/bitoai](https://github.com/gitbito/bitoai) - Codebase-aware AI feedback on pull requests.
 - [cvs-health/langfair](https://github.com/cvs-health/langfair) - LLM bias and fairness assessments.
 - [AgentSafeLabs/safelabs-eval](https://github.com/AgentSafeLabs/safelabs-eval) - Red-teaming evaluation framework for agents.
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - Langfuse observability SDK for JavaScript.
 - [solis-team/XRepoTest](https://github.com/solis-team/XRepoTest) - Repository-level test generation benchmark.
 - [alibaba-multimodal-industrial-ai/IndustryBench](https://github.com/alibaba-multimodal-industrial-ai/IndustryBench) - Industrial benchmark for multimodal models.
-- [babelcloud/LLM-RGB](https://github.com/babelcloud/LLM-RGB) - Reasoning benchmark for large language models.
 - [langfuse/oss-llmops-stack](https://github.com/langfuse/oss-llmops-stack) - Open-source LLMOps stack with observability.
 - [open-compass/GTA](https://github.com/open-compass/GTA) - Benchmark for tool-using AI agents.
 - [AgentEvalHQ/AgentEval](https://github.com/AgentEvalHQ/AgentEval) - Evaluation toolkit for .NET AI agents.
@@ -1922,29 +1854,22 @@
 - [ewsun22/codex-manager](https://github.com/ewsun22/codex-manager) - Desktop control center for OpenAI Codex sessions.
 - [google/litmus](https://github.com/google/litmus) - LLM testing and evaluation tool with a friendly UI.
 - [techlab-innov/llmtrace](https://github.com/techlab-innov/llmtrace) - Zero-code LLM security and observability proxy.
-- [cyberark/agentwatch](https://github.com/cyberark/agentwatch) - AI observability framework for agent fleets.
 - [HiThink-Research/GAGE](https://github.com/HiThink-Research/GAGE) - Unified evaluation engine for LLMs and multimodal models.
 - [niklasfrick/spark-dashboard](https://github.com/niklasfrick/spark-dashboard) - GPU and LLM inference monitoring dashboard.
 - [inferock/inferock-bench](https://github.com/inferock/inferock-bench) - LLM cost-tracking proxy with verifiable receipts.
 - [tma1-ai/tma1](https://github.com/tma1-ai/tma1) - Local-first observability for AI agents.
 - [devarshishimpi/codra](https://github.com/devarshishimpi/codra) - Self-hosted AI code review on Cloudflare Workers.
 - [Juror-AI/juror](https://github.com/Juror-AI/juror) - AI code review agent for GitHub pull requests.
-- [rungalileo/hallucination-index](https://github.com/rungalileo/hallucination-index) - Ranking LLMs by hallucination rates.
 - [Netis/heron](https://github.com/Netis/heron) - Agent API performance monitoring via packet probe.
 - [splunk/token-meter](https://github.com/splunk/token-meter) - Dashboard for AI agent token usage and cost.
 - [PhiloLabs/agentic-vbench](https://github.com/PhiloLabs/agentic-vbench) - Benchmark of post-production agent tasks.
-- [promptdesk/promptdesk](https://github.com/promptdesk/promptdesk) - Prompt management with evaluation workflows.
-- [Humanity-s-Last-Code-Exam/HLCE](https://github.com/Humanity-s-Last-Code-Exam/HLCE) - Frontier coding evaluation scripts.
-- [kereva-dev/kereva-scanner](https://github.com/kereva-dev/kereva-scanner) - Scanner for prompts and LLM calls.
 - [SantanderAI/mech-gov-framework](https://github.com/SantanderAI/mech-gov-framework) - Governance regimes for AI systems.
 - [InternScience/SciEvalKit](https://github.com/InternScience/SciEvalKit) - Scientific evaluation toolkit for LLMs.
 - [theagentplane/tokenops](https://github.com/theagentplane/tokenops) - Token governance for AI agent fleets.
 - [T-Sunm/rag-ops](https://github.com/T-Sunm/rag-ops) - LLMOps template for RAG applications.
 - [llmops-build/llmops](https://github.com/llmops-build/llmops) - Toolkit for LLM operations.
-- [zli12321/qa_metrics](https://github.com/zli12321/qa_metrics) - QA evaluation metrics package.
 - [dunetrace/dunetrace](https://github.com/dunetrace/dunetrace) - Reliability layer for AI agents.
 - [last9/gpu-telemetry](https://github.com/last9/gpu-telemetry) - GPU observability for inference workloads.
-- [ServiceNow/DoomArena](https://github.com/ServiceNow/DoomArena) - Framework for testing agents against evolving threats.
 - [simion/reviewd](https://github.com/simion/reviewd) - Local AI pull request reviewer for the terminal.
 - [IBM/ares](https://github.com/IBM/ares) - AI robustness evaluation system.
 - [skillberry-ai/cap-evolve](https://github.com/skillberry-ai/cap-evolve) - Optimize agent skills against your own evals.
@@ -1958,9 +1883,7 @@
 - [OpenMOSS/SWE-bench-Science](https://github.com/OpenMOSS/SWE-bench-Science) - Coding agent benchmark for scientific tasks.
 - [cristianodabc/aludel](https://github.com/cristianodabc/aludel) - LLM evaluation and observability for Elixir.
 - [OpenMOSS/ABC-Bench](https://github.com/OpenMOSS/ABC-Bench) - Benchmark for coding agents building backend services.
-- [alan-turing-institute/prompto](https://github.com/alan-turing-institute/prompto) - Library for asynchronous querying of LLM endpoints.
 - [paradime-io/dbt-llm-evals](https://github.com/paradime-io/dbt-llm-evals) - Warehouse-native LLM evaluation for dbt.
-- [ZeroSumEval/ZeroSumEval](https://github.com/ZeroSumEval/ZeroSumEval) - Framework pitting LLMs against each other in games.
 - [mintesnot-teshome/llm-verify](https://github.com/mintesnot-teshome/llm-verify) - Detect fake AI APIs with behavioral fingerprinting.
 - [cyberful/cyberful](https://github.com/cyberful/cyberful) - AI red-teaming for security evaluation.
 - [maida-ai/maida](https://github.com/maida-ai/maida) - Pre-merge behavioral regression gate for AI agents.
@@ -2088,7 +2011,6 @@
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React: render components from LLM output.
 - [vercel-labs/ai-sdk-starter-xai](https://github.com/vercel-labs/ai-sdk-starter-xai) - Next.js + AI SDK chatbot starter template on xAI.
 - [Floe-Labs/floe-vercel-ai-starter](https://github.com/Floe-Labs/floe-vercel-ai-starter) - Vercel AI SDK starter with hard spend caps out of the box.
-- [run-llama/create-llama](https://github.com/run-llama/create-llama) - CLI scaffolding full-stack RAG apps with LlamaIndex.
 - [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) - Starter kit for building AI agents on Cloudflare Workers.
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open-source Claude Artifacts clone generating apps with Llama.
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Next.js + AI SDK starter generating bios with streaming UI.
@@ -2112,7 +2034,6 @@
 - [aws-samples/bedrock-chat](https://github.com/aws-samples/bedrock-chat) - Multi-model chat UI for Amazon Bedrock.
 - [upstash/rag-chat](https://github.com/upstash/rag-chat) - RAG chatbot library and starter with a chat UI.
 - [Kcheesee/rag-chatbot-starter-kit](https://github.com/Kcheesee/rag-chatbot-starter-kit) - Config-driven RAG chatbot boilerplate for web and Slack.
-- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React console for building with the Realtime API.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - Turn Python functions into realtime WebRTC audio/video streams.
 - [livekit-examples/agent-starter-react](https://github.com/livekit-examples/agent-starter-react) - Complete voice AI frontend for LiveKit Agents.
 - [kyutai-labs/unmute](https://github.com/kyutai-labs/unmute) - Make any text LLM listen and speak with low latency.
@@ -2210,7 +2131,6 @@
 
 - [MAlshurbaji/LLM-Playground-From-Scratch](https://github.com/MAlshurbaji/LLM-Playground-From-Scratch) - Build a miniature LLM from scratch with real-world techniques.
 - [kunjcr2/llms-from-scratch](https://github.com/kunjcr2/llms-from-scratch) - Explanations and code for everything LLM and machine learning.
-- [malibayram/llm-from-scratch](https://github.com/malibayram/llm-from-scratch) - Master large language models by building your own from scratch.
 - [mdhabibi/llm-search-handbook](https://github.com/mdhabibi/llm-search-handbook) - Beginner-to-expert open course on LLMs and semantic search.
 - [Rishurajgautam24/prompt-engineering-course](https://github.com/Rishurajgautam24/prompt-engineering-course) - Hands-on prompt engineering course in Jupyter notebooks.
 - [anchitgupt/learn_llm_code](https://github.com/anchitgupt/learn_llm_code) - Build an LLM from scratch in 15 runnable Python scripts.
@@ -2304,7 +2224,6 @@
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - Compact open-source speech synthesizer for 100+ languages and accents.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - 1.6B TTS model generating ultra-realistic multi-speaker dialogue in one pass.
 - [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - LLM-based bilingual TTS with fine-grained voice control and cloning.
-- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - 82M-parameter Apache-licensed TTS with studio quality running on CPU.
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Flow-matching TTS with faithful zero-shot voice cloning from short samples.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS under 25MB for CPU and edge devices.
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge neural TTS voices from Python with no API key.
@@ -2313,10 +2232,8 @@
 - [edwko/OuteTTS](https://github.com/edwko/OuteTTS) - Lightweight interface for the OuteTTS 0.5B/1B voice-cloning models.
 - [bshall/knn-vc](https://github.com/bshall/knn-vc) - Any-to-any voice conversion with just nearest neighbors.
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - Conversational speech generation model for natural dialogue voices.
-- [ictnlp/LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - Low-latency end-to-end speech interaction model built on Llama 3.1 8B.
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Streaming TTS with voice cloning and natural-language voice design.
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime WebRTC stack connecting humans and AI agents.
-- [QwenLM/Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio) - Large audio-language model for voice chat and audio understanding.
 - [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for building conversational voice AI agents.
 - [bolna-ai/bolna](https://github.com/bolna-ai/bolna) - Build production conversational voice AI agents quickly.
 - [roomkit-live/roomkit](https://github.com/roomkit-live/roomkit) - Async Python framework for multi-channel conversation agents.
@@ -2348,7 +2265,6 @@
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Pre-trained TTS models with a simple one-line inference API.
 - [juanmc2005/diart](https://github.com/juanmc2005/diart) - Real-time speaker diarization and audio streaming toolkit.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization pipelines.
-- [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive language-audio pretraining for retrieval and zero-shot.
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Source separation library with pretrained models.
 - [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - PyTorch audio source separation toolkit for researchers.
 - [facebookresearch/audioseal](https://github.com/facebookresearch/audioseal) - Localized watermarking for AI-generated speech audio.
@@ -2383,8 +2299,6 @@
 - [kadirnar/voicehub](https://github.com/kadirnar/voicehub) - Unified inference interface across many open TTS models.
 - [agent-next/call-use](https://github.com/agent-next/call-use) - Open-source runtime giving AI agents outbound phone-call ability.
 - [gemelo-ai/vocos](https://github.com/gemelo-ai/vocos) - Fast high-quality neural vocoder bridging time and Fourier domains.
-- [yizhilll/MERT](https://github.com/yizhilll/MERT) - Self-supervised acoustic music understanding model.
-- [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - Hierarchical audio transformer for sound classification and detection.
 - [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production-first, production-ready end-to-end speech recognition toolkit.
 - [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - Recipes and training pipelines for next-gen Kaldi speech models.
 ## Vision & Multimodal
@@ -2413,9 +2327,7 @@
 - [NVlabs/VILA](https://github.com/NVlabs/VILA) - Vision-language models for multimodal AI across edge, data center, and cloud.
 - [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - Native unified multimodal model for understanding, reasoning, and generation.
 - [m87-labs/moondream](https://github.com/m87-labs/moondream) - Tiny vision-language model for fast image understanding on any device.
-- [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - Powerful multimodal large language model family for vision-language tasks.
 - [ATH-MaaS/Ovis](https://github.com/ATH-MaaS/Ovis) - Multimodal LLM architecture structurally aligning visual and textual embeddings.
-- [InternLM/InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - Multimodal system for long-term streaming video and audio interaction.
 - [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) - Reinforcement learning framework for visual understanding with VLMs.
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Evaluation toolkit covering 220+ multimodal models and 80+ benchmarks.
 - [perezjoan/UVLM](https://github.com/perezjoan/UVLM) - Unified Python interface for reproducible vision-language model benchmarking.
@@ -2430,19 +2342,15 @@
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Platform for object detection, segmentation, and visual recognition tasks.
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - Lightweight Segment Anything variant for mobile and real-time use.
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3) - Segment Anything Model 3: promptable segmentation for images and video.
-- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - High-quality Segment Anything with refined mask details.
 - [yujunwei04/UnSAMv2](https://github.com/yujunwei04/UnSAMv2) - Self-supervised segmentation at any granularity without manual labels.
 - [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2) - Ground and track anything in videos using text prompts.
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - Real-time detection transformer, SOTA on COCO and built for fine-tuning.
 - [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - Real-time detection transformer beating YOLOs on the speed-accuracy curve.
 - [Peterande/D-FINE](https://github.com/Peterande/D-FINE) - Fine-grained distribution refinement for DETR-style object detectors.
-- [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - Real-time open-vocabulary detection: see anything at YOLO speed.
 - [obss/sahi](https://github.com/obss/sahi) - Sliced inference framework for small-object detection on large images.
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - PaddlePaddle toolkit for detection, segmentation, and tracking.
 - [qubvel-org/segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) - Segmentation models with 500+ pretrained convolutional and transformer backbones.
-- [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - Research platform for DETR-based detection, segmentation, and pose estimation.
 - [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - Pluggable state-of-the-art multi-object tracking modules for any detector.
-- [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight library adding real-time multi-object tracking to any detector.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with real-time local object detection for IP cameras.
 - [roboflow/inference](https://github.com/roboflow/inference) - Deploy computer vision models to any computer or edge device.
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D face analysis toolkit.
@@ -2458,7 +2366,6 @@
 - [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - Video foundation models and data for multimodal understanding.
 - [mbzuai-oryx/Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) - Video conversation model generating dialogue about video content.
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - VideoChat: conversational video understanding with chat models.
-- [RenShuhuai-Andy/TimeChat](https://github.com/RenShuhuai-Andy/TimeChat) - Time-sensitive multimodal LLM for long video understanding.
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Scene cut and transition detection for video processing pipelines.
 - [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) - Pythonic bindings for FFmpeg libraries in video ML pipelines.
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - Capable foundation model for monocular depth estimation.
@@ -2467,12 +2374,9 @@
 - [localai-org/depth-anything.cpp](https://github.com/localai-org/depth-anything.cpp) - From-scratch C++17/ggml port of Depth Anything 2 and 3.
 - [apple-aiml-research/ml-depth-pro](https://github.com/apple-aiml-research/ml-depth-pro) - Sharp monocular metric depth in under a second.
 - [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - Diffusion-based monocular depth estimation repurposing image generators.
-- [lpiccinelli-eth/UniDepth](https://github.com/lpiccinelli-eth/UniDepth) - Universal monocular metric depth without camera intrinsics.
 - [microsoft/MoGe](https://github.com/microsoft/MoGe) - Accurate monocular geometry estimation for open-domain images.
 - [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - Transformer inferring cameras, depth, and 3D tracks from any views.
-- [naver/dust3r](https://github.com/naver/dust3r) - Easy geometric 3D reconstruction from unposed images.
 - [HengyiWang/amb3r](https://github.com/HengyiWang/amb3r) - Feed-forward metric-scale 3D reconstruction with backend optimization.
-- [naver/mast3r](https://github.com/naver/mast3r) - 3D-grounded image matching for reconstruction and pose estimation.
 - [colmap/colmap](https://github.com/colmap/colmap) - Structure-from-motion and multi-view stereo reconstruction pipeline.
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Modern library for 3D data processing and visualization.
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - Reusable components for deep learning with 3D data.
@@ -2482,7 +2386,6 @@
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - Fast 3D object reconstruction from a single image.
 - [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-resolution 3D asset generation with diffusion models.
 - [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Structured 3D latents for scalable and versatile 3D generation.
-- [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) - Pose estimation toolbox and benchmark suite.
 - [pytorch/vision](https://github.com/pytorch/vision) - Datasets, transforms, and models for computer vision.
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - Largest collection of PyTorch image backbones with pretrained weights.
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with polygons and AI-assisted labeling.
@@ -2517,17 +2420,12 @@
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - Stable Diffusion WebUI fork with faster inference and more features.
 - [vladmandic/sdnext](https://github.com/vladmandic/sdnext) - All-in-one WebUI for AI image/video creation and processing.
 - [Mooshieblob1/MooshieUI](https://github.com/Mooshieblob1/MooshieUI) - Beginner-friendly front-end UI for ComfyUI.
-- [mat-sz/metastable](https://github.com/mat-sz/metastable) - Project-based Stable Diffusion web UI for organizing generations.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - Modular Stable Diffusion web UI focused on power tools and speed.
 - [mikehalleen/the-halleen-machine](https://github.com/mikehalleen/the-halleen-machine) - Agentic system managing AI video projects via ComfyUI.
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - Extension manager and workflow hub for ComfyUI.
 - [ltdrdata/ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) - Detection, detailer, and upscaling nodes for ComfyUI.
-- [cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - IPAdapter image-prompt nodes for ComfyUI.
 - [ltdrdata/ComfyUI-Inspire-Pack](https://github.com/ltdrdata/ComfyUI-Inspire-Pack) - Versatile custom nodes extending ComfyUI workflows.
 - [omnichar/OmniChar](https://github.com/omnichar/OmniChar) - AI character studio for consistent multi-model identity and LoRA training.
-- [cubiq/ComfyUI_essentials](https://github.com/cubiq/ComfyUI_essentials) - Essential utility nodes for everyday ComfyUI workflows.
-- [cubiq/ComfyUI_FaceAnalysis](https://github.com/cubiq/ComfyUI_FaceAnalysis) - Compare face similarity between two images in ComfyUI.
-- [cubiq/ComfyUI_InstantID](https://github.com/cubiq/ComfyUI_InstantID) - Identity-preserving portrait generation nodes for ComfyUI.
 - [Kosinkadink/ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) - Video workflow nodes: loading, combining, and exporting.
 - [Kosinkadink/ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) - AnimateDiff video generation nodes for ComfyUI.
 - [Fannovel16/comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ControlNet auxiliary preprocessors for ComfyUI.
@@ -2540,7 +2438,6 @@
 - [1038lab/ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG) - ComfyUI nodes for AI background removal and segmentation.
 - [Gourieff/ComfyUI-ReActor](https://github.com/Gourieff/ComfyUI-ReActor) - Fast face-swap extension node for ComfyUI.
 - [ssitu/ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale) - Ultimate SD upscale tiling nodes for ComfyUI.
-- [Shakker-Labs/ComfyUI-IPAdapter-Flux](https://github.com/Shakker-Labs/ComfyUI-IPAdapter-Flux) - IPAdapter nodes for Flux models in ComfyUI.
 - [MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - Process 3D meshes and textures inside ComfyUI.
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - Run quantized GGUF diffusion models natively inside ComfyUI.
 - [ATH-MaaS/ComfyUI-Copilot](https://github.com/ATH-MaaS/ComfyUI-Copilot) - AI-powered ComfyUI assistant for workflow automation and guidance.
@@ -2556,7 +2453,6 @@
 - [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - Large-scale open video generation model framework.
 - [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - Infinite-length AI film generation model.
 - [SkyworkAI/SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) - Multimodal video generation model.
-- [Phantom-video/Phantom](https://github.com/Phantom-video/Phantom) - Subject-consistent video generation via cross-modal alignment.
 - [aigc-apps/VideoX-Fun](https://github.com/aigc-apps/VideoX-Fun) - Flexible video generation at any resolution, from text or images.
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - Open-source effort to reproduce Sora-class text-to-video.
 - [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - Infinite-length video generation with error recycling.
@@ -2577,7 +2473,6 @@
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - ML-based video super-resolution and frame interpolation.
 - [riponcm/nextgenUp](https://github.com/riponcm/nextgenUp) - Free local AI image and video upscaler.
 - [Noah-1919/Fottly](https://github.com/Noah-1919/Fottly) - Self-hosted AI image transformation and background removal service.
-- [302ai/302_photo_restore](https://github.com/302ai/302_photo_restore) - AI old photo restoration web app.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Remove image backgrounds with AI, via CLI or library.
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - Robust blind face restoration via codebook lookup transformers.
 - [ZhengPeng7/BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - High-resolution dichotomous image segmentation for matting.
@@ -2586,7 +2481,6 @@
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - Training scripts for DreamBooth, LoRA, and diffusion fine-tuning.
 - [Tencent-Hunyuan/HunyuanWorld-1.0](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) - Generate explorable 3D worlds from text or images.
 - [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - Image-to-3D assets with production-ready PBR materials.
-- [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - Real-time video frame interpolation with optical flow.
 - [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) - GUI for Kohya training scripts: DreamBooth, LoRA, and fine-tuning.
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Toolkit for fine-tuning diffusion models: LoRA and DreamBooth.
 - [cocktailpeanut/fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead-simple FLUX LoRA training UI with low VRAM support.
@@ -2630,7 +2524,6 @@
 **More**
 
 - [chelslava/rpaforge](https://github.com/chelslava/rpaforge) - Open source Python RPA studio with visual process designer, recorder, debugger, and orchestrator.
-- [saucepleez/taskt](https://github.com/saucepleez/taskt) - Free and open-source robotic process automation (RPA) built in C# on the .NET Framework.
 - [iflytek/astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools for individuals and enterprises.
 - [aisingapore/TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore.
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA.
@@ -2638,7 +2531,6 @@
 - [tebelorg/RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA.
 - [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - Open-source RPA libraries and tools designed for use with Robot Framework and Python.
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
-- [glitchassassin/lackey](https://github.com/glitchassassin/lackey) - Lackey - Graphical desktop automation with Python.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Actiona 3: cross-platform automation tool.
 - [oculix-org/Oculix](https://github.com/oculix-org/Oculix) - OculiX — Visual Automation IDE. If you can see it, you can automate it.
@@ -2654,8 +2546,6 @@
 - [ra1nty/DXcam](https://github.com/ra1nty/DXcam) - High-performance Python screen capture library for Windows using the Desktop Duplication API.
 - [kwhat/libuiohook](https://github.com/kwhat/libuiohook) - A multi-platform C library to provide global keyboard and mouse hooks from userland.
 - [BoboTiG/python-mss](https://github.com/BoboTiG/python-mss) - Ultra-fast cross-platform screenshot module in pure Python using ctypes.
-- [BlueM/cliclick](https://github.com/BlueM/cliclick) - macOS CLI tool for emulating mouse and keyboard events.
-- [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver.
 - [autopilot-rs/autopilot-rs](https://github.com/autopilot-rs/autopilot-rs) - A simple, cross-platform GUI automation module for Rust.
 - [microsoft/WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena) - Scalable Windows OS platform for testing and benchmarking multimodal AI agents.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
@@ -2666,15 +2556,11 @@
 - [Jeomon/Windows-Use](https://github.com/Jeomon/Windows-Use) - An AI Agent that interacts with Windows OS at GUI level.
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
-- [zai-org/CogAgent](https://github.com/zai-org/CogAgent) - An open-sourced end-to-end VLM-based GUI Agent.
-- [agentsea/osuniverse](https://github.com/agentsea/osuniverse) - Benchmark of complex, multimodal desktop-oriented tasks for advanced GUI-navigation AI agents.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots.
-- [showlab/WorldGUI](https://github.com/showlab/WorldGUI) - Enable AI to control your PC. This repo includes the WorldGUI Benchmark and GUI-Thinker Agent.
 - [peakmojo/macos-visual-agent](https://github.com/peakmojo/macos-visual-agent) - On-device screen understanding for macOS.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide.
 - [showlab/ShowUI-Aloha](https://github.com/showlab/ShowUI-Aloha) - Human-taught Computer-use Agent Designed for Real Windows and MacOS Desktops.
 - [askui/python-sdk](https://github.com/askui/python-sdk) - Enable AI to control your desktop, mobile and HMI devices.
-- [njucckevin/SeeClick](https://github.com/njucckevin/SeeClick) - The model, data and code for the visual GUI Agent SeeClick.
 - [OSU-NLP-Group/UGround](https://github.com/OSU-NLP-Group/UGround) - [ICLR'25 Oral] UGround: Universal GUI Visual Grounding for GUI Agents.
 - [OpenGVLab/ScaleCUA](https://github.com/OpenGVLab/ScaleCUA) - Open-sourced computer-use agent that operates across Windows, macOS, Ubuntu, and Android.
 - [THUDM/SCALE-CUA](https://github.com/THUDM/SCALE-CUA) - Open-source framework for computer use agents: VeriGen verifiable task synthesis, online RL.
@@ -2682,7 +2568,6 @@
 - [UCSB-AI/Screen-Point-and-Read](https://github.com/UCSB-AI/Screen-Point-and-Read) - Code repo for "Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens.
 - [likaixin2000/ScreenSpot-Pro-GUI-Grounding](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) - GUI Grounding for Professional High-Resolution Computer Use.
 - [inclusionAI/UI-Venus](https://github.com/inclusionAI/UI-Venus) - General-purpose foundation GUI agent for mobile, web, and desktop using screenshots as input.
-- [OS-Copilot/OS-Atlas](https://github.com/OS-Copilot/OS-Atlas) - OS-ATLAS: A Foundation Action Model For Generalist GUI Agents.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family.
 - [GUI-Libra/GUI-Libra](https://github.com/GUI-Libra/GUI-Libra) - Official code for NeurIPS 2026 paper "GUI-Libra: Training Native GUI Agents to Reason and Act.
 - [honeynet/droidbot](https://github.com/honeynet/droidbot) - A lightweight test input generator for Android. Similar to Monkey, but with more intelligence.
@@ -2705,7 +2590,6 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines.
-- [cyberdesk-hq/cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) - Open source virtual desktops for AI agents.
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - The Apache Guacamole proxy daemon (guacd), C API (libguac), and protocol support.
@@ -2720,7 +2604,6 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management.
-- [LibVNC/x11vnc](https://github.com/LibVNC/x11vnc) - a VNC server for real X displays.
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors.
 - [dwservice/agent](https://github.com/dwservice/agent) - DWService agent for Linux, Mac and Windows.
 - [selkies-project/selkies](https://github.com/selkies-project/selkies) - Low-Latency Accelerated Web Remote Desktop Streaming Platform for Self-Hosting, Containers.
@@ -2757,21 +2640,15 @@
 - [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa) - AI-first security scanner with 40k+ detection patterns.
 - [liu00222/Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) - Toolkit for prompt injection attacks and defenses in LLMs.
 - [NuGuardAI/nuguard](https://github.com/NuGuardAI/nuguard) - AI red-teaming toolkit for prompt injections and agents.
-- [JailbreakBench/jailbreakbench](https://github.com/JailbreakBench/jailbreakbench) - Open robustness benchmark for jailbreaks with leaderboard.
 - [ethz-spylab/agentdojo](https://github.com/ethz-spylab/agentdojo) - Environment evaluating prompt injection attacks on LLM agents.
 - [unitaryai/detoxify](https://github.com/unitaryai/detoxify) - Toxic comment classifier built on HuggingFace Transformers.
-- [dsbowen/strong_reject](https://github.com/dsbowen/strong_reject) - Maintained implementation of the StrongREJECT jailbreak benchmark.
 - [mthamil107/prompt-shield](https://github.com/mthamil107/prompt-shield) - Prompt injection firewall with PII scanning for LLM inputs.
 - [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and skills.
 - [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) - PII detection, redaction and anonymization for text and images.
 - [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) - Scanner for MCP tools, prompts and supply-chain packages.
 - [microsoft/PyRIT](https://github.com/microsoft/PyRIT) - Red-teaming framework for identifying genAI risks.
 - [OWASP/AISVS](https://github.com/OWASP/AISVS) - Testable security verification requirements for AI applications.
-- [aypan17/machiavelli](https://github.com/aypan17/machiavelli) - Benchmark measuring reward vs. ethical behavior trade-offs in agents.
-- [thu-coai/SafetyBench](https://github.com/thu-coai/SafetyBench) - Bilingual benchmark for LLM safety across 11k questions.
-- [jwkirchenbauer/lm-watermarking](https://github.com/jwkirchenbauer/lm-watermarking) - Watermarking and detection algorithms for large language models.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - Natural language interfaces via types with schema-validated output.
-- [vectara/FaithBench](https://github.com/vectara/FaithBench) - Human-annotated benchmark for summarization hallucinations.
 - [google-research/true](https://github.com/google-research/true) - Code and data for re-evaluating factual consistency metrics.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - Structured-output language for building reliable LLM agents.
 - [mohankrishnaganne/LLM-Evaluation-and-Guardrails-Framework](https://github.com/mohankrishnaganne/LLM-Evaluation-and-Guardrails-Framework) - Production framework for evaluating RAG pipelines and enforcing LLM guardrails.
@@ -2784,18 +2661,14 @@
 - [promplate/partial-json-parser](https://github.com/promplate/partial-json-parser) - Parses partial and incomplete JSON streamed from LLMs.
 - [royalpinto007/awesome-llm-guardrails](https://github.com/royalpinto007/awesome-llm-guardrails) - Curated list of open-source guardrails for LLM applications.
 - [baoguangsheng/fast-detect-gpt](https://github.com/baoguangsheng/fast-detect-gpt) - Zero-shot detector for machine-generated text.
-- [shmsw25/FActScore](https://github.com/shmsw25/FActScore) - Evaluates factuality of long-form LLM generations against knowledge.
 - [safetensors/safetensors](https://github.com/safetensors/safetensors) - Safe tensor storage format preventing arbitrary code execution.
 - [trailofbits/fickling](https://github.com/trailofbits/fickling) - Static analyzer and decompiler for Python pickle model files.
 - [protectai/modelscan](https://github.com/protectai/modelscan) - Scans models for serialization attacks and unsafe code.
 - [ibm-granite/granite-guardian](https://github.com/ibm-granite/granite-guardian) - Detects risks in prompts and responses for LLM safety.
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - Integrates LLMs into structured NLP pipelines with spaCy.
-- [Liyan06/MiniCheck](https://github.com/Liyan06/MiniCheck) - Efficient fact-checking of LLM outputs against grounding documents.
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Library for ML security: evasion, poisoning, extraction, and inference attacks.
 - [AgentPostmortem/Injection-arena](https://github.com/AgentPostmortem/Injection-arena) - Self-hostable prompt-injection CTF game with stacked AI defenses.
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Policy language for fine-grained access control in applications.
-- [lennartpollvogt/ollama-instructor](https://github.com/lennartpollvogt/ollama-instructor) - Reliable structured JSON outputs from Ollama with validation.
-- [nadeesha/structlm](https://github.com/nadeesha/structlm) - Token-efficient schemas for structured LLM outputs.
 - [rogue-security/rogue](https://github.com/rogue-security/rogue) - Red-team platform evaluating AI agents against security policies.
 - [METR/vivaria](https://github.com/METR/vivaria) - Platform for running agent evaluations and elicitation research.
 ## Chat UIs & Application Layer
@@ -2820,15 +2693,12 @@
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Chat with all AI bots concurrently in one UI.
 - [miurla/morphic](https://github.com/miurla/morphic) - AI-powered search engine with a generative UI.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - AI-powered answering engine (formerly Perplexica).
-- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged multi-model chat UI for ChatGPT, DALL-E and more.
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - LLM interface optimized for paper reading and writing.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - AI research assistant with an iterative deep-research UI.
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and LLMs with agents and file QA.
-- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) - Open-source deep research agent with a web UI.
 - [u14app/deep-research](https://github.com/u14app/deep-research) - Deep research on any LLM with SSE API and MCP server.
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - Feature-rich ChatGPT Telegram bot frontend.
 - [jiayueshiliuqi/MoFa](https://github.com/jiayueshiliuqi/MoFa) - Mobile-first LLM chat client for Android.
-- [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - ChatGPT Telegram bot with streaming responses.
 - [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Open-source mobile app for on-device LLM and media generation.
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - Run language models directly on your phone.
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - iOS and macOS app for private self-hosted LLMs.
@@ -2983,12 +2853,9 @@
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Self-hostable experiment tracker built for high-volume run comparison.
 - [treeverse/dvclive](https://github.com/treeverse/dvclive) - Log and track ML metrics, parameters, and models with Git/DVC.
 - [iterative/gto](https://github.com/iterative/gto) - Turn any Git repository into an artifact and model registry.
-- [iterative/cml](https://github.com/iterative/cml) - CI/CD for ML: run experiments and report results in pull requests.
 - [kubeflow/hub](https://github.com/kubeflow/hub) - Central model registry UI for the Kubeflow MLOps lifecycle.
-- [guildai/guildai](https://github.com/guildai/guildai) - Lightweight experiment tracking and ML developer tooling.
 - [DagsHub/client](https://github.com/DagsHub/client) - Client libraries for the DagsHub ML experiment tracking platform.
 - [quintoandar/butterfree](https://github.com/quintoandar/butterfree) - Build feature stores on Spark with declarative definitions.
-- [featureform/featureform](https://github.com/featureform/featureform) - Virtual feature store over your existing data infrastructure.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like data version control for your data lake.
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - Open standard for data and ML pipeline lineage metadata.
 - [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize data ecosystem metadata.
@@ -2996,14 +2863,12 @@
 - [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - Lightweight statistical data testing for dataframes.
 - [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data contracts engine for the modern data stack.
 - [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Continuous validation tests for ML models and data.
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Estimate post-deployment model performance without ground truth.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - Open platform for LLM evaluations and AI agent testing.
 - [alibaba/MNN](https://github.com/alibaba/MNN) - Blazing-fast lightweight inference engine for on-device and edge AI.
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Collaboration workspace for building high-quality AI datasets.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference optimized for mobile.
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - Optimize and deploy AI inference across Intel hardware.
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform ML solutions for live and streaming media.
-- [Tencent/TNN](https://github.com/Tencent/TNN) - Cross-platform deep learning inference for mobile, desktop, and server.
 - [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Ultrafast serverless GPU inference, sandboxes, and background jobs.
 - [apple/coremltools](https://github.com/apple/coremltools) - Tools for Core ML model conversion, editing, and validation.
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine learning containers for NVIDIA Jetson edge deployment.
@@ -3044,9 +2909,6 @@
 - [Red-Hat-AI-Innovation-Team/sdg_hub](https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub) - Building blocks for synthetic data generation workflows.
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Data versioning and packaging for S3-backed datasets.
 - [mostly-ai/mostlyai](https://github.com/mostly-ai/mostlyai) - Synthetic data generation with privacy guarantees.
-- [BatsResearch/bonito](https://github.com/BatsResearch/bonito) - Synthetic instruction-tuning data from unannotated text.
-- [mlfoundations/datacomp](https://github.com/mlfoundations/datacomp) - Benchmark for multimodal dataset curation at scale.
-- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Instruction-following LLMs via Evol-Instruct data.
 - [huggingface/dataset-viewer](https://github.com/huggingface/dataset-viewer) - Web app for exploring Hugging Face datasets.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - Open dataset replicating LLaMA training data.
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - Open toolkit for instruction-tuning language models.
@@ -3059,8 +2921,6 @@
 - [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) - Data processing system for LLM pretraining data.
 - [joke2k/faker](https://github.com/joke2k/faker) - Library for generating realistic fake data in Python.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - In-process analytical SQL engine; query Parquet and CSV at speed.
-- [mlfoundations/dclm](https://github.com/mlfoundations/dclm) - DataComp for language models: open pretraining data curation.
-- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - Benchmark and dataset toolkit for tool-using LLMs.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Blazing-fast DataFrame library for Python and Rust.
 - [apache/datafusion](https://github.com/apache/datafusion) - Extensible query engine for building data pipelines in Rust.
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for tool-augmented AI agents.
@@ -3118,19 +2978,16 @@
 - [Future-House/robin](https://github.com/Future-House/robin) - Multi-agent system automating scientific discovery.
 - [Genentech/CLADD](https://github.com/Genentech/CLADD) - RAG-enhanced collaborative agents for drug discovery.
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - Autonomous scientific innovation platform (NeurIPS 2025).
-- [gersteinlab/ChemAgent](https://github.com/gersteinlab/ChemAgent) - Self-updating memory agent for chemical reasoning (ICLR 2025).
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - Agent-native trading platform with collective intelligence.
 - [huygiatrng/AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) - Multi-agent LLM trading on the Alpaca platform.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - Personal trading agent with multi-agent teams.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Claude Code skill suite covering the full academic research pipeline.
 - [jackysiupuichung/virtual-biotech-scientist](https://github.com/jackysiupuichung/virtual-biotech-scientist) - Closed-loop multi-agent AI scientist for drug-target discovery.
 - [jinlab-imvr/MedAgent-Pro](https://github.com/jinlab-imvr/MedAgent-Pro) - Evidence-based multimodal medical diagnosis (ICLR 2026).
-- [Just-Curieous/Curie](https://github.com/Just-Curieous/Curie) - AI agent framework for automated scientific experimentation.
 - [K-Dense-AI/drug-discovery-agent-skills](https://github.com/K-Dense-AI/drug-discovery-agent-skills) - Bundle of 37 drug-discovery agent skills.
 - [Kahtaf/OpenCandle](https://github.com/Kahtaf/OpenCandle) - Financial investigator agent for deep market research.
 - [KaiChenNJ/MDTeamGPT](https://github.com/KaiChenNJ/MDTeamGPT) - Self-evolving multi-agent multidisciplinary medical consultations.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents autonomously running research on single-GPU LLM training.
-- [lingyue404/clinical-agent](https://github.com/lingyue404/clinical-agent) - Multi-agent system for clinical trials (ACM-BCB 2024).
 - [lowtidebuild/contract-review](https://github.com/lowtidebuild/contract-review) - Contract review agent pipeline producing redlined DOCX.
 - [MAXNORM8650/MedAgentSim](https://github.com/MAXNORM8650/MedAgentSim) - Self-evolving multi-agent clinical simulations (MICCAI 2025).
 - [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - Ecosystem for AI scientists with 1000+ tools.
@@ -3138,10 +2995,7 @@
 - [monk1337/Bio-Autoresearch](https://github.com/monk1337/Bio-Autoresearch) - Karpathy-style autonomous loop for rare disease drug discovery.
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - End-to-end autonomous scientific discovery via agentic tree search.
 - [Open-Medica/open-medical-skills](https://github.com/Open-Medica/open-medical-skills) - Marketplace of 700+ physician-reviewed medical AI skills.
-- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - End-to-end autonomous research workflows with LLM agents.
-- [snap-stanford/BioDiscoveryAgent](https://github.com/snap-stanford/BioDiscoveryAgent) - LLM agent for closed-loop genetic perturbation experiments.
 - [StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - Query Apple Health data with natural language.
-- [snap-stanford/POPPER](https://github.com/snap-stanford/POPPER) - Agentic sequential falsification for hypothesis validation.
 - [tarun7r/deep-research-agent](https://github.com/tarun7r/deep-research-agent) - Multi-agent research system with credibility-scored reports.
 - [The-Swarm-Corporation/MedicalCoderSwarm](https://github.com/The-Swarm-Corporation/MedicalCoderSwarm) - Multi-agent diagnosis and ICD-10 medical coding.
 - [tokisaka23/RxLM-Med-Agent](https://github.com/tokisaka23/RxLM-Med-Agent) - Multimodal clinical diagnostic agent with System 2 reasoning.
@@ -3149,7 +3003,6 @@
 - [wu-yc/LabClaw](https://github.com/wu-yc/LabClaw) - 240-skill biomedical AI agent skill library.
 - [Wangyixinxin/MMedAgent](https://github.com/Wangyixinxin/MMedAgent) - Multimodal medical tool-using agent (EMNLP 2024).
 - [wzn99/DrugPilot](https://github.com/wzn99/DrugPilot) - LLM agent framework for drug discovery.
-- [XMUDM/BioResearcher](https://github.com/XMUDM/BioResearcher) - Official biomedical research agent implementation (Sci China 2025).
 - [YichengYang-Ethan/oracle3](https://github.com/YichengYang-Ethan/oracle3) - Prediction-market trading engine with Wang Transform pricing.
 - [yhzhu99/HealthFlow](https://github.com/yhzhu99/HealthFlow) - Self-evolving multi-agent EHR analysis (npj Digital Medicine 2026).
 - [zaixizhang/STELLA](https://github.com/zaixizhang/STELLA) - Self-evolving LLM agent for biomedical research.
@@ -3193,7 +3046,6 @@
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Rust-built open-source Agent OS with autonomous scheduled Hands.
 - [rootazero/Aleph](https://github.com/rootazero/Aleph) - Self-hosted personal AI assistant with a native desktop app and messaging channels.
 - [CharlesHAO77/EveryBuddy](https://github.com/CharlesHAO77/EveryBuddy) - Local-first desktop personal agent with personas, cron schedules, and MCP skills.
-- [lightcr1/jarvis](https://github.com/lightcr1/jarvis) - Privacy-first self-hosted Jarvis with voice, text, home automation, and local LLMs.
 - [justinprasetyo/jarvis](https://github.com/justinprasetyo/jarvis) - Voice-activated assistant on local Ollama with wake word and self-managed memory.
 - [utopusc/livinity-io](https://github.com/utopusc/livinity-io) - Self-hostable "Cloud AI Computer" with an AI assistant managing apps and files.
 - [vaenyxai/core](https://github.com/vaenyxai/core) - Self-hosted home AI agent with local memory, tasks, and your choice of model backend.
@@ -3236,9 +3088,7 @@
 
 - [adamkarvonen/SAEBench](https://github.com/adamkarvonen/SAEBench) - Benchmark suite for evaluating sparse autoencoders on language models.
 - [AI45Lab/OpenART](https://github.com/AI45Lab/OpenART) - Open agentic red teaming toolkit for AI safety evaluation.
-- [AlignmentResearch/tuned-lens](https://github.com/AlignmentResearch/tuned-lens) - Logit lens variant for inspecting transformer predictions layer by layer.
 - [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - Training and analysis toolkit for sparse autoencoders.
-- [centerforaisafety/wmdp](https://github.com/centerforaisafety/wmdp) - Benchmark measuring hazardous knowledge in language models.
 - [allenai/reward-bench](https://github.com/allenai/reward-bench) - Benchmark for evaluating reward models for language models.
 - [EleutherAI/sparsify](https://github.com/EleutherAI/sparsify) - Sparse autoencoder training library for interpretability research.
 - [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - Platform for exploring and interpreting neuron activations.
@@ -3252,7 +3102,6 @@
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - Learning Interpretability Tool for visual model analysis.
 - [PKU-Alignment/align-anything](https://github.com/PKU-Alignment/align-anything) - Alignment framework for any modality with human feedback.
 - [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Distributed RL infrastructure for training reasoning models.
-- [Prisma-Multimodal/ViT-Prisma](https://github.com/Prisma-Multimodal/ViT-Prisma) - Mechanistic interpretability library for vision transformers.
 - [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - Benchmark for evaluating AI agents on telecom support tasks.
 - [stanfordnlp/pyreft](https://github.com/stanfordnlp/pyreft) - Python library for representation fine-tuning of LLMs.
 - [stanfordnlp/pyvene](https://github.com/stanfordnlp/pyvene) - Causal interpretability toolkit for neural network internals.
@@ -3262,15 +3111,12 @@
 - [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) - Maintained evaluation suites built on the Inspect AI framework.
 - [verl-project/verl](https://github.com/verl-project/verl) - Hybrid RL training framework for large language models.
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - Easy-to-use knowledge editing framework for LLMs.
-- [ApolloResearch/e2e_sae](https://github.com/ApolloResearch/e2e_sae) - Library for training sparse autoencoders end-to-end with TransformerLens.
 - [constsynth/loupe](https://github.com/constsynth/loupe) - Research library for SAE-centered interpretability with feature dashboards.
 - [AlignmentResearch/defense-in-depth-demo](https://github.com/AlignmentResearch/defense-in-depth-demo) - Accompanying code and demo for the Defense in Depth safety paper.
 - [gwenlake/nanoSAE](https://github.com/gwenlake/nanoSAE) - Small, fast library for training sparse autoencoders on text-model activations.
 - [ZaheerAbbasOrakzai/transformer-internals-lab](https://github.com/ZaheerAbbasOrakzai/transformer-internals-lab) - Interactive suite for attention maps, head ablation, and logit-lens tracing.
 - [mi-for-the-rust-of-us/candle-mi](https://github.com/mi-for-the-rust-of-us/candle-mi) - Rust toolkit for mechanistic interpretability on the candle ML framework.
-- [ApolloResearch/apd](https://github.com/ApolloResearch/apd) - Code for Attribution-based Parameter Decomposition in parameter space.
 - [binhu02/repsteer](https://github.com/binhu02/repsteer) - Python toolkit for representation engineering and activation steering.
-- [AlignmentResearch/learned-planner](https://github.com/AlignmentResearch/learned-planner) - Interpretability code reverse-engineering planning in Sokoban-playing RNNs.
 - [levashi/reprobe](https://github.com/levashi/reprobe) - Memory-efficient linear probes and activation steering for safety research.
 - [codemage05/llm-truth-steering](https://github.com/codemage05/llm-truth-steering) - Linear probing and activation steering to detect truthful LLM representations.
 - [graphs4ai/LLM-Lobotomy](https://github.com/graphs4ai/LLM-Lobotomy) - Framework for analyzing and steering political stance in LLM activations.
@@ -3279,7 +3125,6 @@
 - [AlignmentResearch/obfuscation-atlas](https://github.com/AlignmentResearch/obfuscation-atlas) - Maps where honesty emerges in RLVR using deception probes.
 - [AlignmentResearch/deception-evasion-honesty](https://github.com/AlignmentResearch/deception-evasion-honesty) - Code for preference learning with lie detectors inducing honesty or evasion.
 - [AlignmentResearch/puc](https://github.com/AlignmentResearch/puc) - Harness for studying persuasion-under-control by misaligned AI assistants.
-- [AlignmentResearch/harmtune](https://github.com/AlignmentResearch/harmtune) - Toolkit for testing fine-tuning attacks and defenses with poisoned datasets.
 - [AlignmentResearch/AttemptPersuadeEval](https://github.com/AlignmentResearch/AttemptPersuadeEval) - Eval measuring LLM attempts to persuade across benign to harmful topics.
 - [AlignmentResearch/vlmrm](https://github.com/AlignmentResearch/vlmrm) - Uses vision-language models as zero-shot reward models for reinforcement learning.
 ## Developer Tools & Utilities
@@ -3319,13 +3164,11 @@
 - [rajapalagummi/SDG-Synthetic-Data-Factory](https://github.com/rajapalagummi/SDG-Synthetic-Data-Factory) - Python library generating synthetic LLM training and eval data.
 - [Lexsi-Labs/CuratorKIT](https://github.com/Lexsi-Labs/CuratorKIT) - Data curation and synthetic data generation for LLM post-training.
 - [zdjts/llm_proxy](https://github.com/zdjts/llm_proxy) - Self-hosted OpenAI-compatible LLM gateway in Rust with failover.
-- [m4stanuj/mast-llm-router](https://github.com/m4stanuj/mast-llm-router) - Task-aware LLM router with fallback chains and cost-aware routing.
 - [victornguyen247/LLM-GateWay](https://github.com/victornguyen247/LLM-GateWay) - Go API gateway with rate limiting, caching, and guardrails.
 - [labiium/routiium](https://github.com/labiium/routiium) - Self-hosted LLM reverse proxy with routing, judging, and cost tracking.
 - [neo4j-labs/agent-memory](https://github.com/neo4j-labs/agent-memory) - Graph-native memory system for AI agents backed by Neo4j.
 - [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) - Long-term agent memory runtime with Markdown as the source of truth.
 - [yuzi001a/hippocampus-memory](https://github.com/yuzi001a/hippocampus-memory) - Local-first, source-preserving long-term memory runtime for agents.
-- [microsoft/sammo](https://github.com/microsoft/sammo) - Library for structure-aware multi-objective prompt optimization.
 - [standardbeagle/standardbeagle-tools](https://github.com/standardbeagle/standardbeagle-tools) - Claude Code marketplace plugins: browser, code intelligence, tools.
 - [CodeEmperor7/rag-eval](https://github.com/CodeEmperor7/rag-eval) - Production-style AI assistant with evaluation and monitoring.
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Mozilla's unified Python SDK for calling any LLM provider through one interface.
@@ -3389,7 +3232,6 @@
 - [uhub/awesome-llm](https://github.com/uhub/awesome-llm) - Curated list of LLM models, tools and resources.
 - [yzfly/Awesome-AGI-Agents](https://github.com/yzfly/Awesome-AGI-Agents) - Curated list of AGI and autonomous agent resources.
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - Curated list of AI agent frameworks and tools.
-- [trycua/acu](https://github.com/trycua/acu) - Curated resources on AI agents for computer use.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - Curated list of generative AI projects and services.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - Curated ML frameworks and libraries by language.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Curated deep learning tutorials, papers and datasets.
@@ -3399,9 +3241,7 @@
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - Curated AI resources for building agentic systems.
 - [Anil-matcha/awesome-muse-connectors](https://github.com/Anil-matcha/awesome-muse-connectors) - Catalog of Muse integrations and connector skills.
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Topic-centric list of high-quality open datasets.
-- [usejina/awesome-engineering-agents](https://github.com/usejina/awesome-engineering-agents) - Curated list of AI engineering agents across IDEs, coding, QA, DevOps, and security.
 - [avinash201199/free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources) - Free AI agent learning hub with curated repos, tutorials, and courses.
-- [heurema/awesome-ai-agents](https://github.com/heurema/awesome-ai-agents) - Curated collection of AI agent frameworks, tools, research papers, and tutorials.
 - [jqueryscript/awesome-coding-agent](https://github.com/jqueryscript/awesome-coding-agent) - Curated directory of AI coding agents ranked with stars and licenses.
 - [gabrielmoreira/awesome-ai-rabbit-holes](https://github.com/gabrielmoreira/awesome-ai-rabbit-holes) - Opinionated rabbit-holes into coding agents, AI tooling, and the agent economy.
 - [subinium/Awesome-Scientific-LLM-Benchmarks](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) - Accuracy-first list of benchmarks for evaluating LLMs on scientific reasoning.
