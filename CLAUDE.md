@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A curated "awesome list" of AI agent tooling. **`README.md` is the source of truth.** Everything in `docs/` is generated from it and published to GitHub Pages at https://tayyabimam1.github.io/awesome-ai-agent-stack/.
+A curated "awesome list" of AI agent tooling. **`README.md` is the source of truth.** The website is generated from it and published to GitHub Pages at https://tayyabimam1.github.io/awesome-ai-agent-stack/.
 
 ## Commands
 
@@ -12,7 +12,7 @@ A curated "awesome list" of AI agent tooling. **`README.md` is the source of tru
 python scripts/build_site.py      # README.md -> web/public/data.json (+ sitemap, robots); stdlib only
 cd web && npm install             # once
 cd web && npm run dev             # local dev server at http://localhost:5173/awesome-ai-agent-stack/
-cd web && npm run build           # typecheck + build the site into ../docs/
+cd web && npm run build           # typecheck + build the site into web/dist/ (gitignored)
 ```
 
 Run the Python step before `dev` or `build`: the generated files in `web/public/` are gitignored. There are no tests. `npm run build` runs `tsc --noEmit`, so a clean build means it typechecks.
@@ -29,11 +29,12 @@ Two stages: Python parses, React renders.
   - Star counts come from `site-data/stars.json` (`owner/repo` -> count, looked up case-insensitively). No script in the repo updates it.
 - `web/` is a Vite + React + TypeScript + Tailwind v4 + Motion app:
   - `src/data.ts` fetches `data.json` once and holds the shared types, search ranking and star ranking (`topRepos`).
-  - `src/components/`: `Layout` (header, theme toggle, and the category sidebar: a header button opens and closes it on every page (shut by default on home, remembered in localStorage elsewhere), a drawer on mobile), `Sidebar` (the category list), `Home` (category cards grouped by tier, each with its top 3 repos; the only search is the header one), `Layer` (one category, ranked by stars by default, or in the README's curated order), `RepoList` (the GitHub-style repo row), `CommandPalette` (Ctrl K or `/` searches every tool), `ui` (animated primitives).
+  - UI pieces in `src/components/ui.tsx` are ports of Magic UI (MagicCard, Marquee, BorderBeam, AnimatedShinyText, BlurFade, DotPattern) and a trimmed shadcn Button, recoloured to the Primer tokens. Add new ones there rather than pulling in a component library.
+  - `src/components/`: `Layout` (header, theme toggle, and the category sidebar: a header button opens and closes it on every page (shut by default on home, remembered in localStorage elsewhere), a drawer on mobile), `Sidebar` (the category list), `Home` (hero with search, a marquee of the most-starred repos, and the stack: one band per tier with its category cards), `Layer` (one category, ranked by stars by default or in the README's curated order, with sub-group filter chips), `RepoList` (the GitHub-style repo row), `CommandPalette` (Ctrl K or `/` searches every tool), `ui` (animated primitives).
   - The site is star-driven: rankings come from `site-data/stars.json`, so refreshing that file reorders the site.
-  - Routing uses `BrowserRouter` with base `/awesome-ai-agent-stack/`. GitHub Pages has no SPA rewrites, so the `perPageHtml` plugin in `vite.config.ts` copies `index.html` to one `<slug>.html` per layer (each with its own title and description) plus `404.html`.
+  - Routing uses `BrowserRouter` with base `/awesome-ai-agent-stack/`. GitHub Pages has no SPA rewrites, so the `perPageHtml` plugin in `vite.config.ts` writes one `<slug>.html` per layer plus `404.html`. Each gets its own title, description, Open Graph/Twitter tags, canonical URL and JSON-LD, and the category's tools as plain HTML inside `#root` (for crawlers; React replaces it on load). `?q=` on any URL opens search with that query (the JSON-LD SearchAction target).
   - Colours are GitHub Primer values, set as CSS variables in `src/index.css` and switched by the `.dark` class. The font is Mona Sans.
-- `.github/workflows/site.yml` runs the Python step and `npm run build` on every push to `main` that touches README, the script, stars.json or `web/`. It then commits `docs/` as `github-actions[bot]`. Hand edits to `docs/` get overwritten.
+- `.github/workflows/site.yml` runs the Python step and `npm run build` on every push to `main` that touches README, the script, stars.json or `web/`, then deploys `web/dist/` with `actions/deploy-pages`. Pages' source is set to "GitHub Actions"; nothing built is committed.
 
 ## README conventions (from CONTRIBUTING.md)
 

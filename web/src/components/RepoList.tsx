@@ -7,7 +7,7 @@ import { Avatar, Stars } from "./ui";
 /** Bordered list of repositories, GitHub style. Rows animate when sorting or filtering. */
 export function RepoList({ children }: { children: ReactNode }) {
   return (
-    <motion.ol layout className="overflow-hidden rounded-md border border-line bg-surface">
+    <motion.ol layout className="overflow-hidden rounded-xl border border-line bg-surface">
       <AnimatePresence initial={false} mode="popLayout">{children}</AnimatePresence>
     </motion.ol>
   );

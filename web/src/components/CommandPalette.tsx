@@ -14,7 +14,9 @@ type Item =
   | { kind: "tool"; key: string; title: string; sub: string; to: string; owner: string; stars: number };
 
 export function PaletteProvider({ children }: { children: ReactNode }) {
-  const [open, setOpen] = useState(false);
+  // ?q=… opens the palette with that query (the target of the site's SearchAction).
+  const [initial] = useState(() => new URLSearchParams(location.search).get("q") ?? "");
+  const [open, setOpen] = useState(!!initial);
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const typing = /INPUT|TEXTAREA|SELECT/.test((e.target as HTMLElement).tagName);
@@ -34,15 +36,15 @@ export function PaletteProvider({ children }: { children: ReactNode }) {
   return (
     <PaletteContext.Provider value={() => setOpen(true)}>
       {children}
-      <AnimatePresence>{open && <Palette onClose={() => setOpen(false)} />}</AnimatePresence>
+      <AnimatePresence>{open && <Palette initial={initial} onClose={() => setOpen(false)} />}</AnimatePresence>
     </PaletteContext.Provider>
   );
 }
 
-function Palette({ onClose }: { onClose: () => void }) {
+function Palette({ initial, onClose }: { initial: string; onClose: () => void }) {
   const data = useData();
   const navigate = useNavigate();
-  const [q, setQ] = useState("");
+  const [q, setQ] = useState(initial);
   const [active, setActive] = useState(0);
   const listRef = useRef<HTMLUListElement>(null);
   const hits = useMemo(() => (data ? allEntries(data) : []), [data]);

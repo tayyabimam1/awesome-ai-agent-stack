@@ -69,10 +69,10 @@ function Header({ onMenu, onToggle, collapsed }: {
         </motion.button>
         <Logo />
         <button type="button" onClick={openPalette}
-          className="ml-auto flex h-8 w-full max-w-xs items-center gap-2 rounded-md border border-line bg-bg px-2.5 text-sm text-muted hover:border-accent/60 md:ml-6 md:max-w-md">
+          className="ml-auto flex h-8 w-full max-w-xs items-center gap-2 rounded-lg border border-line bg-bg px-2.5 text-sm text-muted hover:border-accent/60 md:ml-6 md:max-w-md">
           <Search className="size-4 shrink-0" aria-hidden />
           <span className="truncate">{data ? `Search ${data.total.toLocaleString()} tools` : "Search tools"}</span>
-          <kbd className="ml-auto hidden rounded border border-line px-1.5 text-xs sm:block">Ctrl K</kbd>
+          <kbd className="ml-auto hidden rounded border border-line px-1.5 font-mono text-xs sm:block">Ctrl K</kbd>
         </button>
         <nav className="flex items-center gap-2 md:ml-auto">
           {data && (
@@ -181,9 +181,23 @@ export function Layout() {
             <Outlet />
           </motion.main>
           <footer className="border-t border-line">
-            <div className="mx-auto flex max-w-5xl flex-col gap-2 px-4 py-6 text-sm text-muted sm:flex-row sm:px-8">
-              <p>Generated from the {data ? <a className="text-accent hover:underline" href={data.repo + "#readme"}>README</a> : "README"}. Released under CC BY 4.0.</p>
-              <p className="sm:ml-auto">Found a dead link or a missing tool? <Link className="text-accent hover:underline" to="/contributing.html">Here is how to contribute.</Link></p>
+            <div className="mx-auto flex max-w-7xl flex-col gap-6 px-4 py-10 text-sm text-muted sm:flex-row sm:items-start sm:px-8">
+              <div className="max-w-sm">
+                <Logo />
+                <p className="mt-3">
+                  Generated from the {data ? <a className="text-accent hover:underline" href={data.repo + "#readme"}>README</a> : "README"} on
+                  GitHub and rebuilt on every change. Content released under CC BY 4.0.
+                </p>
+              </div>
+              {data && (
+                <nav aria-label="Project" className="flex flex-wrap gap-x-6 gap-y-2 sm:ml-auto">
+                  <a className="hover:text-ink" href={data.repo}>GitHub</a>
+                  <a className="hover:text-ink" href={data.edit}>Suggest a tool</a>
+                  <a className="hover:text-ink" href={data.repo + "/blob/main/CONTRIBUTING.md"}>Contributing</a>
+                  <a className="hover:text-ink" href={data.repo + "/issues"}>Report a dead link</a>
+                  <a className="hover:text-ink" href={data.repo + "/blob/main/LICENSE"}>License</a>
+                </nav>
+              )}
             </div>
           </footer>
         </div>

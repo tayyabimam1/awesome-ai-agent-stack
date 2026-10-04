@@ -4,3 +4,5 @@ node_modules/
 web/public/data.json
 web/public/sitemap.xml
 web/public/robots.txt
+# built site; deployed to GitHub Pages by .github/workflows/site.yml
+web/dist/
