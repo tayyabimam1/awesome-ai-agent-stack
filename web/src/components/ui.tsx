@@ -117,6 +117,61 @@ export function DotPattern({ className }: { className?: string }) {
   );
 }
 
+/** Magic UI FlickeringGrid: small squares in the accent colour that fade in and out.
+ *  Throttled to ~15fps; drawn once and left still under prefers-reduced-motion. */
+export function FlickeringGrid({ className, square = 3, gap = 7, chance = 0.25, max = 0.5 }: {
+  className?: string; square?: number; gap?: number; chance?: number; max?: number;
+}) {
+  const ref = useRef<HTMLCanvasElement>(null);
+  const reduce = useReducedMotion();
+  useEffect(() => {
+    const canvas = ref.current;
+    const ctx = canvas?.getContext("2d");
+    if (!canvas || !ctx) return;
+    let cols = 0, rows = 0, dpr = 1, raf = 0, last = 0, color = "";
+    let cells = new Float32Array(0);
+    const readColor = () => { color = getComputedStyle(canvas).getPropertyValue("--accent").trim() || "#4493f8"; };
+    const draw = () => {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = color;
+      const s = square * dpr, step = (square + gap) * dpr;
+      for (let i = 0; i < cols; i++)
+        for (let j = 0; j < rows; j++) {
+          ctx.globalAlpha = cells[i * rows + j];
+          ctx.fillRect(i * step, j * step, s, s);
+        }
+      ctx.globalAlpha = 1;
+    };
+    const resize = () => {
+      dpr = window.devicePixelRatio || 1;
+      canvas.width = canvas.clientWidth * dpr;
+      canvas.height = canvas.clientHeight * dpr;
+      cols = Math.ceil(canvas.clientWidth / (square + gap));
+      rows = Math.ceil(canvas.clientHeight / (square + gap));
+      cells = Float32Array.from({ length: cols * rows }, () => Math.random() * max);
+      draw();
+    };
+    const tick = (t: number) => {
+      raf = requestAnimationFrame(tick);
+      if (t - last < 66) return;
+      const dt = Math.min((t - last) / 1000, 1);
+      last = t;
+      for (let i = 0; i < cells.length; i++) if (Math.random() < chance * dt) cells[i] = Math.random() * max;
+      draw();
+    };
+    readColor();
+    resize();
+    const ro = new ResizeObserver(resize);
+    ro.observe(canvas);
+    // the theme toggle flips a class on <html>; repaint in the new accent colour
+    const mo = new MutationObserver(() => { readColor(); draw(); });
+    mo.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
+    if (!reduce) raf = requestAnimationFrame(tick);
+    return () => { cancelAnimationFrame(raf); ro.disconnect(); mo.disconnect(); };
+  }, [square, gap, chance, max, reduce]);
+  return <canvas ref={ref} aria-hidden className={clsx("pointer-events-none block size-full", className)} />;
+}
+
 /** shadcn/ui Button, trimmed to the two variants the site uses. */
 export function buttonClass(variant: "primary" | "outline" = "primary", className?: string) {
   return clsx(

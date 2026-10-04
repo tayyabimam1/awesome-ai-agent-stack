@@ -4,6 +4,7 @@ import { motion } from "motion/react";
 import { ArrowRight, Plus, Search, Star } from "lucide-react";
 import { allEntries, fmtBig, layerPath, topRepos, useData, type Data, type Hit } from "../data";
 import { useOpenPalette } from "./CommandPalette";
+import { useOpenForm } from "./Forms";
 import {
   Avatar, BlurFade, BorderBeam, buttonClass, Counter, DotPattern, MagicCard, Marquee, ShinyText, Stars,
 } from "./ui";
@@ -27,6 +28,7 @@ const HEADLINE = "Every open-source tool for building AI agents, mapped.";
 
 function HomeContent({ data }: { data: Data }) {
   const openPalette = useOpenPalette();
+  const openForm = useOpenForm();
   const hits = useMemo(() => allEntries(data), [data]);
   const top = useMemo(() => topRepos(data), [data]);
 
@@ -50,7 +52,6 @@ function HomeContent({ data }: { data: Data }) {
     <div>
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-line">
-        <DotPattern className="mask-[radial-gradient(ellipse_70%_60%_at_50%_0%,#000_40%,transparent_100%)]" />
         <div className="relative mx-auto max-w-3xl px-4 pt-16 pb-14 text-center sm:pt-24">
           <BlurFade>
             <a href={data.repo}
@@ -153,10 +154,10 @@ function HomeContent({ data }: { data: Data }) {
             <div className="relative">
               <h2 className="text-2xl font-semibold tracking-tight">Missing a tool?</h2>
               <p className="mx-auto mt-2 max-w-lg text-muted">
-                The whole list is one README on GitHub. Add a line in a pull request and this site rebuilds itself.
+                Suggest it here and it lands as a GitHub issue. Accepted tools go into the README and this site rebuilds itself.
               </p>
               <div className="mt-6 flex flex-wrap justify-center gap-3">
-                <a href={data.edit} className={buttonClass("primary")}><Plus className="size-4" aria-hidden /> Suggest a tool</a>
+                <button type="button" onClick={() => openForm("suggest")} className={buttonClass("primary")}><Plus className="size-4" aria-hidden /> Suggest a tool</button>
                 <a href={data.repo + "/blob/main/CONTRIBUTING.md"} className={buttonClass("outline")}>Read the guidelines</a>
               </div>
             </div>

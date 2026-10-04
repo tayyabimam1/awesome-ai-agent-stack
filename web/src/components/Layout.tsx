@@ -1,21 +1,26 @@
 import { useEffect, useState } from "react";
 import { Link, Outlet, useLocation } from "react-router";
 import { AnimatePresence, motion, useMotionValueEvent, useScroll, useSpring } from "motion/react";
-import clsx from "clsx";
 import { ArrowUp, Menu, Moon, PanelLeftClose, PanelLeftOpen, Plus, Search, Star, Sun, X } from "lucide-react";
 import { useData } from "../data";
 import { useOpenPalette } from "./CommandPalette";
+import { useOpenForm } from "./Forms";
 import { CategoryNav } from "./Sidebar";
+import { FlickeringGrid } from "./ui";
 
 export function Logo() {
   return (
     <Link to="/" className="group flex items-center gap-2.5 font-semibold text-ink">
-      <span aria-hidden className="flex w-5 flex-col gap-[3px]">
-        {["bg-star", "bg-success", "bg-accent"].map((c, i) => (
-          <span key={c} className={clsx("h-1 rounded-sm transition-transform duration-300 group-hover:translate-x-(--shift)", c)}
-            style={{ ["--shift" as string]: `${(i - 1) * 3}px` }} />
+      {/* the favicon's isometric stack; the layers spread apart on hover */}
+      <svg aria-hidden viewBox="12 4 40 58" className="h-6 w-auto overflow-visible">
+        {[["#1f6feb", "#4493f8", 44, 4], ["#238636", "#3fb950", 31, 0], ["#9e6a03", "#d29922", 18, -4]].map(([side, top, y, shift]) => (
+          <g key={top} className="transition-transform duration-300 ease-out group-hover:translate-y-(--shift)"
+            style={{ ["--shift" as string]: `${shift}px` }}>
+            <path d={`M12 ${y} 32 ${+y + 10} 52 ${y} 52 ${+y + 4} 32 ${+y + 14} 12 ${+y + 4}Z`} fill={side as string} />
+            <path d={`M32 ${+y - 10} 52 ${y} 32 ${+y + 10} 12 ${y}Z`} fill={top as string} />
+          </g>
         ))}
-      </span>
+      </svg>
       <span className="whitespace-nowrap">Awesome AI Agent Stack</span>
     </Link>
   );
@@ -52,6 +57,7 @@ function Header({ onMenu, onToggle, collapsed }: {
 }) {
   const data = useData();
   const openPalette = useOpenPalette();
+  const openForm = useOpenForm();
   const { scrollYProgress } = useScroll();
   const progress = useSpring(scrollYProgress, { stiffness: 200, damping: 30 });
 
@@ -75,11 +81,10 @@ function Header({ onMenu, onToggle, collapsed }: {
           <kbd className="ml-auto hidden rounded border border-line px-1.5 font-mono text-xs sm:block">Ctrl K</kbd>
         </button>
         <nav className="flex items-center gap-2 md:ml-auto">
-          {data && (
-            <a href={data.edit} className="hidden items-center gap-1.5 rounded-md px-2.5 py-1.5 text-sm text-muted hover:bg-bg hover:text-ink md:flex">
-              <Plus className="size-4" aria-hidden /> Suggest a tool
-            </a>
-          )}
+          <button type="button" onClick={() => openForm("suggest")}
+            className="hidden items-center gap-1.5 rounded-md px-2.5 py-1.5 text-sm text-muted hover:bg-bg hover:text-ink md:flex">
+            <Plus className="size-4" aria-hidden /> Suggest a tool
+          </button>
           <ThemeToggle />
           {data && (
             <a href={data.repo}
@@ -140,6 +145,7 @@ function Drawer({ open, onClose }: { open: boolean; onClose: () => void }) {
 
 export function Layout() {
   const data = useData();
+  const openForm = useOpenForm();
   const { pathname, hash } = useLocation();
   const [drawer, setDrawer] = useState(false);
   const [collapsed, setCollapsed] = useState(() => {
@@ -157,6 +163,10 @@ export function Layout() {
 
   return (
     <div className="min-h-screen">
+      {/* Site background: flickering grid, strongest at the top and fading out down the page */}
+      <div aria-hidden className="fixed inset-0 -z-10 mask-[radial-gradient(ellipse_90%_70%_at_50%_0%,#000_20%,transparent_100%)]">
+        <FlickeringGrid />
+      </div>
       <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[200] focus:rounded focus:bg-surface focus:px-3 focus:py-2">
         Skip to content
       </a>
@@ -192,9 +202,9 @@ export function Layout() {
               {data && (
                 <nav aria-label="Project" className="flex flex-wrap gap-x-6 gap-y-2 sm:ml-auto">
                   <a className="hover:text-ink" href={data.repo}>GitHub</a>
-                  <a className="hover:text-ink" href={data.edit}>Suggest a tool</a>
+                  <button type="button" className="hover:text-ink" onClick={() => openForm("suggest")}>Suggest a tool</button>
+                  <button type="button" className="hover:text-ink" onClick={() => openForm("dead")}>Report a dead link</button>
                   <a className="hover:text-ink" href={data.repo + "/blob/main/CONTRIBUTING.md"}>Contributing</a>
-                  <a className="hover:text-ink" href={data.repo + "/issues"}>Report a dead link</a>
                   <a className="hover:text-ink" href={data.repo + "/blob/main/LICENSE"}>License</a>
                 </nav>
               )}

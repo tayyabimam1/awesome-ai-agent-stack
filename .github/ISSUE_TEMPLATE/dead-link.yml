@@ -1,0 +1,24 @@
+name: Report a dead or outdated entry
+description: A link is broken, archived, renamed or no longer maintained.
+title: "Dead link: "
+labels: ["dead link"]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Entry
+      description: The owner/repo as it appears in the list.
+    validations:
+      required: true
+  - type: input
+    id: problem
+    attributes:
+      label: What's wrong
+      placeholder: 404, archived, renamed, unmaintained…
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Details
+      description: Optional. The new URL if it moved, or anything else useful.
