@@ -31,7 +31,7 @@ SKIP_SECTIONS = {"Contents", "License", "Footnotes"}
 # The stack map. Sections not listed here land in the last tier, so a new
 # README section always shows up somewhere.
 TIERS = [
-    ("How you build", ["starter-stacks", "coding-agents-harnesses",
+    ("How you build", ["coding-agents-harnesses",
                        "skills-plugins-context-engineering", "learning-path",
                        "developer-tools-utilities"]),
     ("What you build with", ["agent-frameworks-orchestration", "memory-persistent-context",
@@ -91,7 +91,7 @@ def parse_body(body: str, stars: dict):
     """Split a section body into a tagline and ordered blocks.
 
     Blocks are ("group", title, entries), ("table", rows) or ("p", text).
-    A bold-only line (**Title**) starts a new group; **More** is the screened list.
+    A bold-only line (**Title**) starts a new group.
     """
     tagline, blocks, group, table = "", [], None, None
     for line in body.splitlines():

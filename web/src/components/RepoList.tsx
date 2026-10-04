@@ -22,7 +22,7 @@ function RepoName({ name }: { name: string }) {
 export function RepoRow({ hit, rank, showCategory, anchor }: {
   hit: Hit; rank?: number; showCategory?: boolean; anchor?: boolean;
 }) {
-  const { e, sec, picked } = hit;
+  const { e, sec } = hit;
   return (
     <motion.li
       layout="position"
@@ -40,9 +40,6 @@ export function RepoRow({ hit, rank, showCategory, anchor }: {
       <div className="min-w-0 flex-1">
         <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
           <a href={e.u} className="font-semibold break-all text-accent hover:underline"><RepoName name={e.n} /></a>
-          {picked && (
-            <span className="rounded-full border border-success/50 px-2 py-px text-xs font-medium text-success">Hand-picked</span>
-          )}
           {showCategory && (
             <Link to={layerPath(sec.slug)}
               className="rounded-full border border-line px-2 py-px text-xs text-muted hover:border-accent hover:text-accent">

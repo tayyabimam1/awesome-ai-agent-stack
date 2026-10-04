@@ -35,7 +35,6 @@ function Layer({ data, section }: { data: Data; section: Section }) {
 
   const hits = useMemo(() => allEntries(data).filter((h) => h.sec.slug === section.slug), [data, section]);
   const stars = hits.reduce((a, h) => a + h.e.s, 0);
-  const picked = hits.filter((h) => h.picked).length;
 
   // Arriving from search: clear the filter, scroll to the entry and flash it.
   useEffect(() => {
@@ -72,7 +71,6 @@ function Layer({ data, section }: { data: Data; section: Section }) {
       {section.count > 0 && (
         <p className="mt-3 text-sm text-muted">
           <span className="font-semibold text-ink">{section.count}</span> tools,{" "}
-          <span className="font-semibold text-ink">{picked}</span> hand-picked,{" "}
           <span className="font-semibold text-ink">{fmtBig(stars)}</span> combined stars
         </p>
       )}
@@ -127,14 +125,11 @@ function Curated({ section, hits, match }: { section: Section; hits: Hit[]; matc
         return (
           <section key={bi} className="mt-8">
             <h2 className="flex items-baseline gap-2 text-lg font-semibold">
-              {b.title || "Hand-picked"}
+              {b.title}
               <span className="rounded-full bg-raised px-2 text-xs font-medium text-muted">{b.entries.length}</span>
             </h2>
-            {b.title === "More" && (
-              <p className="mt-1 text-sm text-muted">Screened, not hand-tested: public, maintained in the last 18 months, not archived.</p>
-            )}
             <div className="mt-3">
-              <RepoList>{rows.map((h) => <RepoRow key={h.e.i} hit={{ ...h, picked: false }} anchor={gi >= 0} />)}</RepoList>
+              <RepoList>{rows.map((h) => <RepoRow key={h.e.i} hit={h} anchor={gi >= 0} />)}</RepoList>
             </div>
           </section>
         );
