@@ -1,0 +1,29 @@
+name: Trending candidates
+
+# Every Monday, look at trendshift.io and GitHub Trending for AI repos that pass
+# the list's bar and aren't in the README, and open an issue to review them.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Find candidates
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/find_trending.py > candidates.md
+      - name: Open review issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Trending candidates $(date -u +%F)" --label trending --body-file candidates.md
