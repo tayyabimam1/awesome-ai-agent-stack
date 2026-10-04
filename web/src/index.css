@@ -49,8 +49,7 @@
 html { background: var(--bg); }
 body {
   margin: 0;
-  /* faint dot grid; fixed so it doesn't scroll with the content */
-  background: radial-gradient(var(--dot) 1px, transparent 1px) 0 0 / 22px 22px fixed, var(--bg);
+  /* no background here: html paints --bg, and the flickering grid in Layout sits between them */
   color: var(--ink);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
