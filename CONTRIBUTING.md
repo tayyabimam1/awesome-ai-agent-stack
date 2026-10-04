@@ -16,7 +16,7 @@ Thanks for helping keep this list useful.
 ```
 
 - Keep descriptions under ~100 characters and say what it *does*, not how great it is.
-- Place the entry where it fits in the section; no need to sort alphabetically.
+- Place the entry in the sub-group of the section where it fits; no need to sort alphabetically.
 - No star counts, badges, or emoji in entries.
 - Run a spell check.
 

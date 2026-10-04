@@ -23,7 +23,7 @@ Two stages: Python parses, React renders.
 
 - `scripts/build_site.py` parses README.md into `web/public/data.json`:
   - Every `## Heading` becomes a section (a "layer"), except those in `SKIP_SECTIONS`. Its slug (`slugify(title)`) is also its page URL, `<slug>.html`.
-  - An entry is any line matching `- [name](url) - description`. A bold-only line (`**Title**`) starts a new group of entries; `**More**` starts the screened list. Markdown tables and plain paragraphs are kept as blocks too (Starter Stacks is a table).
+  - An entry is any line matching `- [name](url) - description`. A bold-only line (`**Title**`) starts a new group of entries. Markdown tables and plain paragraphs are kept as blocks too.
   - Inline markdown (links, bold, italics, code) is turned into HTML by `md_inline`, which escapes first and only allows http(s)/`#` links. The React side renders that HTML with `dangerouslySetInnerHTML`. Keep all HTML generation in `md_inline`.
   - `TIERS` groups categories into tiers, which become the headings in the sidebar. A slug that isn't listed lands in the last tier, "Further reading". Add a new section's slug to the right tier.
   - Star counts come from `site-data/stars.json` (`owner/repo` -> count, looked up case-insensitively). No script in the repo updates it.
@@ -38,5 +38,5 @@ Two stages: Python parses, React renders.
 ## README conventions (from CONTRIBUTING.md)
 
 - Entry format: `- [owner/repo](https://github.com/owner/repo) - One-line description ending in a period.` Keep descriptions under about 100 characters. Say what the tool does. Don't add star counts, badges, or emoji.
-- Each section has hand-picked entries at the top, then a `**More**` list of entries that pass a mechanical bar (public, not archived, pushed in the last 18 months).
+- Every entry sits in a bold sub-group (`**Title**`) inside its section; there is no `**More**` list. Entries must pass the bar in the README intro (public, not archived, pushed in the last 12 months, 1,000+ stars for new additions).
 - Entries don't need to be alphabetical; put them where they fit. A new section needs an issue first, and a matching line in the `## Contents` TOC.

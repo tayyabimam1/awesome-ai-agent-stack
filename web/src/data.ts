@@ -13,7 +13,7 @@ export type Data = {
   repo: string; edit: string; tagline: string; total: number;
   tiers: string[]; sections: Section[];
 };
-export type Hit = { e: Entry; sec: Section; picked: boolean };
+export type Hit = { e: Entry; sec: Section };
 
 let cache: Data | null = null;
 let pending: Promise<Data> | null = null;
@@ -34,7 +34,7 @@ export function useData(): Data | null {
 export function allEntries(data: Data): Hit[] {
   return data.sections.flatMap((sec) =>
     sec.blocks.flatMap((b) =>
-      b.type === "group" ? b.entries.map((e) => ({ e, sec, picked: b.title !== "More" })) : [],
+      b.type === "group" ? b.entries.map((e) => ({ e, sec })) : [],
     ),
   );
 }
