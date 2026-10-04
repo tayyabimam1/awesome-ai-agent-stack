@@ -10,6 +10,7 @@ A curated "awesome list" of AI agent tooling. **`README.md` is the source of tru
 
 ```sh
 python scripts/build_site.py      # README.md -> web/public/data.json (+ sitemap, robots); stdlib only
+python scripts/find_trending.py   # trending AI repos not yet listed, as a Markdown checklist; needs `gh`
 cd web && npm install             # once
 cd web && npm run dev             # local dev server at http://localhost:5173/awesome-ai-agent-stack/
 cd web && npm run build           # typecheck + build the site into web/dist/ (gitignored)
@@ -34,6 +35,7 @@ Two stages: Python parses, React renders.
   - The site is star-driven: rankings come from `site-data/stars.json`, so refreshing that file reorders the site.
   - Routing uses `BrowserRouter` with base `/awesome-ai-agent-stack/`. GitHub Pages has no SPA rewrites, so the `perPageHtml` plugin in `vite.config.ts` writes one `<slug>.html` per layer plus `404.html`. Each gets its own title, description, Open Graph/Twitter tags, canonical URL and JSON-LD, and the category's tools as plain HTML inside `#root` (for crawlers; React replaces it on load). `?q=` on any URL opens search with that query (the JSON-LD SearchAction target).
   - Colours are GitHub Primer values, set as CSS variables in `src/index.css` and switched by the `.dark` class. The font is Mona Sans.
+- `.github/workflows/trending.yml` runs `find_trending.py` every Monday and opens a `trending` issue with the candidates. It scrapes trendshift.io and GitHub Trending (robots.txt allows both; 1 request/second) and never edits the README.
 - `.github/workflows/site.yml` runs the Python step and `npm run build` on every push to `main` that touches README, the script, stars.json or `web/`, then deploys `web/dist/` with `actions/deploy-pages`. Pages' source is set to "GitHub Actions"; nothing built is committed.
 
 ## README conventions (from CONTRIBUTING.md)
