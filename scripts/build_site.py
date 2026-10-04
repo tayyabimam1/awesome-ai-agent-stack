@@ -8,6 +8,7 @@ Writes into web/public/ (Vite copies it to docs/ on build):
 Star counts come from site-data/stars.json when present.
 Run from anywhere: `python scripts/build_site.py`, then `npm run build` in web/.
 """
+import datetime
 import html
 import json
 import pathlib
@@ -22,8 +23,8 @@ REPO = "tayyabimam1/awesome-ai-agent-stack"
 REPO_URL = f"https://github.com/{REPO}"
 EDIT_URL = f"{REPO_URL}/edit/main/README.md"
 SITE_URL = f"https://{REPO.split('/')[0]}.github.io/{REPO.split('/')[1]}/"
-TAGLINE = ("A curated, layer-by-layer map of the tools I actually use to build "
-           "AI agents — from the coding agent in your terminal down to the "
+TAGLINE = ("A curated, layer-by-layer map of open-source tools for building "
+           "AI agents, from the coding agent in your terminal down to the "
            "model serving the tokens.")
 
 SKIP_SECTIONS = {"Contents", "License", "Footnotes"}
@@ -179,7 +180,8 @@ def main() -> None:
     urls = [""] + [f"{s['slug']}.html" for s in sections]
     sm = ['<?xml version="1.0" encoding="UTF-8"?>',
           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    sm += [f"  <url><loc>{SITE_URL}{u}</loc></url>" for u in urls]
+    today = datetime.date.today().isoformat()
+    sm += [f"  <url><loc>{SITE_URL}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls]
     sm.append("</urlset>")
     write(PUBLIC / "sitemap.xml", "\n".join(sm) + "\n")
     print(f"{len(sections)} sections | {total:,} entries -> web/public/data.json")

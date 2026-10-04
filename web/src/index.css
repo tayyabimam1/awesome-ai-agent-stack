@@ -32,6 +32,9 @@
 
 @theme inline {
   --font-sans: "Mona Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --animate-marquee: marquee var(--duration) infinite linear;
+  --animate-shiny-text: shiny-text 8s infinite;
   --color-bg: var(--bg);
   --color-surface: var(--surface);
   --color-raised: var(--raised);
@@ -60,6 +63,22 @@ body {
 .md a:hover { text-decoration: underline; }
 .md code { font-size: 0.88em; background: color-mix(in srgb, var(--muted) 18%, transparent); padding: 0.1em 0.35em; border-radius: 6px; }
 .md strong { font-weight: 600; color: var(--ink); }
+
+/* Magic UI marquee and shiny text */
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(calc(-100% - var(--gap))); } }
+@keyframes shiny-text {
+  0%, 90%, 100% { background-position: calc(-100% - var(--shiny-width)) 0; }
+  30%, 60% { background-position: calc(100% + var(--shiny-width)) 0; }
+}
+@media (prefers-reduced-motion: reduce) { .animate-marquee, .animate-shiny-text { animation: none; } }
+
+/* Static HTML written into #root at build time for crawlers and no-JS readers;
+   React replaces it on load, so keep it plain and readable. */
+.prerender { max-width: 64rem; margin: 0 auto; padding: 2.5rem 1.25rem; color: var(--muted); line-height: 1.6; }
+.prerender h1 { color: var(--ink); font-size: 2rem; font-weight: 600; margin: 0 0 .5rem; }
+.prerender h2 { color: var(--ink); font-size: 1.15rem; font-weight: 600; margin: 2rem 0 .5rem; }
+.prerender a { color: var(--accent); }
+.prerender ul { padding-left: 1.2rem; }
 
 /* entry flashed when a search result jumps to it */
 @keyframes flash {

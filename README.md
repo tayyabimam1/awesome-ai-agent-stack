@@ -793,6 +793,8 @@
 
 ## RAG & Retrieval
 
+*Vector databases, search engines, embeddings and the frameworks that ground answers in your own data.*
+
 **Vector databases**
 
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Embedded, zero-config vector store; the right default for prototypes.
@@ -1116,6 +1118,8 @@
 - [video-db/agent-toolkit](https://github.com/video-db/agent-toolkit) - Agent toolkit with MCP support for building video-aware AI applications.
 
 ## Sandboxes, Browsers & Computer Use
+
+*Isolated places to run agent-written code, and the browsers and scrapers agents drive.*
 
 **Sandboxes**
 
@@ -1811,6 +1815,8 @@
 
 ## Local Models, Inference & Hardware
 
+*Run, fine-tune and quantize open models on your own hardware.*
+
 **Serving**
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Run models locally with one command; the default for development.
@@ -1994,6 +2000,8 @@
 - [vllm-project/guidellm](https://github.com/vllm-project/guidellm) - Benchmark and optimize LLM deployments for real-world inference needs.
 
 ## Evaluation, Observability & Code Review
+
+*Trace, test and red-team agents, and review the code they write.*
 
 **Tracing & observability**
 

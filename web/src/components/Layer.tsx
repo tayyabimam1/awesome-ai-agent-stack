@@ -4,7 +4,8 @@ import { motion } from "motion/react";
 import { Search, X } from "lucide-react";
 import { allEntries, fmtBig, useData, type Data, type Hit, type Section } from "../data";
 import { RepoList, RepoRow } from "./RepoList";
-import { SlidingTabs } from "./ui";
+import clsx from "clsx";
+import { BlurFade, SlidingTabs } from "./ui";
 
 type Sort = "stars" | "curated";
 
@@ -13,7 +14,9 @@ export function LayerRoute() {
   const { page = "" } = useParams();
   if (!data) return <div className="px-8 py-16 text-muted">Loading…</div>;
   const section = data.sections.find((s) => s.slug === page.replace(/\.html$/, ""));
-  document.title = `${section ? section.title : "Page not found"} — Awesome AI Agent Stack`;
+  document.title = !section ? "Page not found | Awesome AI Agent Stack"
+    : section.count ? `${section.title}: ${section.count} open-source tools ranked by stars | Awesome AI Agent Stack`
+    : `${section.title} | Awesome AI Agent Stack`;
   return section ? <Layer key={section.slug} data={data} section={section} /> : <NotFound />;
 }
 
@@ -32,6 +35,10 @@ function Layer({ data, section }: { data: Data; section: Section }) {
   const { hash } = useLocation();
   const [q, setQ] = useState("");
   const [sort, setSort] = useState<Sort>("stars");
+  const [group, setGroup] = useState<string | null>(null);
+  const groups = useMemo(() => section.blocks.flatMap((b) =>
+    b.type === "group" && b.title ? [{ title: b.title, ids: new Set(b.entries.map((e) => e.i)) }] : []), [section]);
+  const ids = groups.find((g) => g.title === group)?.ids;
 
   const hits = useMemo(() => allEntries(data).filter((h) => h.sec.slug === section.slug), [data, section]);
   const stars = hits.reduce((a, h) => a + h.e.s, 0);
@@ -40,6 +47,7 @@ function Layer({ data, section }: { data: Data; section: Section }) {
   useEffect(() => {
     if (!hash.startsWith("#e-")) return;
     setQ("");
+    setGroup(null);
     const t = setTimeout(() => {
       const el = document.getElementById(hash.slice(1));
       if (!el) return;
@@ -52,27 +60,48 @@ function Layer({ data, section }: { data: Data; section: Section }) {
   }, [hash]);
 
   const lq = q.trim().toLowerCase();
-  const match = (h: Hit) => !lq || (h.e.n + " " + h.e.d).toLowerCase().includes(lq);
+  const match = (h: Hit) => (!ids || ids.has(h.e.i)) && (!lq || (h.e.n + " " + h.e.d).toLowerCase().includes(lq));
   const ranked = useMemo(
     () => hits.filter(match).sort((a, b) => b.e.s - a.e.s || a.e.i - b.e.i),
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    [hits, lq],
+    [hits, lq, ids],
   );
+  const shown = ids ? ids.size : section.count;
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-8 sm:px-8">
-      <p className="text-sm text-muted">
-        <Link to="/" className="hover:text-accent">Home</Link> / {data.tiers[section.tier]}
-      </p>
-      <h1 className="mt-2 text-3xl font-semibold tracking-tight">{section.title}</h1>
-      {section.tagline && (
-        <p className="md mt-2 max-w-2xl text-lg text-muted" dangerouslySetInnerHTML={{ __html: section.tagline }} />
-      )}
-      {section.count > 0 && (
-        <p className="mt-3 text-sm text-muted">
-          <span className="font-semibold text-ink">{section.count}</span> tools,{" "}
-          <span className="font-semibold text-ink">{fmtBig(stars)}</span> combined stars
-        </p>
+      <BlurFade>
+        <nav aria-label="Breadcrumb" className="font-mono text-xs text-muted">
+          <Link to="/" className="hover:text-accent">Home</Link> <span aria-hidden>/</span> {data.tiers[section.tier]}
+        </nav>
+        <h1 className="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">{section.title}</h1>
+        {section.tagline && (
+          <p className="md mt-2 max-w-2xl text-lg text-muted" dangerouslySetInnerHTML={{ __html: section.tagline }} />
+        )}
+        {section.count > 0 && (
+          <p className="mt-3 font-mono text-xs text-muted">
+            <span className="font-semibold text-ink">{section.count}</span> tools ·{" "}
+            <span className="font-semibold text-ink">{fmtBig(stars)}</span> combined stars ·{" "}
+            <span className="font-semibold text-ink">{groups.length}</span> sub-groups
+          </p>
+        )}
+      </BlurFade>
+
+      {groups.length > 1 && (
+        <div role="group" aria-label="Sub-groups" className="mt-6 flex flex-wrap gap-2">
+          {[{ title: null as string | null, n: section.count }, ...groups.map((g) => ({ title: g.title as string | null, n: g.ids.size }))].map((g) => {
+            const on = group === g.title;
+            return (
+              <button key={g.title ?? "all"} type="button" aria-pressed={on} onClick={() => setGroup(g.title)}
+                className={clsx("relative rounded-full border px-3 py-1 text-sm transition-colors",
+                  on ? "border-transparent text-bg" : "border-line text-muted hover:border-muted/60 hover:text-ink")}>
+                {on && <motion.span layoutId="group-pill" className="absolute inset-0 rounded-full bg-ink"
+                  transition={{ type: "spring", stiffness: 500, damping: 38 }} />}
+                <span className="relative">{g.title ?? "All"} <span className="font-mono text-xs opacity-70">{g.n}</span></span>
+              </button>
+            );
+          })}
+        </div>
       )}
 
       {section.count > 0 && (
@@ -80,7 +109,7 @@ function Layer({ data, section }: { data: Data; section: Section }) {
           <label className="relative flex min-w-[220px] flex-1 items-center sm:max-w-sm">
             <Search className="pointer-events-none absolute left-2.5 size-4 text-muted" aria-hidden />
             <span className="sr-only">Filter tools in this category</span>
-            <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={`Filter ${section.count} tools`}
+            <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={`Filter ${shown} tools`}
               className="h-8 w-full rounded-md border border-line bg-bg pr-8 pl-8 text-sm text-ink outline-none placeholder:text-muted focus:border-accent focus:ring-2 focus:ring-accent/25" />
             {q && (
               <button type="button" onClick={() => setQ("")} aria-label="Clear filter" className="absolute right-1.5 rounded p-1 text-muted hover:text-ink">
@@ -91,13 +120,13 @@ function Layer({ data, section }: { data: Data; section: Section }) {
           <SlidingTabs id="sort" label="Order" value={sort} onChange={setSort}
             options={[{ value: "stars", label: "Most stars" }, { value: "curated", label: "Curated order" }]} />
           <span className="ml-auto text-sm text-muted tabular-nums" aria-live="polite">
-            {lq ? `${ranked.length} of ${section.count} match` : `${section.count} tools`}
+            {lq ? `${ranked.length} of ${shown} match` : `${shown} tools`}
           </span>
         </div>
       )}
 
       {lq && ranked.length === 0 && (
-        <p className="mt-8 text-muted">Nothing in this category matches “{q}”. Press Ctrl K to search every category.</p>
+        <p className="mt-8 text-muted">Nothing here matches “{q}”. Press Ctrl K to search every category.</p>
       )}
 
       {sort === "stars" && ranked.length > 0 && (
