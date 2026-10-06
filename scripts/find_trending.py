@@ -2,11 +2,12 @@
 """Find trending AI repos that aren't in README.md yet.
 
 Collects repo names from trendshift.io and github.com/trending (both allow it in
-robots.txt; one request a second), drops anything already listed, then checks
-each candidate with the GitHub GraphQL API against the list's bar: 1,000+ stars,
-not archived, not a fork, pushed in the last 12 months, and AI-related by its
-description or topics. Prints a Markdown checklist; it never edits the README,
-because what goes in is a curation call.
+robots.txt; one request a second), drops anything already listed or already
+surfaced in an open review issue, then checks each candidate with the GitHub
+GraphQL API against the list's bar: 1,000+ stars, not archived, not a fork,
+pushed in the last 12 months, and AI-related by its description or topics.
+Prints a Markdown checklist; it never edits the README, because what goes in
+is a curation call.
 
     python scripts/find_trending.py > candidates.md     # needs `gh` logged in (or GH_TOKEN)
 """
@@ -58,6 +59,18 @@ def collect() -> dict[str, set[str]]:
     return found
 
 
+def surfaced() -> set[str]:
+    """Repos already listed as checkboxes in open review issues — don't re-surface."""
+    try:
+        out = subprocess.run(
+            ["gh", "issue", "list", "--label", "trending", "--state", "open",
+             "--json", "body", "--jq", ".[].body"],
+            capture_output=True, text=True, encoding="utf-8")
+        return {m.lower() for m in re.findall(r"\[ \] \[([\w.-]+/[\w.-]+)\]", out.stdout)}
+    except Exception:
+        return set()
+
+
 def check(names: list[str]) -> list[dict]:
     repos = []
     for i in range(0, len(names), 40):
@@ -82,10 +95,12 @@ def main() -> None:
     fresh = [n for n in found if n.lower() not in listed]
     cutoff = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=365)).isoformat()
     keep = []
+    seen = surfaced()
     for d in check(fresh):
         topics = [t["topic"]["name"] for t in d["repositoryTopics"]["nodes"]]
         text = f'{d["description"] or ""} {" ".join(topics)}'
-        if (d["nameWithOwner"].lower() not in listed and d["stargazerCount"] >= 1000 and not d["isArchived"]
+        if (d["nameWithOwner"].lower() not in listed and d["nameWithOwner"].lower() not in seen
+                and d["stargazerCount"] >= 1000 and not d["isArchived"]
                 and not d["isFork"] and d["pushedAt"] >= cutoff and AI.search(text)):
             keep.append(d)
     keep.sort(key=lambda d: -d["stargazerCount"])
@@ -93,7 +108,8 @@ def main() -> None:
     today = datetime.date.today().isoformat()
     print(f"Trending AI repos not in the README yet, found {today} on trendshift.io and GitHub Trending.")
     print(f"{len(found)} trending repos seen, {len(fresh)} not listed, **{len(keep)}** pass the bar "
-          "(1,000+ stars, maintained, not archived, AI-related). Tick the ones worth adding.\n")
+          "(1,000+ stars, maintained, not archived, AI-related) and are new since the last "
+          "review issue. Tick the ones worth adding.\n")
     for d in keep:
         desc = (d["description"] or "").replace("|", "/").strip()
         print(f'- [ ] [{d["nameWithOwner"]}](https://github.com/{d["nameWithOwner"]}) '
