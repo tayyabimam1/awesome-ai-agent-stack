@@ -1,0 +1,47 @@
+name: AI PR review
+
+# The moment a PR is opened or updated (forks included), review the diff with
+# an AI model and post the verdict as a PR comment.
+# Comments only — it never approves, requests changes formally, or merges.
+#
+# Model backend is switchable via the REVIEW_BACKEND repo variable:
+#   freellmapi (default): the owner's FreeLLMAPI gateway.
+#     Needs repo secret FREELLMAPI_KEY and repo variable REVIEW_MODEL.
+#   meta: Muse via the Meta Model API (https://api.meta.ai/v1).
+#     Needs repo secret META_API_KEY (create at https://dev.meta.ai);
+#     REVIEW_MODEL defaults to muse-spark-1.3.
+#
+# Security: pull_request_target is used so fork PRs can be commented on, but
+# nothing from the PR is ever executed — the script below comes from the base
+# branch and the diff is only ever sent to the LLM as data.
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+  workflow_dispatch:
+    inputs:
+      pr:
+        description: "PR number to (re-)review"
+        required: true
+
+permissions:
+  pull-requests: write
+  contents: read
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: AI review
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
+          FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
+          META_API_KEY: ${{ secrets.META_API_KEY }}
+          REVIEW_BACKEND: ${{ vars.REVIEW_BACKEND }}
+          REVIEW_MODEL: ${{ vars.REVIEW_MODEL }}
+          PR_NUMBER: ${{ github.event.inputs.pr || github.event.pull_request.number }}
+        run: python scripts/pr_review.py
