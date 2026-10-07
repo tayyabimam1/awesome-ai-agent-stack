@@ -3329,6 +3329,7 @@
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Portable, scalable machine learning workflows on Kubernetes.
 - [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLOps platform for continuous ML applications across their lifecycle.
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI orchestration and control plane for ML workloads.
+- [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) - Serves agent traffic, records feedback, and publishes versioned weight or harness updates.
 
 **Experiment tracking**
 
