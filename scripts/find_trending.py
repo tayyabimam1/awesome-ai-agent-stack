@@ -60,10 +60,14 @@ def collect() -> dict[str, set[str]]:
 
 
 def surfaced() -> set[str]:
-    """Repos already listed as checkboxes in open review issues — don't re-surface."""
+    """Repos already listed as checkboxes in any review issue (open or closed).
+
+    Closed issues count too: a closed review batch means its candidates were
+    seen and decided on, so they must not be re-surfaced as "new".
+    """
     try:
         out = subprocess.run(
-            ["gh", "issue", "list", "--label", "trending", "--state", "open",
+            ["gh", "issue", "list", "--label", "trending", "--state", "all",
              "--json", "body", "--jq", ".[].body"],
             capture_output=True, text=True, encoding="utf-8")
         return {m.lower() for m in re.findall(r"\[ \] \[([\w.-]+/[\w.-]+)\]", out.stdout)}
