@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Find trending AI repos that aren't in README.md yet.
 
-Collects repo names from trendshift.io and github.com/trending (both allow it in
-robots.txt; one request a second), drops anything already listed or already
-surfaced in an open review issue, then checks each candidate with the GitHub
-GraphQL API against the list's bar: 1,000+ stars, not archived, not a fork,
-pushed in the last 12 months, and AI-related by its description or topics.
+Collects repo names from trendshift.io, github.com/trending and the
+star-history.com newsletter (all allow it in robots.txt; one request a second),
+drops anything already listed or already surfaced in an open review issue,
+then checks each candidate with the GitHub GraphQL API against the list's bar:
+1,000+ stars, not archived, not a fork, pushed in the last 12 months, and
+AI-related by its description or topics.
 Prints a Markdown checklist; it never edits the README, because what goes in
 is a curation call.
 
@@ -56,6 +57,10 @@ def collect() -> dict[str, set[str]]:
             html = get(f"https://github.com/trending/{lang}?since={since}")
             add(f"github-trending/{lang or 'all'}/{since}",
                 re.findall(r'<h2 class="h3 lh-condensed">\s*<a[^>]*href="/([\w.-]+/[\w.-]+)"', html))
+    # star-history.com monthly newsletter: curated trending repos (RSS)
+    rss = get("https://rss.beehiiv.com/feeds/BbNzf9ozGZ.xml")
+    add("star-history/newsletter",
+        re.findall(r"github\.com/([\w.-]+/[\w.-]+)", rss))
     return found
 
 
@@ -110,7 +115,7 @@ def main() -> None:
     keep.sort(key=lambda d: -d["stargazerCount"])
 
     today = datetime.date.today().isoformat()
-    print(f"Trending AI repos not in the README yet, found {today} on trendshift.io and GitHub Trending.")
+    print(f"Trending AI repos not in the README yet, found {today} on trendshift.io, GitHub Trending and star-history.com.")
     print(f"{len(found)} trending repos seen, {len(fresh)} not listed, **{len(keep)}** pass the bar "
           "(1,000+ stars, maintained, not archived, AI-related) and are new since the last "
           "review issue. Tick the ones worth adding.\n")
