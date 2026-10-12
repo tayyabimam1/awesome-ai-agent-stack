@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Find trending AI repos that aren't in README.md yet.
 
-Collects repo names from trendshift.io, github.com/trending and the
-star-history.com newsletter (all allow it in robots.txt; one request a second),
+Collects repo names from trendshift.io, github.com/trending, the
+star-history.com newsletter and the opensourceprojects.dev feed
+(all allow it in robots.txt; one request a second),
 drops anything already listed or already surfaced in an open review issue,
 then checks each candidate with the GitHub GraphQL API against the list's bar:
 1,000+ stars, not archived, not a fork, pushed in the last 12 months, and
@@ -61,6 +62,10 @@ def collect() -> dict[str, set[str]]:
     rss = get("https://rss.beehiiv.com/feeds/BbNzf9ozGZ.xml")
     add("star-history/newsletter",
         re.findall(r"github\.com/([\w.-]+/[\w.-]+)", rss))
+    # opensourceprojects.dev "Latest Discoveries" feed: each entry names its GitHub repo
+    osp = get("https://www.opensourceprojects.dev/feed.xml")
+    add("opensourceprojects/feed",
+        re.findall(r"github\.com/([\w.-]+/[\w.-]+)", osp))
     return found
 
 
@@ -115,7 +120,7 @@ def main() -> None:
     keep.sort(key=lambda d: -d["stargazerCount"])
 
     today = datetime.date.today().isoformat()
-    print(f"Trending AI repos not in the README yet, found {today} on trendshift.io, GitHub Trending and star-history.com.")
+    print(f"Trending AI repos not in the README yet, found {today} on trendshift.io, GitHub Trending, star-history.com and opensourceprojects.dev.")
     print(f"{len(found)} trending repos seen, {len(fresh)} not listed, **{len(keep)}** pass the bar "
           "(1,000+ stars, maintained, not archived, AI-related) and are new since the last "
           "review issue. Tick the ones worth adding.\n")
