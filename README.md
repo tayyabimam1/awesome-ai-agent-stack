@@ -748,6 +748,11 @@
 - [MSFT-Innovation-Hub-India/LangGraph-Foundry-HostedAgent-TravelAgent](https://github.com/MSFT-Innovation-Hub-India/LangGraph-Foundry-HostedAgent-TravelAgent) - Multi-agent customer support as a hosted Foundry agent.
 - [scholarly360/From-Zero-to-Microsoft-Foundry-Creating-Agents-Via-AI-Projects-Library](https://github.com/scholarly360/From-Zero-to-Microsoft-Foundry-Creating-Agents-Via-AI-Projects-Library) - Agents via the Azure AI Projects SDK.
 
+- [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agentic apps.
+- [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) - Intelligent AI agent built on openJiuwen; brings LLM capabilities to your fingertips.
+- [onestardao/WFGY](https://github.com/onestardao/WFGY) - Open-source framework for AI reasoning, RAG, agents, and real-world workflows.
+- [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
+
 ## Memory & Persistent Context
 
 *Agents forget between sessions unless you give them somewhere to remember.*
@@ -3396,6 +3401,8 @@
 - [preset-io/agor](https://github.com/preset-io/agor) - Multiplayer AI: Bring your team and agents together.
 - [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) - Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infr.
 - [alookai/alook](https://github.com/alookai/alook) - Rooms for people and agents.
+
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - Multi-platform LLM bot for Telegram, Discord, Slack, Lark, DingTalk, WeChat and more; works with OpenAI, Gemini, DeepSeek, Doubao and others.
 
 ## Deployment, Serving & MLOps
 
