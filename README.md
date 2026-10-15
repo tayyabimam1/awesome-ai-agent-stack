@@ -546,6 +546,9 @@
 - [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and.
 - [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.
 - [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single se.
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents.
+- [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill.
+- [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.
 
 ## Agent Frameworks & Orchestration
 
@@ -758,6 +761,7 @@
 - [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) - Intelligent AI agent built on openJiuwen; brings LLM capabilities to your fingertips.
 - [onestardao/WFGY](https://github.com/onestardao/WFGY) - Open-source framework for AI reasoning, RAG, agents, and real-world workflows.
 - [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
+- [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, programmable component-based rule engine — where AI Agents orchestrate just like ordinary components. Uniquely de.
 
 ## Memory & Persistent Context
 
@@ -1058,6 +1062,7 @@
 - [xmpuspus/kb-arena](https://github.com/xmpuspus/kb-arena) - Benchmark 19 retrieval architectures: vector, contextual, and knowledge-based.
 - [agentset-ai/reranker-eval](https://github.com/agentset-ai/reranker-eval) - Benchmarking rerankers in a RAG pipeline on accuracy metrics.
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - Python toolkit for reproducing and benchmarking efficient RAG pipelines.
+- [pathwaycom/serviette](https://github.com/pathwaycom/serviette) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint,.
 
 ## MCP Servers & Tool Integration
 
@@ -1253,6 +1258,7 @@
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST.
 - [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) - Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your r.
 - [corsairdev/corsair](https://github.com/corsairdev/corsair) - Connect your users to their apps.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -1664,6 +1670,7 @@
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework for Kubernetes.
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes.
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 
 ## Model Gateways & Routing
 
@@ -2704,6 +2711,7 @@
 - [tmgthb/Autonomous-Agents](https://github.com/tmgthb/Autonomous-Agents) - Autonomous Agents (LLMs) research papers. Updated Daily.
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) - 80+ production-ready AI agent examples in Python — build autonomous agents, multi-agent systems and agentic AI with uAgents, ASI:One, MCP, A.
 - [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) - Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic m.
+- [xirong/my-git](https://github.com/xirong/my-git) - Git as the control plane for AI-native software engineering | AI Native 软件工程的 Git 变更控制手册.
 
 ## Voice, Speech & Audio
 
@@ -3422,6 +3430,7 @@
 - [alookai/alook](https://github.com/alookai/alook) - Rooms for people and agents.
 
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - Multi-platform LLM bot for Telegram, Discord, Slack, Lark, DingTalk, WeChat and more; works with OpenAI, Gemini, DeepSeek, Doubao and others.
+- [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and.
 
 ## Deployment, Serving & MLOps
 
@@ -3541,6 +3550,7 @@
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes cluster.
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - Develop and deploy software directly inside Kubernetes.
 - [garden-io/garden](https://github.com/garden-io/garden) - Spin up production-like environments for dev, test, and CI.
+- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 
 ## Data, Datasets & Synthetic Data
 
@@ -3849,6 +3859,7 @@
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - AI content creation and auto-publishing across social platforms.
 - [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) - Framework for a site that finds trending topics and writes daily AI reports.
 - [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Self-hosted CRM with built-in AI sales agents and WhatsApp.
+- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server f.
 
 ## Interpretability, Alignment & Research
 
@@ -4022,6 +4033,10 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk-efficient JavaScript package manager.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Fast all-in-one JavaScript runtime.
 - [denoland/deno](https://github.com/denoland/deno) - Secure runtime for JavaScript and TypeScript.
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A blazing-fast Mac terminal, built for coding with AI.
+- [liseami/CCBaga](https://github.com/liseami/CCBaga) - .
+- [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) - A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时.
 
 ## Other Awesome Lists
 
@@ -4127,6 +4142,7 @@
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Topic-centric list of high-quality open datasets.
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph) - An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps.
 - [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous.
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems,.
 
 ## Contributing
 
