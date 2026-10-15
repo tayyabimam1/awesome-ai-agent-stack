@@ -547,7 +547,7 @@
 - [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.
 - [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single se.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents.
-- [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill.
+- [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - AI novel-writing skill: generates 10-50 chapter Chinese web novels with layered Q&A, story memory, suspense hooks, and auto-validation.
 - [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.
 
 ## Agent Frameworks & Orchestration
@@ -1062,7 +1062,7 @@
 - [xmpuspus/kb-arena](https://github.com/xmpuspus/kb-arena) - Benchmark 19 retrieval architectures: vector, contextual, and knowledge-based.
 - [agentset-ai/reranker-eval](https://github.com/agentset-ai/reranker-eval) - Benchmarking rerankers in a RAG pipeline on accuracy metrics.
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - Python toolkit for reproducing and benchmarking efficient RAG pipelines.
-- [pathwaycom/serviette](https://github.com/pathwaycom/serviette) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint,.
+- [pathwaycom/serviette](https://github.com/pathwaycom/serviette) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data.
 
 ## MCP Servers & Tool Integration
 
@@ -3430,7 +3430,6 @@
 - [alookai/alook](https://github.com/alookai/alook) - Rooms for people and agents.
 
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - Multi-platform LLM bot for Telegram, Discord, Slack, Lark, DingTalk, WeChat and more; works with OpenAI, Gemini, DeepSeek, Doubao and others.
-- [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and.
 
 ## Deployment, Serving & MLOps
 
@@ -4033,9 +4032,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk-efficient JavaScript package manager.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Fast all-in-one JavaScript runtime.
 - [denoland/deno](https://github.com/denoland/deno) - Secure runtime for JavaScript and TypeScript.
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!.
-- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A blazing-fast Mac terminal, built for coding with AI.
-- [liseami/CCBaga](https://github.com/liseami/CCBaga) - .
+- [tw93/Kaku](https://github.com/tw93/Kaku) - Blazing-fast Mac terminal built for coding with AI.
 - [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) - A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时.
 
 ## Other Awesome Lists
@@ -4142,7 +4139,6 @@
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Topic-centric list of high-quality open datasets.
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph) - An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps.
 - [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous.
-- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems,.
 
 ## Contributing
 
