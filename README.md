@@ -24,6 +24,8 @@
 
 > If this list saves you time, **[give it a star](https://github.com/tayyabimam1/awesome-ai-agent-stack/stargazers)** — it helps other builders find it.
 
+**Weekly maintenance:** Star this repository to follow weekly audits, new AI-agent tools, and removals of dead or stale projects. **[Suggest a tool](https://github.com/tayyabimam1/awesome-ai-agent-stack/discussions/categories/ideas)** or **[report a stale link](https://github.com/tayyabimam1/awesome-ai-agent-stack/discussions/categories/q-a)** in Discussions.
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  Coding Agents & Harnesses  →  Skills & Context Engineering  │  ← how you build
