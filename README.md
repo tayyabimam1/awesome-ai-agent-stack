@@ -297,6 +297,7 @@
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - Open standard for AGENTS.md agent instructions.
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - Protocol connecting editors to coding agents.
 - [unstablebuild/rune](https://github.com/unstablebuild/rune) - the development environment for pros.
+- [wangmiaozero/pi-harness](https://github.com/wangmiaozero/pi-harness) - Operational superset of the Pi coding agent — visual workspace, run controls, recovery, and agent teams.
 
 ## Skills, Plugins & Context Engineering
 
@@ -544,6 +545,8 @@
 - [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single se.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents.
 - [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - A specialist team for the coding agent you already use: 12 roles, 21 workflows and 33 skills that plan, build in parallel, review and debug.
+- [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - Agent skills that make AI agents genuinely good at building mobile apps — studied against top-grossing apps, simulator-verified.
+- [soumatheusgomes/vibe-coding-toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit) - Curated docs, prompts and templates for developing with AI coding agents (Claude Code, Codex) with subagent orchestration.
 
 ## Agent Frameworks & Orchestration
 
@@ -759,6 +762,7 @@
 - [4thfever/cultivation-world-simulator](https://github.com/4thfever/cultivation-world-simulator) - 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xia.
 - [hyperspaceai/agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push.
 - [google/agentmesh](https://github.com/google/agentmesh) - Google's open framework for building multi-agent systems with mesh-style orchestration.
+- [dromara/liteflow](https://github.com/dromara/liteflow) - Component-based rules engine that orchestrates AI agents as first-class components inside business rules.
 
 ## Memory & Persistent Context
 
@@ -1246,6 +1250,8 @@
 - [corsairdev/corsair](https://github.com/corsairdev/corsair) - Connect your users to their apps.
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redi.
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS.
+- [clidey/whodb](https://github.com/clidey/whodb) - Lightweight self-hosted database workspace with a built-in MCP server for AI tools (whodb mcp serve).
+- [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP server implementations (Azure, Fabric, Foundry) for AI agents.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -1511,6 +1517,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Saves a complete web page as a single self-contained HTML file.
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - High-fidelity browser-based web archiving crawler in Docker.
 - [webrecorder/warcio](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO.
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - AI agent that analyzes GitHub repositories and generates beginner-friendly tutorials with clear visualizations.
 
 ## Workflow Automation
 
@@ -2803,6 +2810,7 @@
 - [OHF-Voice/wyoming](https://github.com/OHF-Voice/wyoming) - Peer-to-peer protocol for Home Assistant voice assistants.
 - [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP/Websocket technology https://demo.agent678.
 - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
+- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting bots and real-time transcription for Meet/Teams/Zoom, feeding sandboxed knowledge agents.
 
 ## Vision & Multimodal
 
@@ -3798,6 +3806,7 @@
 - [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) - Framework for a site that finds trending topics and writes daily AI reports.
 - [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Self-hosted CRM with built-in AI sales agents and WhatsApp.
 - [amplifthq/openmeld](https://github.com/amplifthq/openmeld) - The open-source collaboration system for people and AI agents. Share context, coordinate tasks, and work in parallel with your team, cloud a.
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Ultra-lightweight personal AI assistant in Go — runs on $10 hardware with <10MB RAM, MCP support, sub-agents, multi-channel chat.
 
 ## Interpretability, Alignment & Research
 
