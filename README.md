@@ -759,9 +759,9 @@
 - [4thfever/cultivation-world-simulator](https://github.com/4thfever/cultivation-world-simulator) - 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xia.
 - [hyperspaceai/agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push.
 - [google/agentmesh](https://github.com/google/agentmesh) - Google's open framework for building multi-agent systems with mesh-style orchestration.
-- [google-research/harness2](https://github.com/google-research/harness2) - Plug-and-play framework for recursive agent harnessing — optimizes the prompts, tools, memory, skills and orchestration around a model.
-- [open-gitagent/opengap](https://github.com/open-gitagent/opengap) - Git-native, framework-agnostic standard for defining portable AI agents; exports to Claude Code, OpenAI, LangChain, CrewAI, AutoGen.
-- [Ryder-Sun/Meldwork](https://github.com/Ryder-Sun/Meldwork) - Local-first multi-agent orchestration desktop app for AI coding agents — coordinates Codex, Claude Code, Gemini CLI and more.
+- [google-research/harness2](https://github.com/google-research/harness2) - Framework that optimizes the prompts, tools, memory and orchestration around a model.
+- [open-gitagent/opengap](https://github.com/open-gitagent/opengap) - Git-native standard for portable AI agent definitions that export to major frameworks.
+- [Ryder-Sun/Meldwork](https://github.com/Ryder-Sun/Meldwork) - Local-first desktop app that orchestrates Codex, Claude Code, Gemini CLI and other agents.
 
 ## Memory & Persistent Context
 
