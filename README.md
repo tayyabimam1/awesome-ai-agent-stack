@@ -762,6 +762,9 @@
 - [4thfever/cultivation-world-simulator](https://github.com/4thfever/cultivation-world-simulator) - 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xia.
 - [hyperspaceai/agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push.
 - [google/agentmesh](https://github.com/google/agentmesh) - Google's open framework for building multi-agent systems with mesh-style orchestration.
+- [google-research/harness2](https://github.com/google-research/harness2) - Framework that optimizes the prompts, tools, memory and orchestration around a model.
+- [open-gitagent/opengap](https://github.com/open-gitagent/opengap) - Git-native standard for portable AI agent definitions that export to major frameworks.
+- [Ryder-Sun/Meldwork](https://github.com/Ryder-Sun/Meldwork) - Local-first desktop app that orchestrates Codex, Claude Code, Gemini CLI and other agents.
 
 ## Memory & Persistent Context
 
@@ -4037,6 +4040,7 @@
 - [amartinson193/The-Ultimate-List-of-Free-SQL-Resources](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources) - Free SQL learning resources.
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph) - An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps.
 - [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous.
+- [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) - Curated collection of remote MCP servers.
 
 ## Contributing
 
