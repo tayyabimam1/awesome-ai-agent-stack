@@ -2520,6 +2520,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Simple, modular React component library.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library.
 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open standard and libraries that let agents generate rich UIs: agents send declarative JSON UI intent, clients render with native components.
 **Low-code & CMS**
 
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low-code platform for business apps.
