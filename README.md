@@ -2531,6 +2531,7 @@
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - Django-based CMS for content-heavy sites.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Publishing platform for blogs and newsletters.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - TypeScript headless CMS and app framework.
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open standard and libraries that let agents generate rich UIs: agents send declarative JSON UI intent, clients render with native components.
 
 ## Learning Path
 
