@@ -298,6 +298,9 @@
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - Protocol connecting editors to coding agents.
 - [unstablebuild/rune](https://github.com/unstablebuild/rune) - the development environment for pros.
 - [wangmiaozero/pi-harness](https://github.com/wangmiaozero/pi-harness) - Superset of the Pi coding agent with a visual workspace, run controls and agent teams.
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Multi-agent workflow configs ported across Claude Code, Codex, Copilot, OpenCode and more.
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool and template collection for configuring and monitoring Claude Code.
+- [maddada/Ghostex](https://github.com/maddada/Ghostex) - Native agents workspace built in Rust with 20+ agents and mobile apps.
 
 ## Skills, Plugins & Context Engineering
 
@@ -548,6 +551,17 @@
 - [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - Agent skills for building mobile apps, checked in simulators.
 - [soumatheusgomes/vibe-coding-toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit) - Docs, prompts and templates for coding with Claude Code and Codex subagents.
 - [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) - Self-evolving ontology layer for data agents: builds and refines domain semantics from data, exposed as MCP tools and Claude Code/Codex plugins.
+- [android/skills](https://github.com/android/skills) - Google's official skills collection for Android development with AI agents.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design skill for Claude Code, Codex, Copilot, Cursor and other coding agents.
+- [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI agent skills for social media research: outlier posts, comment mining and competitor teardowns.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code: 26 sub-skills and 19 sub-agents.
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - Collection of Golang agentic skills.
+- [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - Agent skill for creating detailed, interactive isometric illustrations of real-world machines.
+- [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) - DeepSeek Harness plugin for context insight and management, with a context dashboard.
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - Vercel's open agent skills tool: npx skills.
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor and Codex.
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Agent skill for replicating interfaces and designs.
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Agent skill for building frontend slide decks.
 
 ## Agent Frameworks & Orchestration
 
@@ -766,6 +780,9 @@
 - [google-research/harness2](https://github.com/google-research/harness2) - Framework that optimizes the prompts, tools, memory and orchestration around a model.
 - [open-gitagent/opengap](https://github.com/open-gitagent/opengap) - Git-native standard for portable AI agent definitions that export to major frameworks.
 - [Ryder-Sun/Meldwork](https://github.com/Ryder-Sun/Meldwork) - Local-first desktop app that orchestrates Codex, Claude Code, Gemini CLI and other agents.
+- [apache/maka](https://github.com/apache/maka) - Apache Maka (incubating): high-performance agent workspace with a complete record of every interaction.
+- [docker/docker-agent](https://github.com/docker/docker-agent) - AI agent builder and runtime by Docker Engineering.
+- [Alpha-Dojo/DojoAgents](https://github.com/Alpha-Dojo/DojoAgents) - Framework for training and testing agents.
 
 ## Memory & Persistent Context
 
@@ -896,6 +913,9 @@
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Database clustering for horizontal MySQL scaling.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - Distributed SQL database that scales.
 - [apache/cassandra](https://github.com/apache/cassandra) - Distributed NoSQL wide-column store.
+- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - Self-organizing Obsidian vault that gives AI coding agents persistent memory.
+- [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - Cross-harness, self-improving memory layer for AI agents.
+- [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) - Graph layer for agent context.
 
 ## RAG & Retrieval
 
@@ -1059,6 +1079,8 @@
 - [xmpuspus/kb-arena](https://github.com/xmpuspus/kb-arena) - Benchmark 19 retrieval architectures: vector, contextual, and knowledge-based.
 - [agentset-ai/reranker-eval](https://github.com/agentset-ai/reranker-eval) - Benchmarking rerankers in a RAG pipeline on accuracy metrics.
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - Python toolkit for reproducing and benchmarking efficient RAG pipelines.
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) - Local-first search engine and MCP server for AI agents; one Rust binary indexes code and docs.
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Personal web-history search engine.
 
 ## MCP Servers & Tool Integration
 
@@ -1255,6 +1277,9 @@
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS.
 - [clidey/whodb](https://github.com/clidey/whodb) - Self-hosted database workspace with a built-in MCP server for AI tools.
 - [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of Microsoft's official MCP servers for Azure, Fabric and Foundry.
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Open-source Kubernetes UI with a built-in MCP server for AI agents.
+- [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol.
+- [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - WhatsApp REST API with multi-account, webhook and MCP support.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -1394,6 +1419,10 @@
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - Node.js tool to automate end-to-end web testing without WebDriver.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Virtual filesystem in a Durable Object with pluggable agent backends: sandbox container, isolate shell, isolate JavaScript — give your agent a computer.
+- [perplexityai/SPACE](https://github.com/perplexityai/SPACE) - Sandboxed platform for agentic code execution with pluggable runtimes.
+- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microVM agent sandbox with a TypeScript control plane.
+- [nottelabs/notte](https://github.com/nottelabs/notte) - Cloud browser infrastructure and web automation platform for AI and coding agents.
+- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - Fast browser for AI agents, built for sharing your logged-in sessions.
 
 ## Document Processing & Data Ingestion
 
@@ -1656,6 +1685,8 @@
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework for Kubernetes.
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes.
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai.
+- [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AWS AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents.
+- [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - Planning tool for agent workflows.
 
 ## Model Gateways & Routing
 
@@ -1858,6 +1889,8 @@
 - [ynulihao/LLMRouterBench](https://github.com/ynulihao/LLMRouterBench) - Massive benchmark and unified framework for LLM routing research.
 - [ulab-uiuc/GraphRouter](https://github.com/ulab-uiuc/GraphRouter) - Graph-based router for LLM selection from ICLR 2025 research.
 - [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) - Rust libraries and Python bindings that convert API request formats into conversation format for serving DeepSeek models.
+- [monid-ai/monid](https://github.com/monid-ai/monid) - OpenRouter for agent tools: one API across tool providers.
+- [aimod-cc/agent2api](https://github.com/aimod-cc/agent2api) - Agent-to-API bridge for exposing agents behind a standard API.
 
 ## Free LLM APIs & Free Tiers
 
@@ -2148,6 +2181,10 @@
 - [SemiAnalysisAI/InferenceX](https://github.com/SemiAnalysisAI/InferenceX) - Open-source inference benchmarking platform comparing LLM serving across hardware.
 - [vllm-project/guidellm](https://github.com/vllm-project/guidellm) - Benchmark and optimize LLM deployments for real-world inference needs.
 - [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server) - The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151): AMD ROCm LLM inference engine.
+- [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - Speed-of-light LLM inference engine.
+- [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - Local LLM app for macOS from the ggml team.
+- [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepSeek's inference engine.
+- [trymirai/uzu](https://github.com/trymirai/uzu) - LLM inference engine for Apple Silicon.
 
 ## Evaluation, Observability & Code Review
 
@@ -2357,6 +2394,9 @@
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for reviewing agent-written code.
 - [XiaoLuoLYG/GOD](https://github.com/XiaoLuoLYG/GOD) - Govern, Observe, Direct - a real-time control room for agent societies.
 - [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents.
+- [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Official code for Meta-Harness, a framework for evaluating and improving agent harnesses.
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics and token-use statistics for coding agents.
 
 ## Production Architectures & Reference Systems
 
@@ -2536,6 +2576,8 @@
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - Django-based CMS for content-heavy sites.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Publishing platform for blogs and newsletters.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - TypeScript headless CMS and app framework.
+- [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - Open-source AI product design agent.
+- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - Open-source design tool with agent integration.
 
 ## Learning Path
 
@@ -2675,6 +2717,9 @@
 - [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents.
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ line.
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+- [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - Tutorials and projects covering multi-agent systems, memory, planning and reasoning loops.
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - How-to guides and tutorials for Claude and Claude Code.
+- [ed-donner/agents](https://github.com/ed-donner/agents) - Course code and projects for building AI agents.
 
 ## Voice, Speech & Audio
 
@@ -2819,6 +2864,9 @@
 - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
 - [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting bots and real-time transcription for Meet, Teams and Zoom.
 - [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - Open-source audio wake word (or phrase) detection framework with pre-trained models for voice-enabled apps.
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - MCP-based voice chatbot on ESP32 hardware.
+- [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) - Ears for coding agents: let AI hear, review and make sound; CPU-only and open source.
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Voice cloning and speech studio.
 
 ## Vision & Multimodal
 
@@ -3065,6 +3113,8 @@
 - [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - Image-to-3D assets with production-ready PBR materials.
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click".
 - [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one.
+- [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) - Toolbox of film styles made in code for Claude Code: 59 ready-to-use cinematic looks.
+- [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) - Commercial-grade launch films by your coding agent, with music and point-at-frame edits.
 
 ## Computer Use & GUI Agents
 
@@ -3212,6 +3262,12 @@
 - [rdesktop/rdesktop](https://github.com/rdesktop/rdesktop) - 🚨 rdesktop is in need of a new maintainter. Please see the home page for more details. 🚨.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - HTML5 VNC client for remote desktop access from any browser.
 - [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) - let your agent control your phone.
+- [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) - Open-source alternative to Codex Computer Use.
+- [kuafuai/andee](https://github.com/kuafuai/andee) - One Android APK that operates any app: reads the screen, taps buttons, types text.
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - Framework enabling a multimodal model to operate a computer.
+- [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for use inside any harness.
+- [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) - Give your AI agent eyes and hands on iOS Simulator and Android emulators and devices.
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone via a $7 ESP32: AirPlay eyes, USB HID hands.
 
 ## Structured Output, Guardrails & Safety
 
@@ -3388,6 +3444,8 @@
 - [alookai/alook](https://github.com/alookai/alook) - Rooms for people and agents.
 
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - Multi-platform LLM bot for Telegram, Discord, Slack, Lark, DingTalk, WeChat and more; works with OpenAI, Gemini, DeepSeek, Doubao and others.
+- [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) - Tavern-style chat frontend.
+- [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) - IM-style chat client for DeepSeek Harness.
 
 ## Deployment, Serving & MLOps
 
@@ -3506,6 +3564,7 @@
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes cluster.
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - Develop and deploy software directly inside Kubernetes.
 - [garden-io/garden](https://github.com/garden-io/garden) - Spin up production-like environments for dev, test, and CI.
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw/Moltbot agents on Cloudflare Workers.
 
 ## Data, Datasets & Synthetic Data
 
@@ -3727,6 +3786,11 @@
 - [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0).
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source, AI-powered cybersecurity platform for offensive security, vulnerability management and autonomous pentesting.
 - [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) - AI autonomous penetration testing system: multi-agent LLM offensive security, Go + Next.js.
+- [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - AI-powered personal news radar generating daily briefings in English and Chinese.
+- [trycompai/crm](https://github.com/trycompai/crm) - Open-source CRM designed for AI agents; agentic-first.
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI job-application framework built on Claude Code that runs on your machine.
+- [ethanplusai/harvey](https://github.com/ethanplusai/harvey) - Autonomous AI sales agent powered by Claude Code or Codex.
+- [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS) - AI operating-system templates for founders and startups.
 
 ## Assistants, Copilots & Personal Agents
 
@@ -3818,6 +3882,15 @@
 - [amplifthq/openmeld](https://github.com/amplifthq/openmeld) - The open-source collaboration system for people and AI agents. Share context, coordinate tasks, and work in parallel with your team, cloud a.
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Ultra-lightweight personal AI assistant in Go that runs on $10 hardware.
 - [opencrabs/opencrabs](https://github.com/opencrabs/opencrabs) - The autonomous, self-improving AI agent: single Rust binary; builds apps, manages files, deep research, TUI/CLI/daemon.
+- [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative; choose your own model and sandbox.
+- [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI agent productivity platform.
+- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - Personal agent on a $5 chip: no OS, no Node, no server.
+- [makecindy/cindy](https://github.com/makecindy/cindy) - Open-source AI agent that works out of the box.
+- [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) - Open-source personal agent for every device you own.
+- [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source AI coworkers, each with its own computer: browser, files and tools.
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - AI office suite with agent workflows.
+- [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) - Desktop pet companion for your coding agent.
+- [macro-inc/macro](https://github.com/macro-inc/macro) - AI-native productivity workspace: docs, tasks and chat in one place.
 
 ## Interpretability, Alignment & Research
 
@@ -3956,6 +4029,11 @@
 **Self-hosting & PaaS**
 
 - [rclone/rclone](https://github.com/rclone/rclone) - Sync files across 70+ cloud providers.
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that cuts LLM token consumption by 60-90% on common dev commands.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI for Drive, Gmail, Calendar, Sheets, Docs and Chat.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse-engineer anything with agents, from app behavior down to native binaries.
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Menu-bar usage tracker for Codex and other coding agents.
+- [larksuite/cli](https://github.com/larksuite/cli) - Official Lark/Feishu CLI for docs, messages and workflows.
 
 
 
