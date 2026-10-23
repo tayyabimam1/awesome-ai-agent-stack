@@ -547,6 +547,7 @@
 - [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - A specialist team for the coding agent you already use: 12 roles, 21 workflows and 33 skills that plan, build in parallel, review and debug.
 - [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - Agent skills for building mobile apps, checked in simulators.
 - [soumatheusgomes/vibe-coding-toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit) - Docs, prompts and templates for coding with Claude Code and Codex subagents.
+- [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) - Self-evolving ontology layer for data agents: builds and refines domain semantics from data, exposed as MCP tools and Claude Code/Codex plugins.
 
 ## Agent Frameworks & Orchestration
 
@@ -1392,6 +1393,7 @@
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - Node.js tool to automate end-to-end web testing without WebDriver.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents.
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Virtual filesystem in a Durable Object with pluggable agent backends: sandbox container, isolate shell, isolate JavaScript — give your agent a computer.
 
 ## Document Processing & Data Ingestion
 
