@@ -562,6 +562,7 @@
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor and Codex.
 - [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Agent skill for replicating interfaces and designs.
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Agent skill for building frontend slide decks.
+- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) - A growing collection of design skills for AI coding tools - Claude Code, Cursor, Codex, Windsurf.
 
 ## Agent Frameworks & Orchestration
 
