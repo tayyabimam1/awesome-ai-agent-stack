@@ -301,6 +301,9 @@
 - [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Multi-agent workflow configs ported across Claude Code, Codex, Copilot, OpenCode and more.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool and template collection for configuring and monitoring Claude Code.
 - [maddada/Ghostex](https://github.com/maddada/Ghostex) - Native agents workspace built in Rust with 20+ agents and mobile apps.
+- [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make slop code well-engineered and beautiful.
+- [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) - Agent harness for learning difficult things.
+- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around you.
 
 ## Skills, Plugins & Context Engineering
 
@@ -564,6 +567,13 @@
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Agent skill for building frontend slide decks.
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex.
 - [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research.
+- [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code and Codex: cinematic product videos.
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Agent skills that turn Claude into a senior design architect: design tokens and components.
+- [Shpigford/chops](https://github.com/Shpigford/chops) - macOS app to browse, edit and manage your AI agent skills.
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills.
+- [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants.
+- [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) - Desktop app that records your on-screen work session and turns it into GitHub Copilot agent skills.
+- [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) - 11 Claude skills for day trading: scan thousands of charts and track breaking news.
 
 ## Agent Frameworks & Orchestration
 
@@ -787,6 +797,8 @@
 - [Alpha-Dojo/DojoAgents](https://github.com/Alpha-Dojo/DojoAgents) - Framework for training and testing agents.
 - [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) - agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.
 - [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file.
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI agent assistant and development framework integrating many messaging platforms.
+- [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI kanban and development environment that orchestrates multiple agents.
 
 ## Memory & Persistent Context
 
@@ -920,6 +932,7 @@
 - [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - Self-organizing Obsidian vault that gives AI coding agents persistent memory.
 - [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - Cross-harness, self-improving memory layer for AI agents.
 - [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) - Graph layer for agent context.
+- [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) - Decision audit trail and persistent memory for AI trading agents.
 
 ## RAG & Retrieval
 
@@ -1285,6 +1298,8 @@
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol.
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - WhatsApp REST API with multi-account, webhook and MCP support.
 - [matlab/matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®.
+- [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP server, CLI and Python library.
+- [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis: connect Claude Code to your TradingView charts.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -2191,6 +2206,7 @@
 - [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - Local LLM app for macOS from the ggml team.
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepSeek's inference engine.
 - [trymirai/uzu](https://github.com/trymirai/uzu) - LLM inference engine for Apple Silicon.
+- [apple/coreai-models](https://github.com/apple/coreai-models) - Model export recipes, Python primitives and Swift runtime utilities for on-device AI.
 
 ## Evaluation, Observability & Code Review
 
@@ -2726,6 +2742,7 @@
 - [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - Tutorials and projects covering multi-agent systems, memory, planning and reasoning loops.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - How-to guides and tutorials for Claude and Claude Code.
 - [ed-donner/agents](https://github.com/ed-donner/agents) - Course code and projects for building AI agents.
+- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - Guide to fine-tuning and deploying open large language models on Linux.
 
 ## Voice, Speech & Audio
 
@@ -3121,6 +3138,7 @@
 - [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one.
 - [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) - Toolbox of film styles made in code for Claude Code: 59 ready-to-use cinematic looks.
 - [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) - Commercial-grade launch films by your coding agent, with music and point-at-frame edits.
+- [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - Open-source infinite canvas for AI creative work: image and video generation, agent assistant, canvas orchestration and prompt library.
 
 ## Computer Use & GUI Agents
 
@@ -3274,6 +3292,7 @@
 - [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for use inside any harness.
 - [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) - Give your AI agent eyes and hands on iOS Simulator and Android emulators and devices.
 - [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone via a $7 ESP32: AirPlay eyes, USB HID hands.
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering automated GUI interaction with native agents.
 
 ## Structured Output, Guardrails & Safety
 
@@ -3797,6 +3816,7 @@
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI job-application framework built on Claude Code that runs on your machine.
 - [ethanplusai/harvey](https://github.com/ethanplusai/harvey) - Autonomous AI sales agent powered by Claude Code or Codex.
 - [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS) - AI operating-system templates for founders and startups.
+- [every-app/open-seo](https://github.com/every-app/open-seo) - Open-source Semrush/Ahrefs alternative with an SEO agent and MCP support.
 
 ## Assistants, Copilots & Personal Agents
 
@@ -3898,6 +3918,7 @@
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) - Desktop pet companion for your coding agent.
 - [macro-inc/macro](https://github.com/macro-inc/macro) - AI-native productivity workspace: docs, tasks and chat in one place.
 - [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) - Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.
+- [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) - Open-source, self-hosted alternative to Claude Duet: AI coworkers with memory and routines.
 
 ## Interpretability, Alignment & Research
 
