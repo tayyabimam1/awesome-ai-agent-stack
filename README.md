@@ -563,6 +563,7 @@
 - [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Agent skill for replicating interfaces and designs.
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Agent skill for building frontend slide decks.
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex.
+- [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research.
 
 ## Agent Frameworks & Orchestration
 
@@ -785,6 +786,7 @@
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI agent builder and runtime by Docker Engineering.
 - [Alpha-Dojo/DojoAgents](https://github.com/Alpha-Dojo/DojoAgents) - Framework for training and testing agents.
 - [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) - agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.
+- [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file.
 
 ## Memory & Persistent Context
 
@@ -1282,6 +1284,7 @@
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - Open-source Kubernetes UI with a built-in MCP server for AI agents.
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol.
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - WhatsApp REST API with multi-account, webhook and MCP support.
+- [matlab/matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®.
 
 ## Sandboxes, Browsers & Computer Use
 
