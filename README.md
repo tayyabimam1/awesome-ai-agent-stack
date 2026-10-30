@@ -574,6 +574,8 @@
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants.
 - [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) - Desktop app that records your on-screen work session and turns it into GitHub Copilot agent skills.
 - [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) - 11 Claude skills for day trading: scan thousands of charts and track breaking news.
+- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#.
+- [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 
 ## Agent Frameworks & Orchestration
 
@@ -1098,6 +1100,7 @@
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - Python toolkit for reproducing and benchmarking efficient RAG pipelines.
 - [xerj-org/xerj](https://github.com/xerj-org/xerj) - Local-first search engine and MCP server for AI agents; one Rust binary indexes code and docs.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Personal web-history search engine.
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features.
 
 ## MCP Servers & Tool Integration
 
@@ -3369,6 +3372,7 @@
 - [safetensors/safetensors](https://github.com/safetensors/safetensors) - Safe tensor storage format preventing arbitrary code execution.
 - [trailofbits/fickling](https://github.com/trailofbits/fickling) - Static analyzer and decompiler for Python pickle model files.
 - [protectai/modelscan](https://github.com/protectai/modelscan) - Scans models for serialization attacks and unsafe code.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Governance Platform for Agents, Knowledge, and Context.
 
 ## Chat UIs & Application Layer
 
