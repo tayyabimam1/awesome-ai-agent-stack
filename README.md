@@ -800,7 +800,7 @@
 - [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI agent assistant and development framework integrating many messaging platforms.
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI kanban and development environment that orchestrates multiple agents.
-- [dagoSte/squadra](https://github.com/dagoSte/squadra) - Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound proofs and independ.
+- [dagoSte/squadra](https://github.com/dagoSte/squadra) - Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests and independent review.
 
 ## Memory & Persistent Context
 
