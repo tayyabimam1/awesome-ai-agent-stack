@@ -578,6 +578,8 @@
 - [unclebob/ub-mode](https://github.com/unclebob/ub-mode) - An agent skill that enforces disciplined software engineering principles when writing or changing code.
 - [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills) - AI agent skills for image/video generation and complete visual brand systems via Higgsfield AI. Works with Claude Code, Cursor, Codex,...
 - [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) - Give it a UI component, get back a one-page technical drawing of it. An agent skill for measured, labeled spec sheets of UI components.
+- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#.
+- [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 
 ## Agent Frameworks & Orchestration
 
@@ -1104,6 +1106,7 @@
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - Python toolkit for reproducing and benchmarking efficient RAG pipelines.
 - [xerj-org/xerj](https://github.com/xerj-org/xerj) - Local-first search engine and MCP server for AI agents; one Rust binary indexes code and docs.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Personal web-history search engine.
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features.
 
 ## MCP Servers & Tool Integration
 
@@ -3378,6 +3381,7 @@
 - [safetensors/safetensors](https://github.com/safetensors/safetensors) - Safe tensor storage format preventing arbitrary code execution.
 - [trailofbits/fickling](https://github.com/trailofbits/fickling) - Static analyzer and decompiler for Python pickle model files.
 - [protectai/modelscan](https://github.com/protectai/modelscan) - Scans models for serialization attacks and unsafe code.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Governance Platform for Agents, Knowledge, and Context.
 
 ## Chat UIs & Application Layer
 
