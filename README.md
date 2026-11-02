@@ -304,6 +304,7 @@
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make slop code well-engineered and beautiful.
 - [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) - Agent harness for learning difficult things.
 - [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around you.
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - See how any website, app or game works, then have AI build your own version: an open-source, clean-room engine in pure Rust.
 
 ## Skills, Plugins & Context Engineering
 
@@ -810,6 +811,8 @@
 - [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) - Plan each change visually, then let your agents build and verify it. Work side by side in the App or browser, or use your favourite.
 - [dagoSte/squadra](https://github.com/dagoSte/squadra) - Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests and independent review.
 - [sno-ai/sno-station](https://github.com/sno-ai/sno-station) - Sno Station turns the agents you already use into a squad: shared memory, handoffs, and cross-review across Codex, Claude Code, Cursor and...
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications, connecting LLMs, tools, vector DBs and memory.
+- [langwatch/better-agents](https://github.com/langwatch/better-agents) - CLI tool and standards for agent building: turns coding assistants into experts in any agent framework, with scenario tests and evals.
 
 ## Memory & Persistent Context
 
@@ -2616,6 +2619,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - TypeScript headless CMS and app framework.
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - Open-source AI product design agent.
 - [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - Open-source design tool with agent integration.
+- [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Desktop and browser workspace for OpenCode V2: projects, sessions, Git worktrees and full conversation history in one AI coding cockpit.
 
 ## Learning Path
 
