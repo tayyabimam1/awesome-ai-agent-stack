@@ -3830,6 +3830,7 @@
 - [bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
 - [ipa-lab/hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - Helping Ethical Hackers use LLMs in 50 Lines of Code or less.
 - [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - Cybersecurity harness built around the operator.
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - Hugging Face library of models, datasets and tools for real-world robotics: train and deploy robot control policies.
 
 ## Assistants, Copilots & Personal Agents
 
@@ -4013,6 +4014,7 @@
 - [mll-lab-nu/RAGEN](https://github.com/mll-lab-nu/RAGEN) - Agent RL framework for LLM agents: multi-turn reinforcement learning with StarPO and reasoning-collapse diagnostics.
 - [ray-r-ren/agent-apprenticeship](https://github.com/ray-r-ren/agent-apprenticeship) - The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor age.
 - [Human-Agent-Society/CORAL](https://github.com/Human-Agent-Society/CORAL) - Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared knowledge, and multi.
+- [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything) - Domain-general framework turning world-model predictions and interaction feedback into recursive self-improvement for agents.
 
 ## Developer Tools & Utilities
 
