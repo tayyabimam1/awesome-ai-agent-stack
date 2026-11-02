@@ -575,6 +575,13 @@
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants.
 - [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) - Desktop app that records your on-screen work session and turns it into GitHub Copilot agent skills.
 - [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) - 11 Claude skills for day trading: scan thousands of charts and track breaking news.
+- [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing.
+- [unclebob/ub-mode](https://github.com/unclebob/ub-mode) - An agent skill that enforces disciplined software engineering principles when writing or changing code.
+- [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills) - AI agent skills for image/video generation and complete visual brand systems via Higgsfield AI. Works with Claude Code, Cursor, Codex,...
+- [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) - Give it a UI component, get back a one-page technical drawing of it. An agent skill for measured, labeled spec sheets of UI components.
+- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#.
+- [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
+- [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities.
 
 ## Agent Frameworks & Orchestration
 
@@ -800,6 +807,10 @@
 - [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI agent assistant and development framework integrating many messaging platforms.
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI kanban and development environment that orchestrates multiple agents.
+- [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) - Plan each change visually, then let your agents build and verify it. Work side by side in the App or browser, or use your favourite.
+- [dagoSte/squadra](https://github.com/dagoSte/squadra) - Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests and independent review.
+- [sno-ai/sno-station](https://github.com/sno-ai/sno-station) - Sno Station turns the agents you already use into a squad: shared memory, handoffs, and cross-review across Codex, Claude Code, Cursor and...
 - [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications, connecting LLMs, tools, vector DBs and memory.
 - [langwatch/better-agents](https://github.com/langwatch/better-agents) - CLI tool and standards for agent building: turns coding assistants into experts in any agent framework, with scenario tests and evals.
 
@@ -1101,6 +1112,7 @@
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - Python toolkit for reproducing and benchmarking efficient RAG pipelines.
 - [xerj-org/xerj](https://github.com/xerj-org/xerj) - Local-first search engine and MCP server for AI agents; one Rust binary indexes code and docs.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Personal web-history search engine.
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features.
 
 ## MCP Servers & Tool Integration
 
@@ -1303,6 +1315,7 @@
 - [matlab/matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®.
 - [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP server, CLI and Python library.
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis: connect Claude Code to your TradingView charts.
+- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -1575,6 +1588,7 @@
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - High-fidelity browser-based web archiving crawler in Docker.
 - [webrecorder/warcio](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO.
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Agent that turns a GitHub codebase into a beginner-friendly tutorial.
+- [axoviq-ai/synthadoc](https://github.com/axoviq-ai/synthadoc) - Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, queryable knowledge.
 
 ## Workflow Automation
 
@@ -1915,6 +1929,7 @@
 - [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) - Rust libraries and Python bindings that convert API request formats into conversation format for serving DeepSeek models.
 - [monid-ai/monid](https://github.com/monid-ai/monid) - OpenRouter for agent tools: one API across tool providers.
 - [aimod-cc/agent2api](https://github.com/aimod-cc/agent2api) - Agent-to-API bridge for exposing agents behind a standard API.
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models. Works with Claude Code, Codex, Cursor,.
 
 ## Free LLM APIs & Free Tiers
 
@@ -2422,6 +2437,7 @@
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents.
 - [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Official code for Meta-Harness, a framework for evaluating and improving agent harnesses.
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics and token-use statistics for coding agents.
+- [lmgame-org/GamingAgent](https://github.com/lmgame-org/GamingAgent) - [ICLR 2026] LLM/VLM gaming agents and model evaluation through games.
 
 ## Production Architectures & Reference Systems
 
@@ -3373,6 +3389,7 @@
 - [safetensors/safetensors](https://github.com/safetensors/safetensors) - Safe tensor storage format preventing arbitrary code execution.
 - [trailofbits/fickling](https://github.com/trailofbits/fickling) - Static analyzer and decompiler for Python pickle model files.
 - [protectai/modelscan](https://github.com/protectai/modelscan) - Scans models for serialization attacks and unsafe code.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Governance Platform for Agents, Knowledge, and Context.
 
 ## Chat UIs & Application Layer
 
@@ -3821,6 +3838,11 @@
 - [ethanplusai/harvey](https://github.com/ethanplusai/harvey) - Autonomous AI sales agent powered by Claude Code or Codex.
 - [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS) - AI operating-system templates for founders and startups.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open-source Semrush/Ahrefs alternative with an SEO agent and MCP support.
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models.
+- [bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
+- [ipa-lab/hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - Helping Ethical Hackers use LLMs in 50 Lines of Code or less.
+- [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - Cybersecurity harness built around the operator.
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - Hugging Face library of models, datasets and tools for real-world robotics: train and deploy robot control policies.
 
 ## Assistants, Copilots & Personal Agents
 
@@ -3923,6 +3945,7 @@
 - [macro-inc/macro](https://github.com/macro-inc/macro) - AI-native productivity workspace: docs, tasks and chat in one place.
 - [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) - Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.
 - [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) - Open-source, self-hosted alternative to Claude Duet: AI coworkers with memory and routines.
+- [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) - An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.
 
 ## Interpretability, Alignment & Research
 
@@ -4003,6 +4026,7 @@
 - [mll-lab-nu/RAGEN](https://github.com/mll-lab-nu/RAGEN) - Agent RL framework for LLM agents: multi-turn reinforcement learning with StarPO and reasoning-collapse diagnostics.
 - [ray-r-ren/agent-apprenticeship](https://github.com/ray-r-ren/agent-apprenticeship) - The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor age.
 - [Human-Agent-Society/CORAL](https://github.com/Human-Agent-Society/CORAL) - Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared knowledge, and multi.
+- [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything) - Domain-general framework turning world-model predictions and interaction feedback into recursive self-improvement for agents.
 
 ## Developer Tools & Utilities
 
@@ -4066,6 +4090,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse-engineer anything with agents, from app behavior down to native binaries.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Menu-bar usage tracker for Codex and other coding agents.
 - [larksuite/cli](https://github.com/larksuite/cli) - Official Lark/Feishu CLI for docs, messages and workflows.
+- [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions.
 
 
 
