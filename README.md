@@ -624,6 +624,7 @@
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - Text-space optimizer that trains reusable natural-language skills for frozen LLM agents.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Converts documentation sites, GitHub repos and PDFs into Claude skills with conflict detection.
 - [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) - Distills books, long videos and podcasts into executable Agent Skills.
+- [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) - Plugins bringing Spotify Portal into Claude Code, Codex, Cursor, and pi: catalog search, service briefings, diagnostics, and Portal actions.
 
 ## Agent Frameworks & Orchestration
 
@@ -856,6 +857,7 @@
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility.
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A simple and universal swarm intelligence engine, predicting anything.
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a more autonomous agent system: the DeepSeek Harness super-agent prototype.
+- [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 
 ## Memory & Persistent Context
 
