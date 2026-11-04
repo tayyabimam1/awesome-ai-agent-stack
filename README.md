@@ -316,6 +316,9 @@
 - [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done: a spec-driven development core for coding agents.
 - [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - DeepSeek Harness in your pocket: run dsh on your phone locally, or remote-control your computer.
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - The native macOS harness for AI agents: any model, persistent memory, autonomous operation.
+- [egoist/kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents.
+- [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote) - Remote access to local DSH, Codex, Cursor, and Claude Code workspaces over a low-latency, end-to-end encrypted P2P network.
 
 ## Skills, Plugins & Context Engineering
 
@@ -625,6 +628,11 @@
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Converts documentation sites, GitHub repos and PDFs into Claude skills with conflict detection.
 - [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) - Distills books, long videos and podcasts into executable Agent Skills.
 - [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) - Plugins bringing Spotify Portal into Claude Code, Codex, Cursor, and pi: catalog search, service briefings, diagnostics, and Portal actions.
+- [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos.
+- [elvarofficial/teardown](https://github.com/elvarofficial/teardown) - A Claude Code skill that turns any machine into a 3D simulator you can take apart.
+- [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English.
+- [benjitaylor/skills](https://github.com/benjitaylor/skills) - Skills for AI coding agents.
+- [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - Claude skill for viral animated story shorts (2D characters in a 3D world) with three.js + Remotion.
 
 ## Agent Frameworks & Orchestration
 
@@ -1155,6 +1163,7 @@
 - [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) - VideoRAG: chat with your videos, a retrieval-augmented generation framework for video understanding.
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long-horizon agents.
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph: learn Retrieval-Augmented Generation agents in minutes.
+- [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) - Python framework for building semantic, graph-based reasoning layers over data for LLM and agent workflows.
 
 ## MCP Servers & Tool Integration
 
@@ -1633,6 +1642,7 @@
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool: convert, compress, OCR, transcribe and run local AI across image, video, audio, PDF and documents.
 - [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - Scrapes data from Google Maps: names, addresses, phone numbers, websites, ratings, reviews, latitude and longitude, and more.
 - [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) - An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training.
+- [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) - Transform web content into LLM-ready data.
 
 ## Workflow Automation
 
@@ -2256,6 +2266,7 @@
 - [trymirai/uzu](https://github.com/trymirai/uzu) - LLM inference engine for Apple Silicon.
 - [apple/coreai-models](https://github.com/apple/coreai-models) - Model export recipes, Python primitives and Swift runtime utilities for on-device AI.
 - [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people: share compute privately or publicly to power your agents and chat.
+- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 
 ## Evaluation, Observability & Code Review
 
@@ -2460,6 +2471,7 @@
 - [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-driven black-box cost control for coding agents.
 - [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - Measuring and evolving with the frontier of agent work: a benchmark for agents in terminal environments.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Scanner that catches problems in React code written by AI coding agents.
+- [N4darae/shrt](https://github.com/N4darae/shrt) - A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines.
 
 ## Production Architectures & Reference Systems
 
@@ -2644,6 +2656,8 @@
 - [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app.
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - Enterprise Java low-code platform with AI-assisted code generation, knowledge base and MCP plugins.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - Open source no-code platform for building business systems, with AI agents and workflows.
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard with AI-powered news aggregation and geopolitical monitoring.
+- [kgoedecke/doop](https://github.com/kgoedecke/doop) - Open-source multiplayer design canvas where humans and agents collaborate, with MCP built in.
 
 ## Learning Path
 
@@ -3896,6 +3910,7 @@
 - [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video.
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine: an AI job application framework built on Claude Code that evaluates postings, tailors CVs and writes cover letters.
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - AI-powered quantitative investment research platform and automated trading robot, fully deployable locally.
+- [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - Convert Claude Code or Codex into a deep research agent.
 
 ## Assistants, Copilots & Personal Agents
 
@@ -4012,6 +4027,7 @@
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Local, privacy-first meeting note taker with live Whisper and Parakeet transcription.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open-source AI email assistant that helps you reach inbox zero.
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-source AI presentation generator with an API.
+- [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) - Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet.
 
 ## Interpretability, Alignment & Research
 
@@ -4159,6 +4175,7 @@
 - [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together: an interactive, plain-English map of your codebase, drawn by Claude or Codex.
 - [labring/sealos](https://github.com/labring/sealos) - Kubernetes-based cloud platform that deploys projects from GitHub or an AI coding agent.
+- [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative Postgres schema migration. Agent friendly.
 
 
 
