@@ -858,6 +858,7 @@
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A simple and universal swarm intelligence engine, predicting anything.
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a more autonomous agent system: the DeepSeek Harness super-agent prototype.
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
+- [xiaotianfotos/homerail](https://github.com/xiaotianfotos/homerail) - Voice-first local agent orchestration runtime for auditable DAG workflows.
 
 ## Memory & Persistent Context
 
@@ -3360,6 +3361,7 @@
 - [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone via a $7 ESP32: AirPlay eyes, USB HID hands.
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering automated GUI interaction with native agents.
 - [wangzan101/Mika](https://github.com/wangzan101/Mika) - An on-device AI agent for Android that operates apps and the web to get things done for you.
+- [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) - Drives a Mac toward a goal typed in plain English for about $0.0002 a step via deterministic screen reading.
 
 ## Structured Output, Guardrails & Safety
 
