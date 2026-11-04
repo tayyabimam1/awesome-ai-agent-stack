@@ -1308,6 +1308,7 @@
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - WhatsApp Web API for building messaging agents.
 - [ip2location/mcp-ip2location-io](https://github.com/ip2location/mcp-ip2location-io) - IP Geolocation MCP server using IP2Location.io API.
 - [BartWaardenburg/spaceship-mcp](https://github.com/BartWaardenburg/spaceship-mcp) - MCP server for the Spaceship API: domains, DNS, contacts, listings.
+- [GeminiGeorge22/spotify-play-count-mcp](https://github.com/GeminiGeorge22/spotify-play-count-mcp) - MCP server for Spotify play counts and artist monthly listeners.
 - [dream-num/univer](https://github.com/dream-num/univer) - Office runtime for agents: spreadsheets, docs, slides and PDF in one place.
 - [jacob-bd/gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) - Programmatic access to Gemini Notebook - via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira).
