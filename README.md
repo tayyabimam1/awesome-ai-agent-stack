@@ -3911,6 +3911,7 @@
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine: an AI job application framework built on Claude Code that evaluates postings, tailors CVs and writes cover letters.
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - AI-powered quantitative investment research platform and automated trading robot, fully deployable locally.
 - [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - Convert Claude Code or Codex into a deep research agent.
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.
 
 ## Assistants, Copilots & Personal Agents
 
