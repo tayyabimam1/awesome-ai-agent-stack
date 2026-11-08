@@ -1452,6 +1452,7 @@
 - [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright with stealth-patched Firefox and anti-detect fingerprints.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Zero-config Selenium Chromedriver that passes bot mitigation systems.
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents, drop-in for Puppeteer and Playwright.
+- [proxybase.xyz](https://proxybase.xyz) - Headless SOCKS5 proxy infrastructure for AI agents with dynamic IP routing.
 
 **Scraping & crawling**
 
