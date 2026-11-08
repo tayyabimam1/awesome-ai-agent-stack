@@ -867,6 +867,7 @@
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a more autonomous agent system: the DeepSeek Harness super-agent prototype.
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [xiaotianfotos/homerail](https://github.com/xiaotianfotos/homerail) - Voice-first local agent orchestration runtime for auditable DAG workflows.
+- [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) - Unified multi-agent platform: Python SDK + CLI, Studio server and desktop app with Meta-Agent orchestration, MCP Hub, memory.
 
 ## Memory & Persistent Context
 
@@ -2472,6 +2473,7 @@
 - [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - Measuring and evolving with the frontier of agent work: a benchmark for agents in terminal environments.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Scanner that catches problems in React code written by AI coding agents.
 - [N4darae/shrt](https://github.com/N4darae/shrt) - A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines.
+- [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
 
 ## Production Architectures & Reference Systems
 
@@ -3221,6 +3223,7 @@
 - [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - Open-source infinite canvas for AI creative work: image and video generation, agent assistant, canvas orchestration and prompt library.
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI.
 - [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Model for 3D generation using native, compact structured latents.
+- [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill files.
 
 ## Computer Use & GUI Agents
 
