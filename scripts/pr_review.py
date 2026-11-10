@@ -87,7 +87,7 @@ def main() -> None:
 
     # One review per PR: skip if an automated review is already posted.
     bodies = sh("gh", "api", f"repos/{OWNER}/{REPO}/issues/{pr}/comments",
-                "--paginate", "-q", ".[].body", *repo_flag).stdout
+                "--paginate", "-q", ".[].body").stdout
     if MARKER_TEXT in bodies:
         print(f"PR #{pr} already has an automated review — skipping.")
         return
@@ -199,7 +199,7 @@ def budget_check(repo_flag) -> dict | None:
         limit = 30
     month = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m")
     sha, count = None, 0
-    r = sh("gh", "api", f"repos/{OWNER}/{REPO}/contents/{BUDGET_PATH}", *repo_flag)
+    r = sh("gh", "api", f"repos/{OWNER}/{REPO}/contents/{BUDGET_PATH}")
     if r.returncode == 0:
         try:
             meta = json.loads(r.stdout or "{}")
@@ -227,7 +227,7 @@ def budget_consume(state: dict, repo_flag) -> None:
     with open("budget.json", "w", encoding="utf-8") as fh:
         json.dump(payload, fh)
     r = sh("gh", "api", f"repos/{OWNER}/{REPO}/contents/{BUDGET_PATH}",
-           "--method", "PUT", "--input", "budget.json", *repo_flag)
+           "--method", "PUT", "--input", "budget.json")
     if r.returncode != 0:
         print(f"Warning: could not update budget file: {r.stderr.strip()[:200]}")
 
