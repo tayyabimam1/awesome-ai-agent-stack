@@ -3947,6 +3947,7 @@
 - [poco-ai/Agentero](https://github.com/poco-ai/Agentero) - Unified research workspace for humans and agents: PDF Q&A with citations, vault and writing.
 - [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Open-source outreach platform that runs on your Claude or ChatGPT plan: finds leads and runs outreach.
 - [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness: code analysis, pentesting, vulnerability research and reverse engineering, with CLI and MCP for agents.
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 
 ## Assistants, Copilots & Personal Agents
 
