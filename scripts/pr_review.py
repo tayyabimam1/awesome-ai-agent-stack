@@ -68,7 +68,7 @@ def main() -> None:
             model = discover_model(base_url, key)
             if model:
                 print(f"REVIEW_MODEL not set — auto-selected {model} from the gateway.")
-        max_tokens = 1500
+        max_tokens = 2500
         if not base_url:
             print("FREELLMAPI_URL repo variable not set — skipping AI review.")
             return
@@ -134,10 +134,19 @@ def main() -> None:
         "- Flag anything suspicious (typo-squatted names, placeholder descriptions).\n"
         "For code/workflow/site changes: check correctness and safety; flag anything "
         "destructive or secret-leaking.\n\n"
-        "Reply in Markdown: start with one verdict line — **Verdict: looks good to merge** OR "
-        "**Verdict: needs changes** — then a short bullet list of findings "
-        "(omit the list if there is nothing to flag). Be concise and concrete. "
-        "Do not invent repo statistics you cannot see."
+        "Reply in Markdown with this exact structure:\n"
+        "1. One verdict line: **Verdict: looks good to merge** OR **Verdict: needs changes**\n"
+        "2. A **Why** section that ALWAYS appears and explains the reasoning behind the verdict, "
+        "check by check — never give a verdict without reasons. For README entry additions, reason "
+        "about each added entry individually: what the repo is, whether it is on-theme for an AI agent "
+        "stack and why, whether the description is accurate and informative, whether the format matches "
+        "`- [owner/repo](url) - Description.`, and whether the section placement makes sense and why. "
+        "For code/workflow/site changes, explain what the change does, why it is correct or risky, and "
+        "what could break.\n"
+        "3. A **Findings** bullet list of anything that should be fixed or double-checked (write "
+        "'Nothing to flag.' if there is genuinely nothing).\n"
+        "Be specific and concrete: quote the entry or line you are judging and say what you based the "
+        "judgment on. Do not invent repo statistics (stars, dates) you cannot see in the PR text or diff."
     )
 
     req = urllib.request.Request(
