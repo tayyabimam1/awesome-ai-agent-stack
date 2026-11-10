@@ -138,7 +138,7 @@ def main() -> None:
     )
 
     req = urllib.request.Request(
-        base_url + "/v1/chat/completions",
+        base_url.removesuffix("/v1") + "/v1/chat/completions",
         data=json.dumps({"model": model,
                          "messages": [{"role": "user", "content": prompt}],
                          "temperature": 0.2,
