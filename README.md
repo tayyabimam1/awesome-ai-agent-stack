@@ -319,6 +319,9 @@
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - The native macOS harness for AI agents: any model, persistent memory, autonomous operation.
 - [egoist/kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents.
 - [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote) - Remote access to local DSH, Codex, Cursor, and Claude Code workspaces over a low-latency, end-to-end encrypted P2P network.
+- [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) - Lets your CLI agent pick up work in the background and follow it through on its own, only pinging you when a decision is needed.
+- [snarktank/ralph](https://github.com/snarktank/ralph) - An autonomous AI agent loop that runs repeatedly until all PRD items are complete.
+- [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) - Community-maintained DeepSeek Harness companion: host compatibility, status diagnostics, prompt management, updates and local backup/rollback.
 
 ## Skills, Plugins & Context Engineering
 
@@ -635,6 +638,13 @@
 - [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - Claude skill for viral animated story shorts (2D characters in a 3D world) with three.js + Remotion.
 - [shadcn/improve](https://github.com/shadcn/improve) - An agent skill that audits any codebase and writes implementation plans for other agents to execute.
 - [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents.
+- [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - Agent skill for Chinese patent work: patent-point mining, disclosure drafting (invention/utility/design), plain-language patent explainers and examination replies.
+- [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Open skills marketplace that gives AI agents native access to Binance crypto markets and data.
+- [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions.
+- [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) - Skill that strips AI tone from writing, grounded in a 5.2-million-character corpus study.
+- [bangtutorial/bang-motion](https://github.com/bangtutorial/bang-motion) - Agent skill for browser motion graphics: openers, promos, bumpers, kinetic typography and explainer styles.
+- [janestreet/agent_skills](https://github.com/janestreet/agent_skills) - Agent skills from Jane Street.
+- [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop) - Desktop home for the DSH plugin ecosystem: hundreds of DeepSeek Harness plugins in one app.
 
 ## Agent Frameworks & Orchestration
 
@@ -872,6 +882,9 @@
 - [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect) - The open-source, multi-agent alternative to Claude Tag. @ any agent, wherever work happens, they work alongside your team.
 - [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) - A clean, modular SDK for building AI agents with OpenHands V1.
 - [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) - Unified multi-agent platform: Python SDK + CLI, Studio server and desktop app with Meta-Agent orchestration, MCP Hub, memory.
+- [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - Agent framework and Web UI topping 5+ benchmarks; supports MiroThinker, Claude, Kimi and OpenAI models.
+- [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - The open-source operating system for your company: multiplayer AI agents, your company as code, sovereign on your infrastructure.
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud-native agentic AI framework for Kubernetes.
 
 ## Memory & Persistent Context
 
@@ -1008,6 +1021,7 @@
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) - Decision audit trail and persistent memory for AI trading agents.
 - [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault.
 - [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) - Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.
+- [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) - The open-source context layer for AI agents: turns company knowledge (Slack, Drive, Jira, GitHub) into agent-ready context.
 
 ## RAG & Retrieval
 
@@ -1169,6 +1183,7 @@
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long-horizon agents.
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph: learn Retrieval-Augmented Generation agents in minutes.
 - [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) - Python framework for building semantic, graph-based reasoning layers over data for LLM and agent workflows.
+- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Your personal librarian agent: ask anything on your computer, organize files and remember what matters.
 
 ## MCP Servers & Tool Integration
 
@@ -1368,6 +1383,8 @@
 - [mattt/iMCP](https://github.com/mattt/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more.
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities.
 - [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let any AI agent use your iPhone or Android phone over MCP, with you in the loop approving risky steps.
+- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage and connect to all your MCP servers.
+- [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API: connect AI to Figma for extraction, creation and debugging.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -2274,6 +2291,7 @@
 - [apple/coreai-models](https://github.com/apple/coreai-models) - Model export recipes, Python primitives and Swift runtime utilities for on-device AI.
 - [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people: share compute privately or publicly to power your agents and chat.
 - [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - The 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM, in portable C99.
 
 ## Evaluation, Observability & Code Review
 
@@ -3229,6 +3247,9 @@
 - [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - Open-source infinite canvas for AI creative work: image and video generation, agent assistant, canvas orchestration and prompt library.
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI.
 - [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Model for 3D generation using native, compact structured latents.
+- [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need and let the AI build clean, beautiful HTML slides for you. Local-first.
+- [sarpstar/cinecode](https://github.com/sarpstar/cinecode) - Films made with code: an AI coding agent writes and renders short films, YouTube videos, ads and explainers.
+- [shinyobjectz/raea](https://github.com/shinyobjectz/raea) - Render Anything Engine: tell your AI what to make — videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU.
 
 ## Computer Use & GUI Agents
 
@@ -3920,6 +3941,12 @@
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - AI-powered quantitative investment research platform and automated trading robot, fully deployable locally.
 - [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - Convert Claude Code or Codex into a deep research agent.
 - [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - AI trading terminal assistant for US stocks, commodities, forex and crypto.
+- [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) - Autonomous pentest legion: AI commander plus worker swarm with a layered fact-intent graph.
+- [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - Autonomous red-teaming platform: a multi-agent offensive-security meta-harness.
+- [poco-ai/Agentero](https://github.com/poco-ai/Agentero) - Unified research workspace for humans and agents: PDF Q&A with citations, vault and writing.
+- [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Open-source outreach platform that runs on your Claude or ChatGPT plan: finds leads and runs outreach.
+- [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness: code analysis, pentesting, vulnerability research and reverse engineering, with CLI and MCP for agents.
 
 ## Assistants, Copilots & Personal Agents
 
@@ -4185,6 +4212,11 @@
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together: an interactive, plain-English map of your codebase, drawn by Claude or Codex.
 - [labring/sealos](https://github.com/labring/sealos) - Kubernetes-based cloud platform that deploys projects from GitHub or an AI coding agent.
 - [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative Postgres schema migration. Agent friendly.
+- [ys-ll/uniterm](https://github.com/ys-ll/uniterm) - All-in-one terminal covering 30+ protocols (SSH, RDP, SFTP, databases, Kubernetes) with a built-in AI assistant.
+- [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) - Unvibe complex code: trace the business workflows, connections and risks hidden in a codebase.
+- [zzet/gortex](https://github.com/zzet/gortex) - High-performance code-intelligence engine for AI agents and IDEs, supporting 257 languages across multiple repositories.
+- [vAPI-Network/vapi-network](https://github.com/vAPI-Network/vapi-network) - Buyer-controlled client for x402 API payments in USDC on Base, so agents can pay for APIs.
+- [adtexterry-lgtm/unigit-ecosystem](https://github.com/adtexterry-lgtm/unigit-ecosystem) - UNIGIT public brand and ecosystem hub: AI should work for everyone.
 
 
 
