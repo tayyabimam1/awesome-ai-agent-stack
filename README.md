@@ -871,6 +871,7 @@
 - [xiaotianfotos/homerail](https://github.com/xiaotianfotos/homerail) - Voice-first local agent orchestration runtime for auditable DAG workflows.
 - [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect) - The open-source, multi-agent alternative to Claude Tag. @ any agent, wherever work happens, they work alongside your team.
 - [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) - A clean, modular SDK for building AI agents with OpenHands V1.
+- [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) - Unified multi-agent platform: Python SDK + CLI, Studio server and desktop app with Meta-Agent orchestration, MCP Hub, memory.
 
 ## Memory & Persistent Context
 
@@ -2478,6 +2479,7 @@
 - [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - Measuring and evolving with the frontier of agent work: a benchmark for agents in terminal environments.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Scanner that catches problems in React code written by AI coding agents.
 - [N4darae/shrt](https://github.com/N4darae/shrt) - A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines.
+- [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
 
 ## Production Architectures & Reference Systems
 
