@@ -31,6 +31,7 @@ import datetime
 import json
 import os
 import subprocess
+import time
 import urllib.request
 
 OWNER, REPO = os.environ.get("GITHUB_REPOSITORY", "tayyabimam1/awesome-ai-agent-stack").split("/", 1)
@@ -147,11 +148,10 @@ def main() -> None:
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
     )
     try:
-        with urllib.request.urlopen(req, timeout=180) as resp:
-            data = json.load(resp)
+        data = urlopen_json(req)
         review = data["choices"][0]["message"]["content"].strip()
-    except Exception as e:  # gateway hiccup: skip quietly, the scheduled reviewer retries
-        print(f"LLM call failed ({e}) — skipping comment.")
+    except Exception as e:  # gateway still unreachable after retries: skip quietly
+        print(f"LLM call failed after retries ({e}) — skipping comment.")
         return
 
     body = f"_{MARKER_TEXT} — not a manual review._\n\n{review}"
@@ -165,6 +165,24 @@ def main() -> None:
         print(f"Failed to post comment: {out.stderr.strip()}")
 
 
+def urlopen_json(req, timeout=30, retries=3):
+    """Open a gateway URL and parse the JSON, riding out serverless cold
+    starts: 30 seconds per attempt, up to 3 retries, 10s pause between
+    attempts. Raises the last error when every attempt fails."""
+    last = None
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return json.load(resp)
+        except Exception as e:  # cold start / transient gateway error
+            last = e
+            if attempt < retries:
+                print(f"Gateway call attempt {attempt + 1} failed ({e}) "
+                      "- retrying in 10s (endpoint may be waking up).")
+                time.sleep(10)
+    raise last
+
+
 def discover_model(base_url: str, key: str) -> str:
     """Pick a model from the gateway when REVIEW_MODEL isn't set.
 
@@ -173,8 +191,7 @@ def discover_model(base_url: str, key: str) -> str:
     try:
         req = urllib.request.Request(
             base_url + "/models", headers={"Authorization": f"Bearer {key}"})
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            data = json.load(resp)
+        data = urlopen_json(req)
         ids = [m.get("id") for m in data.get("data", []) if m.get("id")]
         # skip non-chat models (image/audio/video/embeddings/tts)
         chat_ids = [i for i in ids
