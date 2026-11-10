@@ -62,6 +62,8 @@ def main() -> None:
         key = os.environ.get("FREELLMAPI_KEY", "").strip()
         base_url = os.environ.get("FREELLMAPI_URL", "").strip().rstrip("/")
         model = os.environ.get("REVIEW_MODEL", "").strip()
+        if model.lower() == "auto":  # "auto" = pick a small/fast model from the gateway
+            model = ""
         if not model and key and base_url:
             model = discover_model(base_url, key)
             if model:
