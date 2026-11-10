@@ -3947,6 +3947,7 @@
 - [poco-ai/Agentero](https://github.com/poco-ai/Agentero) - Unified research workspace for humans and agents: PDF Q&A with citations, vault and writing.
 - [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Open-source outreach platform that runs on your Claude or ChatGPT plan: finds leads and runs outreach.
 - [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness: code analysis, pentesting, vulnerability research and reverse engineering, with CLI and MCP for agents.
+- [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame) - The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app.
 
 ## Assistants, Copilots & Personal Agents
 
@@ -4064,6 +4065,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open-source AI email assistant that helps you reach inbox zero.
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-source AI presentation generator with an API.
 - [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) - Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet.
+- [PotterRemember37/Capri-AI-Desktop](https://github.com/PotterRemember37/Capri-AI-Desktop) - Capri — Edgerunners-inspired AI agent for your desktop. Supports Claude 3.7, Claude Code, OpenAI, and local Ollama/LLaMA.
 
 ## Interpretability, Alignment & Research
 
