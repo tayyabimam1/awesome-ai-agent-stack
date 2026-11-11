@@ -1296,6 +1296,7 @@
 - [spre-sre/lumino-mcp-server](https://github.com/spre-sre/lumino-mcp-server) - AI-powered SRE observability engine for Kubernetes and OpenShift diagnostics.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project.
 - [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
+- [mrhy7176/cloudgpu-mcp](https://github.com/mrhy7176/cloudgpu-mcp) - MCP server to quote and run a per-minute GPU job, then fetch results and stop the instance.
 
 **Browser, search & scraping servers**
 
