@@ -322,6 +322,7 @@
 - [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) - Lets your CLI agent pick up work in the background and follow it through on its own, only pinging you when a decision is needed.
 - [snarktank/ralph](https://github.com/snarktank/ralph) - An autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) - Community-maintained DeepSeek Harness companion: host compatibility, status diagnostics, prompt management, updates and local backup/rollback.
+- [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell) - Pi-native workspace for AI-assisted development with parallel coding agents, live tasks, Git diffs, memory and permission controls.
 
 ## Skills, Plugins & Context Engineering
 
@@ -885,6 +886,7 @@
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - Agent framework and Web UI topping 5+ benchmarks; supports MiroThinker, Claude, Kimi and OpenAI models.
 - [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - The open-source operating system for your company: multiplayer AI agents, your company as code, sovereign on your infrastructure.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud-native agentic AI framework for Kubernetes.
+- [openBitFun/OpenBitFun](https://github.com/openBitFun/OpenBitFun) - High-performance agent runtime in Rust with a polished desktop app, pairing Code Agent depth with general-purpose capabilities.
 
 ## Memory & Persistent Context
 
@@ -1385,6 +1387,7 @@
 - [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let any AI agent use your iPhone or Android phone over MCP, with you in the loop approving risky steps.
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage and connect to all your MCP servers.
 - [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API: connect AI to Figma for extraction, creation and debugging.
+- [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp) - Official MCP server for the Google Ads API, exposing search, asset, label and account tools to LLMs and AI agents.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -2292,6 +2295,7 @@
 - [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people: share compute privately or publicly to power your agents and chat.
 - [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - The 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM, in portable C99.
+- [ashhart/TensorFold](https://github.com/ashhart/TensorFold) - LLM Inference Engine for Metal, CUDA and Vulkan.
 
 ## Evaluation, Observability & Code Review
 
@@ -3947,6 +3951,7 @@
 - [poco-ai/Agentero](https://github.com/poco-ai/Agentero) - Unified research workspace for humans and agents: PDF Q&A with citations, vault and writing.
 - [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Open-source outreach platform that runs on your Claude or ChatGPT plan: finds leads and runs outreach.
 - [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness: code analysis, pentesting, vulnerability research and reverse engineering, with CLI and MCP for agents.
+- [billion-token-one-task/Deepgraph](https://github.com/billion-token-one-task/Deepgraph) - Token-scale scientific discovery engine — autonomous hypothesis generation, experiment execution, and knowledge graph synthesis.
 
 ## Assistants, Copilots & Personal Agents
 
