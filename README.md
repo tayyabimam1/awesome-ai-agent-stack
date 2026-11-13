@@ -453,6 +453,7 @@
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - Codex skill that generates 16:9 hand-drawn illustrations on white with a few colored annotations.
 - [tw93/Kami](https://github.com/tw93/Kami) - Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generates SVG and PNG technical diagrams from natural language, with 7 styles and UML support.
+- [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame) - The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app.
 
 **Hooks, status lines & usage tracking**
 
@@ -1385,6 +1386,7 @@
 - [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let any AI agent use your iPhone or Android phone over MCP, with you in the loop approving risky steps.
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage and connect to all your MCP servers.
 - [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API: connect AI to Figma for extraction, creation and debugging.
+- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: open-source alternative to Context7, Nia, and Ref.Tools — version-aware docs search for AI coding assistants.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -3947,7 +3949,7 @@
 - [poco-ai/Agentero](https://github.com/poco-ai/Agentero) - Unified research workspace for humans and agents: PDF Q&A with citations, vault and writing.
 - [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Open-source outreach platform that runs on your Claude or ChatGPT plan: finds leads and runs outreach.
 - [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness: code analysis, pentesting, vulnerability research and reverse engineering, with CLI and MCP for agents.
-- [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame) - The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app.
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 
 ## Assistants, Copilots & Personal Agents
 
@@ -4065,7 +4067,6 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open-source AI email assistant that helps you reach inbox zero.
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-source AI presentation generator with an API.
 - [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) - Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet.
-- [PotterRemember37/Capri-AI-Desktop](https://github.com/PotterRemember37/Capri-AI-Desktop) - Capri — Edgerunners-inspired AI agent for your desktop. Supports Claude 3.7, Claude Code, OpenAI, and local Ollama/LLaMA.
 
 ## Interpretability, Alignment & Research
 
