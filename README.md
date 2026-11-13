@@ -273,6 +273,7 @@
 - [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from you.
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Web interface for using Hermes Agent from a browser or a phone.
+- [its-maestro-baby/maestro](https://github.com/its-maestro-baby/maestro) - The Bloomberg Terminal for CLI Agents.
 
 **Account, session & proxy managers**
 
@@ -525,6 +526,7 @@
 - [VILA-Lab/Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code) - Systematic analysis of Claude Code for designing agent systems.
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Setup, commands, workflows, agents, skills, and tips from beginner to power user.
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Skills that embed modern web platform expertise and best practices directly into coding agents.
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - Keep your coding agent up to date with the latest web best practices.
 
 **Plugin & skill directories**
 
@@ -755,7 +757,6 @@
 - [thClaws/thClaws](https://github.com/thClaws/thClaws) - Open-source AI agent harness in native Rust: GUI, CLI, and headless.
 - [openBitFun/OpenBitFun](https://github.com/openBitFun/OpenBitFun) - OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent.
 - [micro/go-micro](https://github.com/micro/go-micro) - Go framework for building agents, tools and services.
-- [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun) - OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent.
 
 **Multi-agent systems**
 
@@ -1443,6 +1444,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - On-demand cloud development environments for secure coding.
 - [coder/coder](https://github.com/coder/coder) - Secure remote development environments for developers and their agents.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, networ.
+- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Lightweight virtual machine purpose-built for Claude that fully prevents network leaks. Multi-platform, with multi-account management, remote deployment, and mobile control.
 
 **Browser automation**
 
@@ -1910,6 +1912,7 @@
 - [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) - Self-hosted OpenAI-compatible LLM router with BYOK and a managed safety net.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MC.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol).
+- [experientiallabs/experiential](https://github.com/experientiallabs/experiential) - Open-source, zero-markup BYOK gateway, self-hosted with 1000+ marketplace models; learns from traffic to cut costs and recommend better models.
 
 **Smart model routers**
 
@@ -2611,6 +2614,7 @@
 - [botfront/rasa-webchat](https://github.com/botfront/rasa-webchat) - Feature-rich embeddable chat widget for Rasa assistants.
 - [ant-design/x](https://github.com/ant-design/x) - React toolkit for building AI chat and agent interfaces.
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework.
+- [vercel-labs/ui](https://github.com/vercel-labs/ui) - A library of behaviors for agents to build the next generation of user interfaces.
 
 **Python app frameworks**
 
@@ -2650,6 +2654,7 @@
 - [lit/lit](https://github.com/lit/lit) - Simple library for building web components.
 - [angular/angular](https://github.com/angular/angular) - Platform for building mobile and desktop web apps.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 
 **Backend frameworks**
 
@@ -3114,6 +3119,7 @@
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Native macOS app for running Stable Diffusion locally.
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion image and texture generation inside Blender.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the w.
+- [shanliuling/dsh-image-gen](https://github.com/shanliuling/dsh-image-gen) - AI image studio for DeepSeek Harness — generate, edit, and compare images in chat, with 500+ built-in prompts, a gallery, multi-model workflows, and ComfyUI support.
 
 **Image models & inference**
 
@@ -3479,6 +3485,7 @@
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Library for ML security: evasion, poisoning, extraction, and inference attacks.
 - [rogue-security/rogue](https://github.com/rogue-security/rogue) - Red-team platform evaluating AI agents against security policies.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Autonomous AI agents for penetration testing.
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities.
 
 **Model supply-chain security**
 
