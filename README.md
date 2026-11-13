@@ -273,7 +273,7 @@
 - [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from you.
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Web interface for using Hermes Agent from a browser or a phone.
-- [its-maestro-baby/maestro](https://github.com/its-maestro-baby/maestro) - The Bloomberg Terminal for CLI Agents.
+- [its-maestro-baby/maestro](https://github.com/its-maestro-baby/maestro) - Desktop app that runs up to 6 AI coding sessions in parallel, each in its own isolated git worktree.
 
 **Account, session & proxy managers**
 
@@ -1444,7 +1444,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - On-demand cloud development environments for secure coding.
 - [coder/coder](https://github.com/coder/coder) - Secure remote development environments for developers and their agents.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, networ.
-- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Lightweight virtual machine purpose-built for Claude that fully prevents network leaks. Multi-platform, with multi-account management, remote deployment, and mobile control.
+- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Lightweight virtual machine purpose-built for Claude that uses a configurable network proxy. Multi-platform, with multi-account management, remote deployment, and mobile control.
 
 **Browser automation**
 
