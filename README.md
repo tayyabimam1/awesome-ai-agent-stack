@@ -247,6 +247,7 @@
 - [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own execution surface.
 - [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Runs coding agents as a graph: one agent implements, independent agents review, failures go to repair, and nothing ships until the checks pa.
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - Layer for Codex CLI that adds hooks, agent teams and HUDs.
+- [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell) - Pi-native workspace for AI-assisted development with parallel coding agents, live tasks, Git diffs, memory and permission controls.
 
 **Remote control & session monitoring**
 
@@ -751,8 +752,9 @@
 - [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - Agentic AI framework for Java developers.
 - [11fsociety/encom](https://github.com/11fsociety/encom) - Open-source AI agent framework; single-binary Rust daemon with TypeScript skills.
 - [thClaws/thClaws](https://github.com/thClaws/thClaws) - Open-source AI agent harness in native Rust: GUI, CLI, and headless.
-- [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun) - OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent.
+- [openBitFun/OpenBitFun](https://github.com/openBitFun/OpenBitFun) - OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent.
 - [micro/go-micro](https://github.com/micro/go-micro) - Go framework for building agents, tools and services.
+- [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun) - OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent.
 
 **Multi-agent systems**
 
@@ -1354,6 +1356,7 @@
 - [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - MCP server for Korean law: search statutes, precedents and ordinances from the national law database and verify citations directly from your LLM.
 - [dsphper/lanhu-mcp](https://github.com/dsphper/lanhu-mcp) - Team-collaboration MCP server designed for the AI coding era: automatically analyzes requirements, writes front-end and back-end code, and downloads design assets.
 - [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP server that lets AI agents work with Xiaohongshu (RedNote).
+- [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp) - Official MCP server for the Google Ads API, exposing search, asset, label and account tools to LLMs and AI agents.
 
 **Creative & app-control servers**
 
@@ -2294,6 +2297,7 @@
 - [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people: share compute privately or publicly to power your agents and chat.
 - [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - The 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM, in portable C99.
+- [ashhart/TensorFold](https://github.com/ashhart/TensorFold) - LLM Inference Engine for Metal, CUDA and Vulkan.
 
 ## Evaluation, Observability & Code Review
 
@@ -3887,6 +3891,7 @@
 - [CYC2002tommy/Deep-Research-Agent](https://github.com/CYC2002tommy/Deep-Research-Agent) - 7-phase autonomous academic research pipeline skill with DOI verification.
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Multi-agent interactive classroom for immersive learning.
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Agent that automates data-driven R&D, from data mining to model development.
+- [billion-token-one-task/Deepgraph](https://github.com/billion-token-one-task/Deepgraph) - Token-scale scientific discovery engine — autonomous hypothesis generation, experiment execution, and knowledge graph synthesis.
 
 **Deep research agents**
 
