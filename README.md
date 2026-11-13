@@ -1385,6 +1385,7 @@
 - [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let any AI agent use your iPhone or Android phone over MCP, with you in the loop approving risky steps.
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage and connect to all your MCP servers.
 - [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API: connect AI to Figma for extraction, creation and debugging.
+- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: open-source alternative to Context7, Nia, and Ref.Tools — version-aware docs search for AI coding assistants.
 
 ## Sandboxes, Browsers & Computer Use
 
