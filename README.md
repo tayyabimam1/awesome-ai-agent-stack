@@ -524,6 +524,7 @@
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45+ tips for getting the most out of Claude Code.
 - [VILA-Lab/Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code) - Systematic analysis of Claude Code for designing agent systems.
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Setup, commands, workflows, agents, skills, and tips from beginner to power user.
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Skills that embed modern web platform expertise and best practices directly into coding agents.
 
 **Plugin & skill directories**
 
@@ -1390,6 +1391,7 @@
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage and connect to all your MCP servers.
 - [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API: connect AI to Figma for extraction, creation and debugging.
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: open-source alternative to Context7, Nia, and Ref.Tools — version-aware docs search for AI coding assistants.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents, with an MCP server for Claude Code, Codex, ChatGPT, Cursor and more.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -3892,6 +3894,7 @@
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Multi-agent interactive classroom for immersive learning.
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Agent that automates data-driven R&D, from data mining to model development.
 - [billion-token-one-task/Deepgraph](https://github.com/billion-token-one-task/Deepgraph) - Token-scale scientific discovery engine — autonomous hypothesis generation, experiment execution, and knowledge graph synthesis.
+- [wdcpclover/ai4paper](https://github.com/wdcpclover/ai4paper) - AI research workbench for papers: literature search, AI paper reading, PDF translation, knowledge-base Q&A and auto literature reviews.
 
 **Deep research agents**
 
