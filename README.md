@@ -1393,6 +1393,7 @@
 - [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API: connect AI to Figma for extraction, creation and debugging.
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: open-source alternative to Context7, Nia, and Ref.Tools — version-aware docs search for AI coding assistants.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents, with an MCP server for Claude Code, Codex, ChatGPT, Cursor and more.
+- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - WebMCP lets developers expose web application functionality as tools for AI agent ingestion.
 
 ## Sandboxes, Browsers & Computer Use
 
