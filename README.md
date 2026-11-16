@@ -1214,6 +1214,7 @@
 - [SatyamSingh8306/mcp_arena](https://github.com/SatyamSingh8306/mcp_arena) - Python library for building MCP servers with intelligent agent orchestration.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Exposes FastAPI endpoints as authenticated MCP tools.
 - [agentrpc/agentrpc](https://github.com/agentrpc/agentrpc) - Universal RPC layer connecting AI agents to functions in any language.
+- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - WebMCP proposal letting developers expose web app functionality as tools for AI agent ingestion.
 
 **Inspectors & dev tools**
 
