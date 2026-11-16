@@ -1165,6 +1165,7 @@
 - [Aliu-AiRobot/ESEILANE](https://github.com/Aliu-AiRobot/ESEILANE) - High-performance knowledge graph engine for AI, LLMs, and GraphRAG.
 - [intuit/infigraph](https://github.com/intuit/infigraph) - AST-powered code intelligence engine: graph database plus hybrid semantic search.
 - [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Builds Neo4j knowledge graphs from unstructured documents using LLMs.
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine.
 
 **Semantic caching**
 
@@ -1393,6 +1394,8 @@
 - [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API: connect AI to Figma for extraction, creation and debugging.
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: open-source alternative to Context7, Nia, and Ref.Tools — version-aware docs search for AI coding assistants.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents, with an MCP server for Claude Code, Codex, ChatGPT, Cursor and more.
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Local MCP server giving your coding agent a desktop toolbox: downloads, media conversion, files and chats.
+- [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - MCP server letting LLMs like Claude directly interact with KiCAD for printed circuit board design.
 
 ## Sandboxes, Browsers & Computer Use
 
