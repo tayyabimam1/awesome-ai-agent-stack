@@ -1213,6 +1213,7 @@
 - [SatyamSingh8306/mcp_arena](https://github.com/SatyamSingh8306/mcp_arena) - Python library for building MCP servers with intelligent agent orchestration.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Exposes FastAPI endpoints as authenticated MCP tools.
 - [agentrpc/agentrpc](https://github.com/agentrpc/agentrpc) - Universal RPC layer connecting AI agents to functions in any language.
+- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - WebMCP proposal letting developers expose web app functionality as tools for AI agent ingestion.
 
 **Inspectors & dev tools**
 
@@ -1393,7 +1394,6 @@
 - [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API: connect AI to Figma for extraction, creation and debugging.
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: open-source alternative to Context7, Nia, and Ref.Tools — version-aware docs search for AI coding assistants.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents, with an MCP server for Claude Code, Codex, ChatGPT, Cursor and more.
-- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - WebMCP lets developers expose web application functionality as tools for AI agent ingestion.
 
 ## Sandboxes, Browsers & Computer Use
 
