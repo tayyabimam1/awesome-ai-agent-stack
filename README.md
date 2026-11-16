@@ -324,6 +324,8 @@
 - [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) - Lets your CLI agent pick up work in the background and follow it through on its own, only pinging you when a decision is needed.
 - [snarktank/ralph](https://github.com/snarktank/ralph) - An autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) - Community-maintained DeepSeek Harness companion: host compatibility, status diagnostics, prompt management, updates and local backup/rollback.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex, developed and maintained with no human intervention.
+- [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) - Visual manager for OpenAI Codex desktop/CLI: provider/API switching, session sync, prompt injection, Skills/MCP management, visual TOML config.
 
 ## Skills, Plugins & Context Engineering
 
@@ -650,6 +652,13 @@
 - [bangtutorial/bang-motion](https://github.com/bangtutorial/bang-motion) - Agent skill for browser motion graphics: openers, promos, bumpers, kinetic typography and explainer styles.
 - [janestreet/agent_skills](https://github.com/janestreet/agent_skills) - Agent skills from Jane Street.
 - [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop) - Desktop home for the DSH plugin ecosystem: hundreds of DeepSeek Harness plugins in one app.
+- [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) - Claude Code skills for equity investors and traders: market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+- [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) - Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer.
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work: 82 skills, 15 slash commands, 681 disclosed-report patterns across 24 core vulnerability classes.
+- [NVIDIA/skills](https://github.com/NVIDIA/skills) - Agent Skills for NVIDIA products: install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.
+- [runkids/skillshare](https://github.com/runkids/skillshare) - Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.
+- [arjun988/blender-skills](https://github.com/arjun988/blender-skills) - 94 specialist Blender skills for Cursor, Claude Code, Kiro and Codex: MCP-powered production pipeline from blockout to engine export.
+- [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video shot by shot, filmed, AI-generated or coded, and how to remake it, in the open VIDEO.md format.
 
 ## Agent Frameworks & Orchestration
 
@@ -891,6 +900,7 @@
 - [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - The open-source operating system for your company: multiplayer AI agents, your company as code, sovereign on your infrastructure.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud-native agentic AI framework for Kubernetes.
 - [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source AI cybersecurity harness to build & deploy continuous security agents that find, prove, fix and monitor vulnerabilities.
+- [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop.
 
 ## Memory & Persistent Context
 
@@ -1398,6 +1408,8 @@
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents, with an MCP server for Claude Code, Codex, ChatGPT, Cursor and more.
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Local MCP server giving your coding agent a desktop toolbox: downloads, media conversion, files and chats.
 - [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - MCP server letting LLMs like Claude directly interact with KiCAD for printed circuit board design.
+- [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact and Resume, and durable multi-agent workflows.
+- [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT, Claude, Gemini, Ollama, OpenCode.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -1547,6 +1559,8 @@
 - [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Agent Desktop gives any agent reliable computer use on the desktop, built with Rust, seeing any app's real UI structure through the OS accessibility tree.
 - [deeplethe/sandstorm](https://github.com/deeplethe/sandstorm) - Run thousands of AI agent sandboxes on the cheapest machines.
+- [CelestoAI/celesto](https://github.com/CelestoAI/celesto) - Secure and persistent computer for AI agents.
+- [cloudflare/kitesurf](https://github.com/cloudflare/kitesurf) - Kitesurf is an experimental browser engine that runs on Cloudflare Workers.
 
 ## Document Processing & Data Ingestion
 
@@ -1819,6 +1833,7 @@
 - [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AWS AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents.
 - [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - Planning tool for agent workflows.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - The ultimate agentic social media scheduling tool.
+- [Tencent/LoopForge](https://github.com/Tencent/LoopForge) - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates.
 
 ## Model Gateways & Routing
 
@@ -2514,6 +2529,7 @@
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Scanner that catches problems in React code written by AI coding agents.
 - [N4darae/shrt](https://github.com/N4darae/shrt) - A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines.
 - [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills: quality gates, semantic overlap detection, synthetic datasets and live agent evaluation.
 
 ## Production Architectures & Reference Systems
 
@@ -3269,6 +3285,7 @@
 - [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need and let the AI build clean, beautiful HTML slides for you. Local-first.
 - [sarpstar/cinecode](https://github.com/sarpstar/cinecode) - Films made with code: an AI coding agent writes and renders short films, YouTube videos, ads and explainers.
 - [shinyobjectz/raea](https://github.com/shinyobjectz/raea) - Render Anything Engine: tell your AI what to make — videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU.
+- [openfilm/openfilm](https://github.com/openfilm/openfilm) - The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.
 
 ## Computer Use & GUI Agents
 
@@ -3424,6 +3441,7 @@
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering automated GUI interaction with native agents.
 - [wangzan101/Mika](https://github.com/wangzan101/Mika) - An on-device AI agent for Android that operates apps and the web to get things done for you.
 - [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) - Drives a Mac toward a goal typed in plain English for about $0.0002 a step via deterministic screen reading.
+- [edgerunners-2/capri-ai-desktop](https://github.com/edgerunners-2/capri-ai-desktop) - Free open-source AI desktop pet, gaming overlay and voice companion for Windows: GUI for Claude Code, Ollama, DeepSeek and MCP.
 
 ## Structured Output, Guardrails & Safety
 
@@ -3971,6 +3989,7 @@
 - [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Open-source outreach platform that runs on your Claude or ChatGPT plan: finds leads and runs outreach.
 - [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness: code analysis, pentesting, vulnerability research and reverse engineering, with CLI and MCP for agents.
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+- [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research) - Stock research workbench for China A-shares, US and HK stocks: watchlists, holdings, backtests, 168 data endpoints, agent-driven via Claude Code/Codex.
 
 ## Assistants, Copilots & Personal Agents
 
@@ -4088,6 +4107,8 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open-source AI email assistant that helps you reach inbox zero.
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-source AI presentation generator with an API.
 - [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) - Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet.
+- [n8n-io/nod](https://github.com/n8n-io/nod) - Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts.
+- [huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 35 AI skills, 10 agents, and people CRM; closed-loop V-model verification harness.
 
 ## Interpretability, Alignment & Research
 
