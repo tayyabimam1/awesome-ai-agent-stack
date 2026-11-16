@@ -890,7 +890,7 @@
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - Agent framework and Web UI topping 5+ benchmarks; supports MiroThinker, Claude, Kimi and OpenAI models.
 - [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - The open-source operating system for your company: multiplayer AI agents, your company as code, sovereign on your infrastructure.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud-native agentic AI framework for Kubernetes.
-- [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source AI cybersecurity harness to build & deploy continuous security agents that find, prove, fix and monitor vulnerabilities acros.
+- [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source AI cybersecurity harness to build & deploy continuous security agents that find, prove, fix and monitor vulnerabilities.
 
 ## Memory & Persistent Context
 
