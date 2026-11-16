@@ -890,6 +890,7 @@
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - Agent framework and Web UI topping 5+ benchmarks; supports MiroThinker, Claude, Kimi and OpenAI models.
 - [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - The open-source operating system for your company: multiplayer AI agents, your company as code, sovereign on your infrastructure.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud-native agentic AI framework for Kubernetes.
+- [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source AI cybersecurity harness to build & deploy continuous security agents that find, prove, fix and monitor vulnerabilities.
 
 ## Memory & Persistent Context
 
@@ -3604,6 +3605,7 @@
 - [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) - IM-style chat client for DeepSeek Harness.
 - [leepokai/Codync](https://github.com/leepokai/Codync) - Open-source multi-agent client: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents with your own agent and subscription.
 - [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Local-first AI workspace for multi-agent chat, coding and visual workflows on desktop and web.
+- [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source agentic app for running AI agents across local and hosted models.
 
 ## Deployment, Serving & MLOps
 
@@ -4337,6 +4339,7 @@
 - [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents - Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LOVE, Roblox.
 - [momozi1996/awesome-ai-persona-skills](https://github.com/momozi1996/awesome-ai-persona-skills) - A continuously updated collection of 100+ persona-distillation skills (celebrities, directors, forum legends, classical texts, anime, workplace, relationships) with multi-agent systems.
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh).
+- [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
 
 ## Contributing
 
