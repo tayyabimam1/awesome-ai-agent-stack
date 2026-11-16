@@ -1,0 +1,885 @@
+[
+{
+"repo": "PicoTrex/Awesome-Nano-Banana-images",
+"description": "A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)",
+"topics": [
+"awesome",
+"gemini-2-5-flash-image",
+"nano-banana"
+],
+"language": "",
+"stars": 23989
+},
+{
+"repo": "spmallick/learnopencv",
+"description": "Learn OpenCV  : C++ and Python Examples",
+"topics": [
+"computer-vision",
+"machine-learning",
+"ai",
+"deep-learning",
+"deep-neural-networks",
+"deeplearning",
+"computervision",
+"opencv",
+"opencv-python",
+"opencv-library"
+],
+"language": "Jupyter Notebook",
+"stars": 23228
+},
+{
+"repo": "micro/go-micro",
+"description": "A framework for agents, tools and services",
+"topics": [
+"go",
+"golang",
+"micro"
+],
+"language": "Go",
+"stars": 23082
+},
+{
+"repo": "NVIDIA/NemoClaw",
+"description": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+"topics": [
+"ai-agents",
+"nvidia",
+"openclaw",
+"openshell",
+"sandboxing",
+"typescript",
+"hermes",
+"deep-agents"
+],
+"language": "TypeScript",
+"stars": 22915
+},
+{
+"repo": "wandb/openui",
+"description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+"topics": [
+"ai",
+"generative-ai",
+"html-css-javascript",
+"tailwindcss"
+],
+"language": "TypeScript",
+"stars": 22723
+},
+{
+"repo": "openobserve/openobserve",
+"description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
+"topics": [
+"logs",
+"metrics",
+"traces",
+"analytics",
+"elasticsearch",
+"jaeger",
+"log-analytics",
+"log-management",
+"prometheus",
+"log-search"
+],
+"language": "TypeScript",
+"stars": 22668
+},
+{
+"repo": "wavetermdev/waveterm",
+"description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+"topics": [
+"command-line",
+"developer-tools",
+"linux",
+"macos",
+"terminal",
+"windows",
+"productivity",
+"terminal-emulators"
+],
+"language": "Go",
+"stars": 22639
+},
+{
+"repo": "chidiwilliams/buzz",
+"description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+"topics": [
+"whisper"
+],
+"language": "Python",
+"stars": 22353
+},
+{
+"repo": "microsoft/unilm",
+"description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+"topics": [
+"nlp",
+"pre-trained-model",
+"unilm",
+"minilm",
+"layoutlm",
+"layoutxlm",
+"beit",
+"document-ai",
+"trocr",
+"beit-3"
+],
+"language": "Python",
+"stars": 22239
+},
+{
+"repo": "PromtEngineer/localGPT",
+"description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. ",
+"topics": [],
+"language": "Python",
+"stars": 22199
+},
+{
+"repo": "recommenders-team/recommenders",
+"description": "Best Practices on Recommendation Systems",
+"topics": [
+"machine-learning",
+"recommender",
+"ranking",
+"deep-learning",
+"python",
+"jupyter-notebook",
+"recommendation-algorithm",
+"rating",
+"operationalization",
+"kubernetes"
+],
+"language": "Python",
+"stars": 21974
+},
+{
+"repo": "KKKKhazix/khazix-skills",
+"description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
+"topics": [
+"agent-skills",
+"ai-agents",
+"claude",
+"claude-code",
+"codex",
+"developer-tools",
+"llm",
+"skills",
+"vibe-coding"
+],
+"language": "Python",
+"stars": 21817
+},
+{
+"repo": "liyupi/ai-guide",
+"description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
+"topics": [
+"ai",
+"artificial-intelligence",
+"chatgpt",
+"deep-learning",
+"deepseek",
+"generative-ai",
+"gpt",
+"llm",
+"openai",
+"vuepress"
+],
+"language": "JavaScript",
+"stars": 21795
+},
+{
+"repo": "bee-san/Ciphey",
+"description": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+"topics": [
+"decryption",
+"natural-language-processing",
+"cryptography",
+"cipher",
+"artificial-intelligence",
+"ctf-tools",
+"ctf",
+"cpp",
+"python",
+"hacking"
+],
+"language": "Rust",
+"stars": 21733
+},
+{
+"repo": "stefan-jansen/machine-learning-for-trading",
+"description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+"topics": [
+"machine-learning",
+"trading",
+"investment",
+"finance",
+"data-science",
+"investment-strategies",
+"artificial-intelligence",
+"trading-strategies",
+"deep-learning",
+"synthetic-data"
+],
+"language": "Jupyter Notebook",
+"stars": 21673
+},
+{
+"repo": "valeriansaliou/sonic",
+"description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+"topics": [
+"rust",
+"infrastructure",
+"search",
+"index",
+"graph",
+"database",
+"server",
+"backend",
+"search-server",
+"search-engine"
+],
+"language": "Rust",
+"stars": 21372
+},
+{
+"repo": "nashsu/llm_wiki",
+"description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+"topics": [],
+"language": "TypeScript",
+"stars": 21288
+},
+{
+"repo": "w-okada/voice-changer",
+"description": "リアルタイムボイスチェンジャー Realtime Voice Changer",
+"topics": [],
+"language": "Python",
+"stars": 21282
+},
+{
+"repo": "fengdu78/deeplearning_ai_books",
+"description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
+"topics": [
+"deeplearning-ai"
+],
+"language": "HTML",
+"stars": 21212
+},
+{
+"repo": "voyager-crew/voyager",
+"description": "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。",
+"topics": [
+"chat-management",
+"chrome-extension",
+"gemini",
+"ai-studio",
+"safari-extension",
+"bun",
+"edge-addon",
+"firefox-addons",
+"browser-extension",
+"chatgpt"
+],
+"language": "TypeScript",
+"stars": 20527
+},
+{
+"repo": "triton-lang/triton",
+"description": "Development repository for the Triton language and compiler",
+"topics": [],
+"language": "MLIR",
+"stars": 20510
+},
+{
+"repo": "openai/gpt-oss",
+"description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+"topics": [],
+"language": "Python",
+"stars": 20509
+},
+{
+"repo": "datawhalechina/easy-vibe",
+"description": "💻  Vibe Coding 101｜Your First Course For AI Product Builders.",
+"topics": [
+"ai",
+"course",
+"vibe-coding",
+"coding",
+"genai",
+"low-code",
+"no-code",
+"programming",
+"tutorial",
+"vibecoding"
+],
+"language": "JavaScript",
+"stars": 20286
+},
+{
+"repo": "HBAI-Ltd/Toonflow-app",
+"description": "短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and video generation. Self-hosted and extensible, with a canvas-based approach similar to LibTV and TapNow.",
+"topics": [
+"ai-content-creation",
+"generative-ai",
+"image-generation",
+"text-to-video",
+"video-generation",
+"ai-agents",
+"ai-filmmaking",
+"image-to-video",
+"infinite-canvas",
+"libtv"
+],
+"language": "Vue",
+"stars": 20207
+},
+{
+"repo": "img2threejs/img2threejs",
+"description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+"topics": [
+"3d",
+"ai-agents",
+"claude-code",
+"computer-graphics",
+"generative",
+"image-to-3d",
+"procedural-generation",
+"threejs",
+"typescript",
+"webgl"
+],
+"language": "Python",
+"stars": 20065
+},
+{
+"repo": "teng-lin/notebooklm-py",
+"description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+"topics": [
+"python",
+"sdk",
+"skills",
+"google-notebooklm",
+"notebooklm",
+"notebooklm-api",
+"python-api",
+"agentic-skill",
+"claude-skills",
+"openclaw-skills"
+],
+"language": "Python",
+"stars": 20062
+},
+{
+"repo": "latent-spaces/brag",
+"description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+"topics": [
+"agent-skills",
+"claude-code",
+"claude-skills",
+"hyperframes",
+"launch-video",
+"video-generation"
+],
+"language": "Python",
+"stars": 19957
+},
+{
+"repo": "Unity-Technologies/ml-agents",
+"description": "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.",
+"topics": [
+"reinforcement-learning",
+"unity3d",
+"deep-learning",
+"unity",
+"deep-reinforcement-learning",
+"neural-networks",
+"machine-learning"
+],
+"language": "C#",
+"stars": 19816
+},
+{
+"repo": "tanweai/pua",
+"description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
+"topics": [
+"agency",
+"agent",
+"pua",
+"pip"
+],
+"language": "Python",
+"stars": 19788
+},
+{
+"repo": "danielmiessler/LifeOS",
+"description": "⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.",
+"topics": [
+"ai",
+"augmentation",
+"productivity",
+"humans",
+"ai-harness",
+"intent-engineering",
+"personal-ai",
+"coding",
+"lifeos"
+],
+"language": "TypeScript",
+"stars": 19680
+},
+{
+"repo": "stas00/ml-engineering",
+"description": "Machine Learning Engineering Open Book",
+"topics": [
+"pytorch",
+"slurm",
+"large-language-models",
+"llm",
+"machine-learning",
+"scalability",
+"transformers",
+"machine-learning-engineering",
+"mlops",
+"ai"
+],
+"language": "Python",
+"stars": 19649
+},
+{
+"repo": "jlcodes99/cockpit-tools",
+"description": " 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+"topics": [
+"account-manager",
+"ai",
+"antigravity",
+"codex",
+"github-copilot",
+"windsurf",
+"kiro",
+"cursor",
+"codebuddy"
+],
+"language": "Rust",
+"stars": 19633
+},
+{
+"repo": "jianchang512/pyvideotrans",
+"description": "Translate the video from one language to another and embed dubbing & subtitles.",
+"topics": [
+"text-to-speech",
+"video-transition",
+"speech-to-text",
+"stt",
+"subtitle-translation",
+"tts"
+],
+"language": "Python",
+"stars": 19617
+},
+{
+"repo": "nesquena/hermes-webui",
+"description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+"topics": [
+"agent",
+"hermes",
+"ai-agents",
+"hermes-agent",
+"nous-research"
+],
+"language": "Python",
+"stars": 19346
+},
+{
+"repo": "tensorflow/tfjs",
+"description": "A WebGL accelerated JavaScript library for training and deploying ML models.",
+"topics": [
+"deep-learning",
+"typescript",
+"webgl",
+"javascript",
+"machine-learning",
+"neural-network",
+"deep-neural-network",
+"gpu-acceleration",
+"wasm",
+"web-assembly"
+],
+"language": "TypeScript",
+"stars": 19158
+},
+{
+"repo": "bbfamily/abu",
+"description": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+"topics": [
+"quant",
+"trade",
+"machine-learning",
+"bitcoin",
+"algorithmic-trading",
+"quantitative-trading",
+"stock",
+"pandas",
+"matplotlib",
+"numpy"
+],
+"language": "Python",
+"stars": 19106
+},
+{
+"repo": "Huanshere/VideoLingo",
+"description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+"topics": [
+"ai-translation",
+"dubbing",
+"localization",
+"video-translation",
+"voice-cloning"
+],
+"language": "Python",
+"stars": 19035
+},
+{
+"repo": "microsoft/SkillOpt",
+"description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+"topics": [
+"agent-skills",
+"self-evolving-agents"
+],
+"language": "Python",
+"stars": 18811
+},
+{
+"repo": "ahmedkhaleel2004/gitdiagram",
+"description": "Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.",
+"topics": [
+"ai",
+"github",
+"system-design",
+"code",
+"video",
+"architecture-diagram",
+"code-visualization",
+"codebase-visualization",
+"developer-tools",
+"diagram-generator"
+],
+"language": "TypeScript",
+"stars": 18686
+},
+{
+"repo": "langbot-app/LangBot",
+"description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Kimi, openclaw / hermes agent, deerflow",
+"topics": [
+"qq",
+"openai",
+"agent",
+"llm",
+"wechat",
+"telegram",
+"dify",
+"discord",
+"deepseek",
+"dingtalk"
+],
+"language": "Python",
+"stars": 18672
+},
+{
+"repo": "microsoft/AirSim",
+"description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+"topics": [
+"drones",
+"ai",
+"self-driving-car",
+"autonomous-vehicles",
+"autonomous-quadcoptor",
+"research",
+"computer-vision",
+"artificial-intelligence",
+"deeplearning",
+"deep-reinforcement-learning"
+],
+"language": "C++",
+"stars": 18592
+},
+{
+"repo": "Robbyant/lingbot-map",
+"description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+"topics": [],
+"language": "Python",
+"stars": 18517
+},
+{
+"repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+"description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+"topics": [
+"ai-research",
+"autonomous-agent",
+"claude-code",
+"codex",
+"mcp",
+"ml-research",
+"paper-review",
+"research-automation",
+"ai-tools",
+"claude"
+],
+"language": "Python",
+"stars": 18475
+},
+{
+"repo": "labring/sealos",
+"description": "Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.",
+"topics": [
+"kubernetes",
+"kubernetes-ha",
+"ipvs",
+"kubeadm",
+"golang",
+"docker",
+"cloudos",
+"container",
+"install"
+],
+"language": "Go",
+"stars": 18390
+},
+{
+"repo": "google-gemini/gemini-fullstack-langgraph-quickstart",
+"description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+"topics": [
+"gemini",
+"gemini-api"
+],
+"language": "Jupyter Notebook",
+"stars": 18361
+},
+{
+"repo": "AsyncFuncAI/deepwiki-open",
+"description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
+"topics": [
+"ai",
+"gemini",
+"github",
+"ollama",
+"open-source",
+"openai",
+"openrouter",
+"self-hosted",
+"wiki",
+"codex"
+],
+"language": "Python",
+"stars": 18348
+},
+{
+"repo": "xming521/WeClone",
+"description": "Build a portrait of your life. Assistants that know you. Clones that talk like you.",
+"topics": [
+"llm",
+"chat-history",
+"telegram",
+"agent",
+"ai-clone",
+"digital-twin",
+"mcp",
+"memory",
+"personal-ai"
+],
+"language": "Python",
+"stars": 18340
+},
+{
+"repo": "NVIDIA/Megatron-LM",
+"description": "Ongoing research training transformer models at scale",
+"topics": [
+"large-language-models",
+"model-para",
+"transformers"
+],
+"language": "Python",
+"stars": 18312
+},
+{
+"repo": "rowboatlabs/rowboat",
+"description": "AI coworker with memory and collaboration",
+"topics": [
+"agents",
+"agents-sdk",
+"ai",
+"ai-agents",
+"ai-agents-automation",
+"chatgpt",
+"generative-ai",
+"llm",
+"multiagent",
+"opeani"
+],
+"language": "TypeScript",
+"stars": 18125
+},
+{
+"repo": "BradyFU/Awesome-Multimodal-Large-Language-Models",
+"description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
+"topics": [
+"instruction-tuning",
+"instruction-following",
+"large-vision-language-model",
+"visual-instruction-tuning",
+"multi-modality",
+"in-context-learning",
+"large-language-models",
+"large-vision-language-models",
+"multimodal-chain-of-thought",
+"multimodal-in-context-learning"
+],
+"language": "",
+"stars": 18072
+},
+{
+"repo": "Canner/WrenAI",
+"description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+"topics": [
+"bigquery",
+"duckdb",
+"llm",
+"postgresql",
+"rag",
+"text-to-sql",
+"sql",
+"text2sql",
+"charts",
+"context-engineering"
+],
+"language": "Python",
+"stars": 18038
+},
+{
+"repo": "langchain-ai/openwiki",
+"description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+"topics": [],
+"language": "TypeScript",
+"stars": 17673
+},
+{
+"repo": "microsoft/data-formulator",
+"description": "🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
+"topics": [],
+"language": "Python",
+"stars": 17649
+},
+{
+"repo": "LibreTranslate/LibreTranslate",
+"description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+"topics": [
+"translation",
+"translate",
+"api",
+"machine",
+"translator"
+],
+"language": "Python",
+"stars": 17250
+},
+{
+"repo": "AaronFeng753/Waifu2x-Extension-GUI",
+"description": "Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.",
+"topics": [
+"waifu2x",
+"anime4k",
+"super-resolution",
+"video-enlarger",
+"image-enlarger",
+"ncnn",
+"vulkan",
+"noise-reduction",
+"upscaling",
+"waifu2x-ncnn-vulkan"
+],
+"language": "C++",
+"stars": 17176
+},
+{
+"repo": "dataelement/dsh-desktop",
+"description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
+"topics": [
+"deepseek",
+"desktop",
+"dshdesktop",
+"deepseek-harness",
+"deepseek-harness-desktop",
+"harness",
+"agent",
+"apps",
+"dsh-plugin",
+"dsh-plugin-desktop"
+],
+"language": "JavaScript",
+"stars": 17085
+},
+{
+"repo": "xbtlin/ai-berkshire",
+"description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+"topics": [
+"ai",
+"ai-agent",
+"anthropic",
+"berkshire-hathaway",
+"charlie-munger",
+"china-stock",
+"claude",
+"claude-code",
+"financial-analysis",
+"fintech"
+],
+"language": "HTML",
+"stars": 16980
+},
+{
+"repo": "datawhalechina/leedl-tutorial",
+"description": "《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+"topics": [
+"machine-learning",
+"deep-learning",
+"leedl-tutorial",
+"cnn",
+"reinforcement-learning",
+"transformer",
+"rnn",
+"gan",
+"pruning",
+"self-attention"
+],
+"language": "Jupyter Notebook",
+"stars": 16849
+},
+{
+"repo": "xpzouying/xiaohongshu-mcp",
+"description": "MCP for xiaohongshu.com",
+"topics": [
+"mcp",
+"mcp-server",
+"xiaohongshu-mcp"
+],
+"language": "Go",
+"stars": 16738
+},
+{
+"repo": "bharathgs/Awesome-pytorch-list",
+"description": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",
+"topics": [
+"pytorch",
+"python",
+"machine-learning",
+"deep-learning",
+"tutorials",
+"papers",
+"awesome",
+"awesome-list",
+"pytorch-tutorials",
+"data-science"
+],
+"language": "",
+"stars": 16733
+}
+]

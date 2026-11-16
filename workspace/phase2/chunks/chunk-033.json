@@ -1,0 +1,691 @@
+[
+{
+"repo": "realZachi/pg-jev",
+"stars": 1196,
+"description": "Ask your Postgres tables questions in plain language. A PostgreSQL extension powered by TypeSafe's Jev.",
+"topics": [],
+"language": "Shell"
+},
+{
+"repo": "pydata/bottleneck",
+"stars": 1183,
+"description": "Fast NumPy array functions written in C",
+"topics": [
+"c",
+"python",
+"numpy",
+"fast",
+"c-extension"
+],
+"language": "Python"
+},
+{
+"repo": "DepthAnything/PromptDA",
+"stars": 1174,
+"description": "[CVPR 2025] Prompt Depth Anything",
+"topics": [
+"3d-reconstruction",
+"4d-reconstruction",
+"depth-estimation",
+"robotics-grasping"
+],
+"language": "Python"
+},
+{
+"repo": "datasets/covid-19",
+"stars": 1166,
+"description": "Novel Coronavirus 2019 time series data on cases",
+"topics": [
+"coronavirus",
+"coronavirus-disease",
+"covid",
+"datapackage",
+"data-package",
+"covid-19",
+"covid19-data",
+"dataset"
+],
+"language": "Python"
+},
+{
+"repo": "xiaowu0162/LongMemEval",
+"stars": 1161,
+"description": "Benchmarking Chat Assistants on Long-Term Interactive Memory (ICLR 2025)",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Mapika/decider",
+"stars": 1158,
+"description": "A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "steven2358/awesome-blockchain-ai",
+"stars": 1157,
+"description": "A curated list of Blockchain projects for Artificial Intelligence and Machine Learning",
+"topics": [
+"blockchain",
+"machine-learning",
+"artificial-intelligence",
+"awesome-list",
+"awesome"
+],
+"language": ""
+},
+{
+"repo": "mgonzs13/yolo_ros",
+"stars": 1151,
+"description": "Ultralytics YOLOv8, YOLOv9, YOLOv10, YOLOv11, YOLOv12 for ROS 2",
+"topics": [
+"object-detection",
+"ros2",
+"ultralytics",
+"yolov8",
+"object-tracking",
+"3d-human-pose-estimation",
+"3d-object-detection",
+"human-pose-estimation",
+"instance-segmentation",
+"yolov9"
+],
+"language": "C++"
+},
+{
+"repo": "midas-research/audino",
+"stars": 1148,
+"description": "Open source audio annotation tool for humans",
+"topics": [
+"audio-processing",
+"speech-processing",
+"machine-learning",
+"annotation-tool",
+"audio-annotation",
+"python",
+"datasets"
+],
+"language": "TypeScript"
+},
+{
+"repo": "pemistahl/lingua-rs",
+"stars": 1146,
+"description": "The most accurate natural language detection library for Rust, suitable for short text and mixed-language text",
+"topics": [
+"rust",
+"rust-library",
+"rust-crate",
+"language-detection",
+"language-classification",
+"language-recognition",
+"natural-language-processing",
+"nlp",
+"language-identification",
+"nlp-machine-learning"
+],
+"language": "Rust"
+},
+{
+"repo": "rashakil-ds/Roadmap-Docs",
+"stars": 1146,
+"description": "Best Data Science, Data Analytics, AI, and SDE roadmaps. This repository is continually updated based on the top job postings on LinkedIn and Indeed in the data science and AI domain.",
+"topics": [
+"ai-engineer",
+"ai-scientist",
+"data-analyst",
+"data-engineer",
+"data-scientist",
+"machine-learning-engineer",
+"roadmaps",
+"computer-vision-engineer",
+"llm-developer",
+"nlp-engineer"
+],
+"language": ""
+},
+{
+"repo": "rohitgandikota/sliders",
+"stars": 1144,
+"description": "Concept Sliders for Precise Control of Diffusion Models",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "smthemex/ComfyUI_Sonic",
+"stars": 1140,
+"description": "Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait Animation',you can use it in comfyUI",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "VOICEVOX/voicevox_core",
+"stars": 1140,
+"description": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "CellProfiler/CellProfiler",
+"stars": 1139,
+"description": "An open-source application for biological image analysis",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "blackjax-devs/blackjax",
+"stars": 1134,
+"description": "BlackJAX is a Bayesian Inference library designed for ease of use, speed and modularity.",
+"topics": [
+"probabilistic-programming",
+"bayesian-inference",
+"sampling-methods",
+"hamiltonian-monte-carlo"
+],
+"language": "Python"
+},
+{
+"repo": "yksr-melt/Meltype",
+"stars": 1133,
+"description": "雪解けのように、半角/全角の壁を溶かす日本語入力。",
+"topics": [
+"japanese",
+"windows"
+],
+"language": "C#"
+},
+{
+"repo": "KinWaiCheuk/nnAudio",
+"stars": 1129,
+"description": "Audio processing by using pytorch 1D convolution network",
+"topics": [
+"spectrogram-conversion-toolbox",
+"pytorch",
+"audio-processing",
+"preprocessing",
+"stft",
+"melspectrogram",
+"spectrogram",
+"cqt-spectrogram",
+"neural-network",
+"1d-convolution"
+],
+"language": "Python"
+},
+{
+"repo": "weihaox/GAN-Inversion",
+"stars": 1125,
+"description": "[TPAMI 2022] GAN Inversion: A Survey",
+"topics": [
+"gan-inversion",
+"awesome-list"
+],
+"language": "TeX"
+},
+{
+"repo": "red-data-tools/pycall.rb",
+"stars": 1121,
+"description": "Calling Python functions from the Ruby language",
+"topics": [
+"ruby",
+"pycall",
+"data-science",
+"python",
+"rubydatascience",
+"rubyml"
+],
+"language": "C"
+},
+{
+"repo": "grf-labs/grf",
+"stars": 1117,
+"description": "Generalized Random Forests ",
+"topics": [
+"causal-inference",
+"random-forest",
+"econometrics",
+"machine-learning",
+"statistics",
+"causal-forest"
+],
+"language": "C++"
+},
+{
+"repo": "safedep/vet",
+"stars": 1114,
+"description": "Protect against malicious open source packages 🤖",
+"topics": [
+"devsecops",
+"security",
+"supply-chain-security",
+"policy-as-code",
+"software-composition-analysis",
+"golang",
+"npm",
+"pypi",
+"rubygems",
+"static-analysis"
+],
+"language": "Go"
+},
+{
+"repo": "catboost/tutorials",
+"stars": 1111,
+"description": "CatBoost tutorials repository",
+"topics": [
+"catboost",
+"tutorials",
+"ipython-notebook",
+"ipython",
+"kaggle",
+"titanic-dataset"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "AML-memory/agent-memory-leaderboard",
+"stars": 1110,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "fraunhoferportugal/tsfel",
+"stars": 1107,
+"description": "Time Series Feature Extraction Library (TSFEL): 60+ statistical, temporal, spectral and fractal features for time series classification, regression and signal processing in Python",
+"topics": [
+"audio",
+"biosignal-processing",
+"ecg",
+"eeg",
+"emg",
+"explainable-ai",
+"feature-engineerig",
+"feature-extractor",
+"fractal-analysis",
+"human-activity-recognition"
+],
+"language": "Python"
+},
+{
+"repo": "HumanSignal/label-studio-ml-backend",
+"stars": 1107,
+"description": "Configs and boilerplates for Label Studio's Machine Learning backend",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "PharMolix/OpenBioMed",
+"stars": 1106,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Kim-Hammar/awesome-rl-for-cybersecurity",
+"stars": 1102,
+"description": "A curated list of resources dedicated to reinforcement learning applied to cyber security. ",
+"topics": [],
+"language": ""
+},
+{
+"repo": "geoopt/geoopt",
+"stars": 1100,
+"description": "Riemannian Adaptive Optimization Methods with pytorch optim",
+"topics": [
+"optimization",
+"pytorch",
+"riemannian-optimization",
+"riemannian-geometry",
+"riemannian-manifold"
+],
+"language": "Python"
+},
+{
+"repo": "greyblake/whatlang-rs",
+"stars": 1087,
+"description": "Natural language detection library for Rust. Try demo online: https://whatlang.org/",
+"topics": [
+"language",
+"rust",
+"nlp",
+"text-analysis",
+"text-classification",
+"classifier",
+"ai",
+"detect-language",
+"language-recognition",
+"whatlang"
+],
+"language": "Rust"
+},
+{
+"repo": "Fannovel16/ComfyUI-Frame-Interpolation",
+"stars": 1086,
+"description": "A custom node set for Video Frame Interpolation in ComfyUI.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "neurreps/awesome-neural-geometry",
+"stars": 1086,
+"description": "A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond",
+"topics": [
+"deep-learning",
+"differential-geometry",
+"group-theory",
+"neural-computation",
+"neural-networks",
+"neuroscience",
+"papers",
+"awesome-list",
+"topology",
+"symmetry"
+],
+"language": ""
+},
+{
+"repo": "FalkorDB/QueryWeaver",
+"stars": 1084,
+"description": "An open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding. Ask your database questions in plain English, QueryWeaver handles the weaving.",
+"topics": [
+"falkordb",
+"semantic-layer",
+"text2sql"
+],
+"language": "Python"
+},
+{
+"repo": "Alpha-VLLM/Lumina-mGPT-2.0",
+"stars": 1082,
+"description": "Lumina-mGPT 2.0: Stand-Alone AutoRegressive Image Modeling",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "bashtage/linearmodels",
+"stars": 1077,
+"description": "Additional linear models including instrumental variable and panel data models that are missing from statsmodels.",
+"topics": [
+"iv",
+"instrumental-variable",
+"panel",
+"regression",
+"statistical-model",
+"ols",
+"gmm",
+"fixed-effects",
+"random-effects",
+"between-estimator"
+],
+"language": "Python"
+},
+{
+"repo": "pepperoni21/ollama-rs",
+"stars": 1063,
+"description": "A simple and easy-to-use library for interacting with the Ollama API.",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "pisa-engine/pisa",
+"stars": 1061,
+"description": "PISA: Performant Indexes and Search for Academia",
+"topics": [
+"inverted-index",
+"search",
+"search-engine",
+"information-retrieval"
+],
+"language": "C++"
+},
+{
+"repo": "benedekrozemberczki/awesome-gradient-boosting-papers",
+"stars": 1053,
+"description": "A curated list of gradient boosting research papers with implementations. ",
+"topics": [
+"gradient-boosting",
+"gradient-boosting-classifier",
+"gradient-boosting-machine",
+"gradient-boosted-trees",
+"gradient-boosting-decision-trees",
+"xgboost",
+"xgboost-algorithm",
+"catboost",
+"lightgbm",
+"random-forest"
+],
+"language": "Python"
+},
+{
+"repo": "kijai/ComfyUI-Hunyuan3DWrapper",
+"stars": 1046,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Shawn1993/cnn-text-classification-pytorch",
+"stars": 1043,
+"description": "CNNs for Sentence Classification in PyTorch",
+"topics": [
+"cnn-model",
+"pytorch"
+],
+"language": "Python"
+},
+{
+"repo": "TTPlanetPig/Comfyui_TTP_Toolset",
+"stars": 1042,
+"description": "for tile the image for advanced control or modification ",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "AddictedCS/soundfingerprinting",
+"stars": 1041,
+"description": "Open source audio fingerprinting in .NET. An efficient algorithm for acoustic fingerprinting written purely in C#.  ",
+"topics": [
+"audio",
+"fingerprints",
+"algorithm",
+"acoustic-fingerprints",
+"recognition",
+"locality-sensitive-hashing",
+"nearest-neighbor-search",
+"shazam",
+"c-sharp",
+"audio-processing"
+],
+"language": "C#"
+},
+{
+"repo": "Nutlope/blinkshot",
+"stars": 1040,
+"description": "A realtime AI image generator",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "krotik/eliasdb",
+"stars": 1036,
+"description": "EliasDB a graph-based database.",
+"topics": [
+"golang",
+"graph",
+"embedded",
+"supports-transactions",
+"query-language",
+"standalone",
+"tutorial",
+"rest-api",
+"swagger",
+"database"
+],
+"language": "Go"
+},
+{
+"repo": "ClementPinard/SfmLearner-Pytorch",
+"stars": 1031,
+"description": "Pytorch version of SfmLearner from Tinghui Zhou et al.",
+"topics": [
+"pytorch",
+"kitti",
+"disparity",
+"depth",
+"unsupervised"
+],
+"language": "Python"
+},
+{
+"repo": "TutteInstitute/datamapplot",
+"stars": 1028,
+"description": "Creating beautiful plots of data maps",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "JackAILab/ConsistentID",
+"stars": 1027,
+"description": "[TPAMI 2026] ConsistentID : Portrait Generation with Multimodal Fine-Grained Identity Preserving",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "turtlesoupy/this-word-does-not-exist",
+"stars": 1025,
+"description": "This Word Does Not Exist",
+"topics": [
+"machine-learning",
+"gpt-2",
+"transformers",
+"natural-language-processing",
+"natural-language-understanding",
+"natural-language-generation"
+],
+"language": "Python"
+},
+{
+"repo": "WorksApplications/Sudachi",
+"stars": 1025,
+"description": "A Japanese Tokenizer for Business",
+"topics": [
+"morphological-analysis",
+"segmentation",
+"nlp-library",
+"pos-tagging"
+],
+"language": "Java"
+},
+{
+"repo": "neuralgcm/neuralgcm",
+"stars": 1024,
+"description": "Hybrid ML + physics model of the Earth's atmosphere",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "zhyever/PatchFusion",
+"stars": 1023,
+"description": "[CVPR 2024] An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation",
+"topics": [
+"depth-estimation",
+"high-resolution"
+],
+"language": "Python"
+},
+{
+"repo": "longbridge/longbridge-terminal",
+"stars": 1022,
+"description": "AI-native CLI for the Longbridge trading platform with real-time market data, portfolio, and trading...",
+"topics": [
+"tui",
+"ratatui",
+"ai-native",
+"cli",
+"finance",
+"financial-analysis"
+],
+"language": "Rust"
+},
+{
+"repo": "NaturalIntelligence/imglab",
+"stars": 1022,
+"description": "To speedup and simplify image labeling/ annotation process with multiple supported formats.",
+"topics": [
+"facepp",
+"dlib",
+"imglab",
+"faceplusplus",
+"landmark",
+"label-images",
+"landmark-points",
+"nimn",
+"pascal-voc",
+"tenserflow"
+],
+"language": "HTML"
+},
+{
+"repo": "dswah/pyGAM",
+"stars": 1021,
+"description": "[CONTRIBUTORS WELCOME] Generalized Additive Models in Python",
+"topics": [
+"machine-learning",
+"data-science",
+"scientific-computing",
+"python",
+"interpretable-machine-learning",
+"gams",
+"explainable-ai",
+"explainable-ml",
+"interpretable-ai",
+"interpretable-ml"
+],
+"language": "Python"
+},
+{
+"repo": "probml/dynamax",
+"stars": 1019,
+"description": "A Python package for probabilistic state space modeling with JAX",
+"topics": [
+"state-space-models",
+"hidden-markov-models",
+"jax",
+"python",
+"kalman-filter"
+],
+"language": "Python"
+},
+{
+"repo": "zatosource/zato",
+"stars": 1016,
+"description": "ESB, SOA, REST, APIs and Cloud Integrations in Python",
+"topics": [
+"python",
+"esb",
+"soa",
+"api-server",
+"api-gateway",
+"api",
+"enterprise",
+"healthcare",
+"telecommunications",
+"automation-framework"
+],
+"language": "Python"
+},
+{
+"repo": "RosettaCommons/foundry",
+"stars": 1012,
+"description": "Central repository for biomolecular foundation models with shared trainers and pipeline components",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "apple-aiml-research/ml-simplefold",
+"stars": 1000,
+"description": "",
+"topics": [],
+"language": "Python"
+}
+]

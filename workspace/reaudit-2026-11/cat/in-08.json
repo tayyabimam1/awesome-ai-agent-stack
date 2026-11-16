@@ -1,0 +1,1430 @@
+[
+{
+"repo": "SenteLabsAI/OpenExecutive",
+"description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).",
+"topics": [
+"ai",
+"anthropic",
+"claude",
+"fastapi",
+"llm",
+"multi-agent",
+"nextjs",
+"python",
+"rag",
+"typescript"
+],
+"language": "Python",
+"stars": 5725
+},
+{
+"repo": "Anil-matcha/AI-Youtube-Shorts-Generator",
+"description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.",
+"topics": [
+"video-editing",
+"youtube-shorts",
+"shorts-maker",
+"ai-clip-generator",
+"ai-clipping",
+"auto-clip",
+"auto-crop",
+"highlight-detection",
+"llm",
+"open-source"
+],
+"language": "Python",
+"stars": 5721
+},
+{
+"repo": "mlpack/mlpack",
+"description": "mlpack: a fast, header-only C++ machine learning library",
+"topics": [
+"machine-learning-library",
+"c-plus-plus",
+"deep-learning",
+"nearest-neighbor-search",
+"regression",
+"machine-learning",
+"scientific-computing"
+],
+"language": "C++",
+"stars": 5720
+},
+{
+"repo": "antiwork/shortest",
+"description": "QA via natural language AI tests",
+"topics": [
+"anthropic",
+"automation",
+"chromium",
+"e2e-testing",
+"e2e-tests",
+"end-to-end-testing",
+"javascript",
+"nextjs",
+"playwright",
+"test-automation"
+],
+"language": "TypeScript",
+"stars": 5700
+},
+{
+"repo": "OpenMinis/OpenMinis",
+"description": "OpenMinis — The AI Agent app across platforms. Fully free and open source.",
+"topics": [],
+"language": "Swift",
+"stars": 5689
+},
+{
+"repo": "HisMax/RedInk",
+"description": "Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\"",
+"topics": [
+"ai",
+"aigc",
+"content-generator",
+"social-media",
+"xiaohongshu",
+"docker",
+"flask",
+"gemini",
+"nano-banana-pro",
+"python"
+],
+"language": "Python",
+"stars": 5679
+},
+{
+"repo": "diffusionstudio/lottie",
+"description": "Generate production-ready Lottie animations with Claude Code or Codex",
+"topics": [],
+"language": "TypeScript",
+"stars": 5665
+},
+{
+"repo": "nextai-translator/bob-plugin-openai-translator",
+"description": "基于 LLM 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0",
+"topics": [
+"bobplugin",
+"gpt",
+"openai",
+"translator",
+"chatgpt"
+],
+"language": "TypeScript",
+"stars": 5653
+},
+{
+"repo": "facebookresearch/mmf",
+"description": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)",
+"topics": [
+"pytorch",
+"vqa",
+"pretrained-models",
+"multimodal",
+"deep-learning",
+"captioning",
+"dialog",
+"textvqa",
+"hateful-memes",
+"multi-tasking"
+],
+"language": "Python",
+"stars": 5636
+},
+{
+"repo": "remsky/Kokoro-FastAPI",
+"description": "Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, optional readalong web UI",
+"topics": [
+"fastapi",
+"tts",
+"tts-api",
+"kokoro",
+"kokoro-tts",
+"pytorch",
+"openai-compatible-api",
+"openwebui",
+"sillytavern",
+"text-to-speech"
+],
+"language": "Python",
+"stars": 5627
+},
+{
+"repo": "NousResearch/hermes-agent-self-evolution",
+"description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA",
+"topics": [],
+"language": "Python",
+"stars": 5624
+},
+{
+"repo": "lonePatient/awesome-pretrained-chinese-nlp-models",
+"description": "Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合",
+"topics": [
+"chinese",
+"nlp",
+"pretrained-models",
+"bert",
+"roberta",
+"xlnet",
+"nezha",
+"ernie",
+"gpt",
+"gpt-2"
+],
+"language": "Python",
+"stars": 5611
+},
+{
+"repo": "bbycroft/llm-viz",
+"description": "3D Visualization of an GPT-style LLM",
+"topics": [],
+"language": "TypeScript",
+"stars": 5583
+},
+{
+"repo": "google-deepmind/open_spiel",
+"description": "OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.",
+"topics": [
+"games",
+"reinforcement-learning",
+"multiagent",
+"cpp",
+"python"
+],
+"language": "Python",
+"stars": 5572
+},
+{
+"repo": "RLinf/RLinf",
+"description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+"topics": [
+"reinforcement-learning",
+"agentic-ai",
+"rlinf",
+"vla-rl",
+"embodied-ai",
+"rl-infra"
+],
+"language": "Python",
+"stars": 5571
+},
+{
+"repo": "chrxh/alien",
+"description": "ALIEN is a CUDA-powered artificial life simulation program.",
+"topics": [
+"artificial-life",
+"open-ended-evolution",
+"agent-based-simulation",
+"physics-engine",
+"cuda"
+],
+"language": "C++",
+"stars": 5566
+},
+{
+"repo": "zLanqing/codex-claude-academic-skills",
+"description": "本仓库包含三个面向学术科研人员的Skills，覆盖从文献阅读、论文写作到科学计算的完整研究工作流。office-academic-skill 负责论文阅读报告与学术 PPT/Word 文档生成；research-writing-skill 提供论文写作、润色与审稿回复辅助；scientific-toolkit-skill 整合 MATLAB/Python 科学计算与期刊级图表生成。三个 Skill 专为中文科研用户设计，可在 Claude Code 和 codex 中一键调用。",
+"topics": [],
+"language": "Python",
+"stars": 5565
+},
+{
+"repo": "volcengine/MineContext",
+"description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+"topics": [
+"agent",
+"context-engineering",
+"electron",
+"embedding-models",
+"memory",
+"proactive-ai",
+"python",
+"python3",
+"rag",
+"react"
+],
+"language": "Python",
+"stars": 5542
+},
+{
+"repo": "awarexone/Agentic-Bug-Hunter",
+"description": "AI-powered bug bounty hunting toolkit that works with or without subscription.",
+"topics": [
+"ai-security",
+"bug-bounty",
+"bugcrowd",
+"claude-ai",
+"ethical-hacking",
+"hackerone",
+"penetration-testing",
+"recon",
+"vulnerability-scanner",
+"claude-code"
+],
+"language": "Python",
+"stars": 5536
+},
+{
+"repo": "brianpetro/obsidian-smart-connections",
+"description": "Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.",
+"topics": [
+"chatgpt",
+"embeddings",
+"claude",
+"gemini",
+"obsidian",
+"obsidian-plugin",
+"obsidian-md",
+"related-items",
+"semantic-search",
+"vectors"
+],
+"language": "JavaScript",
+"stars": 5536
+},
+{
+"repo": "LaurentMazare/tch-rs",
+"description": "Rust bindings for the C++ api of PyTorch.",
+"topics": [
+"pytorch",
+"rust",
+"machine-learning",
+"neural-network",
+"deep-learning"
+],
+"language": "Rust",
+"stars": 5515
+},
+{
+"repo": "ysharma3501/LuxTTS",
+"description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.",
+"topics": [],
+"language": "Python",
+"stars": 5512
+},
+{
+"repo": "BIT-DataLab/Edit-Banana",
+"description": "Edit Banana: A framework for converting statistical formats into editable.",
+"topics": [
+"ai",
+"data",
+"figure",
+"llm",
+"nanobanana",
+"open-source",
+"python",
+"pythonprogramming"
+],
+"language": "Python",
+"stars": 5503
+},
+{
+"repo": "sergebulaev/linkedin-skills",
+"description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
+"topics": [
+"ai-agents",
+"ai-content",
+"ai-marketing",
+"anthropic",
+"awesome-claude",
+"claude-code",
+"claude-skills",
+"content-creation",
+"linkedin",
+"linkedin-automation"
+],
+"language": "Python",
+"stars": 5488
+},
+{
+"repo": "flashlight/flashlight",
+"description": "A C++ standalone library for machine learning",
+"topics": [
+"flashlight",
+"machine-learning",
+"autograd",
+"cpp",
+"deep-learning",
+"neural-network",
+"ml"
+],
+"language": "C++",
+"stars": 5479
+},
+{
+"repo": "roboflow/sports",
+"description": "computer vision and sports",
+"topics": [
+"computer-vision",
+"deep-learning",
+"deep-neural-networks",
+"image-embeddings",
+"keypoint-detection",
+"object-detection",
+"tutorial",
+"football",
+"soccer",
+"sports"
+],
+"language": "Python",
+"stars": 5468
+},
+{
+"repo": "cloudflare/vibesdk",
+"description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack ",
+"topics": [
+"ai",
+"cloudflare-workers",
+"coding-agent",
+"durable-objects",
+"vibe-coding",
+"text-to-app"
+],
+"language": "TypeScript",
+"stars": 5448
+},
+{
+"repo": "Oldcircle/geo-sleuth",
+"description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
+"topics": [
+"claude-code",
+"geoguessr",
+"geolocation",
+"osint",
+"agent-skills",
+"geoint",
+"openstreetmap",
+"photo-geolocation",
+"computer-vision",
+"image-geolocation"
+],
+"language": "Python",
+"stars": 5442
+},
+{
+"repo": "facebookresearch/sapiens",
+"description": "High-resolution models for human tasks.",
+"topics": [],
+"language": "Python",
+"stars": 5441
+},
+{
+"repo": "SaladDay/cc-switch-cli",
+"description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
+"topics": [],
+"language": "Rust",
+"stars": 5421
+},
+{
+"repo": "looplj/axonhub",
+"description": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
+"topics": [
+"ai",
+"anthropic",
+"openai",
+"agent",
+"agents",
+"anthropic-api",
+"api-gateway",
+"cost-management",
+"gemini-api",
+"llm"
+],
+"language": "Go",
+"stars": 5421
+},
+{
+"repo": "aipoch/open-science",
+"description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+"topics": [
+"ai-for-science",
+"local-first",
+"reproducible-research",
+"open-science",
+"ai-research",
+"model-agnostic",
+"scientific-ai",
+"desktop-app",
+"ai-workbench",
+"open-source"
+],
+"language": "TypeScript",
+"stars": 5418
+},
+{
+"repo": "vercel-labs/zerolang",
+"description": "The Programming Language for Agents",
+"topics": [],
+"language": "C",
+"stars": 5396
+},
+{
+"repo": "ashleve/lightning-hydra-template",
+"description": "PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡",
+"topics": [
+"pytorch-lightning",
+"project-structure",
+"config",
+"deep-learning",
+"hydra",
+"template",
+"pytorch",
+"reproducibility",
+"best-practices",
+"mlops"
+],
+"language": "Python",
+"stars": 5380
+},
+{
+"repo": "elementalsouls/Claude-BugHunter",
+"description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+"topics": [
+"ai-security",
+"anthropic",
+"application-security",
+"bug-bounty",
+"bugbounty",
+"bugcrowd",
+"claude",
+"claude-code",
+"claude-skills",
+"ethical-hacking"
+],
+"language": "Python",
+"stars": 5378
+},
+{
+"repo": "Adam-CAD/CADAM",
+"description": "CADAM is the open source text-to-CAD web application",
+"topics": [
+"ai",
+"cad",
+"openscad",
+"react",
+"text-to-cad",
+"wasm",
+"agents",
+"ai-agents",
+"llms",
+"mechnical-engineering"
+],
+"language": "TypeScript",
+"stars": 5376
+},
+{
+"repo": "beclab/Olares",
+"description": "Open-Source Personal Cloud OS for Always-On Agents",
+"topics": [
+"kubernetes",
+"self-hosted",
+"homelab",
+"edge-ai",
+"local-ai",
+"ai-agents",
+"model-serving",
+"personal-cloud",
+"agentic-ai",
+"cloud-native"
+],
+"language": "Go",
+"stars": 5335
+},
+{
+"repo": "NVIDIA/cuml",
+"description": "NVIDIA cuML: GPU-Accelerated Machine Learning",
+"topics": [
+"machine-learning-algorithms",
+"machine-learning",
+"cuda",
+"gpu",
+"nvidia"
+],
+"language": "Python",
+"stars": 5317
+},
+{
+"repo": "su-kaka/agy2api",
+"description": "将 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口",
+"topics": [
+"gemini",
+"gemini-ai",
+"gemini-api",
+"gemini-pro",
+"antigravity-ide",
+"antigravity2api",
+"claude",
+"claude-api",
+"claude-code"
+],
+"language": "Python",
+"stars": 5292
+},
+{
+"repo": "entireio/cli",
+"description": "📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
+"topics": [
+"agents",
+"ai",
+"claude",
+"developer",
+"developer-platform",
+"gemini"
+],
+"language": "Go",
+"stars": 5286
+},
+{
+"repo": "dmMaze/BallonsTranslator",
+"description": "深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning",
+"topics": [
+"comics",
+"computer-aided-translation",
+"deep-learning",
+"manga",
+"ocr",
+"scene-text-detection",
+"inpainting",
+"pytorch",
+"computer-vision",
+"auto-translation"
+],
+"language": "Python",
+"stars": 5259
+},
+{
+"repo": "awslabs/gluonts",
+"description": "Probabilistic time series modeling in Python",
+"topics": [
+"time-series",
+"deep-learning",
+"forecasting",
+"neural-networks",
+"machine-learning",
+"time-series-prediction",
+"time-series-forecasting",
+"mxnet",
+"pytorch",
+"aws"
+],
+"language": "Python",
+"stars": 5258
+},
+{
+"repo": "Marker-Inc-Korea/AutoRAG",
+"description": "Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files.",
+"topics": [
+"document-parser",
+"embeddings",
+"llm",
+"open-source",
+"pipeline",
+"qa",
+"rag",
+"retrieval-augmented-generation",
+"agent",
+"librarian"
+],
+"language": "TypeScript",
+"stars": 5254
+},
+{
+"repo": "MCP-UI-Org/mcp-ui",
+"description": "UI over MCP. Create next-gen UI experiences with the protocol and SDK!",
+"topics": [
+"ai",
+"llm",
+"mcp",
+"ui",
+"frontend",
+"web"
+],
+"language": "TypeScript",
+"stars": 5248
+},
+{
+"repo": "ArthurBrussee/brush",
+"description": "3D Reconstruction for all",
+"topics": [
+"gaussian-splatting",
+"graphics",
+"reconstruction"
+],
+"language": "Rust",
+"stars": 5242
+},
+{
+"repo": "shareAI-lab/Kode-CLI",
+"description": "Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.",
+"topics": [],
+"language": "TypeScript",
+"stars": 5236
+},
+{
+"repo": "katanaml/sparrow",
+"description": "Structured data extraction, instruction calling and agentic workflows with ML, LLM and Vision LLM",
+"topics": [
+"machinelearning",
+"huggingface-transformers",
+"computer-vision",
+"llm",
+"vllm",
+"agentic-ai",
+"documentai"
+],
+"language": "Python",
+"stars": 5232
+},
+{
+"repo": "InternLM/xtuner",
+"description": "A Next-Generation Training Engine Built for Ultra-Large MoE Models",
+"topics": [
+"llm",
+"agent",
+"deepseek-v3",
+"gpt-oss",
+"internvl",
+"kimi-k2",
+"multimodal",
+"qwen3-moe",
+"reinforcement-learning",
+"intern-s1"
+],
+"language": "Python",
+"stars": 5222
+},
+{
+"repo": "hiyouga/EasyR1",
+"description": "EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL",
+"topics": [
+"ai",
+"gpt",
+"llm",
+"nlp",
+"reinforcement-learning",
+"rl",
+"deepseek",
+"qwen"
+],
+"language": "Python",
+"stars": 5209
+},
+{
+"repo": "benjitaylor/agentation",
+"description": "The visual feedback tool for agents.",
+"topics": [
+"ai",
+"design",
+"tools",
+"ui"
+],
+"language": "TypeScript",
+"stars": 5206
+},
+{
+"repo": "openai/parameter-golf",
+"description": "Train the smallest LM you can that fits in 16MB. Best model wins!",
+"topics": [],
+"language": "Python",
+"stars": 5203
+},
+{
+"repo": "NVIDIAGameWorks/kaolin",
+"description": "A PyTorch Library for Accelerating 3D Deep Learning Research",
+"topics": [
+"pytorch",
+"3d-deep-learning",
+"neural-networks",
+"differentiable-rendering",
+"artificial-intelligence",
+"camera-api",
+"cuda",
+"rasterization",
+"differentiable-lighting",
+"gaussian-splatting"
+],
+"language": "Python",
+"stars": 5191
+},
+{
+"repo": "rasbt/mlxtend",
+"description": "A library of extension and helper modules for Python's data analysis and machine learning libraries.",
+"topics": [
+"python",
+"machine-learning",
+"data-science",
+"data-mining",
+"association-rules",
+"supervised-learning",
+"unsupervised-learning"
+],
+"language": "Python",
+"stars": 5190
+},
+{
+"repo": "icip-cas/PPTAgent",
+"description": "An Agentic Framework for Reflective PowerPoint Generation",
+"topics": [
+"agent",
+"llm",
+"presentation",
+"slide",
+"agentic-ai",
+"mcp",
+"openclaw"
+],
+"language": "Python",
+"stars": 5188
+},
+{
+"repo": "udacity/deep-reinforcement-learning",
+"description": "Repo for the Deep Reinforcement Learning Nanodegree program",
+"topics": [
+"deep-reinforcement-learning",
+"reinforcement-learning",
+"reinforcement-learning-algorithms",
+"neural-networks",
+"pytorch",
+"pytorch-rl",
+"ddpg",
+"dqn",
+"ppo",
+"dynamic-programming"
+],
+"language": "Jupyter Notebook",
+"stars": 5184
+},
+{
+"repo": "salesforce/CodeGen",
+"description": "CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+"topics": [
+"programsynthesis",
+"generativemodel",
+"codex",
+"languagemodel",
+"llm",
+"tpu-acceleration"
+],
+"language": "Python",
+"stars": 5183
+},
+{
+"repo": "fspecii/ace-step-ui",
+"description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+"topics": [
+"ace-step",
+"ai",
+"ai-music",
+"local-first",
+"music",
+"music-generation",
+"open-source",
+"react",
+"typescript",
+"suno-alternative"
+],
+"language": "JavaScript",
+"stars": 5166
+},
+{
+"repo": "tencentmusic/supersonic",
+"description": "SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.",
+"topics": [],
+"language": "Java",
+"stars": 5154
+},
+{
+"repo": "WeThinkIn/AIGC-Interview-Book",
+"description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试资源平台。涵盖AIGC、LLM大模型、AI Agent、具身智能、传统深度学习、计算机视觉、自然语言处理、自动驾驶、机器学习、强化学习、大数据挖掘、世界模型、元宇宙、AGI等AI行业面试笔试干货经验与核心跨周期知识。",
+"topics": [
+"aigc",
+"deep-learning",
+"interview-preparation",
+"interview-questions",
+"machine-learning",
+"large-language-models",
+"stable-diffusion",
+"computer-vision",
+"interview",
+"interviews-solutions"
+],
+"language": "Python",
+"stars": 5137
+},
+{
+"repo": "ztxz16/fastllm",
+"description": "fastllm是后端无依赖的高性能大模型推理库，帮助您在大部分设备上高效推理大模型！",
+"topics": [],
+"language": "C++",
+"stars": 5130
+},
+{
+"repo": "MaaXYZ/MaaFramework",
+"description": "基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition",
+"topics": [
+"computer-vision",
+"black-box-testing"
+],
+"language": "C++",
+"stars": 5126
+},
+{
+"repo": "totec448-spec/chat-on-steroids",
+"description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+"topics": [
+"automation",
+"chatgpt",
+"chrome-extension",
+"electron",
+"linux",
+"local-first",
+"macos",
+"mcp",
+"multi-agent",
+"windows"
+],
+"language": "TypeScript",
+"stars": 5125
+},
+{
+"repo": "humphd/have-fun-with-machine-learning",
+"description": "An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks",
+"topics": [
+"neural-network",
+"image-classification",
+"machine-learning",
+"caffe",
+"tutorial"
+],
+"language": "Python",
+"stars": 5117
+},
+{
+"repo": "rafaelpadilla/Object-Detection-Metrics",
+"description": "Most popular metrics used to evaluate object detection algorithms.",
+"topics": [
+"metrics",
+"object-detection",
+"average-precision",
+"mean-average-precision",
+"bounding-boxes",
+"precision-recall",
+"pascal-voc"
+],
+"language": "Python",
+"stars": 5102
+},
+{
+"repo": "PeonPing/peon-ping",
+"description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.",
+"topics": [
+"ai",
+"ai-engineering",
+"antigravity",
+"claude-code",
+"codex",
+"cursor",
+"opencode",
+"terminal"
+],
+"language": "Shell",
+"stars": 5101
+},
+{
+"repo": "openclaw/mcporter",
+"description": "Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.",
+"topics": [
+"cli",
+"mcp",
+"ts-api"
+],
+"language": "TypeScript",
+"stars": 5101
+},
+{
+"repo": "eugeniughelbur/obsidian-second-brain",
+"description": "Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents.",
+"topics": [
+"ai-agents",
+"claude-code",
+"obsidian",
+"second-brain",
+"claude",
+"claude-skill",
+"knowledge-management",
+"obsidian-md",
+"personal-knowledge-management",
+"claude-code-skill"
+],
+"language": "Python",
+"stars": 5100
+},
+{
+"repo": "facebookresearch/AugLy",
+"description": "A data augmentations library for audio, image, text, and video.",
+"topics": [],
+"language": "Python",
+"stars": 5098
+},
+{
+"repo": "tencentmusic/cube-studio",
+"description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，算力租赁平台，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，支持国产cpu/gpu/npu 昇腾生态，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/ray/volcano等分布式",
+"topics": [
+"kubernetes",
+"inference",
+"mlops",
+"workflow",
+"ai",
+"pytorch",
+"spark",
+"argo",
+"kubeflow",
+"automl"
+],
+"language": "",
+"stars": 5087
+},
+{
+"repo": "TheJoeFin/Text-Grab",
+"description": "Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.",
+"topics": [
+"ocr",
+"wpf",
+"window-10",
+"msix",
+"dotnet",
+"windows",
+"windows-11",
+"local-ai"
+],
+"language": "C#",
+"stars": 5066
+},
+{
+"repo": "dtyq/magic",
+"description": "Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+"topics": [
+"agent",
+"agi",
+"ai",
+"gpt",
+"llm",
+"low-code",
+"mcp",
+"no-code",
+"sandbox",
+"workflow"
+],
+"language": "TypeScript",
+"stars": 5063
+},
+{
+"repo": "QingYunA/answer-me-with-html",
+"description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+"topics": [
+"agent-skill",
+"ai-agent",
+"claude-code",
+"cli",
+"diagram",
+"explainer",
+"html",
+"llm",
+"ste100",
+"claude-code-skill"
+],
+"language": "JavaScript",
+"stars": 5063
+},
+{
+"repo": "alchaincyf/hermes-agent-orange-book",
+"description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
+"topics": [],
+"language": "Python",
+"stars": 5046
+},
+{
+"repo": "rlaope/oh-my-hermes",
+"description": "⚚ The coding harness with Hermes Agent wired into IDE.",
+"topics": [
+"agent",
+"ai",
+"ai-agent",
+"ai-tools",
+"claude-code",
+"codex",
+"hermes-agent",
+"hermes-skill",
+"skills"
+],
+"language": "Python",
+"stars": 5029
+},
+{
+"repo": "microsoft/SPTAG",
+"description": "A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.",
+"topics": [
+"space-partition-tree",
+"neighborhood-graph",
+"vector-search",
+"fresh-update",
+"distributed-serving",
+"approximate-nearest-neighbor-search"
+],
+"language": "C++",
+"stars": 5022
+},
+{
+"repo": "apple/embedding-atlas",
+"description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+"topics": [
+"embedding",
+"visualization"
+],
+"language": "TypeScript",
+"stars": 5009
+},
+{
+"repo": "SCIR-HI/Huatuo-Llama-Med-Chinese",
+"description": "Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调",
+"topics": [
+"llama",
+"llm",
+"medical",
+"nlp",
+"aidoctor",
+"medgpt",
+"medqa",
+"chinese",
+"bloom",
+"huozi"
+],
+"language": "Python",
+"stars": 5000
+},
+{
+"repo": "changyeyu/LLM-RL-Visualized",
+"description": "🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）",
+"topics": [
+"llm",
+"reinforcement-learning",
+"algorithm",
+"nlp-machine-learning",
+"vlm",
+"ai",
+"deep-learning",
+"machine-learning",
+"natural-language-processing",
+"transformers"
+],
+"language": "Python",
+"stars": 4991
+},
+{
+"repo": "pdfme/pdfme",
+"description": "Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both browser and Node.js environments.",
+"topics": [
+"pdf",
+"pdf-generation",
+"pdf-designer",
+"pdf-viewer",
+"typescript",
+"react",
+"pdf-generator",
+"pdf-lib",
+"pdf-library"
+],
+"language": "TypeScript",
+"stars": 4976
+},
+{
+"repo": "yanshengjia/ml-road",
+"description": "Machine Learning and Agentic AI Resources, Practice and Research",
+"topics": [
+"machine-learning",
+"deep-learning",
+"nlp",
+"computer-vision",
+"speech-recognition",
+"tensorflow",
+"pytorch",
+"agentic-ai"
+],
+"language": "Python",
+"stars": 4975
+},
+{
+"repo": "alvinreal/awesome-opensource-ai",
+"description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
+"topics": [
+"agents",
+"ai",
+"artificial-intelligence",
+"awesome",
+"awesome-list",
+"generative-ai",
+"llm",
+"machine-learning",
+"mlops",
+"open-source"
+],
+"language": "Python",
+"stars": 4970
+},
+{
+"repo": "Stability-AI/StableSwarmUI",
+"description": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+"topics": [
+"ai",
+"image-generation",
+"stable-diffusion",
+"stablediffusion",
+"ui"
+],
+"language": "C#",
+"stars": 4943
+},
+{
+"repo": "withcoral/coral",
+"description": "The execution layer for AI agents. Act across more of your systems with precise controls: safer, faster and more efficient than MCP tools and gateways.",
+"topics": [],
+"language": "Rust",
+"stars": 4940
+},
+{
+"repo": "dimthink/PriceAI",
+"description": "AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。",
+"topics": [
+"ai",
+"nextjs",
+"price-tracker",
+"supabase",
+"ai-subscription",
+"chatgpt",
+"claude",
+"gemini",
+"grok",
+"price-comparison"
+],
+"language": "TypeScript",
+"stars": 4931
+},
+{
+"repo": "EvoScientist/EvoScientist",
+"description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+"topics": [
+"ai-agent",
+"ai4science",
+"multi-agent-system",
+"vibe-research"
+],
+"language": "Python",
+"stars": 4929
+},
+{
+"repo": "apache/age",
+"description": "Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.",
+"topics": [
+"postgresql",
+"graph-database",
+"analytics",
+"postgresql-extension",
+"graphdb",
+"multi-model-dbms",
+"agensgraph",
+"age-database"
+],
+"language": "C",
+"stars": 4928
+},
+{
+"repo": "nguyenphutrong/quotio",
+"description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.",
+"topics": [
+"ai-tools",
+"developer-tools",
+"proxy",
+"quota-monitor"
+],
+"language": "Rust",
+"stars": 4903
+},
+{
+"repo": "mvanhorn/cli-printing-press",
+"description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+"topics": [
+"ai-agents",
+"cli",
+"cli-generator",
+"developer-tools",
+"golang",
+"openapi"
+],
+"language": "Go",
+"stars": 4902
+},
+{
+"repo": "MoonInTheRiver/DiffSinger",
+"description": "DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code",
+"topics": [
+"text-to-speech",
+"diffusion-speedup",
+"tts",
+"aaai2022",
+"singing-synthesis",
+"diffusion-model",
+"speech-synthesis",
+"singing-voice-synthesis",
+"singing-voice",
+"singing-voice-database"
+],
+"language": "Python",
+"stars": 4891
+},
+{
+"repo": "pguso/ai-agents-from-scratch",
+"description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+"topics": [
+"ai-agents",
+"educational",
+"function-calling",
+"llm",
+"llm-agent",
+"node-llama-cpp",
+"react-agent",
+"tutorial"
+],
+"language": "JavaScript",
+"stars": 4891
+},
+{
+"repo": "brycewang-stanford/Auto-Empirical-Research-Skills",
+"description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+"topics": [
+"academic-research",
+"agent-skills",
+"ai-agent",
+"awesome-list",
+"communication",
+"economics",
+"education",
+"empirical-research",
+"international-relations",
+"political-science"
+],
+"language": "Stata",
+"stars": 4878
+},
+{
+"repo": "dmno-dev/varlock",
+"description": "AI-safe .env files: Schemas for agents, Secrets for humans.",
+"topics": [
+"configuration",
+"dotenv",
+"env",
+"env-vars",
+"schema",
+"security",
+"validation"
+],
+"language": "TypeScript",
+"stars": 4877
+},
+{
+"repo": "deepjavalibrary/djl",
+"description": "An Engine-Agnostic Deep Learning Framework in Java",
+"topics": [
+"deep-learning",
+"neural-network",
+"ai",
+"java",
+"mxnet",
+"machine-learning",
+"deep-neural-networks",
+"ml",
+"autograd",
+"djl"
+],
+"language": "Java",
+"stars": 4859
+},
+{
+"repo": "cvg/LightGlue",
+"description": "LightGlue: Local Feature Matching at Light Speed (ICCV 2023)",
+"topics": [
+"deep-learning",
+"image-matching",
+"pose-estimation",
+"transformers"
+],
+"language": "Python",
+"stars": 4857
+},
+{
+"repo": "0x0funky/agent-sprite-forge",
+"description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+"topics": [
+"agent-skills",
+"codex",
+"pixel-art",
+"sprite-generator"
+],
+"language": "Python",
+"stars": 4856
+},
+{
+"repo": "facebookresearch/vjepa2",
+"description": "PyTorch code and models for VJEPA2 self-supervised learning from video.",
+"topics": [],
+"language": "Python",
+"stars": 4843
+},
+{
+"repo": "SakuraLLM/SakuraLLM",
+"description": "适配轻小说/Galgame的日中翻译大模型",
+"topics": [],
+"language": "Python",
+"stars": 4842
+},
+{
+"repo": "rivet-dev/agentos",
+"description": "Tiny, fast, Linux-compatible sandboxes. Powered by WebAssembly.",
+"topics": [
+"agent",
+"ai",
+"javascript",
+"llm",
+"sandbox",
+"v8",
+"wasm",
+"webassembly"
+],
+"language": "Rust",
+"stars": 4842
+},
+{
+"repo": "walkinglabs/hands-on-modern-rl",
+"description": "🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems. ",
+"topics": [
+"agent",
+"agentic",
+"agentic-ai",
+"agentic-rl",
+"dpo",
+"grpo",
+"llm",
+"llm-alignment",
+"pytorch",
+"rlhf"
+],
+"language": "Jupyter Notebook",
+"stars": 4841
+},
+{
+"repo": "webmachinelearning/webmcp",
+"description": "🤖 WebMCP",
+"topics": [],
+"language": "Bikeshed",
+"stars": 4839
+}
+]

@@ -1,0 +1,3590 @@
+{
+"different-ai/openwork": {
+"name": "different-ai/openwork",
+"stars": 24367,
+"pushed": "2026-11-02T04:58:11Z",
+"archived": false,
+"fork": false,
+"desc": "The open-source alternative to Claude Cowork (powered by opencode)",
+"topics": [],
+"lang": "TypeScript"
+},
+"YishenTu/claudian": {
+"name": "YishenTu/claudian",
+"stars": 15889,
+"pushed": "2026-11-02T07:41:18Z",
+"archived": false,
+"fork": false,
+"desc": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault.",
+"topics": [
+"claude-code",
+"obsidian",
+"obsidian-plugin",
+"productivity",
+"ide",
+"codex",
+"grok",
+"opencode",
+"pi",
+"deepseek-harness"
+],
+"lang": "TypeScript"
+},
+"github/copilot.vim": {
+"name": "github/copilot.vim",
+"stars": 11706,
+"pushed": "2026-08-11T15:10:42Z",
+"archived": false,
+"fork": false,
+"desc": "Neovim plugin for GitHub Copilot",
+"topics": [],
+"lang": "Vim Script"
+},
+"HKUDS/OpenHarness": {
+"name": "HKUDS/OpenHarness",
+"stars": 16155,
+"pushed": "2026-06-04T02:42:40Z",
+"archived": false,
+"fork": false,
+"desc": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
+"topics": [],
+"lang": "Python"
+},
+"yc-software/qm": {
+"name": "yc-software/qm",
+"stars": 15607,
+"pushed": "2026-11-02T09:13:19Z",
+"archived": false,
+"fork": false,
+"desc": "Multiplayer agent harness for work.",
+"topics": [
+"ai",
+"assistant",
+"harness",
+"qm"
+],
+"lang": "TypeScript"
+},
+"mindfold-ai/Trellis": {
+"name": "mindfold-ai/Trellis",
+"stars": 15079,
+"pushed": "2026-09-29T12:35:32Z",
+"archived": false,
+"fork": false,
+"desc": "The best agent harness.",
+"topics": [
+"agentic-coding",
+"ai-workflow",
+"codex",
+"harness",
+"claudecode"
+],
+"lang": "TypeScript"
+},
+"Yeachan-Heo/oh-my-codex": {
+"name": "Yeachan-Heo/oh-my-codex",
+"stars": 33693,
+"pushed": "2026-11-02T06:48:44Z",
+"archived": false,
+"fork": false,
+"desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+"topics": [],
+"lang": "TypeScript"
+},
+"nesquena/hermes-webui": {
+"name": "nesquena/hermes-webui",
+"stars": 19349,
+"pushed": "2026-11-02T07:03:29Z",
+"archived": false,
+"fork": false,
+"desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+"topics": [
+"agent",
+"hermes",
+"ai-agents",
+"hermes-agent",
+"nous-research"
+],
+"lang": "Python"
+},
+"jlcodes99/cockpit-tools": {
+"name": "jlcodes99/cockpit-tools",
+"stars": 19635,
+"pushed": "2026-11-01T07:57:28Z",
+"archived": false,
+"fork": false,
+"desc": " 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+"topics": [
+"account-manager",
+"ai",
+"antigravity",
+"codex",
+"github-copilot",
+"windsurf",
+"kiro",
+"cursor",
+"codebuddy"
+],
+"lang": "Rust"
+},
+"wandb/openui": {
+"name": "wandb/openui",
+"stars": 22722,
+"pushed": "2026-10-22T06:13:49Z",
+"archived": false,
+"fork": false,
+"desc": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+"topics": [
+"ai",
+"generative-ai",
+"html-css-javascript",
+"tailwindcss"
+],
+"lang": "TypeScript"
+},
+"storytold/craft-anything": {
+"name": "storytold/craft-anything",
+"stars": 2011,
+"pushed": "2026-11-02T08:42:22Z",
+"archived": false,
+"fork": false,
+"desc": "Craft Anything: understand how any software works, and craft your own.",
+"topics": [],
+"lang": "Rust"
+},
+"rlaope/oh-my-hermes": {
+"name": "rlaope/oh-my-hermes",
+"stars": 5029,
+"pushed": "2026-11-02T09:09:47Z",
+"archived": false,
+"fork": false,
+"desc": "⚚ The coding harness with Hermes Agent wired into IDE.",
+"topics": [
+"agent",
+"ai",
+"ai-agent",
+"ai-tools",
+"claude-code",
+"codex",
+"hermes-agent",
+"hermes-skill",
+"skills"
+],
+"lang": "Python"
+},
+"open-gsd/gsd-core": {
+"name": "open-gsd/gsd-core",
+"stars": 11143,
+"pushed": "2026-11-02T08:28:57Z",
+"archived": false,
+"fork": false,
+"desc": "Git. Ship. Done - Core",
+"topics": [
+"claude-code",
+"context-engineering",
+"meta-prompting",
+"spec-driven-development"
+],
+"lang": "JavaScript"
+},
+"kirodotdev/KiroCrew": {
+"name": "kirodotdev/KiroCrew",
+"stars": 4720,
+"pushed": "2026-11-02T09:23:15Z",
+"archived": false,
+"fork": false,
+"desc": "A persistent workspace for development work that self-improves and continues beyond one session.",
+"topics": [
+"agent",
+"agentic-ai",
+"agents",
+"kiro",
+"ai-agent",
+"ai-agents",
+"automation",
+"devtools",
+"llm"
+],
+"lang": "Python"
+},
+"ccch1mneyyy/dsh-Go": {
+"name": "ccch1mneyyy/dsh-Go",
+"stars": 5291,
+"pushed": "2026-11-02T09:21:11Z",
+"archived": false,
+"fork": false,
+"desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+"topics": [
+"ai-agent",
+"android",
+"android-app",
+"coding-agent",
+"deepseek",
+"deepseek-harness",
+"dsh",
+"dsh-tui",
+"flutter",
+"llm"
+],
+"lang": "Dart"
+},
+"tanweai/pua": {
+"name": "tanweai/pua",
+"stars": 19788,
+"pushed": "2026-09-09T10:28:14Z",
+"archived": false,
+"fork": false,
+"desc": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
+"topics": [
+"agency",
+"agent",
+"pua",
+"pip"
+],
+"lang": "Python"
+},
+"openai/skills": {
+"name": "openai/skills",
+"stars": 28456,
+"pushed": "2026-10-28T17:31:41Z",
+"archived": false,
+"fork": false,
+"desc": "Skills Catalog for Codex",
+"topics": [],
+"lang": "Python"
+},
+"zhaoxuya520/reverse-skill": {
+"name": "zhaoxuya520/reverse-skill",
+"stars": 43960,
+"pushed": "2026-09-22T06:43:21Z",
+"archived": false,
+"fork": false,
+"desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+"topics": [],
+"lang": "PowerShell"
+},
+"mukul975/Anthropic-Cybersecurity-Skills": {
+"name": "mukul975/Anthropic-Cybersecurity-Skills",
+"stars": 35424,
+"pushed": "2026-08-31T04:32:44Z",
+"archived": false,
+"fork": false,
+"desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+"topics": [
+"ai-agents",
+"claude-code",
+"cybersecurity",
+"incident-response",
+"mitre-attack",
+"penetration-testing",
+"red-team",
+"security",
+"cloud-security",
+"malware-analysis"
+],
+"lang": "Python"
+},
+"Yuan1z0825/nature-skills": {
+"name": "Yuan1z0825/nature-skills",
+"stars": 51812,
+"pushed": "2026-11-02T03:21:16Z",
+"archived": false,
+"fork": false,
+"desc": "符合nature论文学术表达和科研绘图的Skill",
+"topics": [
+"codex-skills",
+"nature",
+"nature-skills"
+],
+"lang": "Python"
+},
+"op7418/guizang-ppt-skill": {
+"name": "op7418/guizang-ppt-skill",
+"stars": 29121,
+"pushed": "2026-10-30T12:45:28Z",
+"archived": false,
+"fork": false,
+"desc": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+"topics": [
+"ai-agent",
+"claude-code",
+"codex",
+"image-generation",
+"ppt",
+"presentation",
+"skill",
+"swiss-design",
+"web-ppt",
+"html-deck"
+],
+"lang": "HTML"
+},
+"JimLiu/baoyu-skills": {
+"name": "JimLiu/baoyu-skills",
+"stars": 27185,
+"pushed": "2026-11-01T23:35:35Z",
+"archived": false,
+"fork": false,
+"desc": "",
+"topics": [
+"agent-skills",
+"claude-skills",
+"codex-skills",
+"openclaw-skills"
+],
+"lang": "TypeScript"
+},
+"KKKKhazix/khazix-skills": {
+"name": "KKKKhazix/khazix-skills",
+"stars": 21819,
+"pushed": "2026-10-01T13:15:32Z",
+"archived": false,
+"fork": false,
+"desc": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
+"topics": [
+"agent-skills",
+"ai-agents",
+"claude",
+"claude-code",
+"codex",
+"developer-tools",
+"llm",
+"skills",
+"vibe-coding"
+],
+"lang": "Python"
+},
+"latent-spaces/brag": {
+"name": "latent-spaces/brag",
+"stars": 19960,
+"pushed": "2026-10-23T21:18:13Z",
+"archived": false,
+"fork": false,
+"desc": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+"topics": [
+"agent-skills",
+"claude-code",
+"claude-skills",
+"hyperframes",
+"launch-video",
+"video-generation"
+],
+"lang": "Python"
+},
+"wanshuiyin/Auto-claude-code-research-in-sleep": {
+"name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+"stars": 18475,
+"pushed": "2026-11-01T05:01:47Z",
+"archived": false,
+"fork": false,
+"desc": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+"topics": [
+"ai-research",
+"autonomous-agent",
+"claude-code",
+"codex",
+"mcp",
+"ml-research",
+"paper-review",
+"research-automation",
+"ai-tools",
+"claude"
+],
+"lang": "Python"
+},
+"AgriciDaniel/claude-obsidian": {
+"name": "AgriciDaniel/claude-obsidian",
+"stars": 16065,
+"pushed": "2026-10-25T22:24:31Z",
+"archived": false,
+"fork": false,
+"desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+"topics": [
+"claude-code",
+"obsidian",
+"second-brain",
+"claude-code-skill",
+"knowledge-management",
+"open-source",
+"agent-skills",
+"ai-second-brain",
+"claude-plugin",
+"karpathy-llm-wiki"
+],
+"lang": "Python"
+},
+"Imbad0202/academic-research-skills-codex": {
+"name": "Imbad0202/academic-research-skills-codex",
+"stars": 13897,
+"pushed": "2026-10-27T05:56:34Z",
+"archived": false,
+"fork": false,
+"desc": "Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows",
+"topics": [
+"academic-pipeline",
+"academic-research",
+"academic-writing",
+"ai-research",
+"codex",
+"literature-review",
+"openai-codex",
+"peer-review",
+"prompt-engineering",
+"research-assistant"
+],
+"lang": "Python"
+},
+"ConardLi/garden-skills": {
+"name": "ConardLi/garden-skills",
+"stars": 13478,
+"pushed": "2026-10-25T13:45:33Z",
+"archived": false,
+"fork": false,
+"desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+"topics": [
+"agent",
+"claude",
+"gpt-image-2",
+"rag",
+"skills",
+"web-design"
+],
+"lang": "JavaScript"
+},
+"helloianneo/ian-xiaohei-illustrations": {
+"name": "helloianneo/ian-xiaohei-illustrations",
+"stars": 13034,
+"pushed": "2026-10-27T01:41:18Z",
+"archived": false,
+"fork": false,
+"desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+"topics": [
+"ai-agent",
+"chinese",
+"codex-skill",
+"handdrawn",
+"illustration",
+"image-generation",
+"xiaohei"
+],
+"lang": ""
+},
+"tw93/Kami": {
+"name": "tw93/Kami",
+"stars": 12210,
+"pushed": "2026-11-01T09:38:06Z",
+"archived": false,
+"fork": false,
+"desc": "👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.",
+"topics": [
+"agent-skills",
+"ai-agents",
+"claude-code",
+"codex",
+"document-design",
+"pdf",
+"pptx",
+"typesetting"
+],
+"lang": "HTML"
+},
+"yizhiyanhua-ai/fireworks-tech-graph": {
+"name": "yizhiyanhua-ai/fireworks-tech-graph",
+"stars": 11920,
+"pushed": "2026-10-21T07:23:02Z",
+"archived": false,
+"fork": false,
+"desc": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
+"topics": [
+"agent-workflows",
+"ai",
+"claude-code",
+"developer-tools",
+"diagrams",
+"svg"
+],
+"lang": "Python"
+},
+"jarrodwatts/claude-hud": {
+"name": "jarrodwatts/claude-hud",
+"stars": 29081,
+"pushed": "2026-11-02T06:53:35Z",
+"archived": false,
+"fork": false,
+"desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+"topics": [
+"anthropic",
+"claude",
+"claude-code",
+"cli",
+"plugin",
+"statusline",
+"typescript"
+],
+"lang": "JavaScript"
+},
+"sirmalloc/ccstatusline": {
+"name": "sirmalloc/ccstatusline",
+"stars": 13493,
+"pushed": "2026-11-02T08:45:43Z",
+"archived": false,
+"fork": false,
+"desc": "🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.",
+"topics": [
+"ai-tools",
+"claude-code",
+"cli",
+"developer-tools",
+"git",
+"powerline",
+"statusbar",
+"statusline",
+"terminal",
+"themeing"
+],
+"lang": "TypeScript"
+},
+"toon-format/toon": {
+"name": "toon-format/toon",
+"stars": 25595,
+"pushed": "2026-11-01T11:29:03Z",
+"archived": false,
+"fork": false,
+"desc": "🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.",
+"topics": [
+"data-format",
+"llm",
+"serialization",
+"tokenization"
+],
+"lang": "TypeScript"
+},
+"nidhinjs/prompt-master": {
+"name": "nidhinjs/prompt-master",
+"stars": 15395,
+"pushed": "2026-10-22T13:26:18Z",
+"archived": false,
+"fork": false,
+"desc": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
+"topics": [
+"claude-ai",
+"claude-skills",
+"llm",
+"prompt-engineering"
+],
+"lang": ""
+},
+"langchain-ai/openwiki": {
+"name": "langchain-ai/openwiki",
+"stars": 17673,
+"pushed": "2026-11-02T08:45:46Z",
+"archived": false,
+"fork": false,
+"desc": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+"topics": [],
+"lang": "TypeScript"
+},
+"nicobailon/pi-subagents": {
+"name": "nicobailon/pi-subagents",
+"stars": 4116,
+"pushed": "2026-11-01T18:19:58Z",
+"archived": false,
+"fork": false,
+"desc": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+"topics": [],
+"lang": "TypeScript"
+},
+"unclebob/ub-mode": {
+"name": "unclebob/ub-mode",
+"stars": 6404,
+"pushed": "2026-10-25T16:07:59Z",
+"archived": false,
+"fork": false,
+"desc": "",
+"topics": [],
+"lang": ""
+},
+"higgsfield-ai/skills": {
+"name": "higgsfield-ai/skills",
+"stars": 1848,
+"pushed": "2026-10-27T17:54:03Z",
+"archived": false,
+"fork": false,
+"desc": "",
+"topics": [],
+"lang": "Python"
+},
+"enesozturk/dimensional-drawing": {
+"name": "enesozturk/dimensional-drawing",
+"stars": 1731,
+"pushed": "2026-10-24T09:41:54Z",
+"archived": false,
+"fork": false,
+"desc": "Create Apple style dimensional drawings of UI components.",
+"topics": [
+"skills",
+"ui"
+],
+"lang": "HTML"
+},
+"dotnet/skills": {
+"name": "dotnet/skills",
+"stars": 5794,
+"pushed": "2026-11-02T09:19:21Z",
+"archived": false,
+"fork": false,
+"desc": "Repository for skills to assist AI coding agents with .NET and C#",
+"topics": [
+"agent-skills"
+],
+"lang": "C#"
+},
+"microsoft/azure-skills": {
+"name": "microsoft/azure-skills",
+"stars": 1611,
+"pushed": "2026-10-30T17:07:19Z",
+"archived": false,
+"fork": false,
+"desc": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
+"topics": [
+"agent-skills"
+],
+"lang": "Shell"
+},
+"softaworks/agent-toolkit": {
+"name": "softaworks/agent-toolkit",
+"stars": 2613,
+"pushed": "2026-03-05T16:46:24Z",
+"archived": false,
+"fork": false,
+"desc": "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.",
+"topics": [
+"agent-skills",
+"ai",
+"automation",
+"claude",
+"claude-code",
+"coding-agent",
+"development"
+],
+"lang": "Python"
+},
+"google/elephant-goldfish-model": {
+"name": "google/elephant-goldfish-model",
+"stars": 9713,
+"pushed": "2026-11-01T13:38:10Z",
+"archived": false,
+"fork": false,
+"desc": "Open-source skills for designing and reviewing software with AI agents",
+"topics": [
+"agent-skills",
+"spec-driven-development",
+"antigravity",
+"gemini",
+"ai-agents",
+"claude-code",
+"claude-code-plugin",
+"claude-skills",
+"codex",
+"codex-plugin"
+],
+"lang": "Python"
+},
+"alchaincyf/huashu-design": {
+"name": "alchaincyf/huashu-design",
+"stars": 28453,
+"pushed": "2026-10-30T17:51:13Z",
+"archived": false,
+"fork": false,
+"desc": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+"topics": [
+"agent-skills",
+"ai-design",
+"claude-code",
+"claude-skills",
+"codex",
+"cursor",
+"design",
+"html",
+"pptx",
+"prototype"
+],
+"lang": "HTML"
+},
+"chuspeeism/dashi-ppt-skill": {
+"name": "chuspeeism/dashi-ppt-skill",
+"stars": 10268,
+"pushed": "2026-09-12T14:13:08Z",
+"archived": false,
+"fork": false,
+"desc": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
+"topics": [
+"agent-skill",
+"ai-agent",
+"ai-ppt",
+"claude",
+"claude-code",
+"html-presentation",
+"ppt",
+"pptx",
+"presentation",
+"presentation-generator"
+],
+"lang": "JavaScript"
+},
+"t3dotgg/tstack": {
+"name": "t3dotgg/tstack",
+"stars": 2597,
+"pushed": "2026-10-28T02:38:03Z",
+"archived": false,
+"fork": false,
+"desc": "The agent skills I use every day. Works with Claude Code and Codex.",
+"topics": [],
+"lang": "Python"
+},
+"jakubkrehel/skills": {
+"name": "jakubkrehel/skills",
+"stars": 10209,
+"pushed": "2026-11-02T01:29:43Z",
+"archived": false,
+"fork": false,
+"desc": "A collection of agent skills that help you build great interfaces.",
+"topics": [],
+"lang": "Markdown"
+},
+"expo/skills": {
+"name": "expo/skills",
+"stars": 4017,
+"pushed": "2026-11-01T21:54:22Z",
+"archived": false,
+"fork": false,
+"desc": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+"topics": [],
+"lang": "Shell"
+},
+"Oldcircle/geo-sleuth": {
+"name": "Oldcircle/geo-sleuth",
+"stars": 5458,
+"pushed": "2026-11-01T09:34:20Z",
+"archived": false,
+"fork": false,
+"desc": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
+"topics": [
+"claude-code",
+"geoguessr",
+"geolocation",
+"osint",
+"agent-skills",
+"geoint",
+"openstreetmap",
+"photo-geolocation",
+"computer-vision",
+"image-geolocation"
+],
+"lang": "Python"
+},
+"blader/humanizer": {
+"name": "blader/humanizer",
+"stars": 63704,
+"pushed": "2026-10-28T07:17:33Z",
+"archived": false,
+"fork": false,
+"desc": "Agent skill that removes signs of AI-generated writing from text",
+"topics": [
+"agent-skills",
+"ai-writing",
+"claude-code",
+"codex",
+"cursor",
+"prompt-engineering",
+"writing-tools",
+"ai-humanizer",
+"chatgpt",
+"claude"
+],
+"lang": "Python"
+},
+"JimLiu/baoyu-design": {
+"name": "JimLiu/baoyu-design",
+"stars": 5844,
+"pushed": "2026-11-02T08:52:50Z",
+"archived": false,
+"fork": false,
+"desc": "Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude.",
+"topics": [
+"agent-skills",
+"claude",
+"claude-code",
+"claude-design",
+"cursor",
+"design",
+"prototyping",
+"ui-design",
+"dsh-plugin",
+"dsh-plugins"
+],
+"lang": "JavaScript"
+},
+"microsoft/power-platform-skills": {
+"name": "microsoft/power-platform-skills",
+"stars": 1103,
+"pushed": "2026-11-01T23:03:56Z",
+"archived": false,
+"fork": false,
+"desc": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
+"topics": [
+"claude-code-plugin",
+"claude-code-skills",
+"power-apps",
+"power-pages",
+"power-platform",
+"code-apps",
+"github-copilot-plugin"
+],
+"lang": "JavaScript"
+},
+"heydamir/unslop": {
+"name": "heydamir/unslop",
+"stars": 5290,
+"pushed": "2026-11-01T16:46:10Z",
+"archived": false,
+"fork": false,
+"desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+"topics": [],
+"lang": "JavaScript"
+},
+"0x0funky/agent-sprite-forge": {
+"name": "0x0funky/agent-sprite-forge",
+"stars": 4858,
+"pushed": "2026-10-06T14:09:38Z",
+"archived": false,
+"fork": false,
+"desc": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+"topics": [
+"agent-skills",
+"codex",
+"pixel-art",
+"sprite-generator"
+],
+"lang": "Python"
+},
+"patch-gg/pixelfx": {
+"name": "patch-gg/pixelfx",
+"stars": 3087,
+"pushed": "2026-10-31T08:44:14Z",
+"archived": false,
+"fork": false,
+"desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+"topics": [
+"agent-skills",
+"animation",
+"canvas",
+"claude-code-plugin",
+"gamedev",
+"pixel-art",
+"sprite-sheet",
+"vfx"
+],
+"lang": "JavaScript"
+},
+"miqdadbadjuber/anti-slop": {
+"name": "miqdadbadjuber/anti-slop",
+"stars": 7966,
+"pushed": "2026-11-01T12:06:35Z",
+"archived": false,
+"fork": false,
+"desc": "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.",
+"topics": [
+"accessibility",
+"agent-skills",
+"ai-agents",
+"ai-coding-agent",
+"ai-slop",
+"anti-slop",
+"claude-code",
+"copywriting",
+"design-rules",
+"ui-design"
+],
+"lang": "JavaScript"
+},
+"PenglongHuang/chinese-novelist-skill": {
+"name": "PenglongHuang/chinese-novelist-skill",
+"stars": 4546,
+"pushed": "2026-11-01T13:40:52Z",
+"archived": false,
+"fork": false,
+"desc": "🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill",
+"topics": [
+"agent",
+"ai-fiction",
+"ai-novel",
+"ai-writing",
+"chinese",
+"chinese-novel",
+"claude",
+"claude-code",
+"creative-writing",
+"llm"
+],
+"lang": "JavaScript"
+},
+"scenario-labs/skills": {
+"name": "scenario-labs/skills",
+"stars": 1477,
+"pushed": "2026-11-02T07:44:52Z",
+"archived": false,
+"fork": false,
+"desc": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+"topics": [
+"agent-skills",
+"blender",
+"claude-code",
+"claude-skills",
+"codex",
+"game-assets",
+"game-development",
+"generative-ai",
+"image-generation",
+"mcp"
+],
+"lang": "Python"
+},
+"microsoft/SkillOpt": {
+"name": "microsoft/SkillOpt",
+"stars": 18813,
+"pushed": "2026-11-01T14:47:38Z",
+"archived": false,
+"fork": false,
+"desc": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+"topics": [
+"agent-skills",
+"self-evolving-agents"
+],
+"lang": "Python"
+},
+"yusufkaraaslan/Skill_Seekers": {
+"name": "yusufkaraaslan/Skill_Seekers",
+"stars": 15264,
+"pushed": "2026-09-30T18:49:17Z",
+"archived": false,
+"fork": false,
+"desc": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+"topics": [
+"ai-tools",
+"automation",
+"claude-ai",
+"claude-skills",
+"documentation",
+"documentation-generator",
+"python",
+"web-scraping",
+"mcp",
+"mcp-server"
+],
+"lang": "Python"
+},
+"kangarooking/cangjie-skill": {
+"name": "kangarooking/cangjie-skill",
+"stars": 11996,
+"pushed": "2026-10-02T03:17:52Z",
+"archived": false,
+"fork": false,
+"desc": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）",
+"topics": [
+"agent-workflows",
+"ai-skills",
+"automation",
+"book-to-skill",
+"knowledge-distillation",
+"prompt-engineering",
+"skill-generator",
+"templates"
+],
+"lang": "Python"
+},
+"micro/go-micro": {
+"name": "micro/go-micro",
+"stars": 23082,
+"pushed": "2026-10-29T17:43:16Z",
+"archived": false,
+"fork": false,
+"desc": "A framework for agents, tools and services",
+"topics": [
+"go",
+"golang",
+"micro"
+],
+"lang": "Go"
+},
+"ParadevAI/Paradev": {
+"name": "ParadevAI/Paradev",
+"stars": 15835,
+"pushed": "2026-11-02T08:08:33Z",
+"archived": false,
+"fork": false,
+"desc": "Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
+"topics": [
+"claude-code",
+"codex",
+"terminal",
+"ai-agents",
+"cursor-agent",
+"opencode",
+"parallel-agents",
+"worktrees",
+"cli",
+"orchestration"
+],
+"lang": "TypeScript"
+},
+"maxritter/qualitylayer": {
+"name": "maxritter/qualitylayer",
+"stars": 2110,
+"pushed": "2026-11-02T05:04:13Z",
+"archived": false,
+"fork": false,
+"desc": "Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.",
+"topics": [
+"claude-code",
+"spec-driven-development",
+"ai-coding",
+"codex",
+"agent-skills",
+"agentic-engineering",
+"code-quality",
+"code-review",
+"coding-agents",
+"developer-tools"
+],
+"lang": "PowerShell"
+},
+"dagoSte/squadra": {
+"name": "dagoSte/squadra",
+"stars": 1182,
+"pushed": "2026-11-01T12:58:32Z",
+"archived": false,
+"fork": false,
+"desc": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound proofs and independent review. Built-in skills recall lessons, simplify code and forecast work. Track progress, decisions and evidence in a bilingual local dashboard, with MCP plugins. Browse skills and verified security audits.",
+"topics": [
+"agent-skills",
+"ai-agents",
+"claude-code",
+"code-review",
+"codex",
+"cursor",
+"developer-tools",
+"multi-agent",
+"agent-orchestration",
+"agentic-coding"
+],
+"lang": "Python"
+},
+"sno-ai/sno-station": {
+"name": "sno-ai/sno-station",
+"stars": 1091,
+"pushed": "2026-11-01T11:58:06Z",
+"archived": false,
+"fork": false,
+"desc": "When Claude Code hits its usage limit, Codex picks the task up from the same memory. Sno Station puts Codex, Claude Code, Cursor, Hermes Agent and OpenClaw on one squad: they hand work to each other and review each other's code. Open source, runs on your computer.",
+"topics": [
+"agent-memory",
+"claude-code",
+"codex",
+"code-review",
+"agentic-coding",
+"codex-cli",
+"openai-codex",
+"agent-orchestration",
+"ai-code-review",
+"ai-coding-agent"
+],
+"lang": "TypeScript"
+},
+"neuron-core/neuron-ai": {
+"name": "neuron-core/neuron-ai",
+"stars": 2163,
+"pushed": "2026-10-30T00:20:23Z",
+"archived": false,
+"fork": false,
+"desc": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI.",
+"topics": [
+"agentic-ai",
+"agentic-framework",
+"ai",
+"llm",
+"llm-inference",
+"llms",
+"vector-database",
+"php",
+"agent",
+"agents"
+],
+"lang": "PHP"
+},
+"langwatch/better-agents": {
+"name": "langwatch/better-agents",
+"stars": 1559,
+"pushed": "2026-06-03T17:12:53Z",
+"archived": false,
+"fork": false,
+"desc": "Standards for building agents, better",
+"topics": [
+"agent-framework",
+"agent-testing",
+"ai-agents",
+"cli",
+"dev-tool",
+"lllm",
+"llmops",
+"mcp",
+"python",
+"typescript"
+],
+"lang": "TypeScript"
+},
+"lioensky/VCPToolBox": {
+"name": "lioensky/VCPToolBox",
+"stars": 2426,
+"pushed": "2026-11-01T12:13:29Z",
+"archived": false,
+"fork": false,
+"desc": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+"topics": [
+"agent-framework",
+"ai-agent",
+"ai-assistant",
+"ai-companion",
+"context-management",
+"context-management-system",
+"function-calling",
+"llm",
+"multi-model",
+"nodejs"
+],
+"lang": "JavaScript"
+},
+"HKUDS/AutoSwarm": {
+"name": "HKUDS/AutoSwarm",
+"stars": 2299,
+"pushed": "2026-11-02T03:34:38Z",
+"archived": false,
+"fork": false,
+"desc": "AutoSwarm: Unify Your Agents. Unify Your Context (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more)",
+"topics": [],
+"lang": "Python"
+},
+"nearai/ironclaw": {
+"name": "nearai/ironclaw",
+"stars": 12704,
+"pushed": "2026-10-30T06:42:48Z",
+"archived": false,
+"fork": false,
+"desc": "IronClaw is an Agent OS focused on privacy, security and extensibility",
+"topics": [
+"codeact",
+"openclaw",
+"rlm",
+"rust",
+"wasm"
+],
+"lang": "Rust"
+},
+"deepseek-ai/dsh-superagent-prototype": {
+"name": "deepseek-ai/dsh-superagent-prototype",
+"stars": 10590,
+"pushed": "2026-10-31T12:05:51Z",
+"archived": false,
+"fork": false,
+"desc": "Towards a More Autonomous Agent System",
+"topics": [],
+"lang": "TypeScript"
+},
+"semantica-agi/semantica": {
+"name": "semantica-agi/semantica",
+"stars": 14390,
+"pushed": "2026-11-02T09:15:30Z",
+"archived": false,
+"fork": false,
+"desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+"topics": [
+"ai",
+"ai-governance",
+"artificial-intelligence",
+"context-engineering",
+"context-graphs",
+"decision-intelligence",
+"explainable-ai",
+"generative-ai",
+"graph-rag",
+"knowledge-graph"
+],
+"lang": "Python"
+},
+"cayleygraph/cayley": {
+"name": "cayleygraph/cayley",
+"stars": 15067,
+"pushed": "2026-08-27T10:33:26Z",
+"archived": false,
+"fork": false,
+"desc": "An open-source graph database",
+"topics": [
+"graph",
+"graph-database",
+"cayley",
+"go",
+"linked-data"
+],
+"lang": "Go"
+},
+"eugeniughelbur/obsidian-second-brain": {
+"name": "eugeniughelbur/obsidian-second-brain",
+"stars": 5100,
+"pushed": "2026-11-01T15:29:14Z",
+"archived": false,
+"fork": false,
+"desc": "Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents.",
+"topics": [
+"ai-agents",
+"claude-code",
+"obsidian",
+"second-brain",
+"claude",
+"claude-skill",
+"knowledge-management",
+"obsidian-md",
+"personal-knowledge-management",
+"claude-code-skill"
+],
+"lang": "Python"
+},
+"fabio-rovai/open-ontologies": {
+"name": "fabio-rovai/open-ontologies",
+"stars": 2743,
+"pushed": "2026-11-02T08:31:37Z",
+"archived": false,
+"fork": false,
+"desc": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+"topics": [
+"ai-native",
+"description-logics",
+"knowledge-graph",
+"mcp",
+"mcp-server",
+"ontology",
+"owl",
+"owl2",
+"reasoning",
+"rust"
+],
+"lang": "Rust"
+},
+"valeriansaliou/sonic": {
+"name": "valeriansaliou/sonic",
+"stars": 21372,
+"pushed": "2026-10-30T18:22:51Z",
+"archived": false,
+"fork": false,
+"desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+"topics": [
+"rust",
+"infrastructure",
+"search",
+"index",
+"graph",
+"database",
+"server",
+"backend",
+"search-server",
+"search-engine"
+],
+"lang": "Rust"
+},
+"PromtEngineer/localGPT": {
+"name": "PromtEngineer/localGPT",
+"stars": 22199,
+"pushed": "2026-08-26T04:52:30Z",
+"archived": false,
+"fork": false,
+"desc": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. ",
+"topics": [],
+"lang": "Python"
+},
+"lfnovo/open-notebook": {
+"name": "lfnovo/open-notebook",
+"stars": 41327,
+"pushed": "2026-11-01T21:49:31Z",
+"archived": false,
+"fork": false,
+"desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+"topics": [
+"assistant",
+"learning",
+"note-taking",
+"notebook",
+"notes-app",
+"self-learning"
+],
+"lang": "TypeScript"
+},
+"HKUDS/VideoRAG": {
+"name": "HKUDS/VideoRAG",
+"stars": 3506,
+"pushed": "2026-03-18T08:33:07Z",
+"archived": false,
+"fork": false,
+"desc": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"",
+"topics": [
+"large-language-models",
+"llms",
+"long-video-understanding",
+"multi-modal-llms",
+"rag",
+"retrieval-augmented-generation"
+],
+"lang": "Python"
+},
+"cocoindex-io/cocoindex": {
+"name": "cocoindex-io/cocoindex",
+"stars": 11811,
+"pushed": "2026-11-02T01:17:58Z",
+"archived": false,
+"fork": false,
+"desc": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+"topics": [
+"ai",
+"change-data-capture",
+"data-indexing",
+"etl",
+"indexing",
+"python",
+"rag",
+"real-time",
+"rust",
+"semantic-search"
+],
+"lang": "Rust"
+},
+"GiovanniPasq/agentic-rag-for-dummies": {
+"name": "GiovanniPasq/agentic-rag-for-dummies",
+"stars": 4311,
+"pushed": "2026-10-17T13:00:47Z",
+"archived": false,
+"fork": false,
+"desc": "A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.",
+"topics": [
+"agentic-ai",
+"agentic-rag",
+"agents",
+"rag",
+"agent",
+"bm25",
+"rag-chatbot",
+"rag-pipeline",
+"langgraph",
+"llm"
+],
+"lang": "Jupyter Notebook"
+},
+"NangoHQ/nango": {
+"name": "NangoHQ/nango",
+"stars": 13078,
+"pushed": "2026-11-02T09:22:43Z",
+"archived": false,
+"fork": false,
+"desc": "Connect your agents & product to 1,000 APIs.",
+"topics": [
+"oauth2",
+"oauth1",
+"api",
+"api-client",
+"integrations",
+"api-integration",
+"access-token",
+"refresh-token",
+"oauth",
+"api-integrations"
+],
+"lang": "TypeScript"
+},
+"0x4m4/hexstrike-ai": {
+"name": "0x4m4/hexstrike-ai",
+"stars": 13283,
+"pushed": "2026-08-03T14:33:09Z",
+"archived": false,
+"fork": false,
+"desc": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+"topics": [
+"0x4m4",
+"ai",
+"ai-agents",
+"ai-cybersecurity",
+"ai-hacking",
+"ai-penetration-testing",
+"ai-security-tool",
+"artificial-intelligence",
+"ctf-tools",
+"generative-ai"
+],
+"lang": "Python"
+},
+"xpzouying/xiaohongshu-mcp": {
+"name": "xpzouying/xiaohongshu-mcp",
+"stars": 16739,
+"pushed": "2026-11-02T04:35:32Z",
+"archived": false,
+"fork": false,
+"desc": "MCP for xiaohongshu.com",
+"topics": [
+"mcp",
+"mcp-server",
+"xiaohongshu-mcp"
+],
+"lang": "Go"
+},
+"BrowserMCP/mcp": {
+"name": "BrowserMCP/mcp",
+"stars": 7269,
+"pushed": "2026-10-30T09:17:32Z",
+"archived": false,
+"fork": false,
+"desc": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser",
+"topics": [
+"browser-automation",
+"browser-extension",
+"claude",
+"cursor",
+"mcp",
+"mcp-server"
+],
+"lang": "TypeScript"
+},
+"mattt/iMCP": {
+"name": "mattt/iMCP",
+"stars": 1930,
+"pushed": "2026-11-01T19:05:43Z",
+"archived": false,
+"fork": false,
+"desc": "A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more",
+"topics": [
+"macos",
+"mcp"
+],
+"lang": "Swift"
+},
+"NVIDIA/NemoClaw": {
+"name": "NVIDIA/NemoClaw",
+"stars": 22915,
+"pushed": "2026-11-02T08:59:59Z",
+"archived": false,
+"fork": false,
+"desc": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+"topics": [
+"ai-agents",
+"nvidia",
+"openclaw",
+"openshell",
+"sandboxing",
+"typescript",
+"hermes",
+"deep-agents"
+],
+"lang": "TypeScript"
+},
+"jackwener/OpenCLI": {
+"name": "jackwener/OpenCLI",
+"stars": 30831,
+"pushed": "2026-10-26T07:53:40Z",
+"archived": false,
+"fork": false,
+"desc": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+"topics": [
+"ai-agent",
+"ai-agents",
+"ai-tools",
+"cli",
+"browser-automation",
+"browser-use",
+"playwright"
+],
+"lang": "JavaScript"
+},
+"vercel-labs/agent-desktop": {
+"name": "vercel-labs/agent-desktop",
+"stars": 7590,
+"pushed": "2026-11-02T09:10:14Z",
+"archived": false,
+"fork": false,
+"desc": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+"topics": [
+"accessibility",
+"accessibility-api",
+"ai-agents",
+"automation",
+"cli",
+"desktop-automation",
+"macos",
+"mcp",
+"rust",
+"computer-use"
+],
+"lang": "Rust"
+},
+"deeplethe/sandstorm": {
+"name": "deeplethe/sandstorm",
+"stars": 4008,
+"pushed": "2026-11-01T20:27:58Z",
+"archived": false,
+"fork": false,
+"desc": "Run thousands of AI agent sandboxes on the cheapest machines.",
+"topics": [
+"ai-agents",
+"rust",
+"sandbox",
+"snapshot",
+"agent-infrastructure",
+"checkpoint-restore",
+"code-execution",
+"gvisor",
+"self-hosted"
+],
+"lang": "Rust"
+},
+"baidu/Unlimited-OCR": {
+"name": "baidu/Unlimited-OCR",
+"stars": 30335,
+"pushed": "2026-11-02T06:43:28Z",
+"archived": false,
+"fork": false,
+"desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+"topics": [],
+"lang": "Python"
+},
+"DayBreak-u/chineseocr_lite": {
+"name": "DayBreak-u/chineseocr_lite",
+"stars": 12355,
+"pushed": "2026-05-18T09:55:53Z",
+"archived": false,
+"fork": false,
+"desc": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M ",
+"topics": [
+"ncnn",
+"ocr",
+"pytorch"
+],
+"lang": "C++"
+},
+"axoviq-ai/synthadoc": {
+"name": "axoviq-ai/synthadoc",
+"stars": 1746,
+"pushed": "2026-11-02T00:43:24Z",
+"archived": false,
+"fork": false,
+"desc": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.",
+"topics": [
+"agent-skills",
+"agentic-ai",
+"cli-tool",
+"domain-adaptation",
+"enterprise",
+"enterprise-solutions",
+"knowledge-graph",
+"local-llm",
+"obsidian-md",
+"obsidian-plugin"
+],
+"lang": "Python"
+},
+"snapotter-hq/SnapOtter": {
+"name": "snapotter-hq/SnapOtter",
+"stars": 2927,
+"pushed": "2026-11-02T06:00:18Z",
+"archived": false,
+"fork": false,
+"desc": "Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network.",
+"topics": [
+"ai",
+"docker",
+"homelab",
+"image-editor",
+"image-processing",
+"open-source",
+"self-hosted",
+"privacy",
+"audio-processing",
+"file-conversion"
+],
+"lang": "TypeScript"
+},
+"gosom/google-maps-scraper": {
+"name": "gosom/google-maps-scraper",
+"stars": 7171,
+"pushed": "2026-10-21T10:24:36Z",
+"archived": false,
+"fork": false,
+"desc": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
+"topics": [
+"golang",
+"google-maps-scraping",
+"web-scraper",
+"web-scraping",
+"distributed-scraper",
+"distributed-scraping",
+"google-maps",
+"agent-skills",
+"claude-skills",
+"codex-skills"
+],
+"lang": "Go"
+},
+"SoMarkAI/OXR": {
+"name": "SoMarkAI/OXR",
+"stars": 2897,
+"pushed": "2026-10-24T15:48:22Z",
+"archived": false,
+"fork": false,
+"desc": "An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training.",
+"topics": [
+"agent",
+"llm-tools",
+"ocr",
+"vlm",
+"vlm-ocr",
+"rsi",
+"oxr"
+],
+"lang": "Python"
+},
+"enescingoz/awesome-n8n-templates": {
+"name": "enescingoz/awesome-n8n-templates",
+"stars": 26226,
+"pushed": "2026-09-12T13:00:32Z",
+"archived": false,
+"fork": false,
+"desc": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
+"topics": [
+"automation",
+"integration",
+"n8n",
+"n8n-automation",
+"no-code-ai",
+"no-code-automation",
+"workflow-automation",
+"automation-templates",
+"n8n-template",
+"ai-agents"
+],
+"lang": ""
+},
+"n8n-io/self-hosted-ai-starter-kit": {
+"name": "n8n-io/self-hosted-ai-starter-kit",
+"stars": 15322,
+"pushed": "2026-10-12T08:50:13Z",
+"archived": false,
+"fork": false,
+"desc": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+"topics": [
+"ai",
+"low-code",
+"self-hosted",
+"starter-kit",
+"ai-agents"
+],
+"lang": ""
+},
+"gitroomhq/postiz-app": {
+"name": "gitroomhq/postiz-app",
+"stars": 40639,
+"pushed": "2026-11-02T09:13:15Z",
+"archived": false,
+"fork": false,
+"desc": "📨 The ultimate agentic social media scheduling tool 🤖",
+"topics": [
+"typescript",
+"nextjs",
+"redis",
+"open-source",
+"oss",
+"scheduling-tool",
+"social-media-scheduling-tool",
+"open-source-social-media-scheduling-tool",
+"postiz-cloud",
+"postiz-hosted"
+],
+"lang": "TypeScript"
+},
+"Wei-Shaw/claude-relay-service": {
+"name": "Wei-Shaw/claude-relay-service",
+"stars": 12767,
+"pushed": "2026-10-31T18:23:43Z",
+"archived": false,
+"fork": false,
+"desc": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+"topics": [
+"claude-api",
+"claude-code",
+"claude-proxy",
+"codex-cli",
+"gemini-cli",
+"claude",
+"droid",
+"droid-cli",
+"droid2api",
+"crs"
+],
+"lang": "JavaScript"
+},
+"cheaper-inference/OmniRoute": {
+"name": "cheaper-inference/OmniRoute",
+"stars": 83722,
+"pushed": "2026-11-02T04:51:50Z",
+"archived": false,
+"fork": false,
+"desc": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+"topics": [
+"a2a",
+"ai-agents",
+"ai-gateway",
+"anthropic",
+"claude",
+"claude-code",
+"cline",
+"codex",
+"copilot",
+"cursor"
+],
+"lang": "TypeScript"
+},
+"Wei-Shaw/sub2api": {
+"name": "Wei-Shaw/sub2api",
+"stars": 45284,
+"pushed": "2026-11-02T08:35:29Z",
+"archived": false,
+"fork": false,
+"desc": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+"topics": [
+"2api",
+"antigravity2api",
+"claude",
+"claude-code",
+"codex",
+"crs",
+"gemini",
+"cc2api",
+"crs2"
+],
+"lang": "Go"
+},
+"chatanywhere/GPT_API_free": {
+"name": "chatanywhere/GPT_API_free",
+"stars": 45259,
+"pushed": "2026-10-30T11:02:36Z",
+"archived": false,
+"fork": false,
+"desc": "免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！",
+"topics": [
+"api",
+"chatgpt",
+"claude",
+"deepseek",
+"gemini",
+"gpt",
+"grok",
+"llm-agents"
+],
+"lang": ""
+},
+"Ebony-Vinyl/dsh-our-free-model": {
+"name": "Ebony-Vinyl/dsh-our-free-model",
+"stars": 56461,
+"pushed": "2026-11-02T08:10:54Z",
+"archived": false,
+"fork": false,
+"desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+"topics": [
+"ai-agents",
+"deepseek",
+"deepseek-harness",
+"developer-tools",
+"dsh",
+"dsh-plugin",
+"free-model",
+"llm",
+"model-provider",
+"openai-compatible"
+],
+"lang": "JavaScript"
+},
+"JustVugg/colibri": {
+"name": "JustVugg/colibri",
+"stars": 46049,
+"pushed": "2026-11-02T06:45:24Z",
+"archived": false,
+"fork": false,
+"desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+"topics": [],
+"lang": "C"
+},
+"openai/gpt-oss": {
+"name": "openai/gpt-oss",
+"stars": 20509,
+"pushed": "2026-10-29T16:42:13Z",
+"archived": false,
+"fork": false,
+"desc": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+"topics": [],
+"lang": "Python"
+},
+"tensorflow/tfjs": {
+"name": "tensorflow/tfjs",
+"stars": 19158,
+"pushed": "2026-06-23T00:04:38Z",
+"archived": false,
+"fork": false,
+"desc": "A WebGL accelerated JavaScript library for training and deploying ML models.",
+"topics": [
+"deep-learning",
+"typescript",
+"webgl",
+"javascript",
+"machine-learning",
+"neural-network",
+"deep-neural-network",
+"gpu-acceleration",
+"wasm",
+"web-assembly"
+],
+"lang": "TypeScript"
+},
+"ggml-org/ggml": {
+"name": "ggml-org/ggml",
+"stars": 15573,
+"pushed": "2026-10-28T10:32:37Z",
+"archived": false,
+"fork": false,
+"desc": "Tensor library for machine learning",
+"topics": [
+"machine-learning"
+],
+"lang": "C++"
+},
+"Dao-AILab/flash-attention": {
+"name": "Dao-AILab/flash-attention",
+"stars": 25238,
+"pushed": "2026-11-02T06:00:03Z",
+"archived": false,
+"fork": false,
+"desc": "Fast and memory-efficient exact attention",
+"topics": [],
+"lang": "Python"
+},
+"triton-lang/triton": {
+"name": "triton-lang/triton",
+"stars": 20510,
+"pushed": "2026-11-02T02:50:01Z",
+"archived": false,
+"fork": false,
+"desc": "Development repository for the Triton language and compiler",
+"topics": [],
+"lang": "MLIR"
+},
+"NVIDIA/Megatron-LM": {
+"name": "NVIDIA/Megatron-LM",
+"stars": 18312,
+"pushed": "2026-11-02T09:19:09Z",
+"archived": false,
+"fork": false,
+"desc": "Ongoing research training transformer models at scale",
+"topics": [
+"large-language-models",
+"model-para",
+"transformers"
+],
+"lang": "Python"
+},
+"BlinkDL/RWKV-LM": {
+"name": "BlinkDL/RWKV-LM",
+"stars": 14770,
+"pushed": "2026-10-31T10:39:47Z",
+"archived": false,
+"fork": false,
+"desc": "RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 \"Goose\". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.",
+"topics": [
+"attention-mechanism",
+"deep-learning",
+"gpt",
+"gpt-2",
+"gpt-3",
+"language-model",
+"linear-attention",
+"lstm",
+"pytorch",
+"rnn"
+],
+"lang": "Python"
+},
+"ludwig-ai/ludwig": {
+"name": "ludwig-ai/ludwig",
+"stars": 11793,
+"pushed": "2026-10-27T01:16:30Z",
+"archived": false,
+"fork": false,
+"desc": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+"topics": [
+"deep-learning",
+"deeplearning",
+"deep",
+"learning",
+"machine-learning",
+"machinelearning",
+"natural-language-processing",
+"natural-language",
+"computer-vision",
+"data-centric"
+],
+"lang": "Python"
+},
+"Mesh-LLM/mesh-llm": {
+"name": "Mesh-LLM/mesh-llm",
+"stars": 3792,
+"pushed": "2026-11-02T07:50:28Z",
+"archived": false,
+"fork": false,
+"desc": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+"topics": [
+"agents",
+"ai",
+"decentralized",
+"distributed",
+"llm"
+],
+"lang": "Rust"
+},
+"lmgame-org/GamingAgent": {
+"name": "lmgame-org/GamingAgent",
+"stars": 1004,
+"pushed": "2025-11-16T20:16:05Z",
+"archived": false,
+"fork": false,
+"desc": "[ICLR 2026] LLM/VLM gaming agents and model evaluation through games.",
+"topics": [
+"computer-use",
+"gaming",
+"harness",
+"llm-agents"
+],
+"lang": "Python"
+},
+"microsoft/TokenEconomizer": {
+"name": "microsoft/TokenEconomizer",
+"stars": 4256,
+"pushed": "2026-11-01T22:29:27Z",
+"archived": false,
+"fork": false,
+"desc": "Experience-Driven Black-Box Cost Control for Coding Agents",
+"topics": [
+"agentic-ai",
+"agentic-coding",
+"ai-coding",
+"ai-coding-assistant",
+"anthropic",
+"artificial-intelligence",
+"claude-code",
+"codex",
+"coding-agent",
+"coding-agents"
+],
+"lang": "Python"
+},
+"harbor-framework/terminal-bench": {
+"name": "harbor-framework/terminal-bench",
+"stars": 1000,
+"pushed": "2026-10-31T19:38:31Z",
+"archived": false,
+"fork": false,
+"desc": "Measuring and evolving with the frontier of agent work",
+"topics": [],
+"lang": "Python"
+},
+"millionco/react-doctor": {
+"name": "millionco/react-doctor",
+"stars": 15073,
+"pushed": "2026-11-02T05:24:10Z",
+"archived": false,
+"fork": false,
+"desc": "Your agent writes bad React. This catches it",
+"topics": [
+"agents",
+"code-review",
+"doctor",
+"react",
+"skill"
+],
+"lang": "TypeScript"
+},
+"google-gemini/gemini-fullstack-langgraph-quickstart": {
+"name": "google-gemini/gemini-fullstack-langgraph-quickstart",
+"stars": 18361,
+"pushed": "2026-06-14T05:25:52Z",
+"archived": false,
+"fork": false,
+"desc": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+"topics": [
+"gemini",
+"gemini-api"
+],
+"lang": "Jupyter Notebook"
+},
+"rivet-dev/rivet": {
+"name": "rivet-dev/rivet",
+"stars": 6556,
+"pushed": "2026-11-01T11:09:51Z",
+"archived": false,
+"fork": false,
+"desc": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
+"topics": [
+"multiplayer",
+"rust",
+"actor",
+"actors",
+"cloudflare-durable-objects",
+"durable-objects",
+"foundationdb",
+"realtime",
+"serverless",
+"cloudflare"
+],
+"lang": "Rust"
+},
+"NeuralNomadsAI/CodeNomad": {
+"name": "NeuralNomadsAI/CodeNomad",
+"stars": 2657,
+"pushed": "2026-11-02T09:21:57Z",
+"archived": false,
+"fork": false,
+"desc": "CodeNomad: The command center that puts AI coding on steroids.",
+"topics": [
+"agentic-coding",
+"ai",
+"ai-coding",
+"coding-agent",
+"desktop-app",
+"developer-tools",
+"electron",
+"llm",
+"opencode",
+"solidjs"
+],
+"lang": "TypeScript"
+},
+"PurpleDoubleD/locally-uncensored": {
+"name": "PurpleDoubleD/locally-uncensored",
+"stars": 3178,
+"pushed": "2026-11-01T21:30:32Z",
+"archived": false,
+"fork": false,
+"desc": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
+"topics": [
+"ai-chat",
+"image-generation",
+"llm",
+"local-ai",
+"local-llm",
+"privacy",
+"self-hosted",
+"uncensored",
+"video-generation",
+"desktop-app"
+],
+"lang": "TypeScript"
+},
+"jeecgboot/JeecgBoot": {
+"name": "jeecgboot/JeecgBoot",
+"stars": 48362,
+"pushed": "2026-11-02T01:31:30Z",
+"archived": false,
+"fork": false,
+"desc": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+"topics": [
+"antd",
+"activiti",
+"codegenerator",
+"springcloud",
+"springboot",
+"low-code",
+"vue3",
+"flowable",
+"langchain4j",
+"spring-ai"
+],
+"lang": "Java"
+},
+"nocobase/nocobase": {
+"name": "nocobase/nocobase",
+"stars": 24814,
+"pushed": "2026-11-02T09:20:34Z",
+"archived": false,
+"fork": false,
+"desc": "NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.",
+"topics": [
+"no-code",
+"low-code",
+"internal-tools",
+"admin-dashboard",
+"crud",
+"workflows",
+"self-hosted",
+"crm",
+"erp",
+"ai-agent"
+],
+"lang": "TypeScript"
+},
+"harvard-edge/cs249r_book": {
+"name": "harvard-edge/cs249r_book",
+"stars": 29779,
+"pushed": "2026-11-02T06:41:48Z",
+"archived": false,
+"fork": false,
+"desc": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+"topics": [
+"artificial-intelligence",
+"cloud-ml",
+"computer-systems",
+"courseware",
+"deep-learning",
+"edge-machine-learning",
+"embedded-ml",
+"machine-learning",
+"machine-learning-systems",
+"mobile-ml"
+],
+"lang": "Python"
+},
+"AccumulateMore/CV": {
+"name": "AccumulateMore/CV",
+"stars": 24187,
+"pushed": "2026-09-20T00:41:31Z",
+"archived": false,
+"fork": false,
+"desc": "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】",
+"topics": [
+"book",
+"chinese",
+"computer-vision",
+"deep-learning",
+"machine-learning",
+"natural-language-processing",
+"notebook",
+"python",
+"jupyter-notebook",
+"agent"
+],
+"lang": "Jupyter Notebook"
+},
+"fengdu78/deeplearning_ai_books": {
+"name": "fengdu78/deeplearning_ai_books",
+"stars": 21212,
+"pushed": "2026-10-05T08:57:58Z",
+"archived": false,
+"fork": false,
+"desc": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
+"topics": [
+"deeplearning-ai"
+],
+"lang": "HTML"
+},
+"datawhalechina/leedl-tutorial": {
+"name": "datawhalechina/leedl-tutorial",
+"stars": 16849,
+"pushed": "2026-10-23T14:03:33Z",
+"archived": false,
+"fork": false,
+"desc": "《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+"topics": [
+"machine-learning",
+"deep-learning",
+"leedl-tutorial",
+"cnn",
+"reinforcement-learning",
+"transformer",
+"rnn",
+"gan",
+"pruning",
+"self-attention"
+],
+"lang": "Jupyter Notebook"
+},
+"datawhalechina/hello-agents": {
+"name": "datawhalechina/hello-agents",
+"stars": 85728,
+"pushed": "2026-10-13T22:28:54Z",
+"archived": false,
+"fork": false,
+"desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+"topics": [
+"agent",
+"tutorial",
+"llm",
+"rag"
+],
+"lang": "Python"
+},
+"liguodongiot/llm-action": {
+"name": "liguodongiot/llm-action",
+"stars": 25241,
+"pushed": "2026-10-14T14:28:31Z",
+"archived": false,
+"fork": false,
+"desc": "本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）",
+"topics": [
+"llm",
+"llm-inference",
+"llm-serving",
+"llm-training",
+"llmops"
+],
+"lang": "HTML"
+},
+"liyupi/ai-guide": {
+"name": "liyupi/ai-guide",
+"stars": 21796,
+"pushed": "2026-10-22T03:01:34Z",
+"archived": false,
+"fork": false,
+"desc": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
+"topics": [
+"ai",
+"artificial-intelligence",
+"chatgpt",
+"deep-learning",
+"deepseek",
+"generative-ai",
+"gpt",
+"llm",
+"openai",
+"vuepress"
+],
+"lang": "JavaScript"
+},
+"datawhalechina/easy-vibe": {
+"name": "datawhalechina/easy-vibe",
+"stars": 20286,
+"pushed": "2026-10-22T10:52:29Z",
+"archived": false,
+"fork": false,
+"desc": "💻  Vibe Coding 101｜Your First Course For AI Product Builders.",
+"topics": [
+"ai",
+"course",
+"vibe-coding",
+"coding",
+"genai",
+"low-code",
+"no-code",
+"programming",
+"tutorial",
+"vibecoding"
+],
+"lang": "JavaScript"
+},
+"datawhalechina/llm-universe": {
+"name": "datawhalechina/llm-universe",
+"stars": 14250,
+"pushed": "2026-08-27T03:08:26Z",
+"archived": false,
+"fork": false,
+"desc": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+"topics": [
+"langchain",
+"rag"
+],
+"lang": "Jupyter Notebook"
+},
+"datawhalechina/happy-llm": {
+"name": "datawhalechina/happy-llm",
+"stars": 34707,
+"pushed": "2026-08-08T17:18:48Z",
+"archived": false,
+"fork": false,
+"desc": "📚 从零开始构建大模型",
+"topics": [
+"agent",
+"llm",
+"rag"
+],
+"lang": "Jupyter Notebook"
+},
+"FareedKhan-dev/train-llm-from-scratch": {
+"name": "FareedKhan-dev/train-llm-from-scratch",
+"stars": 13090,
+"pushed": "2026-10-02T14:45:19Z",
+"archived": false,
+"fork": false,
+"desc": "A straightforward method for training your LLM, from downloading data to generating text.",
+"topics": [
+"gemini",
+"large-language-models",
+"llm",
+"openai",
+"training",
+"transformers"
+],
+"lang": "Python"
+},
+"datawhalechina/easy-rl": {
+"name": "datawhalechina/easy-rl",
+"stars": 14857,
+"pushed": "2026-10-23T13:56:21Z",
+"archived": false,
+"fork": false,
+"desc": "强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+"topics": [
+"deep-reinforcement-learning",
+"reinforcement-learning",
+"dqn",
+"ppo",
+"a3c",
+"q-learning",
+"sarsa",
+"imitation-learning",
+"policy-gradient",
+"ddpg"
+],
+"lang": "Jupyter Notebook"
+},
+"chidiwilliams/buzz": {
+"name": "chidiwilliams/buzz",
+"stars": 22355,
+"pushed": "2026-11-02T08:21:55Z",
+"archived": false,
+"fork": false,
+"desc": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+"topics": [
+"whisper"
+],
+"lang": "Python"
+},
+"WEIFENG2333/VideoCaptioner": {
+"name": "WEIFENG2333/VideoCaptioner",
+"stars": 16439,
+"pushed": "2026-09-12T06:20:49Z",
+"archived": false,
+"fork": false,
+"desc": "🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.",
+"topics": [
+"ai",
+"subtitle",
+"translate",
+"video-subtile"
+],
+"lang": "Python"
+},
+"w-okada/voice-changer": {
+"name": "w-okada/voice-changer",
+"stars": 21282,
+"pushed": "2026-09-26T20:32:07Z",
+"archived": false,
+"fork": false,
+"desc": "リアルタイムボイスチェンジャー Realtime Voice Changer",
+"topics": [],
+"lang": "Python"
+},
+"video-db/call.md": {
+"name": "video-db/call.md",
+"stars": 2043,
+"pushed": "2026-10-29T17:38:20Z",
+"archived": false,
+"fork": false,
+"desc": "Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.",
+"topics": [
+"agentic-ai",
+"agentic-workflow",
+"ai",
+"mcp",
+"meeting",
+"meeting-notes",
+"note-taking",
+"notes-app",
+"skills"
+],
+"lang": "TypeScript"
+},
+"altic-dev/FluidVoice": {
+"name": "altic-dev/FluidVoice",
+"stars": 12660,
+"pushed": "2026-11-02T08:43:55Z",
+"archived": false,
+"fork": false,
+"desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://x.com/fluidvoiceapp for more",
+"topics": [
+"ai",
+"dictation",
+"ios",
+"llama-cpp",
+"macos",
+"swift"
+],
+"lang": "Swift"
+},
+"ultralytics/yolov5": {
+"name": "ultralytics/yolov5",
+"stars": 58249,
+"pushed": "2026-11-01T14:05:36Z",
+"archived": false,
+"fork": false,
+"desc": "Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.",
+"topics": [
+"yolov5",
+"object-detection",
+"pytorch",
+"onnx",
+"coreml",
+"tflite",
+"yolo",
+"deep-learning",
+"ultralytics",
+"computer-vision"
+],
+"lang": "Python"
+},
+"opencv/opencv": {
+"name": "opencv/opencv",
+"stars": 91408,
+"pushed": "2026-11-02T09:18:41Z",
+"archived": false,
+"fork": false,
+"desc": "Open Source Computer Vision Library",
+"topics": [
+"opencv",
+"c-plus-plus",
+"computer-vision",
+"deep-learning",
+"image-processing"
+],
+"lang": "C++"
+},
+"google-research/vision_transformer": {
+"name": "google-research/vision_transformer",
+"stars": 12763,
+"pushed": "2026-10-01T09:57:36Z",
+"archived": false,
+"fork": false,
+"desc": "",
+"topics": [],
+"lang": "Jupyter Notebook"
+},
+"cmusatyalab/openface": {
+"name": "cmusatyalab/openface",
+"stars": 15446,
+"pushed": "2026-10-30T16:34:04Z",
+"archived": false,
+"fork": false,
+"desc": "Face recognition with deep neural networks.",
+"topics": [
+"deep-learning",
+"face-recognition",
+"facenet"
+],
+"lang": "Lua"
+},
+"Robbyant/lingbot-map": {
+"name": "Robbyant/lingbot-map",
+"stars": 18517,
+"pushed": "2026-10-14T15:57:03Z",
+"archived": false,
+"fork": false,
+"desc": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+"topics": [],
+"lang": "Python"
+},
+"alicevision/Meshroom": {
+"name": "alicevision/Meshroom",
+"stars": 13059,
+"pushed": "2026-10-30T16:37:00Z",
+"archived": false,
+"fork": false,
+"desc": "Node-based Visual Programming Toolbox",
+"topics": [
+"photogrammetry",
+"computer-vision",
+"3d-reconstruction",
+"alicevision",
+"structure-from-motion",
+"multi-view-stereo",
+"camera-tracking",
+"hdr-imaging",
+"image-stitching",
+"texturing"
+],
+"lang": "Python"
+},
+"modelscope/DiffSynth-Studio": {
+"name": "modelscope/DiffSynth-Studio",
+"stars": 13335,
+"pushed": "2026-10-30T04:46:57Z",
+"archived": false,
+"fork": false,
+"desc": "Enjoy the magic of Diffusion models!",
+"topics": [],
+"lang": "Python"
+},
+"ATH-MaaS/Pixelle-Video": {
+"name": "ATH-MaaS/Pixelle-Video",
+"stars": 29685,
+"pushed": "2026-06-14T12:40:58Z",
+"archived": false,
+"fork": false,
+"desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+"topics": [
+"aigc",
+"comfyui",
+"image-generation",
+"tts",
+"video-generation"
+],
+"lang": "Python"
+},
+"HBAI-Ltd/Toonflow-app": {
+"name": "HBAI-Ltd/Toonflow-app",
+"stars": 20212,
+"pushed": "2026-10-31T12:31:12Z",
+"archived": false,
+"fork": false,
+"desc": "短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and video generation. Self-hosted and extensible, with a canvas-based approach similar to LibTV and TapNow.",
+"topics": [
+"ai-content-creation",
+"generative-ai",
+"image-generation",
+"text-to-video",
+"video-generation",
+"ai-agents",
+"ai-filmmaking",
+"image-to-video",
+"infinite-canvas",
+"libtv"
+],
+"lang": "Vue"
+},
+"waooAI/waoowaoo": {
+"name": "waooAI/waoowaoo",
+"stars": 14750,
+"pushed": "2026-09-21T10:39:25Z",
+"archived": false,
+"fork": false,
+"desc": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+"topics": [
+"ai-agent",
+"ai-agents",
+"film-production",
+"generative-ai",
+"short-drama",
+"storyboard",
+"video-generation",
+"automation"
+],
+"lang": "TypeScript"
+},
+"HKUDS/ViMax": {
+"name": "HKUDS/ViMax",
+"stars": 12829,
+"pushed": "2026-09-30T14:35:08Z",
+"archived": false,
+"fork": false,
+"desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+"topics": [
+"agentic-aigc",
+"video-generation"
+],
+"lang": "Python"
+},
+"linyqh/NarratoAI": {
+"name": "linyqh/NarratoAI",
+"stars": 11683,
+"pushed": "2026-10-24T17:22:04Z",
+"archived": false,
+"fork": false,
+"desc": "利用 AI 大模型，一键解说并剪辑视频",
+"topics": [
+"aiagent",
+"aiops",
+"llm",
+"gemini-api",
+"moviepy",
+"python"
+],
+"lang": "Python"
+},
+"AaronFeng753/Waifu2x-Extension-GUI": {
+"name": "AaronFeng753/Waifu2x-Extension-GUI",
+"stars": 17176,
+"pushed": "2026-10-17T06:14:38Z",
+"archived": false,
+"fork": false,
+"desc": "Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.",
+"topics": [
+"waifu2x",
+"anime4k",
+"super-resolution",
+"video-enlarger",
+"image-enlarger",
+"ncnn",
+"vulkan",
+"noise-reduction",
+"upscaling",
+"waifu2x-ncnn-vulkan"
+],
+"lang": "C++"
+},
+"ace-step/ACE-Step-1.5": {
+"name": "ace-step/ACE-Step-1.5",
+"stars": 14288,
+"pushed": "2026-10-11T14:11:22Z",
+"archived": false,
+"fork": false,
+"desc": "The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.",
+"topics": [
+"text2music"
+],
+"lang": "Python"
+},
+"palmier-io/palmier-pro": {
+"name": "palmier-io/palmier-pro",
+"stars": 14673,
+"pushed": "2026-10-30T04:53:54Z",
+"archived": false,
+"fork": false,
+"desc": "macOS video editor built for AI",
+"topics": [
+"ai-video",
+"macos",
+"mcp",
+"swift",
+"video-editor",
+"claude",
+"seedance2"
+],
+"lang": "Swift"
+},
+"microsoft/TRELLIS.2": {
+"name": "microsoft/TRELLIS.2",
+"stars": 12603,
+"pushed": "2026-07-10T12:34:32Z",
+"archived": false,
+"fork": false,
+"desc": "Native and Compact Structured Latents for 3D Generation",
+"topics": [],
+"lang": "Python"
+},
+"browser-use/jev-ultrafast": {
+"name": "browser-use/jev-ultrafast",
+"stars": 24064,
+"pushed": "2026-10-31T17:35:45Z",
+"archived": false,
+"fork": false,
+"desc": "Fastest and cheapest web agent",
+"topics": [],
+"lang": "Python"
+},
+"google/artemis": {
+"name": "google/artemis",
+"stars": 16170,
+"pushed": "2026-10-01T21:37:15Z",
+"archived": false,
+"fork": false,
+"desc": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
+"topics": [
+"ai-agents",
+"android",
+"google",
+"test-automation",
+"testing"
+],
+"lang": "Python"
+},
+"wangzan101/Mika": {
+"name": "wangzan101/Mika",
+"stars": 4641,
+"pushed": "2026-11-01T19:10:15Z",
+"archived": false,
+"fork": false,
+"desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+"topics": [
+"accessibility",
+"ai-agent",
+"android",
+"automation",
+"jetpack-compose",
+"kotlin",
+"llm",
+"mobile-agent"
+],
+"lang": "Kotlin"
+},
+"trustgraph-ai/trustgraph": {
+"name": "trustgraph-ai/trustgraph",
+"stars": 2867,
+"pushed": "2026-10-28T18:56:07Z",
+"archived": false,
+"fork": false,
+"desc": "The Governance Platform for Agents, Knowledge, and Context",
+"topics": [
+"open-source",
+"ontology",
+"agent",
+"graph",
+"rdf",
+"knowledge-graph",
+"owl",
+"context-graph",
+"determinism",
+"agent-runtime"
+],
+"lang": "Python"
+},
+"qybaihe/bla": {
+"name": "qybaihe/bla",
+"stars": 1900,
+"pushed": "2026-11-01T18:17:38Z",
+"archived": false,
+"fork": false,
+"desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+"topics": [
+"adversarial-ai",
+"claude-code",
+"cursor",
+"electron-security",
+"llm-security",
+"mcp",
+"mcp-server",
+"obfuscation",
+"reverse-engineering",
+"webassembly"
+],
+"lang": "JavaScript"
+},
+"zaidmukaddam/scira": {
+"name": "zaidmukaddam/scira",
+"stars": 11910,
+"pushed": "2026-08-12T22:28:59Z",
+"archived": false,
+"fork": false,
+"desc": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!",
+"topics": [
+"ai-search-engine",
+"scira",
+"search-engine",
+"minimalistic-ai-search-engine",
+"scira-ai"
+],
+"lang": "TypeScript"
+},
+"langbot-app/LangBot": {
+"name": "langbot-app/LangBot",
+"stars": 18673,
+"pushed": "2026-11-02T09:06:30Z",
+"archived": false,
+"fork": false,
+"desc": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Kimi, openclaw / hermes agent, deerflow",
+"topics": [
+"qq",
+"openai",
+"agent",
+"llm",
+"wechat",
+"telegram",
+"dify",
+"discord",
+"deepseek",
+"dingtalk"
+],
+"lang": "Python"
+},
+"leepokai/Codync": {
+"name": "leepokai/Codync",
+"stars": 1659,
+"pushed": "2026-11-02T05:39:19Z",
+"archived": false,
+"fork": false,
+"desc": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
+"topics": [
+"acp",
+"agent-client-protocol",
+"claude-code",
+"codex",
+"coding-agents",
+"ios",
+"linux",
+"macos",
+"open-source",
+"rust"
+],
+"lang": "Rust"
+},
+"EKKOLearnAI/ekko-studio": {
+"name": "EKKOLearnAI/ekko-studio",
+"stars": 11644,
+"pushed": "2026-11-02T07:27:21Z",
+"archived": false,
+"fork": false,
+"desc": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
+"topics": [
+"ai-agent",
+"chat-ui",
+"dashboard",
+"hermes-agent",
+"llm",
+"multi-platform",
+"typescript",
+"vue3",
+"hermes",
+"agent"
+],
+"lang": "TypeScript"
+},
+"open-metadata/OpenMetadata": {
+"name": "open-metadata/OpenMetadata",
+"stars": 15656,
+"pushed": "2026-11-02T09:21:25Z",
+"archived": false,
+"fork": false,
+"desc": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+"topics": [
+"metadata",
+"datadiscovery",
+"dataquality",
+"data-profiling",
+"metadata-management",
+"data-catalog",
+"data-observability",
+"data-discovery",
+"data-contracts",
+"data-governance"
+],
+"lang": "TypeScript"
+},
+"nltk/nltk": {
+"name": "nltk/nltk",
+"stars": 14763,
+"pushed": "2026-11-02T01:46:54Z",
+"archived": false,
+"fork": false,
+"desc": "NLTK Source",
+"topics": [
+"nltk",
+"python",
+"nlp",
+"natural-language-processing",
+"machine-learning"
+],
+"lang": "Python"
+},
+"ZhuLinsen/daily_stock_analysis": {
+"name": "ZhuLinsen/daily_stock_analysis",
+"stars": 67429,
+"pushed": "2026-11-01T20:55:16Z",
+"archived": false,
+"fork": false,
+"desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+"topics": [
+"aigc",
+"llm",
+"quant",
+"quantitative-trading",
+"a-stock",
+"ai-agent",
+"quantitative-finance"
+],
+"lang": "Python"
+},
+"hsliuping/TradingAgents-CN": {
+"name": "hsliuping/TradingAgents-CN",
+"stars": 32761,
+"pushed": "2026-09-22T12:11:05Z",
+"archived": false,
+"fork": false,
+"desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+"topics": [],
+"lang": "Python"
+},
+"microsoft/RD-Agent": {
+"name": "microsoft/RD-Agent",
+"stars": 15186,
+"pushed": "2026-10-21T16:01:22Z",
+"archived": false,
+"fork": false,
+"desc": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+"topics": [
+"agent",
+"ai",
+"automation",
+"data-mining",
+"data-science",
+"development",
+"llm",
+"research"
+],
+"lang": "Python"
+},
+"666ghj/BettaFish": {
+"name": "666ghj/BettaFish",
+"stars": 42572,
+"pushed": "2026-10-16T03:33:52Z",
+"archived": false,
+"fork": false,
+"desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+"topics": [
+"agent-framework",
+"data-analysis",
+"multi-agent-system",
+"nlp",
+"public-opinion-analysis",
+"python3",
+"sentiment-analysis",
+"llms",
+"deep-research",
+"deep-search"
+],
+"lang": "Python"
+},
+"Canner/WrenAI": {
+"name": "Canner/WrenAI",
+"stars": 18039,
+"pushed": "2026-11-02T03:55:14Z",
+"archived": false,
+"fork": false,
+"desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+"topics": [
+"bigquery",
+"duckdb",
+"llm",
+"postgresql",
+"rag",
+"text-to-sql",
+"sql",
+"text2sql",
+"charts",
+"context-engineering"
+],
+"lang": "Python"
+},
+"microsoft/data-formulator": {
+"name": "microsoft/data-formulator",
+"stars": 17649,
+"pushed": "2026-10-30T23:02:23Z",
+"archived": false,
+"fork": false,
+"desc": "🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
+"topics": [],
+"lang": "Python"
+},
+"GreyDGL/PentestGPT": {
+"name": "GreyDGL/PentestGPT",
+"stars": 16237,
+"pushed": "2026-07-14T12:58:31Z",
+"archived": false,
+"fork": false,
+"desc": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
+"topics": [
+"penetration-testing",
+"python",
+"large-language-models",
+"llm"
+],
+"lang": "Python"
+},
+"bugbasesecurity/pentest-copilot": {
+"name": "bugbasesecurity/pentest-copilot",
+"stars": 1545,
+"pushed": "2026-08-14T21:59:26Z",
+"archived": false,
+"fork": false,
+"desc": "Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.",
+"topics": [
+"ai",
+"cybersecurity",
+"cybersecurity-tools",
+"llms",
+"pentesting"
+],
+"lang": "TypeScript"
+},
+"ipa-lab/hackingBuddyGPT": {
+"name": "ipa-lab/hackingBuddyGPT",
+"stars": 1295,
+"pushed": "2026-10-24T22:54:04Z",
+"archived": false,
+"fork": false,
+"desc": "Helping Ethical Hackers use LLMs in 50 Lines of Code or less..",
+"topics": [
+"large-language-models",
+"llm",
+"penetration-testing",
+"pentesting"
+],
+"lang": "Python"
+},
+"berylliumsec/nebula": {
+"name": "berylliumsec/nebula",
+"stars": 1134,
+"pushed": "2026-11-02T07:06:46Z",
+"archived": false,
+"fork": false,
+"desc": "Cybersecurity Harness",
+"topics": [
+"ethical-hacking-tool",
+"penetration-testing-tool",
+"ai-powered-ethical-hacking-tool",
+"ai-powered-penetration-testing-tool",
+"ai",
+"cybersecurity",
+"cybersecurity-tools",
+"ethical-hacking",
+"security-automation",
+"vulnerability-assesment-tools"
+],
+"lang": "Python"
+},
+"huggingface/lerobot": {
+"name": "huggingface/lerobot",
+"stars": 28643,
+"pushed": "2026-11-02T08:54:10Z",
+"archived": false,
+"fork": false,
+"desc": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+"topics": [],
+"lang": "Python"
+},
+"Narcooo/inkos": {
+"name": "Narcooo/inkos",
+"stars": 10965,
+"pushed": "2026-10-24T05:30:14Z",
+"archived": false,
+"fork": false,
+"desc": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
+"topics": [
+"ai-writing",
+"chinese-novel",
+"creative-writing-ai",
+"novel-generation",
+"ai-agent",
+"ai",
+"novel-ai",
+"generative-ai",
+"short-drama",
+"ai-game"
+],
+"lang": "TypeScript"
+},
+"darkzOGx/youtube-automation-agent": {
+"name": "darkzOGx/youtube-automation-agent",
+"stars": 4939,
+"pushed": "2026-10-27T00:50:41Z",
+"archived": false,
+"fork": false,
+"desc": "🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.",
+"topics": [
+"ai-agents",
+"automation",
+"content-automation",
+"content-creation",
+"content-strategy",
+"google-gemini",
+"javascript",
+"nodejs",
+"openai",
+"seo-optimization"
+],
+"lang": "JavaScript"
+},
+"ai-job-search-dev/ai-job-search": {
+"name": "ai-job-search-dev/ai-job-search",
+"stars": 68859,
+"pushed": "2026-11-02T06:04:24Z",
+"archived": false,
+"fork": false,
+"desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+"topics": [
+"ai",
+"ai-agents",
+"career",
+"claude-code",
+"cover-letter",
+"cv",
+"interview-preparation",
+"job-application",
+"job-hunting",
+"job-search"
+],
+"lang": "Python"
+},
+"UFund-Me/Qbot": {
+"name": "UFund-Me/Qbot",
+"stars": 18767,
+"pushed": "2026-03-11T12:16:42Z",
+"archived": false,
+"fork": false,
+"desc": "[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant",
+"topics": [
+"funds",
+"machine-learning",
+"pytrade",
+"quantitative-finance",
+"quantitative-trading",
+"quantization",
+"strategies",
+"trademarks",
+"quant-trade",
+"quant-trader"
+],
+"lang": "Jupyter Notebook"
+},
+"zeroclaw-labs/zeroclaw": {
+"name": "zeroclaw-labs/zeroclaw",
+"stars": 33098,
+"pushed": "2026-11-02T06:36:14Z",
+"archived": false,
+"fork": false,
+"desc": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+"topics": [
+"agent",
+"agentic",
+"ai",
+"openclaw",
+"infra",
+"ml",
+"os",
+"zeroclaw"
+],
+"lang": "Rust"
+},
+"xming521/WeClone": {
+"name": "xming521/WeClone",
+"stars": 18340,
+"pushed": "2026-11-01T13:25:05Z",
+"archived": false,
+"fork": false,
+"desc": "Build a portrait of your life. Assistants that know you. Clones that talk like you.",
+"topics": [
+"llm",
+"chat-history",
+"telegram",
+"agent",
+"ai-clone",
+"digital-twin",
+"mcp",
+"memory",
+"personal-ai"
+],
+"lang": "Python"
+},
+"rowboatlabs/rowboat": {
+"name": "rowboatlabs/rowboat",
+"stars": 18125,
+"pushed": "2026-11-01T16:59:59Z",
+"archived": false,
+"fork": false,
+"desc": "AI coworker with memory and collaboration",
+"topics": [
+"agents",
+"agents-sdk",
+"ai",
+"ai-agents",
+"ai-agents-automation",
+"chatgpt",
+"generative-ai",
+"llm",
+"multiagent",
+"opeani"
+],
+"lang": "TypeScript"
+},
+"lsdefine/GenericAgent": {
+"name": "lsdefine/GenericAgent",
+"stars": 14382,
+"pushed": "2026-11-02T02:11:22Z",
+"archived": false,
+"fork": false,
+"desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+"topics": [
+"ai-agent",
+"automation",
+"autonomous-agent",
+"browser-automation",
+"claude",
+"computer-control",
+"desktop-automation",
+"gemini",
+"lightweight",
+"llm-agent"
+],
+"lang": "Python"
+},
+"calesthio/Crucix": {
+"name": "calesthio/Crucix",
+"stars": 12189,
+"pushed": "2026-05-20T00:50:21Z",
+"archived": false,
+"fork": false,
+"desc": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+"topics": [
+"ai",
+"intelligence",
+"osint"
+],
+"lang": "JavaScript"
+},
+"nashsu/llm_wiki": {
+"name": "nashsu/llm_wiki",
+"stars": 21292,
+"pushed": "2026-10-21T11:17:29Z",
+"archived": false,
+"fork": false,
+"desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+"topics": [],
+"lang": "TypeScript"
+},
+"codexu/note-gen": {
+"name": "codexu/note-gen",
+"stars": 12968,
+"pushed": "2026-11-01T09:06:45Z",
+"archived": false,
+"fork": false,
+"desc": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
+"topics": [
+"markdown",
+"tauri",
+"nextjs",
+"llm",
+"note-taking",
+"webdav",
+"knowledge-base",
+"rag",
+"mcp",
+"agent"
+],
+"lang": "TypeScript"
+},
+"CopilotKit/OpenDuet": {
+"name": "CopilotKit/OpenDuet",
+"stars": 1818,
+"pushed": "2026-10-31T21:26:41Z",
+"archived": false,
+"fork": false,
+"desc": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+"topics": [],
+"lang": "TypeScript"
+},
+"milind-soni/OpenMausBot": {
+"name": "milind-soni/OpenMausBot",
+"stars": 10911,
+"pushed": "2026-11-02T09:21:28Z",
+"archived": false,
+"fork": false,
+"desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+"topics": [
+"ai-agents",
+"claude-code",
+"codex",
+"computer-use",
+"docker",
+"electron",
+"expo",
+"self-hosted",
+"typescript",
+"grok-bot"
+],
+"lang": "TypeScript"
+},
+"openkursar/hello-halo": {
+"name": "openkursar/hello-halo",
+"stars": 1832,
+"pushed": "2026-11-01T15:58:48Z",
+"archived": false,
+"fork": false,
+"desc": "7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser.",
+"topics": [
+"agent",
+"claudecode",
+"cowork"
+],
+"lang": "TypeScript"
+},
+"farzaa/clicky": {
+"name": "farzaa/clicky",
+"stars": 7902,
+"pushed": "2026-10-28T21:41:50Z",
+"archived": false,
+"fork": false,
+"desc": "The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com",
+"topics": [],
+"lang": "Swift"
+},
+"Zackriya-Solutions/meetily": {
+"name": "Zackriya-Solutions/meetily",
+"stars": 32378,
+"pushed": "2026-11-01T17:16:02Z",
+"archived": false,
+"fork": false,
+"desc": "Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% local processing. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker & Assistant for macOS & Windows",
+"topics": [
+"meeting-minutes",
+"meeting-notes",
+"llm",
+"mac",
+"windows",
+"rust",
+"whisper",
+"whisper-cpp",
+"ai",
+"transcription"
+],
+"lang": "Rust"
+},
+"elie222/inbox-zero": {
+"name": "elie222/inbox-zero",
+"stars": 12889,
+"pushed": "2026-11-02T09:19:53Z",
+"archived": false,
+"fork": false,
+"desc": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+"topics": [
+"ai",
+"email",
+"nextjs",
+"openai",
+"prisma",
+"productivity",
+"tailwind",
+"typescript",
+"turborepo",
+"shadcn-ui"
+],
+"lang": "TypeScript"
+},
+"presenton/presenton": {
+"name": "presenton/presenton",
+"stars": 11626,
+"pushed": "2026-11-01T04:25:15Z",
+"archived": false,
+"fork": false,
+"desc": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
+"topics": [
+"ai-agent",
+"api",
+"powerpoint-generation",
+"presentation",
+"ai-presentation",
+"gamma",
+"powerpoint-ai",
+"presentation-agent",
+"powerpoint-agent"
+],
+"lang": "TypeScript"
+},
+"Gen-Verse/RSI-Anything": {
+"name": "Gen-Verse/RSI-Anything",
+"stars": 1101,
+"pushed": "2026-10-13T10:00:45Z",
+"archived": false,
+"fork": false,
+"desc": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+"topics": [
+"jepa",
+"llm-agents",
+"recursive-self-improvement",
+"world-models"
+],
+"lang": "HTML"
+},
+"realiti4/claude-swap": {
+"name": "realiti4/claude-swap",
+"stars": 4348,
+"pushed": "2026-10-28T09:15:43Z",
+"archived": false,
+"fork": false,
+"desc": "Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions",
+"topics": [
+"claude",
+"claude-code",
+"account-manager",
+"account-switcher",
+"anthropic",
+"cli",
+"multi-account",
+"tui"
+],
+"lang": "Python"
+},
+"PeonPing/peon-ping": {
+"name": "PeonPing/peon-ping",
+"stars": 5101,
+"pushed": "2026-10-19T17:32:39Z",
+"archived": false,
+"fork": false,
+"desc": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.",
+"topics": [
+"ai",
+"ai-engineering",
+"antigravity",
+"claude-code",
+"codex",
+"cursor",
+"opencode",
+"terminal"
+],
+"lang": "Shell"
+},
+"mvanhorn/cli-printing-press": {
+"name": "mvanhorn/cli-printing-press",
+"stars": 4902,
+"pushed": "2026-11-02T04:44:44Z",
+"archived": false,
+"fork": false,
+"desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+"topics": [
+"ai-agents",
+"cli",
+"cli-generator",
+"developer-tools",
+"golang",
+"openapi"
+],
+"lang": "Go"
+},
+"1lck/Lithe-IDEA": {
+"name": "1lck/Lithe-IDEA",
+"stars": 2444,
+"pushed": "2026-11-02T08:34:39Z",
+"archived": false,
+"fork": false,
+"desc": "A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.",
+"topics": [],
+"lang": "Swift"
+},
+"kalil0321/reverse-api-engineer": {
+"name": "kalil0321/reverse-api-engineer",
+"stars": 2422,
+"pushed": "2026-10-29T03:36:59Z",
+"archived": false,
+"fork": false,
+"desc": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.",
+"topics": [
+"playwright",
+"claude",
+"web-scraping",
+"ai",
+"ai-agents",
+"cli",
+"mcp",
+"openapi",
+"scraping",
+"api-client"
+],
+"lang": "Python"
+},
+"haydenschmitty/floorplan": {
+"name": "haydenschmitty/floorplan",
+"stars": 1967,
+"pushed": "2026-11-02T00:35:08Z",
+"archived": false,
+"fork": false,
+"desc": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+"topics": [
+"ai-coding",
+"architecture-diagram",
+"claude",
+"claude-code",
+"claude-code-plugin",
+"codebase-visualization",
+"developer-tools",
+"onboarding",
+"vibe-coding",
+"codex"
+],
+"lang": "JavaScript"
+},
+"labring/sealos": {
+"name": "labring/sealos",
+"stars": 18390,
+"pushed": "2026-11-02T02:48:59Z",
+"archived": false,
+"fork": false,
+"desc": "Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.",
+"topics": [
+"kubernetes",
+"kubernetes-ha",
+"ipvs",
+"kubeadm",
+"golang",
+"docker",
+"cloudos",
+"container",
+"install"
+],
+"lang": "Go"
+},
+"BradyFU/Awesome-Multimodal-Large-Language-Models": {
+"name": "BradyFU/Awesome-Multimodal-Large-Language-Models",
+"stars": 18072,
+"pushed": "2026-10-29T06:10:45Z",
+"archived": false,
+"fork": false,
+"desc": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
+"topics": [
+"instruction-tuning",
+"instruction-following",
+"large-vision-language-model",
+"visual-instruction-tuning",
+"multi-modality",
+"in-context-learning",
+"large-language-models",
+"large-vision-language-models",
+"multimodal-chain-of-thought",
+"multimodal-in-context-learning"
+],
+"lang": ""
+},
+"bharathgs/Awesome-pytorch-list": {
+"name": "bharathgs/Awesome-pytorch-list",
+"stars": 16733,
+"pushed": "2026-09-22T06:52:29Z",
+"archived": false,
+"fork": false,
+"desc": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",
+"topics": [
+"pytorch",
+"python",
+"machine-learning",
+"deep-learning",
+"tutorials",
+"papers",
+"awesome",
+"awesome-list",
+"pytorch-tutorials",
+"data-science"
+],
+"lang": ""
+},
+"EmbraceAGI/awesome-chatgpt-zh": {
+"name": "EmbraceAGI/awesome-chatgpt-zh",
+"stars": 11797,
+"pushed": "2026-11-02T01:22:19Z",
+"archived": false,
+"fork": false,
+"desc": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
+"topics": [
+"chatgpt",
+"gpt-4",
+"chat-gpt",
+"chatgpt3",
+"chatgpt35-turbo",
+"awesome-list",
+"awesome",
+"agi",
+"ai",
+"chatglm"
+],
+"lang": "Python"
+}
+}

@@ -1,0 +1,674 @@
+section,repo,link,status,stars,last_push_date,archived,reason,agent_verdict,judge_verdict
+Coding Agents & Harnesses,Gitlawb/openclaude,https://github.com/Gitlawb/openclaude,DEAD,33927,2026-10-15,False,Linked name does not match the repository full_name.,,
+Coding Agents & Harnesses,Hmbown/Codewhale,https://github.com/Hmbown/Codewhale,DEAD,41094,2026-10-16,False,Linked name does not match the repository full_name.,,
+Coding Agents & Harnesses,plandex-ai/plandex,https://github.com/plandex-ai/plandex,STALE,15738,2025-10-03,False,No push since 2025-10-03.,,
+Coding Agents & Harnesses,fuxicodex/Fuxi,https://github.com/fuxicodex/Fuxi,FORMAT_ISSUE,3342,2026-09-29,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,codewhale-hq/Codewhale,https://github.com/codewhale-hq/Codewhale,FORMAT_ISSUE,41094,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,Exafunction/windsurf.nvim,https://github.com/Exafunction/windsurf.nvim,STALE,1295,2026-04-02,True,Repository is archived.,,
+Coding Agents & Harnesses,NanmiCoder/cc-haha,https://github.com/NanmiCoder/cc-haha,FORMAT_ISSUE,15024,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,zhukunpenglinyutong/desktop-cc-gui,https://github.com/zhukunpenglinyutong/desktop-cc-gui,FORMAT_ISSUE,4482,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,stitionai/devika,https://github.com/stitionai/devika,STALE,19551,2025-09-25,False,No push since 2025-09-25.,,
+Coding Agents & Harnesses,wrtnlabs/autobe,https://github.com/wrtnlabs/autobe,DEAD,,,,"404 - repo deleted, renamed, or private.",,
+Coding Agents & Harnesses,NousResearch/hermes-agent,https://github.com/NousResearch/hermes-agent,MOVE,254214,2026-10-16,False,Move to Agent Frameworks & Orchestration: Described as a 'general-purpose agent' not specifically coding. Better fits 'Agent Frameworks & Orchestration'.,move,move
+Coding Agents & Harnesses,InsForge/InsForge,https://github.com/InsForge/InsForge,FORMAT_ISSUE,13128,2026-10-13,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,maxritter/pilot-shell,https://github.com/maxritter/pilot-shell,FORMAT_ISSUE,2092,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,badlogic/pi-mono,https://github.com/badlogic/pi-mono,DEAD,115557,2026-10-15,False,Linked name does not match the repository full_name.,,
+Coding Agents & Harnesses,All-Hands-AI/OpenHands,https://github.com/All-Hands-AI/OpenHands,DEAD,91020,2026-10-16,False,Linked name does not match the repository full_name.,,
+Coding Agents & Harnesses,chaitanyagiri/munder-difflin,https://github.com/chaitanyagiri/munder-difflin,DEAD,8785,2026-10-15,False,Linked name does not match the repository full_name.,,
+Coding Agents & Harnesses,Untrivial-ai/agent-orchestrator,https://github.com/Untrivial-ai/agent-orchestrator,DEAD,13222,2026-10-16,False,Linked name does not match the repository full_name.,,
+Coding Agents & Harnesses,SeemSeam/claude_codex_bridge,https://github.com/SeemSeam/claude_codex_bridge,FORMAT_ISSUE,3573,2026-10-13,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,agent-of-empires/agent-of-empires,https://github.com/agent-of-empires/agent-of-empires,FORMAT_ISSUE,3356,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,HarnessMD/munder-difflin,https://github.com/HarnessMD/munder-difflin,FORMAT_ISSUE,8785,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,kungfu-systems/kungfu,https://github.com/kungfu-systems/kungfu,FORMAT_ISSUE,4529,2026-10-03,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,the-open-engine/zeroshot,https://github.com/the-open-engine/zeroshot,FORMAT_ISSUE,1985,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,chenhg5/cc-connect,https://github.com/chenhg5/cc-connect,FORMAT_ISSUE,15966,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,eneskirca/nodeterm,https://github.com/eneskirca/nodeterm,FORMAT_ISSUE,2034,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,happier-dev/happier,https://github.com/happier-dev/happier,FORMAT_ISSUE,1969,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,AltanS/collie,https://github.com/AltanS/collie,FORMAT_ISSUE,1356,2026-10-14,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,Ataraxy-Labs/opensessions,https://github.com/Ataraxy-Labs/opensessions,FORMAT_ISSUE,1234,2026-06-23,False,Description exceeds the roughly 100-character limit.,keep,
+Coding Agents & Harnesses,stackblitz-labs/bolt.diy,https://github.com/stackblitz-labs/bolt.diy,STALE,19950,2026-10-14,False,Repository is a fork.,,
+"Skills, Plugins & Context Engineering",google-labs-code/design.md,https://github.com/google-labs-code/design.md,FORMAT_ISSUE,28392,2026-10-08,False,Description exceeds the roughly 100-character limit.,keep,
+"Skills, Plugins & Context Engineering",jnMetaCode/superpowers-zh,https://github.com/jnMetaCode/superpowers-zh,FORMAT_ISSUE,8327,2026-10-08,False,Description exceeds the roughly 100-character limit.,keep,
+"Skills, Plugins & Context Engineering",greensock/gsap-skills,https://github.com/greensock/gsap-skills,FORMAT_ISSUE,16469,2026-07-29,False,Description exceeds the roughly 100-character limit.,keep,
+"Skills, Plugins & Context Engineering",google-labs-code/stitch-skills,https://github.com/google-labs-code/stitch-skills,FORMAT_ISSUE,8522,2026-08-17,False,Description exceeds the roughly 100-character limit.,keep,
+"Skills, Plugins & Context Engineering",guia-matthieu/clawfu-skills,https://github.com/guia-matthieu/clawfu-skills,STALE,150,2026-10-01,True,Repository is archived.,,
+"Skills, Plugins & Context Engineering",ccusage/ccusage,https://github.com/ccusage/ccusage,NEEDS_HUMAN,19024,2026-10-16,False,"Agent keeps; judge says move: Tool tracks token usage; better placed in Observability, not Skills.",keep,move
+"Skills, Plugins & Context Engineering",marv1nnnnn/llm-min.txt,https://github.com/marv1nnnnn/llm-min.txt,STALE,671,2025-10-05,False,No push since 2025-10-05.,,
+"Skills, Plugins & Context Engineering",microsoft/acon,https://github.com/microsoft/acon,STALE,126,2025-10-14,False,No push since 2025-10-14.,,
+"Skills, Plugins & Context Engineering",dair-ai/Prompt-Engineering-Guide,https://github.com/dair-ai/Prompt-Engineering-Guide,FORMAT_ISSUE,79210,2026-03-11,False,Description exceeds the roughly 100-character limit.,keep,
+"Skills, Plugins & Context Engineering",OneRedOak/claude-code-workflows,https://github.com/OneRedOak/claude-code-workflows,NEEDS_HUMAN,3905,2026-10-09,False,"Agent keeps; judge says remove: Primarily documentation, not an AI tool",keep,remove
+"Skills, Plugins & Context Engineering",hesreallyhim/awesome-claude-code,https://github.com/hesreallyhim/awesome-claude-code,NEEDS_HUMAN,55791,2026-10-16,False,"Agent keeps; judge says move: It's an awesome list, should belong in Other Awesome Lists.",keep,move
+"Skills, Plugins & Context Engineering",virgiliojr94/book-to-skill,https://github.com/virgiliojr94/book-to-skill,FORMAT_ISSUE,35010,2026-10-12,False,Description exceeds the roughly 100-character limit.,keep,
+"Skills, Plugins & Context Engineering",titanwings/distilly,https://github.com/titanwings/distilly,FORMAT_ISSUE,25673,2026-10-13,False,Description exceeds the roughly 100-character limit.,keep,
+"Skills, Plugins & Context Engineering",ciembor/agent-rules-books,https://github.com/ciembor/agent-rules-books,FORMAT_ISSUE,3040,2026-09-10,False,Description exceeds the roughly 100-character limit.,keep,
+"Skills, Plugins & Context Engineering",Spark-To-Paper-Skills/paperjury,https://github.com/Spark-To-Paper-Skills/paperjury,FORMAT_ISSUE,1223,2026-08-14,False,Description exceeds the roughly 100-character limit.,keep,
+"Skills, Plugins & Context Engineering",ranxianglei/billion-context,https://github.com/ranxianglei/billion-context,MOVE,1430,2026-10-16,False,Move to Memory & Persistent Context: Context-compression plugin,move,move
+Agent Frameworks & Orchestration,run-llama/llama_index,https://github.com/run-llama/llama_index,MOVE,52516,2026-10-14,False,Move to RAG & Retrieval: Data framework for LLMs,move,move
+Agent Frameworks & Orchestration,griptape-ai/griptape,https://github.com/griptape-ai/griptape,FORMAT_ISSUE,2582,2026-10-13,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,cobusgreyling/loop-engineering,https://github.com/cobusgreyling/loop-engineering,MOVE,11560,2026-10-16,False,Move to Coding Agents & Harnesses: AI coding agents,move,move
+Agent Frameworks & Orchestration,superplanehq/superplane,https://github.com/superplanehq/superplane,MOVE,7787,2026-10-16,False,Move to Workflow Automation: One-shot engineering factory,move,move
+Agent Frameworks & Orchestration,Q00/ouroboros,https://github.com/Q00/ouroboros,FORMAT_ISSUE,6231,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,ageerle/ruoyi-ai,https://github.com/ageerle/ruoyi-ai,FORMAT_ISSUE,5756,2026-10-12,False,Description exceeds the roughly 100-character limit.,keep,keep
+Agent Frameworks & Orchestration,ApodexAI/FrontierAgent,https://github.com/ApodexAI/FrontierAgent,FORMAT_ISSUE,5273,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,BoxcarsAI/boxcars,https://github.com/BoxcarsAI/boxcars,OFF_THEME,463,2026-10-13,False,"Not an agent framework, but a Ruby framework for building applications with LLMs.",remove,remove
+Agent Frameworks & Orchestration,GCWing/OpenBitFun,https://github.com/GCWing/OpenBitFun,FORMAT_ISSUE,2666,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,OpenBMB/IoA,https://github.com/OpenBMB/IoA,STALE,834,2025-10-04,False,No push since 2025-10-04.,,
+Agent Frameworks & Orchestration,OrchestratorInc/agent-orchestrator,https://github.com/OrchestratorInc/agent-orchestrator,FORMAT_ISSUE,13222,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,rcortx/kiwiq,https://github.com/rcortx/kiwiq,FORMAT_ISSUE,2181,2026-04-13,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,Mininglamp-OSS/octo-server,https://github.com/Mininglamp-OSS/octo-server,FORMAT_ISSUE,1086,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,crestalnetwork/intentkit,https://github.com/crestalnetwork/intentkit,FORMAT_ISSUE,6520,2026-09-16,False,Description exceeds the roughly 100-character limit.,keep,keep
+Agent Frameworks & Orchestration,nextlevelbuilder/goclaw,https://github.com/nextlevelbuilder/goclaw,FORMAT_ISSUE,3658,2026-10-04,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,MaxMiksa/Auto-Company,https://github.com/MaxMiksa/Auto-Company,DEAD,3131,2026-10-16,False,Linked name does not match the repository full_name.,,
+Agent Frameworks & Orchestration,jnMetaCode/agency-orchestrator,https://github.com/jnMetaCode/agency-orchestrator,FORMAT_ISSUE,2368,2026-10-13,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,777genius/agent-teams-ai,https://github.com/777genius/agent-teams-ai,FORMAT_ISSUE,2265,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,nrslib/takt,https://github.com/nrslib/takt,FORMAT_ISSUE,1406,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,langgenius/dify,https://github.com/langgenius/dify,MOVE,158611,2026-10-16,False,"Move to UI & Application Layer: Visual builder for agentic workflows and RAG pipelines, fits better in UI/App Layer.",move,move
+Agent Frameworks & Orchestration,langflow-ai/langflow,https://github.com/langflow-ai/langflow,MOVE,155727,2026-10-16,False,"Move to UI & Application Layer: Drag-and-drop builder for LangChain flows and agents, fits better in UI/App Layer.",move,move
+Agent Frameworks & Orchestration,coze-dev/coze-studio,https://github.com/coze-dev/coze-studio,FORMAT_ISSUE,21716,2026-07-29,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,melih-unsal/DemoGPT,https://github.com/melih-unsal/DemoGPT,FORMAT_ISSUE,1906,2026-04-01,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,a2aproject/A2A,https://github.com/a2aproject/A2A,FORMAT_ISSUE,26172,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,google/A2A,https://github.com/google/A2A,DEAD,26172,2026-10-15,False,Linked name does not match the repository full_name.,,
+Agent Frameworks & Orchestration,conductor-oss/conductor,https://github.com/conductor-oss/conductor,FORMAT_ISSUE,32320,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Agent Frameworks & Orchestration,jonathanscholtes/azure-ai-foundry-agentic-workshop,https://github.com/jonathanscholtes/azure-ai-foundry-agentic-workshop,STALE,26,2025-09-03,False,No push since 2025-09-03.,,
+Agent Frameworks & Orchestration,scholarly360/From-Zero-to-Microsoft-Foundry-Creating-Agents-Via-AI-Projects-Library,https://github.com/scholarly360/From-Zero-to-Microsoft-Foundry-Creating-Agents-Via-AI-Projects-Library,MOVE,4,2026-01-31,False,Move to Learning Path: Tutorial on creating agents,move,move
+Agent Frameworks & Orchestration,YGYOOO/WorldX,https://github.com/YGYOOO/WorldX,MOVE,1559,2026-10-14,False,"Move to Image, Video & Creative Generation: AI-driven world generation",move,move
+Agent Frameworks & Orchestration,Fei2411/DeepSeek-Bot,https://github.com/Fei2411/DeepSeek-Bot,OFF_THEME,2066,2026-10-16,False,Duplicate entry,remove,remove
+Memory & Persistent Context,supermemoryai/supermemory,https://github.com/supermemoryai/supermemory,FORMAT_ISSUE,31244,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Memory & Persistent Context,getzep/zep,https://github.com/getzep/zep,OFF_THEME,4961,2026-10-14,False,Lack of memory context,remove,remove
+Memory & Persistent Context,Mirix-AI/MIRIX,https://github.com/Mirix-AI/MIRIX,MOVE,3452,2026-10-08,False,"Move to Assistants, Copilots & Personal Agents: Personal assistant with memory",move,move
+Memory & Persistent Context,LycheeMem/LycheeMem,https://github.com/LycheeMem/LycheeMem,DEAD,,,,"404 - repo deleted, renamed, or private.",,
+Memory & Persistent Context,xzf-thu/VoiceMem,https://github.com/xzf-thu/VoiceMem,MOVE,2532,2026-09-14,False,"Move to Voice, Speech & Audio: Voice agent infrastructure",move,move
+Memory & Persistent Context,CaviraOSS/LongMemory,https://github.com/CaviraOSS/LongMemory,FORMAT_ISSUE,4539,2026-09-20,False,Description exceeds the roughly 100-character limit.,keep,
+Memory & Persistent Context,campfirein/byterover-cli,https://github.com/campfirein/byterover-cli,STALE,4953,2026-06-25,True,Repository is archived.,,
+Memory & Persistent Context,rohitg00/pro-workflow,https://github.com/rohitg00/pro-workflow,MOVE,2916,2026-09-29,False,"Move to Skills, Plugins & Context Engineering: context engineering",move,move
+Memory & Persistent Context,Graphify-Labs/graphify,https://github.com/Graphify-Labs/graphify,MOVE,127006,2026-10-14,False,"Move to Skills, Plugins & Context Engineering: queryable graph",move,move
+Memory & Persistent Context,Egonex-AI/Understand-Anything,https://github.com/Egonex-AI/Understand-Anything,MOVE,86529,2026-10-12,False,"Move to Skills, Plugins & Context Engineering: interactive knowledge graph",move,move
+Memory & Persistent Context,TeleAI-UAGI/Awesome-Agent-Memory,https://github.com/TeleAI-UAGI/Awesome-Agent-Memory,OFF_THEME,679,2026-10-15,False,awesome list,remove,remove
+Memory & Persistent Context,tikv/tikv,https://github.com/tikv/tikv,OFF_THEME,16908,2026-10-15,False,Not an AI or LLM tooling,remove,remove
+Memory & Persistent Context,vitessio/vitess,https://github.com/vitessio/vitess,OFF_THEME,21386,2026-10-16,False,Not an AI or LLM tooling,remove,remove
+Memory & Persistent Context,cockroachdb/cockroach,https://github.com/cockroachdb/cockroach,OFF_THEME,32570,2026-10-15,False,Not an AI or LLM tooling,remove,remove
+Memory & Persistent Context,apache/cassandra,https://github.com/apache/cassandra,OFF_THEME,10123,2026-10-15,False,Not an AI or LLM tooling,remove,remove
+RAG & Retrieval,endee-io/endee,https://github.com/endee-io/endee,STALE,1295,2026-10-07,True,Repository is archived.,,
+RAG & Retrieval,searxng/searxng,https://github.com/searxng/searxng,NEEDS_HUMAN,38460,2026-10-15,False,Agent keeps; judge says remove: General metasearch engine unrelated to AI retrieval; should be removed.,keep,remove
+RAG & Retrieval,ItzCrazyKns/Perplexica,https://github.com/ItzCrazyKns/Perplexica,DEAD,37351,2026-09-01,False,Linked name does not match the repository full_name.,,
+RAG & Retrieval,AnswerDotAI/RAGatouille,https://github.com/AnswerDotAI/RAGatouille,STALE,3968,2025-05-17,False,No push since 2025-05-17.,,
+RAG & Retrieval,superlinked/sie,https://github.com/superlinked/sie,MOVE,3405,2026-10-16,False,"Move to Deployment, Serving & MLOps: Inference server",move,move
+RAG & Retrieval,stanford-futuredata/ColBERT,https://github.com/stanford-futuredata/ColBERT,STALE,3948,2025-10-14,False,No push since 2025-10-14.,,
+RAG & Retrieval,Shubhamsaboo/all-rag-techniques,https://github.com/Shubhamsaboo/all-rag-techniques,STALE,146,2025-06-10,False,Repository is a fork.,,
+RAG & Retrieval,jamwithai/production-agentic-rag-course,https://github.com/jamwithai/production-agentic-rag-course,OFF_THEME,9773,2026-06-05,False,"Course, not tooling",remove,remove
+RAG & Retrieval,pathwaycom/llm-app,https://github.com/pathwaycom/llm-app,DEAD,58797,2026-10-15,False,Linked name does not match the repository full_name.,,
+RAG & Retrieval,Azure/GPT-RAG,https://github.com/Azure/GPT-RAG,DEAD,1186,2026-10-15,False,Linked name does not match the repository full_name.,,
+RAG & Retrieval,intuit/infigraph,https://github.com/intuit/infigraph,MOVE,93,2026-10-02,False,Move to Coding Agents & Harnesses: Code intelligence engine,move,move
+RAG & Retrieval,hseb-benchmark/hseb,https://github.com/hseb-benchmark/hseb,STALE,21,2025-10-05,False,No push since 2025-10-05.,,
+MCP Servers & Tool Integration,ascending-llc/jarvis-registry,https://github.com/ascending-llc/jarvis-registry,FORMAT_ISSUE,3611,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,oomol-lab/open-connector,https://github.com/oomol-lab/open-connector,FORMAT_ISSUE,6026,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,aipotheosis-labs/aci,https://github.com/aipotheosis-labs/aci,FORMAT_ISSUE,4912,2026-05-28,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,punkpeye/awesome-mcp-clients,https://github.com/punkpeye/awesome-mcp-clients,NEEDS_HUMAN,6611,2026-06-07,False,"Agent keeps; judge says move: It's a curated list, better suited for Other Awesome Lists.",keep,move
+MCP Servers & Tool Integration,microsoft/mcp-for-beginners,https://github.com/microsoft/mcp-for-beginners,MOVE,17456,2026-10-13,False,Move to Learning Path: MCP curriculum,move,move
+MCP Servers & Tool Integration,HKUDS/CLI-Anything,https://github.com/HKUDS/CLI-Anything,MOVE,53132,2026-09-22,False,Move to Agent Frameworks & Orchestration: Agent-native software,move,move
+MCP Servers & Tool Integration,bethington/ghidra-mcp,https://github.com/bethington/ghidra-mcp,MOVE,5667,2026-10-16,False,Move to Coding Agents & Harnesses: AI-powered reverse engineering,move,move
+MCP Servers & Tool Integration,zinja-coder/jadx-ai-mcp,https://github.com/zinja-coder/jadx-ai-mcp,MOVE,2906,2026-09-23,False,Move to Coding Agents & Harnesses: MCP integration for reverse engineering,move,move
+MCP Servers & Tool Integration,jgravelle/jcodemunch-mcp,https://github.com/jgravelle/jcodemunch-mcp,FORMAT_ISSUE,2774,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,Waishnav/devspace,https://github.com/Waishnav/devspace,MOVE,5250,2026-10-12,False,Move to Coding Agents & Harnesses: Coding agent harness,move,move
+MCP Servers & Tool Integration,isaacwasserman/mcp-snowflake-server,https://github.com/isaacwasserman/mcp-snowflake-server,STALE,184,2025-10-07,False,No push since 2025-10-07.,,
+MCP Servers & Tool Integration,prest/prest,https://github.com/prest/prest,OFF_THEME,4624,2026-10-15,False,Not MCP server,remove,remove
+MCP Servers & Tool Integration,timescale/pg-aiguide,https://github.com/timescale/pg-aiguide,FORMAT_ISSUE,1869,2026-10-14,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,getsentry/sentry-mcp,https://github.com/getsentry/sentry-mcp,DEAD,929,2026-10-16,False,Linked name does not match the repository full_name.,,
+MCP Servers & Tool Integration,spre-sre/lumino-mcp-server,https://github.com/spre-sre/lumino-mcp-server,MOVE,11,2026-09-04,False,"Move to Evaluation, Observability & Code Review: SRE observability",move,move
+MCP Servers & Tool Integration,idosal/git-mcp,https://github.com/idosal/git-mcp,FORMAT_ISSUE,8463,2026-05-08,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,getsentry/MobileBuildMCP,https://github.com/getsentry/MobileBuildMCP,FORMAT_ISSUE,6485,2026-10-09,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,hangwin/mcp-chrome,https://github.com/hangwin/mcp-chrome,MOVE,12497,2026-01-06,False,Move to Computer Use & GUI Agents: Chrome extension-based MCP server,move,move
+MCP Servers & Tool Integration,KnockOutEZ/wigolo,https://github.com/KnockOutEZ/wigolo,FORMAT_ISSUE,5480,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,feder-cr/invisible_playwright_mcp,https://github.com/feder-cr/invisible_playwright_mcp,FORMAT_ISSUE,2759,2026-10-13,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,siva010928/multi-chat-mcp-server,https://github.com/siva010928/multi-chat-mcp-server,STALE,27,2025-10-05,False,No push since 2025-10-05.,,
+MCP Servers & Tool Integration,iOfficeAI/OfficeCLI,https://github.com/iOfficeAI/OfficeCLI,MOVE,32063,2026-10-13,False,Move to Coding Agents & Harnesses: Office suite for agents,move,move
+MCP Servers & Tool Integration,financial-datasets/mcp-server,https://github.com/financial-datasets/mcp-server,STALE,2306,2025-06-05,False,No push since 2025-06-05.,,
+MCP Servers & Tool Integration,WhiskeySockets/Baileys,https://github.com/WhiskeySockets/Baileys,NEEDS_HUMAN,11347,2026-10-16,False,Agent says move to Chat UIs & Application Layer; judge says remove.,move,remove
+MCP Servers & Tool Integration,dream-num/univer,https://github.com/dream-num/univer,MOVE,22632,2026-10-16,False,Move to Coding Agents & Harnesses: Office runtime for agents,move,move
+MCP Servers & Tool Integration,jacob-bd/gemini-notebook-mcp-cli,https://github.com/jacob-bd/gemini-notebook-mcp-cli,FORMAT_ISSUE,6320,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,54yyyu/zotero-mcp,https://github.com/54yyyu/zotero-mcp,FORMAT_ISSUE,5422,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,keep
+MCP Servers & Tool Integration,atilaahmettaner/tradingview-mcp,https://github.com/atilaahmettaner/tradingview-mcp,FORMAT_ISSUE,5069,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,irinabuht12-oss/google-ads-meta-ads-mcp,https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp,FORMAT_ISSUE,5046,2026-10-12,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,stickerdaniel/linkedin-mcp-server,https://github.com/stickerdaniel/linkedin-mcp-server,FORMAT_ISSUE,3889,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,chrisryugj/korean-law-mcp,https://github.com/chrisryugj/korean-law-mcp,FORMAT_ISSUE,2717,2026-10-14,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,Coding-Solo/godot-mcp,https://github.com/Coding-Solo/godot-mcp,FORMAT_ISSUE,6110,2026-04-16,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,IvanMurzak/Unity-MCP,https://github.com/IvanMurzak/Unity-MCP,FORMAT_ISSUE,4478,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,Evil0ctal/Douyin_TikTok_Download_API,https://github.com/Evil0ctal/Douyin_TikTok_Download_API,OFF_THEME,20670,2026-10-02,False,"Not AI-related, video downloader",remove,remove
+MCP Servers & Tool Integration,Ryze-AI-Adgent/open-seo-mcp-skills,https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills,FORMAT_ISSUE,5800,2026-10-13,False,Description exceeds the roughly 100-character limit.,keep,
+MCP Servers & Tool Integration,corsairdev/corsair,https://github.com/corsairdev/corsair,OFF_THEME,14895,2026-10-14,False,"Not AI-related, API integration",remove,remove
+"Sandboxes, Browsers & Computer Use",daytonaio/daytona,https://github.com/daytonaio/daytona,STALE,71535,2026-07-24,True,Repository is archived.,,
+"Sandboxes, Browsers & Computer Use",keploy/keploy,https://github.com/keploy/keploy,OFF_THEME,18588,2026-10-16,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",microsoft/mxc,https://github.com/microsoft/mxc,OFF_THEME,2855,2026-10-16,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",google/nsjail,https://github.com/google/nsjail,OFF_THEME,4153,2026-10-02,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",google/gvisor,https://github.com/google/gvisor,OFF_THEME,19689,2026-10-16,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",firecracker-microvm/firecracker-containerd,https://github.com/firecracker-microvm/firecracker-containerd,OFF_THEME,2962,2026-10-15,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",firecracker-microvm/firecracker,https://github.com/firecracker-microvm/firecracker,OFF_THEME,37418,2026-10-15,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",kata-containers/kata-containers,https://github.com/kata-containers/kata-containers,OFF_THEME,8949,2026-10-16,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",containers/bubblewrap,https://github.com/containers/bubblewrap,OFF_THEME,9077,2026-10-14,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",wazero/wazero,https://github.com/wazero/wazero,OFF_THEME,6425,2026-09-28,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",nestybox/sysbox,https://github.com/nestybox/sysbox,OFF_THEME,3915,2026-09-15,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",lima-vm/lima,https://github.com/lima-vm/lima,OFF_THEME,22101,2026-10-15,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",moby/moby,https://github.com/moby/moby,OFF_THEME,72190,2026-10-15,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",docker/compose,https://github.com/docker/compose,OFF_THEME,38368,2026-10-15,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",containerd/containerd,https://github.com/containerd/containerd,OFF_THEME,21421,2026-10-16,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",docker/docker-py,https://github.com/docker/docker-py,OFF_THEME,7220,2026-10-14,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",gitpod-io/gitpod,https://github.com/gitpod-io/gitpod,OFF_THEME,13798,2026-10-14,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",coder/coder,https://github.com/coder/coder,OFF_THEME,17041,2026-10-16,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",metalbear-co/mirrord,https://github.com/metalbear-co/mirrord,OFF_THEME,5366,2026-10-16,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",microsoft/playwright,https://github.com/microsoft/playwright,OFF_THEME,97824,2026-10-16,False,Generic browser automation,remove,remove
+"Sandboxes, Browsers & Computer Use",ChromeDevTools/chrome-devtools-mcp,https://github.com/ChromeDevTools/chrome-devtools-mcp,MOVE,53627,2026-10-16,False,Move to MCP Servers & Tool Integration: MCP server for coding agents,move,move
+"Sandboxes, Browsers & Computer Use",puppeteer/puppeteer,https://github.com/puppeteer/puppeteer,OFF_THEME,95702,2026-10-16,False,Generic browser automation,remove,remove
+"Sandboxes, Browsers & Computer Use",browserless/browserless,https://github.com/browserless/browserless,OFF_THEME,13816,2026-10-16,False,Generic headless browser,remove,remove
+"Sandboxes, Browsers & Computer Use",g1879/DrissionPage,https://github.com/g1879/DrissionPage,OFF_THEME,12514,2026-10-14,False,Generic web automation,remove,remove
+"Sandboxes, Browsers & Computer Use",microsoft/playwright-python,https://github.com/microsoft/playwright-python,OFF_THEME,15044,2026-10-16,False,Generic browser automation,remove,remove
+"Sandboxes, Browsers & Computer Use",autoscrape-labs/pydoll,https://github.com/autoscrape-labs/pydoll,OFF_THEME,7116,2026-10-09,False,Generic browser automation,remove,remove
+"Sandboxes, Browsers & Computer Use",cdpdriver/zendriver,https://github.com/cdpdriver/zendriver,MOVE,1458,2026-10-02,False,Move to Chat UIs & Application Layer: Web automation,move,move
+"Sandboxes, Browsers & Computer Use",feder-cr/invisible_playwright,https://github.com/feder-cr/invisible_playwright,MOVE,3157,2026-10-15,False,Move to Chat UIs & Application Layer: Web automation,move,move
+"Sandboxes, Browsers & Computer Use",ultrafunkamsterdam/undetected-chromedriver,https://github.com/ultrafunkamsterdam/undetected-chromedriver,STALE,12863,2025-07-05,False,No push since 2025-07-05.,,
+"Sandboxes, Browsers & Computer Use",jo-inc/camofox-browser,https://github.com/jo-inc/camofox-browser,MOVE,11620,2026-10-07,False,Move to Chat UIs & Application Layer: Headless browser,move,move
+"Sandboxes, Browsers & Computer Use",firecrawl/firecrawl,https://github.com/firecrawl/firecrawl,MOVE,191983,2026-10-16,False,"Move to Data, Datasets & Synthetic Data: Web scraping",move,move
+"Sandboxes, Browsers & Computer Use",unclecode/crawl4ai,https://github.com/unclecode/crawl4ai,MOVE,85640,2026-10-15,False,"Move to Data, Datasets & Synthetic Data: Web crawler",move,move
+"Sandboxes, Browsers & Computer Use",scrapy/scrapy,https://github.com/scrapy/scrapy,MOVE,64844,2026-10-15,False,"Move to Data, Datasets & Synthetic Data: Web crawling",move,move
+"Sandboxes, Browsers & Computer Use",cporter202/scraping-apis-for-devs,https://github.com/cporter202/scraping-apis-for-devs,OFF_THEME,3940,2026-10-12,False,API collection,remove,remove
+"Sandboxes, Browsers & Computer Use",AhmadIbrahiim/Website-downloader,https://github.com/AhmadIbrahiim/Website-downloader,NEEDS_HUMAN,6034,2026-08-12,False,"Agent says move to Data, Datasets & Synthetic Data; judge says remove.",move,remove
+"Sandboxes, Browsers & Computer Use",D4Vinci/Scrapling,https://github.com/D4Vinci/Scrapling,NEEDS_HUMAN,87979,2026-10-16,False,"Agent says move to Data, Datasets & Synthetic Data; judge says remove.",move,remove
+"Sandboxes, Browsers & Computer Use",ScrapeGraphAI/Scrapegraph-ai,https://github.com/ScrapeGraphAI/Scrapegraph-ai,NEEDS_HUMAN,31801,2026-10-06,False,"Agent says move to Data, Datasets & Synthetic Data; judge says keep.",move,keep
+"Sandboxes, Browsers & Computer Use",mitmproxy/mitmproxy,https://github.com/mitmproxy/mitmproxy,OFF_THEME,45661,2026-10-13,False,"Not AI-related, generic web utility",remove,remove
+"Sandboxes, Browsers & Computer Use",gocolly/colly,https://github.com/gocolly/colly,OFF_THEME,25550,2026-10-05,False,"Not AI-related, generic web utility",remove,remove
+"Sandboxes, Browsers & Computer Use",MechanicalSoup/MechanicalSoup,https://github.com/MechanicalSoup/MechanicalSoup,OFF_THEME,4897,2026-10-07,False,"Not AI-related, generic web utility",remove,remove
+"Sandboxes, Browsers & Computer Use",spider-rs/spider,https://github.com/spider-rs/spider,OFF_THEME,2781,2026-10-01,False,"Not AI-related, generic web utility",remove,remove
+"Sandboxes, Browsers & Computer Use",apache/stormcrawler,https://github.com/apache/stormcrawler,OFF_THEME,1008,2026-10-14,False,"Not AI-related, generic web utility",remove,remove
+"Sandboxes, Browsers & Computer Use",getmaxun/maxun,https://github.com/getmaxun/maxun,NEEDS_HUMAN,17863,2026-10-15,False,"Agent says remove (Not AI-related, generic web utility); judge says keep.",remove,keep
+"Sandboxes, Browsers & Computer Use",BuilderIO/gpt-crawler,https://github.com/BuilderIO/gpt-crawler,STALE,22397,2025-07-07,False,No push since 2025-07-07.,,
+"Sandboxes, Browsers & Computer Use",aio-libs/aiohttp,https://github.com/aio-libs/aiohttp,OFF_THEME,16574,2026-10-15,False,"Not AI-related, generic web utility",remove,remove
+"Sandboxes, Browsers & Computer Use",encode/httpx,https://github.com/encode/httpx,OFF_THEME,15602,2026-10-02,False,"Not AI-related, generic web utility",remove,remove
+"Sandboxes, Browsers & Computer Use",psf/requests,https://github.com/psf/requests,OFF_THEME,54459,2026-09-28,False,"Not AI-related, generic web utility",remove,remove
+"Sandboxes, Browsers & Computer Use",cheeriojs/cheerio,https://github.com/cheeriojs/cheerio,OFF_THEME,30516,2026-10-16,False,HTML parser,remove,remove
+"Sandboxes, Browsers & Computer Use",jhy/jsoup,https://github.com/jhy/jsoup,OFF_THEME,11408,2026-10-14,False,HTML parser,remove,remove
+"Sandboxes, Browsers & Computer Use",AngleSharp/AngleSharp,https://github.com/AngleSharp/AngleSharp,OFF_THEME,5542,2026-10-15,False,HTML parser,remove,remove
+"Sandboxes, Browsers & Computer Use",PuerkitoBio/goquery,https://github.com/PuerkitoBio/goquery,OFF_THEME,14989,2026-10-12,False,HTML parser,remove,remove
+"Sandboxes, Browsers & Computer Use",servo/html5ever,https://github.com/servo/html5ever,OFF_THEME,2639,2026-10-05,False,HTML parser,remove,remove
+"Sandboxes, Browsers & Computer Use",Nykakin/chompjs,https://github.com/Nykakin/chompjs,OFF_THEME,220,2026-05-17,False,JavaScript parser,remove,remove
+"Sandboxes, Browsers & Computer Use",gawel/pyquery,https://github.com/gawel/pyquery,OFF_THEME,2376,2026-10-12,False,HTML parser,remove,remove
+"Sandboxes, Browsers & Computer Use",jsdom/jsdom,https://github.com/jsdom/jsdom,OFF_THEME,21711,2026-10-16,False,JavaScript DOM,remove,remove
+"Sandboxes, Browsers & Computer Use",lxml/lxml,https://github.com/lxml/lxml,OFF_THEME,3066,2026-10-11,False,XML toolkit,remove,remove
+"Sandboxes, Browsers & Computer Use",rushter/selectolax,https://github.com/rushter/selectolax,OFF_THEME,1690,2026-10-14,False,HTML parser,remove,remove
+"Sandboxes, Browsers & Computer Use",scrapy/parsel,https://github.com/scrapy/parsel,OFF_THEME,1362,2026-10-13,False,Not AI-related,remove,remove
+"Sandboxes, Browsers & Computer Use",nightwatchjs/nightwatch,https://github.com/nightwatchjs/nightwatch,OFF_THEME,11950,2026-05-25,False,Generic testing framework,remove,remove
+"Sandboxes, Browsers & Computer Use",SeleniumHQ/docker-selenium,https://github.com/SeleniumHQ/docker-selenium,OFF_THEME,8659,2026-10-15,False,Generic testing framework,remove,remove
+"Sandboxes, Browsers & Computer Use",cypress-io/cypress,https://github.com/cypress-io/cypress,OFF_THEME,51047,2026-10-16,False,Generic testing framework,remove,remove
+"Sandboxes, Browsers & Computer Use",codeceptjs/CodeceptJS,https://github.com/codeceptjs/CodeceptJS,OFF_THEME,4244,2026-10-14,False,Generic testing framework,remove,remove
+"Sandboxes, Browsers & Computer Use",webdriverio/webdriverio,https://github.com/webdriverio/webdriverio,OFF_THEME,9848,2026-10-15,False,Generic testing framework,remove,remove
+"Sandboxes, Browsers & Computer Use",DevExpress/testcafe,https://github.com/DevExpress/testcafe,OFF_THEME,9895,2026-10-07,False,Generic testing framework,remove,remove
+Document Processing & Data Ingestion,KOUISAmine/file-converter-tools,https://github.com/KOUISAmine/file-converter-tools,STALE,2,2023-12-31,False,No push since 2023-12-31.,,
+Document Processing & Data Ingestion,deepseek-ai/DeepSeek-OCR,https://github.com/deepseek-ai/DeepSeek-OCR,NEEDS_HUMAN,24014,2026-01-27,False,Agent says remove (Unclear purpose); judge says keep.,remove,keep
+Document Processing & Data Ingestion,google-research/pix2struct,https://github.com/google-research/pix2struct,MOVE,691,2026-10-05,False,Move to Vision & Multimodal: Vision-language model,move,move
+Document Processing & Data Ingestion,studio-dots-ai/dots.ocr,https://github.com/studio-dots-ai/dots.ocr,MOVE,9172,2026-03-24,False,Move to Vision & Multimodal: Vision-language model,move,move
+Document Processing & Data Ingestion,getomni-ai/zerox,https://github.com/getomni-ai/zerox,STALE,12249,2025-05-20,False,No push since 2025-05-20.,,
+Document Processing & Data Ingestion,mozilla/pdf.js,https://github.com/mozilla/pdf.js,OFF_THEME,54008,2026-10-16,False,Generic PDF viewer,remove,remove
+Document Processing & Data Ingestion,apache/pdfbox,https://github.com/apache/pdfbox,OFF_THEME,3128,2026-10-15,False,Generic PDF library,remove,remove
+Document Processing & Data Ingestion,LibrePDF/OpenPDF,https://github.com/LibrePDF/OpenPDF,OFF_THEME,4376,2026-10-12,False,Generic PDF library,remove,remove
+Document Processing & Data Ingestion,enoch3712/ExtractThinker,https://github.com/enoch3712/ExtractThinker,FORMAT_ISSUE,1601,2026-09-16,False,Description exceeds the roughly 100-character limit.,keep,
+Document Processing & Data Ingestion,bhaskatripathi/pdfGPT,https://github.com/bhaskatripathi/pdfGPT,MOVE,7163,2026-03-06,False,Move to Chat UIs & Application Layer: Chatbot for PDF,move,move
+Document Processing & Data Ingestion,instill-ai/instill-core,https://github.com/instill-ai/instill-core,MOVE,2317,2026-06-01,False,"Move to Deployment, Serving & MLOps: AI infrastructure",move,move
+Document Processing & Data Ingestion,allenai/dolma,https://github.com/allenai/dolma,MOVE,1559,2026-08-24,False,"Move to Data, Datasets & Synthetic Data: Pre-training data",move,move
+Document Processing & Data Ingestion,kurtmckee/feedparser,https://github.com/kurtmckee/feedparser,OFF_THEME,2444,2026-10-06,False,Feed parser is not relevant to document processing,remove,remove
+Document Processing & Data Ingestion,yt-dlp/yt-dlp,https://github.com/yt-dlp/yt-dlp,NEEDS_HUMAN,198250,2026-10-10,False,Agent says move to Document Processing & Data Ingestion / Media ingestion; judge says remove.,move,remove
+Document Processing & Data Ingestion,python-pillow/Pillow,https://github.com/python-pillow/Pillow,NEEDS_HUMAN,13900,2026-10-16,False,Agent says move to Document Processing & Data Ingestion / Media ingestion; judge says keep.,move,keep
+Document Processing & Data Ingestion,FFmpeg/FFmpeg,https://github.com/FFmpeg/FFmpeg,NEEDS_HUMAN,65257,2026-10-16,False,Agent says move to Document Processing & Data Ingestion / Media ingestion; judge says keep.,move,keep
+Document Processing & Data Ingestion,fhamborg/news-please,https://github.com/fhamborg/news-please,STALE,2494,2026-04-14,True,Repository is archived.,,
+Workflow Automation,n8n-io/n8n,https://github.com/n8n-io/n8n,NEEDS_HUMAN,207587,2026-10-16,False,"Agent says move to Deployment, Serving & MLOps; judge says keep.",move,keep
+Workflow Automation,activepieces/activepieces,https://github.com/activepieces/activepieces,MOVE,25065,2026-10-16,False,Move to MCP Servers & Tool Integration: AI workflow automation with MCP,move,move
+Workflow Automation,windmill-labs/windmill,https://github.com/windmill-labs/windmill,NEEDS_HUMAN,18198,2026-10-16,False,Agent says move to Developer Tools & Utilities; judge says keep.,move,keep
+Workflow Automation,huginn/huginn,https://github.com/huginn/huginn,MOVE,50065,2026-10-16,False,Move to Agent Frameworks & Orchestration: Agent-based automation,move,move
+Workflow Automation,simstudioai/sim,https://github.com/simstudioai/sim,MOVE,29831,2026-10-16,False,Move to Agent Frameworks & Orchestration: AI agent workspace,move,move
+Workflow Automation,1Panel-dev/MaxKB,https://github.com/1Panel-dev/MaxKB,MOVE,22985,2026-10-16,False,Move to Agent Frameworks & Orchestration: AI agent platform,move,move
+Workflow Automation,Ironclad/rivet,https://github.com/Ironclad/rivet,MOVE,4708,2026-08-26,False,Move to Developer Tools & Utilities: Visual AI programming,move,move
+Workflow Automation,node-red/node-red,https://github.com/node-red/node-red,NEEDS_HUMAN,23748,2026-10-15,False,Agent keeps; judge says remove: Not related to AI,keep,remove
+Workflow Automation,wassupjay/n8n-free-templates,https://github.com/wassupjay/n8n-free-templates,STALE,6230,2025-08-01,False,No push since 2025-08-01.,,
+Workflow Automation,dapr/dapr,https://github.com/dapr/dapr,OFF_THEME,26147,2026-10-15,False,Not AI-specific,remove,remove
+Workflow Automation,cadence-workflow/cadence,https://github.com/cadence-workflow/cadence,NEEDS_HUMAN,9494,2026-10-15,False,Agent says remove (Not AI-specific); judge says keep.,remove,keep
+Workflow Automation,Azure/durabletask,https://github.com/Azure/durabletask,NEEDS_HUMAN,1740,2026-10-14,False,Agent says remove (Not AI-specific); judge says keep.,remove,keep
+Workflow Automation,dbos-inc/dbos-transact-py,https://github.com/dbos-inc/dbos-transact-py,NEEDS_HUMAN,1634,2026-10-16,False,Agent says remove (Not AI-specific); judge says keep.,remove,keep
+Workflow Automation,Azure/azure-functions-durable-extension,https://github.com/Azure/azure-functions-durable-extension,NEEDS_HUMAN,766,2026-10-16,False,Agent says remove (Not AI-specific); judge says keep.,remove,keep
+Workflow Automation,littlehorse-enterprises/littlehorse,https://github.com/littlehorse-enterprises/littlehorse,NEEDS_HUMAN,400,2026-10-13,False,Agent says remove (Not AI-specific); judge says keep.,remove,keep
+Workflow Automation,infiniticio/infinitic,https://github.com/infiniticio/infinitic,NEEDS_HUMAN,361,2026-04-27,False,Agent says remove (Not AI-specific); judge says keep.,remove,keep
+Workflow Automation,dotnet/orleans,https://github.com/dotnet/orleans,NEEDS_HUMAN,10904,2026-10-15,False,Agent says remove (Not AI-specific); judge says keep.,remove,keep
+Workflow Automation,biolab/orange3,https://github.com/biolab/orange3,MOVE,5725,2026-10-13,False,"Move to Data, Datasets & Synthetic Data: Data analysis and ML platform",move,move
+Workflow Automation,nextflow-io/nextflow,https://github.com/nextflow-io/nextflow,NEEDS_HUMAN,3509,2026-10-16,False,Agent says remove (Not AI-focused); judge says keep.,remove,keep
+Workflow Automation,Netflix/maestro,https://github.com/Netflix/maestro,NEEDS_HUMAN,3845,2026-10-15,False,Agent says remove (Not AI-focused); judge says keep.,remove,keep
+Workflow Automation,SQLMesh/sqlmesh,https://github.com/SQLMesh/sqlmesh,OFF_THEME,3323,2026-10-15,False,Not AI-focused,remove,remove
+Workflow Automation,snakemake/snakemake,https://github.com/snakemake/snakemake,OFF_THEME,2889,2026-10-14,False,Not AI-focused,remove,remove
+Workflow Automation,apache/hop,https://github.com/apache/hop,OFF_THEME,1497,2026-10-15,False,Not AI-focused,remove,remove
+Workflow Automation,broadinstitute/cromwell,https://github.com/broadinstitute/cromwell,OFF_THEME,1086,2026-10-14,False,Not AI-focused,remove,remove
+Workflow Automation,aiidateam/aiida-core,https://github.com/aiidateam/aiida-core,OFF_THEME,597,2026-10-15,False,Not AI-focused,remove,remove
+Workflow Automation,arvados/arvados,https://github.com/arvados/arvados,OFF_THEME,422,2026-10-14,False,Not AI-focused,remove,remove
+Workflow Automation,dagucloud/dagu,https://github.com/dagucloud/dagu,OFF_THEME,4366,2026-10-16,False,Not AI-focused,remove,remove
+Workflow Automation,apache/camel,https://github.com/apache/camel,OFF_THEME,6371,2026-10-16,False,Not AI-focused,remove,remove
+Workflow Automation,celery/celery,https://github.com/celery/celery,OFF_THEME,28989,2026-10-15,False,Generic task queue,remove,remove
+Workflow Automation,OptimalBits/bull,https://github.com/OptimalBits/bull,OFF_THEME,16255,2026-10-03,False,Generic message queue,remove,remove
+Workflow Automation,hibiken/asynq,https://github.com/hibiken/asynq,OFF_THEME,13769,2026-06-22,False,Generic task queue,remove,remove
+Workflow Automation,sidekiq/sidekiq,https://github.com/sidekiq/sidekiq,OFF_THEME,13559,2026-10-15,False,Generic background processing,remove,remove
+Workflow Automation,rq/rq,https://github.com/rq/rq,OFF_THEME,10695,2026-10-14,False,Generic job queue,remove,remove
+Workflow Automation,healthchecks/healthchecks,https://github.com/healthchecks/healthchecks,OFF_THEME,10424,2026-10-15,False,Monitoring service,remove,remove
+Workflow Automation,agenda/agenda,https://github.com/agenda/agenda,OFF_THEME,9709,2026-07-21,False,Generic job scheduler,remove,remove
+Workflow Automation,HangfireIO/Hangfire,https://github.com/HangfireIO/Hangfire,OFF_THEME,10151,2026-10-15,False,Generic background job processing,remove,remove
+Workflow Automation,resque/resque,https://github.com/resque/resque,OFF_THEME,9469,2026-09-16,False,Generic background jobs library,remove,remove
+Workflow Automation,taskforcesh/bullmq,https://github.com/taskforcesh/bullmq,OFF_THEME,9512,2026-10-16,False,Generic message queue,remove,remove
+Workflow Automation,contribsys/faktory,https://github.com/contribsys/faktory,NEEDS_HUMAN,6151,2026-10-05,False,"Agent keeps; judge says remove: Generic job queue, not AI-specific.",keep,remove
+Workflow Automation,mcuadros/ofelia,https://github.com/mcuadros/ofelia,OFF_THEME,4014,2026-10-14,False,"Not AI-related, generic Docker scheduler",remove,remove
+Workflow Automation,citusdata/pg_cron,https://github.com/citusdata/pg_cron,OFF_THEME,3906,2026-09-08,False,"Not AI-related, generic PostgreSQL scheduler",remove,remove
+Workflow Automation,python-arq/arq,https://github.com/python-arq/arq,OFF_THEME,3017,2026-04-16,False,"Not AI-related, generic Python job queuing",remove,remove
+Workflow Automation,bensheldon/good_job,https://github.com/bensheldon/good_job,OFF_THEME,3000,2026-10-15,False,"Not AI-related, generic Rails job backend",remove,remove
+Workflow Automation,quantum-elixir/quantum-core,https://github.com/quantum-elixir/quantum-core,OFF_THEME,2419,2026-10-14,False,"Not AI-related, generic Elixir job scheduler",remove,remove
+Workflow Automation,rails/solid_queue,https://github.com/rails/solid_queue,OFF_THEME,2505,2026-09-12,False,"Not AI-related, generic Rails job backend",remove,remove
+Workflow Automation,graphile/worker,https://github.com/graphile/worker,OFF_THEME,2411,2026-10-09,False,"Not AI-related, generic Node.js job queue",remove,remove
+Workflow Automation,taskiq-python/taskiq,https://github.com/taskiq-python/taskiq,OFF_THEME,2356,2026-10-12,False,"Not AI-related, generic Python task queue",remove,remove
+Workflow Automation,cybertec-postgresql/pg_timetable,https://github.com/cybertec-postgresql/pg_timetable,OFF_THEME,1404,2026-10-12,False,"Not AI-related, generic PostgreSQL scheduler",remove,remove
+Workflow Automation,procrastinate-org/procrastinate,https://github.com/procrastinate-org/procrastinate,OFF_THEME,1421,2026-10-12,False,"Not AI-related, generic Python task queue",remove,remove
+Workflow Automation,gearman/gearmand,https://github.com/gearman/gearmand,OFF_THEME,764,2026-10-14,False,not AI-related,remove,remove
+Workflow Automation,rundeck/rundeck,https://github.com/rundeck/rundeck,OFF_THEME,6338,2026-10-16,False,not AI-related,remove,remove
+Workflow Automation,MassTransit/MassTransit,https://github.com/MassTransit/MassTransit,OFF_THEME,7809,2026-10-10,False,not AI-related,remove,remove
+Workflow Automation,rebus-org/Rebus,https://github.com/rebus-org/Rebus,OFF_THEME,2669,2026-09-29,False,not AI-related,remove,remove
+Workflow Automation,hashicorp/nomad,https://github.com/hashicorp/nomad,OFF_THEME,17011,2026-10-15,False,not AI-related,remove,remove
+Workflow Automation,Activiti/Activiti,https://github.com/Activiti/Activiti,OFF_THEME,10549,2026-10-16,False,not AI-related,remove,remove
+Workflow Automation,flowable/flowable-engine,https://github.com/flowable/flowable-engine,OFF_THEME,9590,2026-10-15,False,not AI-related,remove,remove
+Workflow Automation,elsa-workflows/elsa-core,https://github.com/elsa-workflows/elsa-core,OFF_THEME,7906,2026-10-16,False,not AI-related,remove,remove
+Workflow Automation,camunda/camunda,https://github.com/camunda/camunda,OFF_THEME,4319,2026-10-16,False,not AI-related,remove,remove
+Workflow Automation,kiegroup/jbpm,https://github.com/kiegroup/jbpm,OFF_THEME,1741,2026-07-01,False,not AI-related,remove,remove
+Workflow Automation,aelassas/wexflow,https://github.com/aelassas/wexflow,OFF_THEME,844,2026-10-13,False,No AI focus,remove,remove
+Workflow Automation,ProcessMaker/processmaker,https://github.com/ProcessMaker/processmaker,OFF_THEME,539,2026-10-15,False,No AI focus,remove,remove
+Workflow Automation,operaton/operaton,https://github.com/operaton/operaton,OFF_THEME,492,2026-10-16,False,No AI focus,remove,remove
+Workflow Automation,bonitasoft/bonita-engine,https://github.com/bonitasoft/bonita-engine,OFF_THEME,177,2026-10-15,False,No AI focus,remove,remove
+Workflow Automation,cibseven/cibseven,https://github.com/cibseven/cibseven,OFF_THEME,147,2026-10-15,False,No AI focus,remove,remove
+Workflow Automation,statelyai/xstate,https://github.com/statelyai/xstate,OFF_THEME,30308,2026-10-15,False,No AI focus,remove,remove
+Workflow Automation,nektos/act,https://github.com/nektos/act,OFF_THEME,72341,2026-08-09,False,"CI/CD tool, no AI",remove,remove
+Workflow Automation,harness/harness,https://github.com/harness/harness,OFF_THEME,38548,2026-10-15,False,"CI/CD tool, no AI",remove,remove
+Workflow Automation,jenkinsci/jenkins,https://github.com/jenkinsci/jenkins,OFF_THEME,26669,2026-10-16,False,"CI/CD tool, no AI",remove,remove
+Workflow Automation,dagger/dagger,https://github.com/dagger/dagger,OFF_THEME,16343,2026-10-16,False,Generic automation,remove,remove
+Workflow Automation,tektoncd/pipeline,https://github.com/tektoncd/pipeline,OFF_THEME,9082,2026-10-15,False,CI/CD pipeline,remove,remove
+Workflow Automation,StackStorm/st2,https://github.com/StackStorm/st2,OFF_THEME,6548,2026-10-13,False,Event-driven automation,remove,remove
+Workflow Automation,argoproj/argo-events,https://github.com/argoproj/argo-events,OFF_THEME,2703,2026-10-10,False,Event-driven framework,remove,remove
+Workflow Automation,knative/eventing,https://github.com/knative/eventing,OFF_THEME,1558,2026-10-14,False,Event-driven platform,remove,remove
+Workflow Automation,FellouAI/eko,https://github.com/FellouAI/eko,FORMAT_ISSUE,4963,2026-03-03,False,Description exceeds the roughly 100-character limit.,keep,
+Model Gateways & Routing,cniu6/anyproxyai,https://github.com/cniu6/anyproxyai,STALE,40,2026-01-12,True,Repository is archived.,,
+Model Gateways & Routing,Kong/kong,https://github.com/Kong/kong,NEEDS_HUMAN,44273,2026-10-14,False,Agent says remove (Not specifically for AI gateways); judge says keep.,remove,keep
+Model Gateways & Routing,apache/apisix,https://github.com/apache/apisix,NEEDS_HUMAN,17227,2026-10-16,False,Agent says remove (Not specifically for AI gateways); judge says keep.,remove,keep
+Model Gateways & Routing,kgateway-dev/kgateway,https://github.com/kgateway-dev/kgateway,NEEDS_HUMAN,5711,2026-10-15,False,"Agent says move to Deployment, Serving & MLOps; judge says remove.",move,remove
+Model Gateways & Routing,experientiallabs/experiential,https://github.com/experientiallabs/experiential,DEAD,,,,"404 - repo deleted, renamed, or private.",,
+Model Gateways & Routing,casdoor/casdoor,https://github.com/casdoor/casdoor,NEEDS_HUMAN,14583,2026-10-15,False,Agent says move to Agent Frameworks & Orchestration; judge says remove.,move,remove
+Model Gateways & Routing,LanceZPF/agent-as-a-router,https://github.com/LanceZPF/agent-as-a-router,DEAD,,,,"404 - repo deleted, renamed, or private.",,
+Model Gateways & Routing,zhu327/gemini-openai-proxy,https://github.com/zhu327/gemini-openai-proxy,STALE,721,2025-10-07,False,No push since 2025-10-07.,,
+Model Gateways & Routing,rynfar/meridian,https://github.com/rynfar/meridian,FORMAT_ISSUE,2122,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,keep
+Free LLM APIs & Free Tiers,DevAnimecx/free-ai-agent-stack,https://github.com/DevAnimecx/free-ai-agent-stack,NEEDS_HUMAN,1,2026-10-15,False,Agent says move to Agent Frameworks & Orchestration; judge says keep.,move,keep
+Free LLM APIs & Free Tiers,tayyabimam1/freellmapi,https://github.com/tayyabimam1/freellmapi,STALE,1,2026-09-29,False,Repository is a fork.,,
+Free LLM APIs & Free Tiers,MrFadiAi/free-llm-gateway,https://github.com/MrFadiAi/free-llm-gateway,DEAD,,,,"404 - repo deleted, renamed, or private.",,
+Free LLM APIs & Free Tiers,ihsan-ramadhan/bansos-router,https://github.com/ihsan-ramadhan/bansos-router,MOVE,122,2026-10-16,False,Move to Coding Agents & Harnesses: Coding models router,move,move
+Free LLM APIs & Free Tiers,public-apis/public-apis,https://github.com/public-apis/public-apis,OFF_THEME,489209,2026-10-15,False,Not AI-specific,remove,remove
+Free LLM APIs & Free Tiers,cporter202/API-mega-list,https://github.com/cporter202/API-mega-list,OFF_THEME,7834,2026-10-12,False,Not AI-specific,remove,remove
+Free LLM APIs & Free Tiers,ripienaar/free-for-dev,https://github.com/ripienaar/free-for-dev,OFF_THEME,139622,2026-10-15,False,Not AI-specific,remove,remove
+Free LLM APIs & Free Tiers,iSoumyaDey/Awesome-Web-Hosting-2026,https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026,OFF_THEME,316,2025-12-30,False,Not AI-specific,remove,remove
+Free LLM APIs & Free Tiers,DmitryScaletta/free-heroku-alternatives,https://github.com/DmitryScaletta/free-heroku-alternatives,OFF_THEME,509,2026-07-11,False,Not AI-specific,remove,remove
+Free LLM APIs & Free Tiers,DmitryScaletta/free-database-services,https://github.com/DmitryScaletta/free-database-services,STALE,25,2025-05-28,False,No push since 2025-05-28.,,
+Free LLM APIs & Free Tiers,DigitalPlatDev/FreeDomain,https://github.com/DigitalPlatDev/FreeDomain,OFF_THEME,204407,2026-08-12,False,Not AI-specific,remove,remove
+Free LLM APIs & Free Tiers,AchoArnold/discount-for-student-dev,https://github.com/AchoArnold/discount-for-student-dev,OFF_THEME,3388,2026-09-19,False,"Not AI-related, just software discounts",remove,remove
+"Local Models, Inference & Hardware",bentoml/OpenLLM,https://github.com/bentoml/OpenLLM,FORMAT_ISSUE,12560,2026-10-12,False,Description exceeds the roughly 100-character limit.,keep,
+"Local Models, Inference & Hardware",mudler/LocalAI,https://github.com/mudler/LocalAI,FORMAT_ISSUE,49566,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+"Local Models, Inference & Hardware",sgl-project/sglang-omni,https://github.com/sgl-project/sglang-omni,NEEDS_HUMAN,1525,2026-10-16,False,Agent says move to Vision & Multimodal; judge says keep.,move,keep
+"Local Models, Inference & Hardware",PaddlePaddle/Serving,https://github.com/PaddlePaddle/Serving,STALE,925,2026-10-09,True,Repository is archived.,,
+"Local Models, Inference & Hardware",toverainc/willow-inference-server,https://github.com/toverainc/willow-inference-server,NEEDS_HUMAN,511,2026-02-12,False,"Agent says move to Voice, Speech & Audio; judge says keep.",move,keep
+"Local Models, Inference & Hardware",mudler/vllm.cpp,https://github.com/mudler/vllm.cpp,DEAD,450,2026-10-15,False,Linked name does not match the repository full_name.,,
+"Local Models, Inference & Hardware",onnx/turnkeyml,https://github.com/onnx/turnkeyml,MOVE,247,2026-07-01,False,"Move to Deployment, Serving & MLOps: ONNX model deployment",move,move
+"Local Models, Inference & Hardware",0xShug0/audio.cpp,https://github.com/0xShug0/audio.cpp,MOVE,3570,2026-10-16,False,"Move to Voice, Speech & Audio: Audio models inference",move,move
+"Local Models, Inference & Hardware",shell-nlp/gpt_server,https://github.com/shell-nlp/gpt_server,MOVE,253,2026-05-09,False,"Move to Deployment, Serving & MLOps: Production deployment framework",move,move
+"Local Models, Inference & Hardware",Tencent-Hunyuan/Hunyuan-A13B,https://github.com/Tencent-Hunyuan/Hunyuan-A13B,STALE,822,2025-07-08,False,No push since 2025-07-08.,,
+"Local Models, Inference & Hardware",nomic-ai/gpt4all,https://github.com/nomic-ai/gpt4all,STALE,77364,2025-05-27,False,No push since 2025-05-27.,,
+"Local Models, Inference & Hardware",Blaizzy/mlx-vlm,https://github.com/Blaizzy/mlx-vlm,MOVE,5630,2026-10-15,False,Move to Vision & Multimodal: Vision-language model,move,move
+"Local Models, Inference & Hardware",huggingface/transformers.js,https://github.com/huggingface/transformers.js,FORMAT_ISSUE,16350,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Local Models, Inference & Hardware",huggingface/transformers,https://github.com/huggingface/transformers,MOVE,167748,2026-10-16,False,"Move to Deployment, Serving & MLOps: Model library",move,move
+"Local Models, Inference & Hardware",deepspeedai/DeepSpeed,https://github.com/deepspeedai/DeepSpeed,FORMAT_ISSUE,43234,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+"Local Models, Inference & Hardware",huggingface/alignment-handbook,https://github.com/huggingface/alignment-handbook,MOVE,5696,2026-09-23,False,"Move to Interpretability, Alignment & Research: alignment handbook",move,move
+"Local Models, Inference & Hardware",pytorch/pytorch,https://github.com/pytorch/pytorch,MOVE,104791,2026-10-16,False,"Move to Deployment, Serving & MLOps: general ML framework",move,move
+"Local Models, Inference & Hardware",tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,MOVE,201055,2026-10-16,False,"Move to Deployment, Serving & MLOps: general ML framework",move,move
+"Evaluation, Observability & Code Review",langfuse/langfuse,https://github.com/langfuse/langfuse,MOVE,35889,2026-10-16,False,"Move to Deployment, Serving & MLOps: LLM observability",move,move
+"Evaluation, Observability & Code Review",Arize-ai/phoenix,https://github.com/Arize-ai/phoenix,MOVE,11868,2026-10-16,False,"Move to Deployment, Serving & MLOps: AI observability",move,move
+"Evaluation, Observability & Code Review",jaegertracing/jaeger,https://github.com/jaegertracing/jaeger,OFF_THEME,23298,2026-10-15,False,Generic tracing platform,remove,remove
+"Evaluation, Observability & Code Review",Jwuthri/Tracely-ai,https://github.com/Jwuthri/Tracely-ai,DEAD,,,,"404 - repo deleted, renamed, or private.",,
+"Evaluation, Observability & Code Review",T-Sunm/rag-ops,https://github.com/T-Sunm/rag-ops,MOVE,73,2026-09-29,False,"Move to Deployment, Serving & MLOps: LLMOps template",move,move
+"Evaluation, Observability & Code Review",llmops-build/llmops,https://github.com/llmops-build/llmops,MOVE,71,2026-08-15,False,"Move to Deployment, Serving & MLOps: LLMOps toolkit",move,move
+"Evaluation, Observability & Code Review",getagentseal/codeburn,https://github.com/getagentseal/codeburn,FORMAT_ISSUE,11467,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Evaluation, Observability & Code Review",nullclaw/nullhub,https://github.com/nullclaw/nullhub,OFF_THEME,1829,2026-10-04,False,Not related to AI agent tracing,remove,remove
+"Evaluation, Observability & Code Review",patoles/agent-flow,https://github.com/patoles/agent-flow,FORMAT_ISSUE,1710,2026-10-10,False,Description exceeds the roughly 100-character limit.,keep,
+"Evaluation, Observability & Code Review",builderz-labs/mission-control,https://github.com/builderz-labs/mission-control,FORMAT_ISSUE,6355,2026-10-12,False,Description exceeds the roughly 100-character limit.,keep,
+"Evaluation, Observability & Code Review",fivetran/great_expectations,https://github.com/fivetran/great_expectations,OFF_THEME,11874,2026-10-14,False,Not related to AI evaluation,remove,remove
+"Evaluation, Observability & Code Review",meshkovQA/Eval-ai-library,https://github.com/meshkovQA/Eval-ai-library,DEAD,60,2026-10-07,False,Linked name does not match the repository full_name.,,
+"Evaluation, Observability & Code Review",METR/vivaria,https://github.com/METR/vivaria,STALE,144,2026-10-07,True,Repository is archived.,,
+"Evaluation, Observability & Code Review",evo-hq/evo,https://github.com/evo-hq/evo,FORMAT_ISSUE,1472,2026-10-05,False,Description exceeds the roughly 100-character limit.,keep,
+"Evaluation, Observability & Code Review",Vchitect/VBench,https://github.com/Vchitect/VBench,MOVE,1824,2026-08-21,False,"Move to Image, Video & Creative Generation: Benchmark suite for evaluating video generation models",move,move
+"Evaluation, Observability & Code Review",IBM/AssetOpsBench,https://github.com/IBM/AssetOpsBench,FORMAT_ISSUE,2359,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Evaluation, Observability & Code Review",cyberful/cyberful,https://github.com/cyberful/cyberful,DEAD,139,2026-08-24,False,Linked name does not match the repository full_name.,,
+"Evaluation, Observability & Code Review",ProjectRecon/awesome-ai-agents-security,https://github.com/ProjectRecon/awesome-ai-agents-security,MOVE,76,2026-06-12,False,"Move to Other Awesome Lists: It's an awesome list, not a tool; belongs in Other Awesome Lists.",move,move
+"Evaluation, Observability & Code Review",jesseduffield/lazygit,https://github.com/jesseduffield/lazygit,OFF_THEME,83217,2026-10-16,False,"Generic terminal git UI, not AI-powered code review.",remove,remove
+Production Architectures & Reference Systems,apache/kafka,https://github.com/apache/kafka,OFF_THEME,34029,2026-10-16,False,Not related to AI or agents,remove,remove
+Production Architectures & Reference Systems,opena2a-org/agent-identity-management,https://github.com/opena2a-org/agent-identity-management,MOVE,67,2026-10-16,False,Move to Developer Tools & Utilities: Identity management layer for agents; better fits developer utilities.,move,move
+Production Architectures & Reference Systems,UnicoLab/agentomatic,https://github.com/UnicoLab/agentomatic,MOVE,1,2026-10-02,False,Move to Agent Frameworks & Orchestration: Zero-code multi-agent API platform framework; fits agent frameworks section.,move,move
+Production Architectures & Reference Systems,SaqlainXoas/python-ai-deployment-guide,https://github.com/SaqlainXoas/python-ai-deployment-guide,OFF_THEME,4,2026-01-09,False,Not AI-related,remove,remove
+Production Architectures & Reference Systems,vercel/chatbot,https://github.com/vercel/chatbot,MOVE,20995,2026-07-08,False,Move to UI & Application Layer: Not a production architecture,move,move
+Production Architectures & Reference Systems,entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS,https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS,STALE,146,2025-07-19,False,No push since 2025-07-19.,,
+Production Architectures & Reference Systems,aessaputra/rag-pdf-chatbot,https://github.com/aessaputra/rag-pdf-chatbot,DEAD,0,2026-09-29,False,Linked name does not match the repository full_name.,,
+Production Architectures & Reference Systems,Shubhamsaboo/awesome-llm-apps,https://github.com/Shubhamsaboo/awesome-llm-apps,MOVE,141924,2026-10-16,False,"Move to Other Awesome Lists: Curated list of apps, not a single system.",move,move
+Production Architectures & Reference Systems,ashishpatel26/500-AI-Agents-Projects,https://github.com/ashishpatel26/500-AI-Agents-Projects,MOVE,38713,2026-07-27,False,"Move to Other Awesome Lists: Collection of use‑case projects, not a concrete architecture.",move,move
+Production Architectures & Reference Systems,Arindam200/awesome-ai-apps,https://github.com/Arindam200/awesome-ai-apps,MOVE,16213,2026-10-09,False,"Move to Other Awesome Lists: Showcase collection, not an individual production system.",move,move
+Production Architectures & Reference Systems,souvikmajumder26/Multi-Agent-Medical-Assistant,https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant,STALE,991,2025-05-03,False,No push since 2025-05-03.,,
+Production Architectures & Reference Systems,hesamsheikh/awesome-openclaw-usecases,https://github.com/hesamsheikh/awesome-openclaw-usecases,MOVE,31660,2026-03-24,False,"Move to Other Awesome Lists: Community use‑case list, not an AI tool.",move,move
+Production Architectures & Reference Systems,RUC-NLPIR/Awesome-Long-Horizon-Agents,https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents,MOVE,838,2026-10-06,False,"Move to Learning Path: Roadmap and papers; educational resource, not a system.",move,move
+Production Architectures & Reference Systems,NirDiamant/GenAI_Agents,https://github.com/NirDiamant/GenAI_Agents,MOVE,24595,2026-10-08,False,"Move to Other Awesome Lists: Large tutorial collection, better suited as an awesome list.",move,move
+Production Architectures & Reference Systems,coleam00/ottomator-agents,https://github.com/coleam00/ottomator-agents,MOVE,5790,2025-11-09,False,"Move to Developer Tools & Utilities: Collection of agent templates, not a production example.",move,move
+UI & Application Layer,CopilotKit/OpenGenerativeUI,https://github.com/CopilotKit/OpenGenerativeUI,DEAD,3248,2026-10-13,False,Linked name does not match the repository full_name.,,
+UI & Application Layer,vercel-labs/json-render,https://github.com/vercel-labs/json-render,OFF_THEME,18686,2026-10-13,False,"Generic UI framework, no AI or agent focus.",remove,remove
+UI & Application Layer,Chainlit/chainlit,https://github.com/Chainlit/chainlit,STALE,12519,2026-09-18,True,Repository is archived.,,
+UI & Application Layer,mesop-dev/mesop,https://github.com/mesop-dev/mesop,STALE,6585,2026-09-26,True,Repository is archived.,,
+UI & Application Layer,plotly/dash,https://github.com/plotly/dash,OFF_THEME,24454,2026-10-15,False,"General data viz framework, not AI-specific UI tooling",remove,remove
+UI & Application Layer,cloudflare/agents-starter,https://github.com/cloudflare/agents-starter,MOVE,1344,2026-08-19,False,"Move to Agent Frameworks & Orchestration: Agent starter kit, not a UI/Chat component",move,move
+UI & Application Layer,bigskysoftware/htmx,https://github.com/bigskysoftware/htmx,OFF_THEME,49573,2026-10-15,False,"Not AI-related, generic web utility",remove,remove
+UI & Application Layer,nuxt/nuxt,https://github.com/nuxt/nuxt,NEEDS_HUMAN,60955,2026-10-16,False,"Agent keeps; judge says remove: Generic web framework, not AI‑specific tooling",keep,remove
+UI & Application Layer,alpinejs/alpine,https://github.com/alpinejs/alpine,OFF_THEME,31975,2026-10-05,False,"Not AI-related, minimal JS framework",remove,remove
+UI & Application Layer,preactjs/preact,https://github.com/preactjs/preact,OFF_THEME,38931,2026-10-15,False,"Not AI-related, generic web framework",remove,remove
+UI & Application Layer,lit/lit,https://github.com/lit/lit,OFF_THEME,21851,2026-09-24,False,"Not AI-related, generic web components",remove,remove
+UI & Application Layer,angular/angular,https://github.com/angular/angular,OFF_THEME,101061,2026-10-14,False,"Not AI-related, generic web framework",remove,remove
+UI & Application Layer,react/react,https://github.com/react/react,OFF_THEME,251152,2026-10-15,False,"Not AI-related, generic UI library",remove,remove
+UI & Application Layer,strawberry-graphql/strawberry,https://github.com/strawberry-graphql/strawberry,OFF_THEME,4723,2026-10-14,False,"Generic GraphQL library, not AI‑specific.",remove,remove
+UI & Application Layer,bradtraversy/design-resources-for-developers,https://github.com/bradtraversy/design-resources-for-developers,OFF_THEME,67192,2026-10-15,False,"Curated design resources, unrelated to AI.",remove,remove
+UI & Application Layer,ant-design/ant-design,https://github.com/ant-design/ant-design,OFF_THEME,99786,2026-10-16,False,"General React UI component library, no AI focus.",remove,remove
+UI & Application Layer,tailwindlabs/tailwindcss,https://github.com/tailwindlabs/tailwindcss,OFF_THEME,97881,2026-10-15,False,"Utility‑first CSS framework, not AI‑related.",remove,remove
+UI & Application Layer,mui/material-ui,https://github.com/mui/material-ui,OFF_THEME,99226,2026-10-16,False,"Generic Material UI library, no AI component.",remove,remove
+UI & Application Layer,saadeghi/daisyui,https://github.com/saadeghi/daisyui,OFF_THEME,42608,2026-10-13,False,"Tailwind component library, unrelated to AI.",remove,remove
+UI & Application Layer,chakra-ui/chakra-ui,https://github.com/chakra-ui/chakra-ui,OFF_THEME,40688,2026-10-12,False,"General React component system, not AI‑specific.",remove,remove
+UI & Application Layer,mantinedev/mantine,https://github.com/mantinedev/mantine,OFF_THEME,31837,2026-10-11,False,"Generic React component library, no AI focus.",remove,remove
+UI & Application Layer,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,OFF_THEME,41072,2026-10-16,False,"Generic low-code/CMS platform, not AI-specific tooling.",remove,remove
+UI & Application Layer,ToolJet/ToolJet,https://github.com/ToolJet/ToolJet,OFF_THEME,41094,2026-10-16,False,"Generic low-code/CMS platform, not AI-specific tooling.",remove,remove
+UI & Application Layer,refinedev/refine,https://github.com/refinedev/refine,OFF_THEME,35871,2026-09-10,False,"Generic low-code/CMS platform, not AI-specific tooling.",remove,remove
+UI & Application Layer,directus/directus,https://github.com/directus/directus,OFF_THEME,38532,2026-10-15,False,"Generic low-code/CMS platform, not AI-specific tooling.",remove,remove
+UI & Application Layer,strapi/strapi,https://github.com/strapi/strapi,OFF_THEME,73319,2026-10-15,False,"Generic low-code/CMS platform, not AI-specific tooling.",remove,remove
+UI & Application Layer,wagtail/wagtail,https://github.com/wagtail/wagtail,OFF_THEME,20573,2026-10-15,False,"Generic low-code/CMS platform, not AI-specific tooling.",remove,remove
+UI & Application Layer,TryGhost/Ghost,https://github.com/TryGhost/Ghost,OFF_THEME,55544,2026-10-15,False,"Generic low-code/CMS platform, not AI-specific tooling.",remove,remove
+UI & Application Layer,payloadcms/payload,https://github.com/payloadcms/payload,OFF_THEME,45280,2026-10-16,False,"Generic low-code/CMS platform, not AI-specific tooling.",remove,remove
+Learning Path,markredito/selfstudy-roadmap-ml-ai,https://github.com/markredito/selfstudy-roadmap-ml-ai,STALE,257,2023-10-25,False,No push since 2023-10-25.,,
+Learning Path,Developer-Y/cs-video-courses,https://github.com/Developer-Y/cs-video-courses,OFF_THEME,83682,2026-10-14,False,"Generic CS course, not AI-specific learning path.",remove,remove
+Learning Path,donnemartin/system-design-primer,https://github.com/donnemartin/system-design-primer,OFF_THEME,374380,2026-09-15,False,Not AI or ML related,remove,remove
+Learning Path,nilbuild/developer-roadmap,https://github.com/nilbuild/developer-roadmap,OFF_THEME,369503,2026-10-16,False,Generic programming roadmap,remove,remove
+Learning Path,keras-team/keras-io,https://github.com/keras-team/keras-io,NEEDS_HUMAN,3018,2026-09-23,False,Agent says remove (Non-AI library documentation); judge says move.,remove,move
+Learning Path,pytorch/examples,https://github.com/pytorch/examples,STALE,24071,2025-09-01,False,No push since 2025-09-01.,,
+Learning Path,freeCodeCamp/freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,OFF_THEME,457135,2026-10-16,False,Generic coding curriculum,remove,remove
+Learning Path,ossu/computer-science,https://github.com/ossu/computer-science,OFF_THEME,210035,2026-07-14,False,Generic CS curriculum,remove,remove
+Learning Path,trekhleb/javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,OFF_THEME,196677,2026-07-26,False,Generic algorithms in JS,remove,remove
+Learning Path,TheOdinProject/curriculum,https://github.com/TheOdinProject/curriculum,OFF_THEME,13149,2026-10-13,False,Generic web dev curriculum,remove,remove
+Learning Path,udlbook/udlbook,https://github.com/udlbook/udlbook,NEEDS_HUMAN,10018,2026-10-13,False,Agent says remove (Non-AI deep learning book); judge says keep.,remove,keep
+Learning Path,yandexdataschool/nlp_course,https://github.com/yandexdataschool/nlp_course,NEEDS_HUMAN,10735,2026-10-10,False,Agent says remove (Non-AI NLP course); judge says keep.,remove,keep
+Learning Path,DataTalksClub/data-engineering-zoomcamp,https://github.com/DataTalksClub/data-engineering-zoomcamp,OFF_THEME,46220,2026-10-15,False,"Generic data engineering course, not AI‑specific.",remove,remove
+Learning Path,Anil-matcha/ai-creator-academy,https://github.com/Anil-matcha/ai-creator-academy,NEEDS_HUMAN,3,2026-10-15,False,Agent says remove (Not AI agent related); judge says keep.,remove,keep
+Learning Path,FareedKhan-dev/langgraph-101,https://github.com/FareedKhan-dev/langgraph-101,STALE,9,2025-05-27,False,Repository is a fork.,,
+Learning Path,openai/openai-cua-sample-app,https://github.com/openai/openai-cua-sample-app,MOVE,1899,2026-09-04,False,Move to Computer Use & GUI Agents: Computer using agent,move,move
+Learning Path,steel-dev/steel-cookbook,https://github.com/steel-dev/steel-cookbook,NEEDS_HUMAN,113,2026-09-18,False,Agent says remove (Not AI related); judge says keep.,remove,keep
+Learning Path,nebius/token-factory-cookbook,https://github.com/nebius/token-factory-cookbook,NEEDS_HUMAN,150,2026-10-07,False,Agent says remove (Not AI related); judge says keep.,remove,keep
+Learning Path,somilsin/Transformers_Large-Language-Models,https://github.com/somilsin/Transformers_Large-Language-Models,DEAD,,,,"404 - repo deleted, renamed, or private.",,
+Learning Path,humanlayer/12-factor-agents,https://github.com/humanlayer/12-factor-agents,STALE,26696,2025-09-21,False,No push since 2025-09-21.,,
+Learning Path,Hannibal046/Awesome-LLM,https://github.com/Hannibal046/Awesome-LLM,STALE,27445,2025-07-31,False,No push since 2025-07-31.,,
+Learning Path,papers-we-love/papers-we-love,https://github.com/papers-we-love/papers-we-love,OFF_THEME,110588,2026-09-29,False,"General CS papers list, not AI-specific, remove.",remove,remove
+Learning Path,jwasham/coding-interview-university,https://github.com/jwasham/coding-interview-university,STALE,362545,2025-08-28,False,No push since 2025-08-28.,,
+Learning Path,rust-lang/rustlings,https://github.com/rust-lang/rustlings,OFF_THEME,64367,2026-09-29,False,"Rust exercises are generic programming, not AI, remove.",remove,remove
+Learning Path,yangshun/tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,OFF_THEME,143034,2026-08-07,False,Not AI tooling; generic interview prep,remove,remove
+Learning Path,kdn251/interviews,https://github.com/kdn251/interviews,STALE,65284,2025-05-12,False,No push since 2025-05-12.,,
+Learning Path,tmgthb/Autonomous-Agents,https://github.com/tmgthb/Autonomous-Agents,OFF_THEME,1385,2026-06-24,False,"Research paper collection, not tooling; mismatched section",remove,remove
+Learning Path,fetchai/innovation-lab-examples,https://github.com/fetchai/innovation-lab-examples,MOVE,1151,2026-09-01,False,"Move to Learning Path: AI agent examples suit learning path, not interview prep",move,move
+Learning Path,NirDiamant/Agent_Memory_Techniques,https://github.com/NirDiamant/Agent_Memory_Techniques,MOVE,1107,2026-09-21,False,Move to Memory & Persistent Context: Agent memory notebooks fit memory section better,move,move
+"Voice, Speech & Audio",myshell-ai/OpenVoice,https://github.com/myshell-ai/OpenVoice,STALE,37898,2025-04-19,False,No push since 2025-04-19.,,
+"Voice, Speech & Audio",SparkAudio/Spark-TTS,https://github.com/SparkAudio/Spark-TTS,STALE,10983,2025-04-09,False,No push since 2025-04-09.,,
+"Voice, Speech & Audio",SesameAILabs/csm,https://github.com/SesameAILabs/csm,STALE,14730,2025-05-27,False,No push since 2025-05-27.,,
+"Voice, Speech & Audio",QwenAudio/qwen-audio-agent,https://github.com/QwenAudio/qwen-audio-agent,FORMAT_ISSUE,2923,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Voice, Speech & Audio",aubio/aubio,https://github.com/aubio/aubio,OFF_THEME,3773,2026-04-10,False,Not a voice or speech tool,remove,remove
+"Voice, Speech & Audio",spotify/pedalboard,https://github.com/spotify/pedalboard,OFF_THEME,6355,2026-10-07,False,Not a voice or speech tool,remove,remove
+"Voice, Speech & Audio",kamailio/kamailio,https://github.com/kamailio/kamailio,NEEDS_HUMAN,2976,2026-10-16,False,"Agent keeps; judge says remove: SIP server is telecom infrastructure, not AI",keep,remove
+"Voice, Speech & Audio",jambonz/jambonz-feature-server,https://github.com/jambonz/jambonz-feature-server,NEEDS_HUMAN,104,2026-10-12,False,"Agent keeps; judge says remove: Not an AI model, just telephony server.",keep,remove
+"Voice, Speech & Audio",hkjarral/AVA-AI-Voice-Agent-for-Asterisk,https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk,FORMAT_ISSUE,1244,2026-10-13,False,Description exceeds the roughly 100-character limit.,keep,
+Vision & Multimodal,haotian-liu/LLaVA,https://github.com/haotian-liu/LLaVA,STALE,25067,2024-08-12,False,No push since 2024-08-12.,,
+Vision & Multimodal,OpenGVLab/InternVL,https://github.com/OpenGVLab/InternVL,STALE,10166,2025-09-22,False,No push since 2025-09-22.,,
+Vision & Multimodal,facebookresearch/segment-anything,https://github.com/facebookresearch/segment-anything,STALE,55022,2024-09-18,False,No push since 2024-09-18.,,
+Vision & Multimodal,open-mmlab/mmdetection,https://github.com/open-mmlab/mmdetection,STALE,32989,2024-08-21,False,No push since 2024-08-21.,,
+Vision & Multimodal,rerun-io/rerun,https://github.com/rerun-io/rerun,MOVE,11598,2026-10-15,False,"Move to Developer Tools & Utilities: Rerun is a visualization SDK, not a vision model backbone.",move,move
+Vision & Multimodal,DepthAnything/Video-Depth-Anything,https://github.com/DepthAnything/Video-Depth-Anything,STALE,2262,2025-10-07,False,No push since 2025-10-07.,,
+Vision & Multimodal,nerfstudio-project/nerfstudio,https://github.com/nerfstudio-project/nerfstudio,STALE,12071,2025-07-29,False,No push since 2025-07-29.,,
+"Image, Video & Creative Generation",lllyasviel/stable-diffusion-webui-forge,https://github.com/lllyasviel/stable-diffusion-webui-forge,STALE,13069,2025-07-31,False,No push since 2025-07-31.,,
+"Image, Video & Creative Generation",comfyanonymous/ComfyUI,https://github.com/comfyanonymous/ComfyUI,DEAD,137771,2026-10-16,False,Linked name does not match the repository full_name.,,
+"Image, Video & Creative Generation",black-forest-labs/flux,https://github.com/black-forest-labs/flux,STALE,26015,2025-07-31,False,No push since 2025-07-31.,,
+"Image, Video & Creative Generation",MrForExample/ComfyUI-3D-Pack,https://github.com/MrForExample/ComfyUI-3D-Pack,MOVE,3885,2025-12-29,False,Move to Vision & Multimodal: 3D mesh processing not focused on image/video generation.,move,move
+"Image, Video & Creative Generation",showlab/Awesome-Video-Diffusion,https://github.com/showlab/Awesome-Video-Diffusion,FORMAT_ISSUE,5810,2026-10-05,False,Description exceeds the roughly 100-character limit.,keep,
+"Image, Video & Creative Generation",lllyasviel/FramePack,https://github.com/lllyasviel/FramePack,STALE,17296,2025-10-16,False,No push since 2025-10-16.,,
+"Image, Video & Creative Generation",browser-use/video-use,https://github.com/browser-use/video-use,MOVE,29040,2026-10-08,False,Move to Computer Use & GUI Agents: Video editing with coding agents,move,move
+"Image, Video & Creative Generation",KlingAIResearch/LivePortrait,https://github.com/KlingAIResearch/LivePortrait,NEEDS_HUMAN,19243,2026-06-01,False,"Agent says move to Image, Video & Creative Generation / Avatars & lip-sync; judge says keep.",move,keep
+"Image, Video & Creative Generation",antgroup/echomimic,https://github.com/antgroup/echomimic,NEEDS_HUMAN,4321,2026-04-07,False,"Agent says move to Image, Video & Creative Generation / Avatars & lip-sync; judge says keep.",move,keep
+"Image, Video & Creative Generation",jixiaozhong/Sonic,https://github.com/jixiaozhong/Sonic,NEEDS_HUMAN,3273,2026-01-08,False,"Agent says move to Image, Video & Creative Generation / Avatars & lip-sync; judge says keep.",move,keep
+"Image, Video & Creative Generation",antgroup/echomimic_v3,https://github.com/antgroup/echomimic_v3,NEEDS_HUMAN,1090,2026-03-18,False,"Agent says move to Image, Video & Creative Generation / Avatars & lip-sync; judge says keep.",move,keep
+"Image, Video & Creative Generation",HumanAIGC/AnimateAnyone,https://github.com/HumanAIGC/AnimateAnyone,STALE,14777,2025-09-20,False,No push since 2025-09-20.,,
+"Image, Video & Creative Generation",Rudrabha/Wav2Lip,https://github.com/Rudrabha/Wav2Lip,STALE,13242,2025-06-22,False,No push since 2025-06-22.,,
+"Image, Video & Creative Generation",met4citizen/TalkingHead,https://github.com/met4citizen/TalkingHead,NEEDS_HUMAN,1608,2026-10-11,False,"Agent says move to Image, Video & Creative Generation / Avatars & lip-sync; judge says keep.",move,keep
+"Image, Video & Creative Generation",chanjing-ai/Chanjing-Avatar,https://github.com/chanjing-ai/Chanjing-Avatar,NEEDS_HUMAN,35,2026-08-26,False,"Agent says move to Image, Video & Creative Generation / Avatars & lip-sync; judge says keep.",move,keep
+"Image, Video & Creative Generation",zyddnys/manga-image-translator,https://github.com/zyddnys/manga-image-translator,NEEDS_HUMAN,10505,2026-10-11,False,"Agent says remove (OCR and translation, not image generation); judge says move.",remove,move
+"Image, Video & Creative Generation",Stability-AI/stable-audio-tools,https://github.com/Stability-AI/stable-audio-tools,MOVE,3886,2026-10-09,False,"Move to Voice, Speech & Audio: Audio and music generation",move,move
+"Image, Video & Creative Generation",multimodal-art-projection/YuE,https://github.com/multimodal-art-projection/YuE,MOVE,12012,2026-10-06,False,"Move to Voice, Speech & Audio: Music generation with lyrics",move,move
+"Image, Video & Creative Generation",SonyResearch/Woosh,https://github.com/SonyResearch/Woosh,MOVE,394,2026-09-11,False,"Move to Voice, Speech & Audio: Audio generation model belongs in Voice, Speech & Audio, not image/video generation.",move,move
+"Image, Video & Creative Generation",magenta/magenta-realtime,https://github.com/magenta/magenta-realtime,MOVE,1831,2026-10-02,False,"Move to Voice, Speech & Audio: Audio generation model belongs in Voice, Speech & Audio, not image/video generation.",move,move
+"Image, Video & Creative Generation",xiaomi-research/controlfoley,https://github.com/xiaomi-research/controlfoley,MOVE,157,2026-08-28,False,"Move to Voice, Speech & Audio: Audio generation model belongs in Voice, Speech & Audio, not image/video generation.",move,move
+"Image, Video & Creative Generation",hypit-ai/hypit,https://github.com/hypit-ai/hypit,FORMAT_ISSUE,22650,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Computer Use & GUI Agents,openinterpreter/openinterpreter,https://github.com/openinterpreter/openinterpreter,MOVE,68583,2026-10-11,False,"Move to Coding Agents & Harnesses: Coding agent for open models, not specifically GUI/computer-use agent.",move,move
+Computer Use & GUI Agents,OthersideAI/self-operating-computer,https://github.com/OthersideAI/self-operating-computer,STALE,10291,2025-09-19,False,No push since 2025-09-19.,,
+Computer Use & GUI Agents,peakmojo/macos-visual-agent,https://github.com/peakmojo/macos-visual-agent,STALE,9,2025-10-05,False,No push since 2025-10-05.,,
+Computer Use & GUI Agents,feder-cr/invisible_dots,https://github.com/feder-cr/invisible_dots,FORMAT_ISSUE,32087,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Computer Use & GUI Agents,nxtscape/nxtscape,https://github.com/nxtscape/nxtscape,DEAD,13945,2026-10-16,False,Linked name does not match the repository full_name.,,
+Computer Use & GUI Agents,microsoft/OmniParser,https://github.com/microsoft/OmniParser,MOVE,25528,2026-07-20,False,Move to Vision & Multimodal: Focuses on vision-based GUI agent,move,move
+Computer Use & GUI Agents,showlab/ShowUI,https://github.com/showlab/ShowUI,MOVE,1917,2026-04-24,False,Move to Vision & Multimodal: Vision-language-action model,move,move
+Computer Use & GUI Agents,xlang-ai/OpenCUA,https://github.com/xlang-ai/OpenCUA,MOVE,852,2026-05-25,False,Move to Vision & Multimodal: Vision-language model for GUI,move,move
+Computer Use & GUI Agents,chelslava/rpaforge,https://github.com/chelslava/rpaforge,OFF_THEME,7,2026-10-13,False,Generic RPA studio without AI components.,remove,remove
+Computer Use & GUI Agents,open-rpa/openrpa,https://github.com/open-rpa/openrpa,OFF_THEME,3089,2026-04-15,False,Enterprise RPA lacking explicit AI/ML features.,remove,remove
+Computer Use & GUI Agents,botcity-dev/botcity-framework-core-python,https://github.com/botcity-dev/botcity-framework-core-python,NEEDS_HUMAN,144,2026-08-14,False,Agent says remove (Pure RPA framework without AI/ML components.); judge says keep.,remove,keep
+Computer Use & GUI Agents,robotframework/robotframework,https://github.com/robotframework/robotframework,OFF_THEME,11945,2026-10-06,False,Generic automation framework without AI/ML focus.,remove,remove
+Computer Use & GUI Agents,ReimuNotMoe/ydotool,https://github.com/ReimuNotMoe/ydotool,OFF_THEME,2370,2025-12-22,False,Generic command-line automation tool,remove,remove
+Computer Use & GUI Agents,appium/appium-mcp,https://github.com/appium/appium-mcp,MOVE,498,2026-10-14,False,Move to MCP Servers & Tool Integration: MCP related tool,move,move
+Computer Use & GUI Agents,mobile-dev-inc/Maestro,https://github.com/mobile-dev-inc/Maestro,OFF_THEME,16078,2026-10-16,False,Generic mobile automation tool without AI component.,remove,remove
+Computer Use & GUI Agents,devicelab-dev/maestro-runner,https://github.com/devicelab-dev/maestro-runner,OFF_THEME,505,2026-10-15,False,Generic mobile automation tool without AI component.,remove,remove
+Computer Use & GUI Agents,alibaba/tidevice,https://github.com/alibaba/tidevice,OFF_THEME,2606,2025-11-21,False,"Generic iOS communication library, no AI.",remove,remove
+Computer Use & GUI Agents,doronz88/pymobiledevice3,https://github.com/doronz88/pymobiledevice3,OFF_THEME,2881,2026-10-15,False,"Generic iOS device library, no AI.",remove,remove
+Computer Use & GUI Agents,Genymobile/scrcpy,https://github.com/Genymobile/scrcpy,OFF_THEME,152282,2026-10-14,False,"Generic screen mirroring tool, no AI.",remove,remove
+Computer Use & GUI Agents,danielpaulus/go-ios,https://github.com/danielpaulus/go-ios,OFF_THEME,2296,2026-10-09,False,"Generic iOS device control library, no AI.",remove,remove
+Computer Use & GUI Agents,barry-ran/QtScrcpy,https://github.com/barry-ran/QtScrcpy,OFF_THEME,32428,2026-10-15,False,"Generic display control software, no AI.",remove,remove
+Computer Use & GUI Agents,libimobiledevice/libimobiledevice,https://github.com/libimobiledevice/libimobiledevice,OFF_THEME,8261,2026-06-10,False,"Generic protocol library for iOS, no AI.",remove,remove
+Computer Use & GUI Agents,AirtestProject/Airtest,https://github.com/AirtestProject/Airtest,OFF_THEME,9604,2026-03-23,False,"Generic UI automation framework, no AI.",remove,remove
+Computer Use & GUI Agents,sickcodes/Docker-OSX,https://github.com/sickcodes/Docker-OSX,NEEDS_HUMAN,52986,2025-11-11,False,"Agent keeps; judge says remove: MacOS VM tool, unrelated to AI.",keep,remove
+Computer Use & GUI Agents,any1/wayvnc,https://github.com/any1/wayvnc,OFF_THEME,1844,2026-09-28,False,"Not AI-related, generic remote desktop tool",remove,remove
+Computer Use & GUI Agents,dwservice/agent,https://github.com/dwservice/agent,OFF_THEME,583,2026-09-18,False,"Not AI-related, generic remote admin tool",remove,remove
+Computer Use & GUI Agents,selkies-project/selkies,https://github.com/selkies-project/selkies,OFF_THEME,2332,2026-10-16,False,"Not AI-related, generic remote desktop tool",remove,remove
+Computer Use & GUI Agents,Xpra-org/xpra,https://github.com/Xpra-org/xpra,OFF_THEME,3015,2026-10-16,False,"Not AI-related, generic remote desktop tool",remove,remove
+Computer Use & GUI Agents,rdesktop/rdesktop,https://github.com/rdesktop/rdesktop,OFF_THEME,1354,2026-05-16,False,"Not AI-related, generic remote desktop tool",remove,remove
+Computer Use & GUI Agents,novnc/noVNC,https://github.com/novnc/noVNC,OFF_THEME,14111,2026-10-16,False,"Not AI-related, generic VNC client",remove,remove
+"Structured Output, Guardrails & Safety",royalpinto007/awesome-llm-guardrails,https://github.com/royalpinto007/awesome-llm-guardrails,NEEDS_HUMAN,0,2026-10-01,False,Agent says remove (Awesome list belongs in Other Awesome Lists section); judge says move.,remove,move
+"Structured Output, Guardrails & Safety",cedar-policy/cedar,https://github.com/cedar-policy/cedar,OFF_THEME,1787,2026-10-15,False,Generic policy language not specific to AI guardrails,remove,remove
+"Structured Output, Guardrails & Safety",lennney/stop-that-shit,https://github.com/lennney/stop-that-shit,FORMAT_ISSUE,2683,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Structured Output, Guardrails & Safety",a5c-ai/babysitter,https://github.com/a5c-ai/babysitter,FORMAT_ISSUE,1847,2026-09-16,False,Description exceeds the roughly 100-character limit.,keep,
+"Structured Output, Guardrails & Safety",usestrix/strix,https://github.com/usestrix/strix,NEEDS_HUMAN,68873,2026-10-15,False,"Agent says move to Structured Output, Guardrails & Safety / Red-teaming & security scanners; judge says keep.",move,keep
+"Structured Output, Guardrails & Safety",KeygraphHQ/shannon,https://github.com/KeygraphHQ/shannon,NEEDS_HUMAN,48938,2026-10-15,False,"Agent says move to Structured Output, Guardrails & Safety / Red-teaming & security scanners; judge says keep.",move,keep
+"Structured Output, Guardrails & Safety",NVIDIA/garak,https://github.com/NVIDIA/garak,NEEDS_HUMAN,9587,2026-10-15,False,"Agent says move to Structured Output, Guardrails & Safety / Red-teaming & security scanners; judge says keep.",move,keep
+"Structured Output, Guardrails & Safety",Giskard-AI/giskard-oss,https://github.com/Giskard-AI/giskard-oss,NEEDS_HUMAN,5906,2026-10-16,False,"Agent says move to Structured Output, Guardrails & Safety / Red-teaming & security scanners; judge says keep.",move,keep
+"Structured Output, Guardrails & Safety",confident-ai/deepteam,https://github.com/confident-ai/deepteam,NEEDS_HUMAN,3020,2026-10-01,False,"Agent says move to Structured Output, Guardrails & Safety / Red-teaming & security scanners; judge says keep.",move,keep
+"Structured Output, Guardrails & Safety",microsoft/AI-Red-Teaming-Playground-Labs,https://github.com/microsoft/AI-Red-Teaming-Playground-Labs,NEEDS_HUMAN,2094,2026-02-13,False,"Agent says move to Structured Output, Guardrails & Safety / Red-teaming & security scanners; judge says keep.",move,keep
+"Structured Output, Guardrails & Safety",thinkst/canarytokens,https://github.com/thinkst/canarytokens,OFF_THEME,2180,2026-10-09,False,Non-AI security tool for detecting breaches,remove,remove
+"Structured Output, Guardrails & Safety",vxcontrol/pentagi,https://github.com/vxcontrol/pentagi,MOVE,30571,2026-10-09,False,"Move to Agent Frameworks & Orchestration: Autonomous pentest agent framework, not a guardrail or validation tool.",move,move
+"Structured Output, Guardrails & Safety",Autumn-27/ARTEX,https://github.com/Autumn-27/ARTEX,DEAD,,,,"404 - repo deleted, renamed, or private.",,
+Chat UIs & Application Layer,Mintplex-Labs/anything-llm,https://github.com/Mintplex-Labs/anything-llm,NEEDS_HUMAN,67181,2026-10-16,False,Agent says move to Agent Frameworks & Orchestration; judge says keep.,move,keep
+Chat UIs & Application Layer,arc53/DocsGPT,https://github.com/arc53/DocsGPT,MOVE,18321,2026-10-15,False,Move to RAG & Retrieval: Private RAG chat platform,move,move
+Chat UIs & Application Layer,bionic-gpt/bionic-gpt,https://github.com/bionic-gpt/bionic-gpt,MOVE,2391,2026-10-07,False,Move to Agent Frameworks & Orchestration: Enterprise RAG chat with private data,move,move
+Chat UIs & Application Layer,oobabooga/textgen,https://github.com/oobabooga/textgen,FORMAT_ISSUE,47735,2026-08-17,False,Description exceeds the roughly 100-character limit.,keep,
+Chat UIs & Application Layer,teddashh/multi-ai-chat-desktop,https://github.com/teddashh/multi-ai-chat-desktop,DEAD,156,2026-10-14,False,Linked name does not match the repository full_name.,,
+Chat UIs & Application Layer,lencx/ChatGPT,https://github.com/lencx/ChatGPT,STALE,54616,2024-08-29,False,No push since 2024-08-29.,,
+Chat UIs & Application Layer,NaomiProject/Naomi,https://github.com/NaomiProject/Naomi,MOVE,304,2026-10-01,False,"Move to Voice, Speech & Audio: Voice-controlled assistant platform belongs to voice/speech section.",move,move
+Chat UIs & Application Layer,AppFlowy-IO/AppFlowy,https://github.com/AppFlowy-IO/AppFlowy,MOVE,77430,2026-10-08,False,Move to UI & Application Layer: AI collaborative workspace (Notion alternative) is not a chat UI.,move,move
+Chat UIs & Application Layer,toeverything/AFFiNE,https://github.com/toeverything/AFFiNE,MOVE,73559,2026-10-12,False,Move to UI & Application Layer: Next-gen knowledge base with AI copilot is not a chat UI.,move,move
+Chat UIs & Application Layer,odysseus-dev/odysseus,https://github.com/odysseus-dev/odysseus,MOVE,93644,2026-10-16,False,Move to UI & Application Layer: Self-hosted AI workspace is not a chat UI.,move,move
+Chat UIs & Application Layer,Team-Commonly/commonly,https://github.com/Team-Commonly/commonly,FORMAT_ISSUE,1363,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Chat UIs & Application Layer,yincongcyincong/MuseBot,https://github.com/yincongcyincong/MuseBot,FORMAT_ISSUE,1665,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Deployment, Serving & MLOps",predibase/lorax,https://github.com/predibase/lorax,STALE,3837,2026-05-28,True,Repository is archived.,,
+"Deployment, Serving & MLOps",ray-project/ray,https://github.com/ray-project/ray,FORMAT_ISSUE,44039,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,keep
+"Deployment, Serving & MLOps",kedro-org/kedro-viz,https://github.com/kedro-org/kedro-viz,MOVE,764,2026-10-15,False,"Move to Developer Tools & Utilities: Visualization tool for Kedro pipelines, not deployment/serving.",move,move
+"Deployment, Serving & MLOps",wandb/wandb,https://github.com/wandb/wandb,FORMAT_ISSUE,11300,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+"Deployment, Serving & MLOps",openshift/microshift,https://github.com/openshift/microshift,OFF_THEME,847,2026-10-15,False,"Not AI-specific, generic Kubernetes distribution",remove,remove
+"Deployment, Serving & MLOps",openyurtio/openyurt,https://github.com/openyurtio/openyurt,OFF_THEME,2007,2026-10-12,False,"Not AI-specific, generic Kubernetes distribution",remove,remove
+"Deployment, Serving & MLOps",kubeedge/kubeedge,https://github.com/kubeedge/kubeedge,OFF_THEME,7604,2026-09-23,False,"Not AI-specific, generic Kubernetes distribution",remove,remove
+"Deployment, Serving & MLOps",k3s-io/k3s,https://github.com/k3s-io/k3s,OFF_THEME,34202,2026-10-16,False,"Not AI-specific, generic Kubernetes distribution",remove,remove
+"Deployment, Serving & MLOps",k0sproject/k0s,https://github.com/k0sproject/k0s,OFF_THEME,6532,2026-10-16,False,"Not AI-specific, generic Kubernetes distribution",remove,remove
+"Deployment, Serving & MLOps",siderolabs/talos,https://github.com/siderolabs/talos,OFF_THEME,11354,2026-10-16,False,"Not AI-specific, generic Kubernetes distribution",remove,remove
+"Deployment, Serving & MLOps",knative/serving,https://github.com/knative/serving,OFF_THEME,6110,2026-10-16,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Deployment, Serving & MLOps",openfaas/faas,https://github.com/openfaas/faas,OFF_THEME,26250,2026-07-02,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Deployment, Serving & MLOps",nuclio/nuclio,https://github.com/nuclio/nuclio,OFF_THEME,5765,2026-10-15,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Deployment, Serving & MLOps",fission/fission,https://github.com/fission/fission,OFF_THEME,8934,2026-10-15,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Deployment, Serving & MLOps",argoproj/argo-cd,https://github.com/argoproj/argo-cd,OFF_THEME,24412,2026-10-16,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Deployment, Serving & MLOps",helm/helm,https://github.com/helm/helm,OFF_THEME,30326,2026-10-15,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Deployment, Serving & MLOps",fluxcd/flux2,https://github.com/fluxcd/flux2,OFF_THEME,8444,2026-10-14,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Deployment, Serving & MLOps",fluxcd/flagger,https://github.com/fluxcd/flagger,OFF_THEME,5418,2026-09-21,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Deployment, Serving & MLOps",argoproj/argo-rollouts,https://github.com/argoproj/argo-rollouts,OFF_THEME,3602,2026-10-16,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Deployment, Serving & MLOps",shipwright-io/build,https://github.com/shipwright-io/build,OFF_THEME,826,2026-10-16,False,"Generic Kubernetes/serverless/CI-CD tool, not AI-specific deployment/serving.",remove,remove
+"Data, Datasets & Synthetic Data",huggingface/datasets,https://github.com/huggingface/datasets,FORMAT_ISSUE,22060,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Data, Datasets & Synthetic Data",joke2k/faker,https://github.com/joke2k/faker,OFF_THEME,19447,2026-10-09,False,"General fake data library, not AI‑specific tooling.",remove,remove
+"Data, Datasets & Synthetic Data",awslabs/deequ,https://github.com/awslabs/deequ,NEEDS_HUMAN,3650,2026-10-13,False,"Agent says remove (Generic Spark data‑quality tool, not AI‑specific.); judge says keep.",remove,keep
+"Data, Datasets & Synthetic Data",elementary-data/elementary,https://github.com/elementary-data/elementary,NEEDS_HUMAN,2421,2026-10-13,False,"Agent says remove (General dbt observability, unrelated to AI tooling.); judge says move.",remove,move
+"Data, Datasets & Synthetic Data",unionai-oss/pandera,https://github.com/unionai-oss/pandera,NEEDS_HUMAN,4482,2026-10-15,False,"Agent says remove (General dataframe validation library, not AI‑focused.); judge says keep.",remove,keep
+"Data, Datasets & Synthetic Data",tobymao/sqlglot,https://github.com/tobymao/sqlglot,MOVE,9686,2026-10-16,False,"Move to Developer Tools & Utilities: General SQL parser, not AI‑specific.",move,move
+"Data, Datasets & Synthetic Data",ibis-project/ibis,https://github.com/ibis-project/ibis,MOVE,6676,2026-10-16,False,"Move to Developer Tools & Utilities: Generic dataframe API, unrelated to AI data tooling.",move,move
+"Data, Datasets & Synthetic Data",dask/dask,https://github.com/dask/dask,MOVE,13935,2026-09-29,False,"Move to Developer Tools & Utilities: General parallel computing library, not AI‑focused.",move,move
+"Data, Datasets & Synthetic Data",explosion/spaCy,https://github.com/explosion/spaCy,NEEDS_HUMAN,33967,2026-10-12,False,"Agent says remove (spaCy is an NLP processing library, not data curation or synthetic dataset tooling.); judge says move.",remove,move
+"Data, Datasets & Synthetic Data",flairNLP/flair,https://github.com/flairNLP/flair,NEEDS_HUMAN,14394,2025-10-27,False,"Agent says remove (flair is an NLP modeling framework, unrelated to data curation or synthetic dataset creation.); judge says move.",remove,move
+"Data, Datasets & Synthetic Data",stanfordnlp/stanza,https://github.com/stanfordnlp/stanza,NEEDS_HUMAN,7904,2026-10-15,False,"Agent says remove (stanza is a multilingual NLP toolkit for processing text, not data curation.); judge says move.",remove,move
+"Data, Datasets & Synthetic Data",huggingface/setfit,https://github.com/huggingface/setfit,NEEDS_HUMAN,2841,2026-10-06,False,"Agent says remove (setfit focuses on few‑shot classification with sentence embeddings, not data curation.); judge says move.",remove,move
+"Data, Datasets & Synthetic Data",languagetool-org/languagetool,https://github.com/languagetool-org/languagetool,OFF_THEME,15141,2026-10-16,False,"languagetool is a grammar checker, unrelated to data curation or synthetic datasets.",remove,remove
+"Data, Datasets & Synthetic Data",MaartenGr/BERTopic,https://github.com/MaartenGr/BERTopic,OFF_THEME,7893,2026-10-14,False,"BERTopic implements topic modeling with BERT, not data curation or synthetic data generation.",remove,remove
+"Data, Datasets & Synthetic Data",vega/altair,https://github.com/vega/altair,OFF_THEME,10500,2026-10-14,False,"altair is a declarative visualization library, not AI data curation or synthetic dataset tooling.",remove,remove
+"Data, Datasets & Synthetic Data",plotly/plotly.py,https://github.com/plotly/plotly.py,OFF_THEME,18843,2026-10-15,False,"plotly provides interactive charting, unrelated to data curation or synthetic dataset creation.",remove,remove
+"Data, Datasets & Synthetic Data",metabase/metabase,https://github.com/metabase/metabase,OFF_THEME,49694,2026-10-16,False,"metabase is a BI dashboard platform, not AI data curation or synthetic dataset tooling.",remove,remove
+"Data, Datasets & Synthetic Data",dmlc/dgl,https://github.com/dmlc/dgl,STALE,14284,2025-07-31,False,No push since 2025-07-31.,,
+"Data, Datasets & Synthetic Data",rapidsai/cugraph,https://github.com/rapidsai/cugraph,NEEDS_HUMAN,2246,2026-10-16,False,Agent keeps; judge says move: Graph analytics library not a dataset tool; miscategorized.,keep,move
+"Domain Agents: Finance, Healthcare, Research & More",OpenBB-finance/OpenBB,https://github.com/OpenBB-finance/OpenBB,DEAD,74282,2026-10-15,False,Linked name does not match the repository full_name.,,
+"Domain Agents: Finance, Healthcare, Research & More",YichengYang-Ethan/oracle3,https://github.com/YichengYang-Ethan/oracle3,DEAD,456,2026-10-12,False,Linked name does not match the repository full_name.,,
+"Domain Agents: Finance, Healthcare, Research & More",AI4Finance-Foundation/FinRL,https://github.com/AI4Finance-Foundation/FinRL,MOVE,16688,2026-10-13,False,"Move to Interpretability, Alignment & Research: RL library for trading research, not an end‑user finance agent.",move,move
+"Domain Agents: Finance, Healthcare, Research & More",Project-MONAI/MONAI,https://github.com/Project-MONAI/MONAI,MOVE,8783,2026-10-16,False,"Move to Vision & Multimodal: General medical imaging toolkit, not an agent.",move,move
+"Domain Agents: Finance, Healthcare, Research & More",shibing624/MedicalGPT,https://github.com/shibing624/MedicalGPT,MOVE,5864,2026-09-15,False,"Move to Local Models, Inference & Hardware: Model training pipeline, not a domain agent.",move,move
+"Domain Agents: Finance, Healthcare, Research & More",awslabs/hcls-agent-skills,https://github.com/awslabs/hcls-agent-skills,MOVE,63,2026-10-07,False,"Move to Skills, Plugins & Context Engineering: Collection of healthcare agent skills, not a full agent.",move,move
+"Domain Agents: Finance, Healthcare, Research & More",StanfordBDHG/HealthGPT,https://github.com/StanfordBDHG/HealthGPT,NEEDS_HUMAN,1964,2026-07-14,False,"Agent says remove (Not an AI tool, just queries Apple Health data); judge says keep.",remove,keep
+"Domain Agents: Finance, Healthcare, Research & More",The-Swarm-Corporation/MedicalCoderSwarm,https://github.com/The-Swarm-Corporation/MedicalCoderSwarm,STALE,55,2025-10-13,False,No push since 2025-10-13.,,
+"Domain Agents: Finance, Healthcare, Research & More",stanford-oval/storm,https://github.com/stanford-oval/storm,STALE,31645,2025-09-30,False,No push since 2025-09-30.,,
+"Domain Agents: Finance, Healthcare, Research & More",jina-ai/node-DeepResearch,https://github.com/jina-ai/node-DeepResearch,FORMAT_ISSUE,5237,2026-05-01,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",sinaptik-ai/pandas-ai,https://github.com/sinaptik-ai/pandas-ai,FORMAT_ISSUE,23879,2025-10-28,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",WecoAI/aideml,https://github.com/WecoAI/aideml,FORMAT_ISSUE,1580,2026-10-14,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",nexu-io/open-design,https://github.com/nexu-io/open-design,MOVE,101415,2026-10-16,False,"Move to Assistants, Copilots & Personal Agents: Design assistant, not finance/healthcare/legal domain",move,move
+"Domain Agents: Finance, Healthcare, Research & More",Armur-Ai/Pentest-Swarm-AI,https://github.com/Armur-Ai/Pentest-Swarm-AI,FORMAT_ISSUE,2986,2026-10-11,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",OpenNSWM-Lab/FAROS,https://github.com/OpenNSWM-Lab/FAROS,FORMAT_ISSUE,3041,2026-10-14,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",beenuar/AiSOC,https://github.com/beenuar/AiSOC,FORMAT_ISSUE,2413,2026-10-14,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",Lumiwealth/lumibot,https://github.com/Lumiwealth/lumibot,FORMAT_ISSUE,2128,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",kyky2347/ALTA,https://github.com/kyky2347/ALTA,FORMAT_ISSUE,1087,2026-10-07,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",GH05TCREW/pentestagent,https://github.com/GH05TCREW/pentestagent,FORMAT_ISSUE,3185,2026-10-12,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",samugit83/redamon,https://github.com/samugit83/redamon,FORMAT_ISSUE,3113,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Domain Agents: Finance, Healthcare, Research & More",SanMuzZzZz/LuaN1aoAgent,https://github.com/SanMuzZzZz/LuaN1aoAgent,MOVE,1422,2026-09-15,False,"Move to Domain Agents: Finance, Healthcare, Research & More: Penetration testing is cybersecurity, not legal.",move,move
+"Assistants, Copilots & Personal Agents",Panniantong/Agent-Reach,https://github.com/Panniantong/Agent-Reach,MOVE,97865,2026-10-15,False,"Move to Skills, Plugins & Context Engineering: Focuses on internet capability layer.",move,move
+"Assistants, Copilots & Personal Agents",RightNow-AI/openfang,https://github.com/RightNow-AI/openfang,MOVE,18214,2026-07-02,False,Move to Agent Frameworks & Orchestration: Focuses on agent OS and framework.,move,move
+"Assistants, Copilots & Personal Agents",utopusc/livinity-io,https://github.com/utopusc/livinity-io,MOVE,73,2026-08-04,False,Move to Production Architectures & Reference Systems: Focuses on cloud AI computer.,move,move
+"Assistants, Copilots & Personal Agents",missarii/Web-Pilot,https://github.com/missarii/Web-Pilot,MOVE,20,2026-09-25,False,"Move to Sandboxes, Browsers & Computer Use: Focuses on browser agent.",move,move
+"Assistants, Copilots & Personal Agents",NeOMakinG/desktop-ai-dashboard,https://github.com/NeOMakinG/desktop-ai-dashboard,MOVE,1,2026-09-22,False,"Move to Chat UIs & Application Layer: Dashboard UI for AI, not an autonomous assistant.",move,move
+"Assistants, Copilots & Personal Agents",PeterGreenAppliedAI/Invarail,https://github.com/PeterGreenAppliedAI/Invarail,MOVE,33,2026-10-05,False,"Move to Agent Frameworks & Orchestration: Framework for building agents, not a ready‑made personal assistant.",move,move
+"Assistants, Copilots & Personal Agents",spinabot/brigade,https://github.com/spinabot/brigade,MOVE,11335,2026-10-16,False,"Move to Agent Frameworks & Orchestration: Runtime for building agents, not a personal assistant",move,move
+"Assistants, Copilots & Personal Agents",holaboss-ai/holaOS,https://github.com/holaboss-ai/holaOS,MOVE,11446,2026-08-21,False,"Move to Agent Frameworks & Orchestration: Enterprise agentic workspace platform, not a personal agent",move,move
+"Assistants, Copilots & Personal Agents",the-open-agent/openagent,https://github.com/the-open-agent/openagent,FORMAT_ISSUE,5698,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Assistants, Copilots & Personal Agents",nanbingxyz/5ire,https://github.com/nanbingxyz/5ire,FORMAT_ISSUE,5370,2026-09-14,False,Description exceeds the roughly 100-character limit.,keep,
+"Assistants, Copilots & Personal Agents",OpenCoworkAI/open-cowork,https://github.com/OpenCoworkAI/open-cowork,FORMAT_ISSUE,2212,2026-10-13,False,Description exceeds the roughly 100-character limit.,keep,
+"Assistants, Copilots & Personal Agents",YaoApp/yao,https://github.com/YaoApp/yao,MOVE,8130,2026-10-15,False,"Move to Agent Frameworks & Orchestration: Agent orchestration platform, not a personal assistant.",move,move
+"Assistants, Copilots & Personal Agents",najmuzzaman-mohammad/gawkbot,https://github.com/najmuzzaman-mohammad/gawkbot,FORMAT_ISSUE,1501,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Assistants, Copilots & Personal Agents",ghostwright/phantom,https://github.com/ghostwright/phantom,FORMAT_ISSUE,1483,2026-06-16,False,Description exceeds the roughly 100-character limit.,keep,
+"Assistants, Copilots & Personal Agents",vellum-ai/vellum-assistant,https://github.com/vellum-ai/vellum-assistant,FORMAT_ISSUE,1430,2026-10-14,False,Description exceeds the roughly 100-character limit.,keep,
+"Assistants, Copilots & Personal Agents",mateaix/mateclaw,https://github.com/mateaix/mateclaw,FORMAT_ISSUE,1162,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+"Assistants, Copilots & Personal Agents",OpenWhispr/openwhispr,https://github.com/OpenWhispr/openwhispr,OFF_THEME,9463,2026-10-16,False,"Voice‑to‑text dictation app, not an assistant.",remove,remove
+"Assistants, Copilots & Personal Agents",hellotaotao/saytype,https://github.com/hellotaotao/saytype,DEAD,1,2026-10-15,False,Linked name does not match the repository full_name.,,
+"Assistants, Copilots & Personal Agents",mikeljc-dev/docsera,https://github.com/mikeljc-dev/docsera,MOVE,3,2026-09-02,False,"Move to Document Processing & Data Ingestion: Doc chat widget is document processing, not a personal assistant.",move,move
+"Assistants, Copilots & Personal Agents",yikart/AiToEarn,https://github.com/yikart/AiToEarn,MOVE,26541,2026-09-18,False,"Move to Workflow Automation: Auto‑publishing AI content is workflow automation, not a personal agent.",move,move
+"Assistants, Copilots & Personal Agents",KKKKhazix/AIHOT,https://github.com/KKKKhazix/AIHOT,MOVE,7836,2026-10-15,False,"Move to Workflow Automation: Trending report generator automates content workflow, not a personal assistant.",move,move
+"Assistants, Copilots & Personal Agents",melgarafael/DeskcommCRM,https://github.com/melgarafael/DeskcommCRM,MOVE,4626,2026-10-16,False,"Move to Domain Agents: Finance, Healthcare, Research & More: CRM with AI sales agents targets business domain, fits domain agents.",move,move
+"Interpretability, Alignment & Research",jacobgil/pytorch-grad-cam,https://github.com/jacobgil/pytorch-grad-cam,MOVE,13002,2026-08-13,False,Move to Vision & Multimodal: Focuses on computer vision models,move,move
+"Interpretability, Alignment & Research",p-e-w/heretic,https://github.com/p-e-w/heretic,OFF_THEME,35465,2026-10-12,False,Not related to steering or model editing,remove,remove
+"Interpretability, Alignment & Research",huggingface/trl,https://github.com/huggingface/trl,NEEDS_HUMAN,19525,2026-10-16,False,"Agent says move to Interpretability, Alignment & Research / RL & post-training; judge says keep.",move,keep
+"Interpretability, Alignment & Research",modelscope/ms-swift,https://github.com/modelscope/ms-swift,NEEDS_HUMAN,15860,2026-10-16,False,"Agent says move to Interpretability, Alignment & Research / RL & post-training; judge says keep.",move,keep
+"Interpretability, Alignment & Research",NVIDIA-NeMo/RL,https://github.com/NVIDIA-NeMo/RL,NEEDS_HUMAN,2067,2026-10-16,False,"Agent says move to Interpretability, Alignment & Research / RL & post-training; judge says keep.",move,keep
+"Interpretability, Alignment & Research",OpenRLHF/OpenRLHF,https://github.com/OpenRLHF/OpenRLHF,NEEDS_HUMAN,10090,2026-10-05,False,"Agent says move to Interpretability, Alignment & Research / RL & post-training; judge says keep.",move,keep
+"Interpretability, Alignment & Research",natolambert/rlhf-book,https://github.com/natolambert/rlhf-book,OFF_THEME,2454,2026-10-14,False,"Textbook, not a tooling or infrastructure project.",remove,remove
+"Interpretability, Alignment & Research",ShishirPatil/gorilla,https://github.com/ShishirPatil/gorilla,MOVE,13054,2026-04-13,False,"Move to Agent Frameworks & Orchestration: Focuses on function‑call training, not interpretability; fits agent tooling.",move,move
+"Interpretability, Alignment & Research",dair-ai/AI-Papers-of-the-Week,https://github.com/dair-ai/AI-Papers-of-the-Week,MOVE,13279,2026-10-12,False,"Move to Other Awesome Lists: Curated paper list, not research code; better as an awesome‑list entry.",move,move
+"Interpretability, Alignment & Research",mll-lab-nu/RAGEN,https://github.com/mll-lab-nu/RAGEN,FORMAT_ISSUE,2824,2026-08-23,False,Description exceeds the roughly 100-character limit.,keep,
+"Interpretability, Alignment & Research",ray-r-ren/agent-apprenticeship,https://github.com/ray-r-ren/agent-apprenticeship,FORMAT_ISSUE,1616,2026-10-10,False,Description exceeds the roughly 100-character limit.,keep,
+"Interpretability, Alignment & Research",Human-Agent-Society/CORAL,https://github.com/Human-Agent-Society/CORAL,FORMAT_ISSUE,1072,2026-09-08,False,Description exceeds the roughly 100-character limit.,keep,keep
+Developer Tools & Utilities,CapSoftware/Cap,https://github.com/CapSoftware/Cap,OFF_THEME,23356,2026-10-16,False,"Screen recorder, no AI component.",remove,remove
+Developer Tools & Utilities,astral-sh/uv,https://github.com/astral-sh/uv,OFF_THEME,90804,2026-10-16,False,"General Python package manager, not AI.",remove,remove
+Developer Tools & Utilities,jdx/mise,https://github.com/jdx/mise,OFF_THEME,35054,2026-10-16,False,"Version manager, unrelated to AI.",remove,remove
+Developer Tools & Utilities,hoppscotch/hoppscotch,https://github.com/hoppscotch/hoppscotch,OFF_THEME,80635,2026-10-12,False,"General API testing suite, no AI focus.",remove,remove
+Developer Tools & Utilities,usebruno/bruno,https://github.com/usebruno/bruno,OFF_THEME,47672,2026-10-15,False,"API IDE, not AI‑specific.",remove,remove
+Developer Tools & Utilities,rocketride-org/rocketride-server,https://github.com/rocketride-org/rocketride-server,MOVE,17764,2026-10-16,False,"Move to Agent Frameworks & Orchestration: AI pipeline/orchestration engine, fits agent frameworks layer.",move,move
+Developer Tools & Utilities,microsoft/foundry-dev-tools,https://github.com/microsoft/foundry-dev-tools,FORMAT_ISSUE,2056,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Developer Tools & Utilities,unkeyed/unkey,https://github.com/unkeyed/unkey,OFF_THEME,5466,2026-10-16,False,"General API key platform, not AI‑specific.",remove,remove
+Developer Tools & Utilities,zerotier/ZeroTierOne,https://github.com/zerotier/ZeroTierOne,OFF_THEME,17187,2026-09-03,False,"Virtual networking tool, unrelated to AI.",remove,remove
+Developer Tools & Utilities,cloudflare/cloudflared,https://github.com/cloudflare/cloudflared,OFF_THEME,16150,2026-10-15,False,"Secure tunnel client, not AI tooling.",remove,remove
+Developer Tools & Utilities,tailscale/tailscale,https://github.com/tailscale/tailscale,OFF_THEME,37630,2026-10-16,False,"Mesh VPN service, unrelated to AI.",remove,remove
+Developer Tools & Utilities,openziti/zrok,https://github.com/openziti/zrok,OFF_THEME,4776,2026-10-08,False,"Zero‑trust networking tool, not AI/LLM related",remove,remove
+Developer Tools & Utilities,fatedier/frp,https://github.com/fatedier/frp,OFF_THEME,109940,2026-10-15,False,"Reverse‑proxy/NAT traversal utility, unrelated to AI",remove,remove
+Developer Tools & Utilities,ekzhang/bore,https://github.com/ekzhang/bore,OFF_THEME,11532,2026-02-04,False,"Simple TCP tunnel CLI, not AI tooling",remove,remove
+Developer Tools & Utilities,rathole-org/rathole,https://github.com/rathole-org/rathole,OFF_THEME,14340,2026-08-23,False,"Lightweight reverse proxy, no AI component",remove,remove
+Developer Tools & Utilities,localtunnel/localtunnel,https://github.com/localtunnel/localtunnel,STALE,22492,2025-08-29,False,No push since 2025-08-29.,,
+Developer Tools & Utilities,caprover/caprover,https://github.com/caprover/caprover,OFF_THEME,15185,2026-10-13,False,"Self‑hosted PaaS platform, not AI specific",remove,remove
+Developer Tools & Utilities,coollabsio/coolify,https://github.com/coollabsio/coolify,OFF_THEME,63036,2026-10-15,False,"Heroku/Netlify alternative, unrelated to AI",remove,remove
+Developer Tools & Utilities,dokku/dokku,https://github.com/dokku/dokku,OFF_THEME,32186,2026-10-15,False,"Docker‑powered mini‑Heroku, not AI tooling",remove,remove
+Developer Tools & Utilities,nextcloud/server,https://github.com/nextcloud/server,OFF_THEME,37131,2026-10-16,False,"Self‑hosted file sync/collaboration, not AI",remove,remove
+Developer Tools & Utilities,portainer/portainer,https://github.com/portainer/portainer,OFF_THEME,38670,2026-10-16,False,"Container management UI, no AI relevance",remove,remove
+Developer Tools & Utilities,syncthing/syncthing,https://github.com/syncthing/syncthing,OFF_THEME,89435,2026-10-13,False,"Peer‑to‑peer file synchronization, not AI",remove,remove
+Developer Tools & Utilities,rclone/rclone,https://github.com/rclone/rclone,OFF_THEME,60321,2026-10-15,False,"General cloud storage sync tool, not AI/LLM related.",remove,remove
+Developer Tools & Utilities,borgbackup/borg,https://github.com/borgbackup/borg,OFF_THEME,13847,2026-10-14,False,"Backup archiver, unrelated to AI tooling.",remove,remove
+Developer Tools & Utilities,restic/restic,https://github.com/restic/restic,OFF_THEME,36602,2026-10-11,False,"Secure backup program, no AI component.",remove,remove
+Developer Tools & Utilities,louislam/uptime-kuma,https://github.com/louislam/uptime-kuma,OFF_THEME,92523,2026-10-16,False,"Self‑hosted uptime monitor, not AI.",remove,remove
+Developer Tools & Utilities,dgtlmoon/changedetection.io,https://github.com/dgtlmoon/changedetection.io,OFF_THEME,35048,2026-10-16,False,"Website change detection tool, unrelated to AI.",remove,remove
+Developer Tools & Utilities,Dokploy/dokploy,https://github.com/Dokploy/dokploy,OFF_THEME,37810,2026-10-15,False,"Generic PaaS deployment platform, no AI focus.",remove,remove
+Developer Tools & Utilities,verdaccio/verdaccio,https://github.com/verdaccio/verdaccio,OFF_THEME,17915,2026-10-15,False,"Private npm registry, not AI tooling.",remove,remove
+Developer Tools & Utilities,sonatype/nexus-public,https://github.com/sonatype/nexus-public,OFF_THEME,2675,2026-10-14,False,"Artifact repository manager, unrelated to AI.",remove,remove
+Developer Tools & Utilities,devpi/devpi,https://github.com/devpi/devpi,OFF_THEME,1238,2026-10-12,False,"PyPI server, not AI/LLM related.",remove,remove
+Developer Tools & Utilities,dzikoysk/reposilite,https://github.com/dzikoysk/reposilite,OFF_THEME,1893,2026-10-11,False,"Maven repository manager, no AI component.",remove,remove
+Developer Tools & Utilities,pypa/bandersnatch,https://github.com/pypa/bandersnatch,OFF_THEME,554,2026-10-14,False,"Package mirror client, not AI tooling.",remove,remove
+Developer Tools & Utilities,pnpm/pnpm,https://github.com/pnpm/pnpm,OFF_THEME,36816,2026-10-16,False,"JavaScript package manager, unrelated to AI.",remove,remove
+Developer Tools & Utilities,oven-sh/bun,https://github.com/oven-sh/bun,OFF_THEME,96259,2026-10-16,False,"JavaScript runtime/bundler, not AI.",remove,remove
+Developer Tools & Utilities,denoland/deno,https://github.com/denoland/deno,OFF_THEME,108699,2026-10-07,False,"Secure JS/TS runtime, no AI component.",remove,remove
+Other Awesome Lists,WenyuChiou/awesome-agentic-ai-zh,https://github.com/WenyuChiou/awesome-agentic-ai-zh,FORMAT_ISSUE,7698,2026-10-16,False,Description exceeds the roughly 100-character limit.,keep,
+Other Awesome Lists,caramaschiHG/awesome-ai-agents-2026,https://github.com/caramaschiHG/awesome-ai-agents-2026,FORMAT_ISSUE,1943,2026-06-10,False,Description exceeds the roughly 100-character limit.,keep,
+Other Awesome Lists,bradAGI/awesome-cli-coding-agents,https://github.com/bradAGI/awesome-cli-coding-agents,FORMAT_ISSUE,1361,2026-10-12,False,Description exceeds the roughly 100-character limit.,keep,
+Other Awesome Lists,webfuse-com/awesome-autoresearch,https://github.com/webfuse-com/awesome-autoresearch,FORMAT_ISSUE,2569,2026-09-21,False,Description exceeds the roughly 100-character limit.,keep,
+Other Awesome Lists,RyanAlberts/best-of-Agent-Harnesses,https://github.com/RyanAlberts/best-of-Agent-Harnesses,FORMAT_ISSUE,1243,2026-10-11,False,Description exceeds the roughly 100-character limit.,keep,
+Other Awesome Lists,jaw9c/awesome-remote-mcp-servers,https://github.com/jaw9c/awesome-remote-mcp-servers,OFF_THEME,1145,2026-09-24,False,"Curated list of MCP servers, not a tool or model",remove,remove
+Other Awesome Lists,xlite-dev/Awesome-LLM-Inference,https://github.com/xlite-dev/Awesome-LLM-Inference,OFF_THEME,5532,2026-08-14,False,"Awesome list of LLM inference papers, not a usable component",remove,remove
+Other Awesome Lists,AI-Efficiency/Awesome-Model-Quantization,https://github.com/AI-Efficiency/Awesome-Model-Quantization,OFF_THEME,2455,2026-10-16,False,"List of quantization papers/tools, not a direct AI tool",remove,remove
+Other Awesome Lists,avelino/awesome-go,https://github.com/avelino/awesome-go,OFF_THEME,188645,2026-10-15,False,"General Go libraries list, unrelated to AI tooling",remove,remove
+Other Awesome Lists,vinta/awesome-python,https://github.com/vinta/awesome-python,OFF_THEME,327758,2026-10-16,False,"General Python libraries list, not AI-specific tooling",remove,remove
+Other Awesome Lists,EthicalML/awesome-production-machine-learning,https://github.com/EthicalML/awesome-production-machine-learning,OFF_THEME,21011,2026-10-08,False,"Meta‑list of ML production tools, not a tool itself",remove,remove
+Other Awesome Lists,kelvins/awesome-mlops,https://github.com/kelvins/awesome-mlops,OFF_THEME,5287,2026-08-17,False,"Curated MLOps tools list, not a concrete tool",remove,remove
+Other Awesome Lists,KalyanKS-NLP/llm-engineer-toolkit,https://github.com/KalyanKS-NLP/llm-engineer-toolkit,OFF_THEME,10886,2026-10-11,False,"List of LLM libraries, not an actual library",remove,remove
+Other Awesome Lists,Sumanth077/ai-engineering-toolkit,https://github.com/Sumanth077/ai-engineering-toolkit,OFF_THEME,3396,2026-05-11,False,"Aggregated AI engineering libraries list, not a tool",remove,remove
+Other Awesome Lists,recodehive/machine-learning-repos,https://github.com/recodehive/machine-learning-repos,OFF_THEME,450,2026-03-27,False,"List of ML frameworks, not a specific AI component",remove,remove
+Other Awesome Lists,codefuse-ai/Awesome-Code-LLM,https://github.com/codefuse-ai/Awesome-Code-LLM,FORMAT_ISSUE,3447,2026-05-20,False,Description exceeds the roughly 100-character limit.,keep,
+Other Awesome Lists,ChristosChristofidis/awesome-deep-learning,https://github.com/ChristosChristofidis/awesome-deep-learning,STALE,29051,2025-05-26,False,No push since 2025-05-26.,,
+Other Awesome Lists,dipakkr/awesome-ai-engineering,https://github.com/dipakkr/awesome-ai-engineering,FORMAT_ISSUE,22395,2026-06-17,False,Description exceeds the roughly 100-character limit.,keep,
+Other Awesome Lists,genieincodebottle/generative-ai,https://github.com/genieincodebottle/generative-ai,FORMAT_ISSUE,2647,2026-10-08,False,Description exceeds the roughly 100-character limit.,keep,
+Other Awesome Lists,sindresorhus/awesome,https://github.com/sindresorhus/awesome,OFF_THEME,519619,2026-09-02,False,"General awesome list, not AI-specific.",remove,remove
+Other Awesome Lists,devtoolsd/awesome-cloud,https://github.com/devtoolsd/awesome-cloud,OFF_THEME,190,2026-04-19,False,"Cloud computing resources, not AI-specific.",remove,remove
+Other Awesome Lists,amartinson193/The-Ultimate-List-of-Free-SQL-Resources,https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources,STALE,177,2025-03-09,False,No push since 2025-03-09.,,
+Other Awesome Lists,Axorax/awesome-free-apps,https://github.com/Axorax/awesome-free-apps,OFF_THEME,7900,2026-10-16,False,"Free apps, not AI-specific.",remove,remove
+Other Awesome Lists,igorbarinov/awesome-data-engineering,https://github.com/igorbarinov/awesome-data-engineering,OFF_THEME,9171,2026-09-07,False,"Data engineering tools, not AI-specific.",remove,remove
+Other Awesome Lists,awesomedata/awesome-public-datasets,https://github.com/awesomedata/awesome-public-datasets,OFF_THEME,79528,2026-10-14,False,"Public datasets, not AI-specific.",remove,remove
+Other Awesome Lists,vonzosten/awesome-LangGraph,https://github.com/vonzosten/awesome-LangGraph,FORMAT_ISSUE,2025,2026-10-15,False,Description exceeds the roughly 100-character limit.,keep,
+Other Awesome Lists,VoltAgent/awesome-ai-agent-papers,https://github.com/VoltAgent/awesome-ai-agent-papers,FORMAT_ISSUE,1845,2026-10-02,False,Description exceeds the roughly 100-character limit.,keep,

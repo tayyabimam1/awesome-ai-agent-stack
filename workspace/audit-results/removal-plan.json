@@ -1,0 +1,373 @@
+{
+ "remove_all": [
+  "jonathanscholtes/azure-ai-foundry-agentic-workshop",
+  "OpenBMB/IoA",
+  "Exafunction/windsurf.nvim",
+  "plandex-ai/plandex",
+  "stitionai/devika",
+  "wrtnlabs/autobe",
+  "OthersideAI/self-operating-computer",
+  "peakmojo/macos-visual-agent",
+  "dmlc/dgl",
+  "predibase/lorax",
+  "getomni-ai/zerox",
+  "KOUISAmine/file-converter-tools",
+  "stanford-oval/storm",
+  "The-Swarm-Corporation/MedicalCoderSwarm",
+  "Jwuthri/Tracely-ai",
+  "METR/vivaria",
+  "MrFadiAi/free-llm-gateway",
+  "Hannibal046/Awesome-LLM",
+  "humanlayer/12-factor-agents",
+  "somilsin/Transformers_Large-Language-Models",
+  "nomic-ai/gpt4all",
+  "PaddlePaddle/Serving",
+  "Tencent-Hunyuan/Hunyuan-A13B",
+  "financial-datasets/mcp-server",
+  "isaacwasserman/mcp-snowflake-server",
+  "siva010928/multi-chat-mcp-server",
+  "campfirein/byterover-cli",
+  "LycheeMem/LycheeMem",
+  "cniu6/anyproxyai",
+  "experientiallabs/experiential",
+  "LanceZPF/agent-as-a-router",
+  "zhu327/gemini-openai-proxy",
+  "entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS",
+  "souvikmajumder26/Multi-Agent-Medical-Assistant",
+  "AnswerDotAI/RAGatouille",
+  "endee-io/endee",
+  "hseb-benchmark/hseb",
+  "stanford-futuredata/ColBERT",
+  "daytonaio/daytona",
+  "guia-matthieu/clawfu-skills",
+  "marv1nnnnn/llm-min.txt",
+  "microsoft/acon",
+  "Autumn-27/ARTEX",
+  "mesop-dev/mesop",
+  "haotian-liu/LLaVA",
+  "OpenGVLab/InternVL",
+  "wassupjay/n8n-free-templates",
+  "fhamborg/news-please",
+  "Chainlit/chainlit"
+ ],
+ "remove_section": [
+  [
+   "astral-sh/uv",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "borgbackup/borg",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "caprover/caprover",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "CapSoftware/Cap",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "cloudflare/cloudflared",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "coollabsio/coolify",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "denoland/deno",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "devpi/devpi",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "dgtlmoon/changedetection.io",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "dokku/dokku",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "Dokploy/dokploy",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "dzikoysk/reposilite",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "ekzhang/bore",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "fatedier/frp",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "hoppscotch/hoppscotch",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "jdx/mise",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "louislam/uptime-kuma",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "nextcloud/server",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "openziti/zrok",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "oven-sh/bun",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "pnpm/pnpm",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "portainer/portainer",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "pypa/bandersnatch",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "rathole-org/rathole",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "restic/restic",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "sonatype/nexus-public",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "syncthing/syncthing",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "tailscale/tailscale",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "unkeyed/unkey",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "usebruno/bruno",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "verdaccio/verdaccio",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "zerotier/ZeroTierOne",
+   "Developer Tools & Utilities"
+  ],
+  [
+   "public-apis/public-apis",
+   "Free LLM APIs & Free Tiers"
+  ],
+  [
+   "DataTalksClub/data-engineering-zoomcamp",
+   "Learning Path"
+  ],
+  [
+   "Developer-Y/cs-video-courses",
+   "Learning Path"
+  ],
+  [
+   "donnemartin/system-design-primer",
+   "Learning Path"
+  ],
+  [
+   "freeCodeCamp/freeCodeCamp",
+   "Learning Path"
+  ],
+  [
+   "nilbuild/developer-roadmap",
+   "Learning Path"
+  ],
+  [
+   "TheOdinProject/curriculum",
+   "Learning Path"
+  ],
+  [
+   "yangshun/tech-interview-handbook",
+   "Learning Path"
+  ],
+  [
+   "AI-Efficiency/Awesome-Model-Quantization",
+   "Other Awesome Lists"
+  ],
+  [
+   "avelino/awesome-go",
+   "Other Awesome Lists"
+  ],
+  [
+   "awesomedata/awesome-public-datasets",
+   "Other Awesome Lists"
+  ],
+  [
+   "Axorax/awesome-free-apps",
+   "Other Awesome Lists"
+  ],
+  [
+   "devtoolsd/awesome-cloud",
+   "Other Awesome Lists"
+  ],
+  [
+   "EthicalML/awesome-production-machine-learning",
+   "Other Awesome Lists"
+  ],
+  [
+   "igorbarinov/awesome-data-engineering",
+   "Other Awesome Lists"
+  ],
+  [
+   "KalyanKS-NLP/llm-engineer-toolkit",
+   "Other Awesome Lists"
+  ],
+  [
+   "kelvins/awesome-mlops",
+   "Other Awesome Lists"
+  ],
+  [
+   "recodehive/machine-learning-repos",
+   "Other Awesome Lists"
+  ],
+  [
+   "sindresorhus/awesome",
+   "Other Awesome Lists"
+  ],
+  [
+   "Sumanth077/ai-engineering-toolkit",
+   "Other Awesome Lists"
+  ],
+  [
+   "vinta/awesome-python",
+   "Other Awesome Lists"
+  ],
+  [
+   "xlite-dev/Awesome-LLM-Inference",
+   "Other Awesome Lists"
+  ],
+  [
+   "SaqlainXoas/python-ai-deployment-guide",
+   "Production Architectures & Reference Systems"
+  ],
+  [
+   "apache/stormcrawler",
+   "Sandboxes, Browsers & Computer Use"
+  ],
+  [
+   "autoscrape-labs/pydoll",
+   "Sandboxes, Browsers & Computer Use"
+  ],
+  [
+   "cporter202/scraping-apis-for-devs",
+   "Sandboxes, Browsers & Computer Use"
+  ],
+  [
+   "gocolly/colly",
+   "Sandboxes, Browsers & Computer Use"
+  ],
+  [
+   "jhy/jsoup",
+   "Sandboxes, Browsers & Computer Use"
+  ],
+  [
+   "scrapy/parsel",
+   "Sandboxes, Browsers & Computer Use"
+  ],
+  [
+   "SeleniumHQ/docker-selenium",
+   "Sandboxes, Browsers & Computer Use"
+  ],
+  [
+   "aubio/aubio",
+   "Voice, Speech & Audio"
+  ],
+  [
+   "spotify/pedalboard",
+   "Voice, Speech & Audio"
+  ]
+ ],
+ "rename": [
+  "google/A2A",
+  "MaxMiksa/Auto-Company",
+  "hellotaotao/saytype",
+  "teddashh/multi-ai-chat-desktop",
+  "All-Hands-AI/OpenHands",
+  "badlogic/pi-mono",
+  "chaitanyagiri/munder-difflin",
+  "Gitlawb/openclaude",
+  "Hmbown/Codewhale",
+  "Untrivial-ai/agent-orchestrator",
+  "nxtscape/nxtscape",
+  "OpenBB-finance/OpenBB",
+  "YichengYang-Ethan/oracle3",
+  "cyberful/cyberful",
+  "meshkovQA/Eval-ai-library",
+  "comfyanonymous/ComfyUI",
+  "mudler/vllm.cpp",
+  "getsentry/sentry-mcp",
+  "aessaputra/rag-pdf-chatbot",
+  "Azure/GPT-RAG",
+  "ItzCrazyKns/Perplexica",
+  "pathwaycom/llm-app",
+  "CopilotKit/OpenGenerativeUI"
+ ],
+ "kept_forks": [
+  [
+   "stackblitz-labs/bolt.diy",
+   "19948",
+   "2026-10-14"
+  ],
+  [
+   "Shubhamsaboo/all-rag-techniques",
+   "146",
+   "2025-06-10"
+  ]
+ ],
+ "canon": {
+  "google/A2A": "a2aproject/A2A",
+  "MaxMiksa/Auto-Company": "MaxMiksa/Autonomous-Company",
+  "hellotaotao/saytype": "hellotaotao/typealoud",
+  "teddashh/multi-ai-chat-desktop": "TED-H-com/multi-ai-chat-desktop",
+  "All-Hands-AI/OpenHands": "OpenHands/OpenHands",
+  "badlogic/pi-mono": "earendil-works/pi",
+  "chaitanyagiri/munder-difflin": "HarnessMD/munder-difflin",
+  "Gitlawb/openclaude": "Twigpine/openclaude",
+  "Hmbown/Codewhale": "codewhale-hq/Codewhale",
+  "Untrivial-ai/agent-orchestrator": "OrchestratorInc/agent-orchestrator",
+  "nxtscape/nxtscape": "browseros-ai/BrowserOS",
+  "OpenBB-finance/OpenBB": "openbq-org/OpenBB",
+  "YichengYang-Ethan/oracle3": "YichengYang-Ethan/oracle3-prediction-market-agent",
+  "cyberful/cyberful": "cyberful/cyberful-public",
+  "meshkovQA/Eval-ai-library": "evalaiqa/Eval-ai-library",
+  "comfyanonymous/ComfyUI": "Comfy-Org/ComfyUI",
+  "mudler/vllm.cpp": "localai-org/vllm.cpp",
+  "getsentry/sentry-mcp": "getsentry/toolkit",
+  "aessaputra/rag-pdf-chatbot": "aessaputra/papermind",
+  "Azure/GPT-RAG": "Azure/agent-landing-zone",
+  "ItzCrazyKns/Perplexica": "ItzCrazyKns/Vane",
+  "pathwaycom/llm-app": "pathwaycom/serviette",
+  "CopilotKit/OpenGenerativeUI": "CopilotKit/OpenIntelligentUI"
+ }
+}

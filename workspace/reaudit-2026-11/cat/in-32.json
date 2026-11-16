@@ -1,0 +1,455 @@
+[
+{
+"repo": "RupertAvery/DiffusionToolkit",
+"description": "Metadata-indexer and Viewer for AI-generated images",
+"topics": [
+"csharp",
+"dotnet",
+"image-indexing",
+"image-viewer",
+"stable-diffusion",
+"wpf",
+"pnginfo"
+],
+"language": "C#",
+"stars": 1023
+},
+{
+"repo": "shanraisshan/codex-cli-best-practice",
+"description": "from vibe coding to agentic engineering - practice makes codex perfect",
+"topics": [
+"agentic-ai",
+"agentic-coding",
+"agentic-engineering",
+"agentic-workflow",
+"ai",
+"ai-agents",
+"codex",
+"codex-ai",
+"codex-cli",
+"codex-cli-agents"
+],
+"language": "Python",
+"stars": 1022
+},
+{
+"repo": "probml/dynamax",
+"description": "A Python package for probabilistic state space modeling with JAX",
+"topics": [
+"state-space-models",
+"hidden-markov-models",
+"jax",
+"python",
+"kalman-filter"
+],
+"language": "Python",
+"stars": 1022
+},
+{
+"repo": "wangziqi06/724-office",
+"description": "7/24 Office — Self-evolving AI Agent system. 36 tools, 10,000 lines pure Python, modular architecture, MCP plugins, three-layer memory, nudge system, AI mirror, 24/7 production.",
+"topics": [],
+"language": "JavaScript",
+"stars": 1020
+},
+{
+"repo": "ConardLi/easy-agent",
+"description": "Production-ready open source terminal coding agent with readable, layered code: permission rules, OS sandboxing, MCP, skills, sub-agents, and Anthropic, OpenAI-compatible, Gemini, or local models.",
+"topics": [
+"agent",
+"ai-agent",
+"anthropic",
+"cli",
+"coding-agent",
+"developer-tools",
+"gemini",
+"llm",
+"mcp",
+"openai"
+],
+"language": "TypeScript",
+"stars": 1020
+},
+{
+"repo": "thu-ml/Causal-Forcing",
+"description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
+"topics": [
+"auto-regressive-diffusion-model",
+"autoregressive-models",
+"consistency-models",
+"diffusion",
+"diffusion-models",
+"distillation",
+"few-step-generation",
+"generative-ai",
+"video-diffusion-model",
+"video-generation"
+],
+"language": "Python",
+"stars": 1020
+},
+{
+"repo": "worldbench/awesome-3d-4d-world-models",
+"description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
+"topics": [
+"embodied-ai",
+"lidar-generation",
+"video-generation",
+"world-models",
+"occupancy-generation",
+"3d-generation",
+"4d-generation",
+"spatial-intelligence",
+"awesome-list",
+"autonomous-driving"
+],
+"language": "HTML",
+"stars": 1020
+},
+{
+"repo": "SafeAI-Lab-X/ClawKeeper",
+"description": "ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers (aka The Norton for OpenClaw)",
+"topics": [
+"agents",
+"openclaw",
+"plugins",
+"safety",
+"security",
+"skills"
+],
+"language": "TypeScript",
+"stars": 1020
+},
+{
+"repo": "pathintegral-institute/mcpm.sh",
+"description": "CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.",
+"topics": [
+"ai",
+"claude-desktop",
+"cli",
+"cline",
+"continue",
+"cursor",
+"goose",
+"llm",
+"mcp",
+"package-manager"
+],
+"language": "Python",
+"stars": 1019
+},
+{
+"repo": "HumeAI/tada",
+"description": "Open Source Speech Language Model",
+"topics": [],
+"language": "Jupyter Notebook",
+"stars": 1019
+},
+{
+"repo": "alumnium-hq/alumnium",
+"description": "End-to-End Testing Harness",
+"topics": [
+"ai",
+"llm",
+"selenium",
+"test-automation",
+"testing",
+"playwright",
+"appium",
+"python",
+"typescript",
+"java"
+],
+"language": "TypeScript",
+"stars": 1018
+},
+{
+"repo": "Azure-Samples/Cognitive-Speech-TTS",
+"description": "Microsoft Text-to-Speech API Samples",
+"topics": [
+"tts",
+"text-to-speech",
+"speech-synthesis",
+"text-to-wave",
+"text-to-mp3",
+"neuraltts",
+"transformer",
+"e2etts",
+"custom-neural-voice",
+"azure-tts"
+],
+"language": "Python",
+"stars": 1018
+},
+{
+"repo": "microsoft/DevSkim",
+"description": "DevSkim is a set of IDE plugins, language analyzers, and rules that provide security \"linting\" capabilities.",
+"topics": [
+"security",
+"sdl",
+"linter",
+"visual-studio-code-extension",
+"visual-studio-extension"
+],
+"language": "C#",
+"stars": 1017
+},
+{
+"repo": "TensorSpeech/TensorFlowASR",
+"description": ":zap: TensorFlowASR: Almost State-of-the-art Automatic Speech Recognition in Tensorflow 2. Supported languages that can use characters or subwords",
+"topics": [
+"automatic-speech-recognition",
+"deepspeech2",
+"speech-recognition",
+"speech-to-text",
+"tensorflow2",
+"rnn-transducer",
+"conformer",
+"tflite",
+"tflite-model",
+"tflite-convertion"
+],
+"language": "Python",
+"stars": 1017
+},
+{
+"repo": "xing5/mcp-google-sheets",
+"description": "This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets.",
+"topics": [
+"google",
+"mcp",
+"mcp-server",
+"spreadsheet"
+],
+"language": "Python",
+"stars": 1016
+},
+{
+"repo": "wk42worldworld/cybercode",
+"description": "整合 Claude Code 编程能力与 Hermes Agent 自进化能力的智能体 / An AI agent combining Claude Code coding capabilities with Hermes Agent self-evolution.",
+"topics": [],
+"language": "TypeScript",
+"stars": 1015
+},
+{
+"repo": "sophgo/tpu-mlir",
+"description": "Machine learning compiler based on MLIR for Sophgo TPU.",
+"topics": [
+"compiler",
+"llm",
+"mlir",
+"tpu"
+],
+"language": "C++",
+"stars": 1015
+},
+{
+"repo": "MadAppGang/claudish",
+"description": "Claude Code. Any Model. The most powerful AI coding agent now speaks every language.",
+"topics": [
+"ai",
+"claude",
+"claudecode"
+],
+"language": "TypeScript",
+"stars": 1012
+},
+{
+"repo": "tensorflow/neural-structured-learning",
+"description": "Training neural models with structured signals.",
+"topics": [
+"tensorflow",
+"graph-learning",
+"adversarial-learning",
+"neural-networks",
+"regularization",
+"structured-signals",
+"keras"
+],
+"language": "Python",
+"stars": 1012
+},
+{
+"repo": "Evolink-AI/awesome-openclaw-usecases-moltbook",
+"description": "📚 Real-world OpenClaw automation examples from Moltbook",
+"topics": [
+"awesome",
+"openclaw",
+"agentic-ai",
+"ai-agents",
+"automation",
+"awesome-list",
+"awesome-lists",
+"best-practices",
+"case-studies",
+"curation"
+],
+"language": "",
+"stars": 1012
+},
+{
+"repo": "PrithivirajDamodaran/FlashRank",
+"description": "Lite & Super-fast re-ranking for your search & retrieval pipelines.  Supports SoTA Listwise and Pairwise reranking based on LLMs and  cross-encoders and more.  Created by Prithivi Da, open for PRs & Collaborations.",
+"topics": [
+"cross-encoder",
+"full-text-search",
+"hybrid-search",
+"lexical-search",
+"rag",
+"ranking",
+"reranking",
+"retrieval-augmented-generation",
+"semantic-search",
+"vector-database"
+],
+"language": "Python",
+"stars": 1012
+},
+{
+"repo": "agent-sh/agentsys",
+"description": "AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+"topics": [
+"claude-code",
+"codex",
+"opencode",
+"anthropic",
+"claude",
+"code-review",
+"ai",
+"automation",
+"autonomous-agents",
+"cli"
+],
+"language": "JavaScript",
+"stars": 1011
+},
+{
+"repo": "jianzongwu/Awesome-Open-Vocabulary",
+"description": "(TPAMI 2024) A Survey on Open Vocabulary Learning",
+"topics": [
+"computer-vision",
+"deep-learning",
+"open-vocabulary",
+"tpami-2024"
+],
+"language": "",
+"stars": 1010
+},
+{
+"repo": "TinyLLaVA/TinyLLaVA_Factory",
+"description": "A Framework of Small-scale Large Multimodal Models",
+"topics": [
+"large-multimodal-models",
+"llama",
+"llava",
+"nlp",
+"tinyllama",
+"transformers",
+"vision-language"
+],
+"language": "Python",
+"stars": 1010
+},
+{
+"repo": "Jumpat/SegAnyGAussians",
+"description": "The official implementation of Segment Any 3D GAussians (AAAI-25)",
+"topics": [
+"3d-segmentation",
+"computer-vision",
+"gaussian-splatting",
+"segment-anything"
+],
+"language": "Jupyter Notebook",
+"stars": 1008
+},
+{
+"repo": "johnhuang316/code-index-mcp",
+"description": "A Model Context Protocol (MCP) server that helps large language models index, search, and analyze code repositories with minimal setup",
+"topics": [],
+"language": "Python",
+"stars": 1007
+},
+{
+"repo": "serverless/aws-ai-stack",
+"description": "AWS AI Stack – A ready-to-use, full-stack boilerplate project for building serverless AI applications on AWS",
+"topics": [
+"aws",
+"aws-bedrock",
+"aws-lambda",
+"claude-ai",
+"full-stack",
+"llama3",
+"serverless",
+"serverless-framework"
+],
+"language": "JavaScript",
+"stars": 1006
+},
+{
+"repo": "nv-tlabs/NKSR",
+"description": "[CVPR 2023 Highlight] Neural Kernel Surface Reconstruction",
+"topics": [
+"3d-reconstruction",
+"computer-vision",
+"graphics",
+"neural-kernel",
+"point-cloud"
+],
+"language": "Cuda",
+"stars": 1006
+},
+{
+"repo": "TransformerOptimus/SuperCoder",
+"description": "Open Source Autonomous Software Development System",
+"topics": [
+"ai",
+"ai-developer",
+"software-development",
+"golang",
+"go",
+"agent",
+"autonomous-agents",
+"claude-3",
+"golab",
+"gpt-4"
+],
+"language": "Rust",
+"stars": 1003
+},
+{
+"repo": "ShuaixinHuang/image-multiple-angles-3d-camera",
+"description": "🎬 Generate images from any camera viewpoint via 3D interactive control. Drag the camera in 3D space or use sliders to set azimuth/elevation/distance, then generate. Built with Three.js + Gradio, bilingual ZH/EN UI.",
+"topics": [
+"3d-camera",
+"computer-vision",
+"creative-ai",
+"gradio",
+"image-editing",
+"image-generation",
+"multi-angle",
+"python",
+"qwen",
+"qwen-image-edit"
+],
+"language": "Python",
+"stars": 1003
+},
+{
+"repo": "PINTO0309/onnx2tf",
+"description": "A tool for converting ONNX files to LiteRT/TFLite/TensorFlow, PyTorch native code (nn.Module), TorchScript (.pt), state_dict (.pt), Exported Program (.pt2), and Dynamo ONNX. It also supports direct conversion from LiteRT to PyTorch.",
+"topics": [
+"deep-learning",
+"machine-learning",
+"model-converter",
+"models",
+"onnx",
+"tensorflow",
+"tensorflow-lite",
+"tflite",
+"docker",
+"tfjs"
+],
+"language": "Python",
+"stars": 1001
+}
+]

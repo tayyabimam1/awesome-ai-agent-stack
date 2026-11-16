@@ -1,0 +1,458 @@
+[
+ [
+  "plandex-ai/plandex",
+  "Coding Agents & Harnesses"
+ ],
+ [
+  "Exafunction/windsurf.nvim",
+  "Coding Agents & Harnesses"
+ ],
+ [
+  "stitionai/devika",
+  "Coding Agents & Harnesses"
+ ],
+ [
+  "wrtnlabs/autobe",
+  "Coding Agents & Harnesses"
+ ],
+ [
+  "guia-matthieu/clawfu-skills",
+  "Skills, Plugins & Context Engineering"
+ ],
+ [
+  "marv1nnnnn/llm-min.txt",
+  "Skills, Plugins & Context Engineering"
+ ],
+ [
+  "microsoft/acon",
+  "Skills, Plugins & Context Engineering"
+ ],
+ [
+  "OpenBMB/IoA",
+  "Agent Frameworks & Orchestration"
+ ],
+ [
+  "jonathanscholtes/azure-ai-foundry-agentic-workshop",
+  "Agent Frameworks & Orchestration"
+ ],
+ [
+  "LycheeMem/LycheeMem",
+  "Memory & Persistent Context"
+ ],
+ [
+  "campfirein/byterover-cli",
+  "Memory & Persistent Context"
+ ],
+ [
+  "endee-io/endee",
+  "RAG & Retrieval"
+ ],
+ [
+  "AnswerDotAI/RAGatouille",
+  "RAG & Retrieval"
+ ],
+ [
+  "stanford-futuredata/ColBERT",
+  "RAG & Retrieval"
+ ],
+ [
+  "Shubhamsaboo/all-rag-techniques",
+  "RAG & Retrieval"
+ ],
+ [
+  "hseb-benchmark/hseb",
+  "RAG & Retrieval"
+ ],
+ [
+  "isaacwasserman/mcp-snowflake-server",
+  "MCP Servers & Tool Integration"
+ ],
+ [
+  "siva010928/multi-chat-mcp-server",
+  "MCP Servers & Tool Integration"
+ ],
+ [
+  "financial-datasets/mcp-server",
+  "MCP Servers & Tool Integration"
+ ],
+ [
+  "daytonaio/daytona",
+  "Sandboxes, Browsers & Computer Use"
+ ],
+ [
+  "autoscrape-labs/pydoll",
+  "Sandboxes, Browsers & Computer Use"
+ ],
+ [
+  "cporter202/scraping-apis-for-devs",
+  "Sandboxes, Browsers & Computer Use"
+ ],
+ [
+  "gocolly/colly",
+  "Sandboxes, Browsers & Computer Use"
+ ],
+ [
+  "apache/stormcrawler",
+  "Sandboxes, Browsers & Computer Use"
+ ],
+ [
+  "jhy/jsoup",
+  "Sandboxes, Browsers & Computer Use"
+ ],
+ [
+  "scrapy/parsel",
+  "Sandboxes, Browsers & Computer Use"
+ ],
+ [
+  "SeleniumHQ/docker-selenium",
+  "Sandboxes, Browsers & Computer Use"
+ ],
+ [
+  "KOUISAmine/file-converter-tools",
+  "Document Processing & Data Ingestion"
+ ],
+ [
+  "getomni-ai/zerox",
+  "Document Processing & Data Ingestion"
+ ],
+ [
+  "fhamborg/news-please",
+  "Document Processing & Data Ingestion"
+ ],
+ [
+  "wassupjay/n8n-free-templates",
+  "Workflow Automation"
+ ],
+ [
+  "cniu6/anyproxyai",
+  "Model Gateways & Routing"
+ ],
+ [
+  "experientiallabs/experiential",
+  "Model Gateways & Routing"
+ ],
+ [
+  "LanceZPF/agent-as-a-router",
+  "Model Gateways & Routing"
+ ],
+ [
+  "zhu327/gemini-openai-proxy",
+  "Model Gateways & Routing"
+ ],
+ [
+  "MrFadiAi/free-llm-gateway",
+  "Free LLM APIs & Free Tiers"
+ ],
+ [
+  "public-apis/public-apis",
+  "Free LLM APIs & Free Tiers"
+ ],
+ [
+  "PaddlePaddle/Serving",
+  "Local Models, Inference & Hardware"
+ ],
+ [
+  "Tencent-Hunyuan/Hunyuan-A13B",
+  "Local Models, Inference & Hardware"
+ ],
+ [
+  "nomic-ai/gpt4all",
+  "Local Models, Inference & Hardware"
+ ],
+ [
+  "Jwuthri/Tracely-ai",
+  "Evaluation, Observability & Code Review"
+ ],
+ [
+  "METR/vivaria",
+  "Evaluation, Observability & Code Review"
+ ],
+ [
+  "SaqlainXoas/python-ai-deployment-guide",
+  "Production Architectures & Reference Systems"
+ ],
+ [
+  "entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS",
+  "Production Architectures & Reference Systems"
+ ],
+ [
+  "souvikmajumder26/Multi-Agent-Medical-Assistant",
+  "Production Architectures & Reference Systems"
+ ],
+ [
+  "Chainlit/chainlit",
+  "UI & Application Layer"
+ ],
+ [
+  "mesop-dev/mesop",
+  "UI & Application Layer"
+ ],
+ [
+  "Developer-Y/cs-video-courses",
+  "Learning Path"
+ ],
+ [
+  "donnemartin/system-design-primer",
+  "Learning Path"
+ ],
+ [
+  "nilbuild/developer-roadmap",
+  "Learning Path"
+ ],
+ [
+  "freeCodeCamp/freeCodeCamp",
+  "Learning Path"
+ ],
+ [
+  "TheOdinProject/curriculum",
+  "Learning Path"
+ ],
+ [
+  "DataTalksClub/data-engineering-zoomcamp",
+  "Learning Path"
+ ],
+ [
+  "somilsin/Transformers_Large-Language-Models",
+  "Learning Path"
+ ],
+ [
+  "humanlayer/12-factor-agents",
+  "Learning Path"
+ ],
+ [
+  "Hannibal046/Awesome-LLM",
+  "Learning Path"
+ ],
+ [
+  "yangshun/tech-interview-handbook",
+  "Learning Path"
+ ],
+ [
+  "aubio/aubio",
+  "Voice, Speech & Audio"
+ ],
+ [
+  "spotify/pedalboard",
+  "Voice, Speech & Audio"
+ ],
+ [
+  "haotian-liu/LLaVA",
+  "Vision & Multimodal"
+ ],
+ [
+  "OpenGVLab/InternVL",
+  "Vision & Multimodal"
+ ],
+ [
+  "OthersideAI/self-operating-computer",
+  "Computer Use & GUI Agents"
+ ],
+ [
+  "peakmojo/macos-visual-agent",
+  "Computer Use & GUI Agents"
+ ],
+ [
+  "Autumn-27/ARTEX",
+  "Structured Output, Guardrails & Safety"
+ ],
+ [
+  "predibase/lorax",
+  "Deployment, Serving & MLOps"
+ ],
+ [
+  "dmlc/dgl",
+  "Data, Datasets & Synthetic Data"
+ ],
+ [
+  "The-Swarm-Corporation/MedicalCoderSwarm",
+  "Domain Agents: Finance, Healthcare, Research & More"
+ ],
+ [
+  "stanford-oval/storm",
+  "Domain Agents: Finance, Healthcare, Research & More"
+ ],
+ [
+  "CapSoftware/Cap",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "astral-sh/uv",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "jdx/mise",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "hoppscotch/hoppscotch",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "usebruno/bruno",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "unkeyed/unkey",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "zerotier/ZeroTierOne",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "cloudflare/cloudflared",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "tailscale/tailscale",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "openziti/zrok",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "fatedier/frp",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "ekzhang/bore",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "rathole-org/rathole",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "caprover/caprover",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "coollabsio/coolify",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "dokku/dokku",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "nextcloud/server",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "portainer/portainer",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "syncthing/syncthing",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "borgbackup/borg",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "restic/restic",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "louislam/uptime-kuma",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "dgtlmoon/changedetection.io",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "Dokploy/dokploy",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "verdaccio/verdaccio",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "sonatype/nexus-public",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "devpi/devpi",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "dzikoysk/reposilite",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "pypa/bandersnatch",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "pnpm/pnpm",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "oven-sh/bun",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "denoland/deno",
+  "Developer Tools & Utilities"
+ ],
+ [
+  "xlite-dev/Awesome-LLM-Inference",
+  "Other Awesome Lists"
+ ],
+ [
+  "AI-Efficiency/Awesome-Model-Quantization",
+  "Other Awesome Lists"
+ ],
+ [
+  "avelino/awesome-go",
+  "Other Awesome Lists"
+ ],
+ [
+  "vinta/awesome-python",
+  "Other Awesome Lists"
+ ],
+ [
+  "EthicalML/awesome-production-machine-learning",
+  "Other Awesome Lists"
+ ],
+ [
+  "kelvins/awesome-mlops",
+  "Other Awesome Lists"
+ ],
+ [
+  "KalyanKS-NLP/llm-engineer-toolkit",
+  "Other Awesome Lists"
+ ],
+ [
+  "Sumanth077/ai-engineering-toolkit",
+  "Other Awesome Lists"
+ ],
+ [
+  "recodehive/machine-learning-repos",
+  "Other Awesome Lists"
+ ],
+ [
+  "sindresorhus/awesome",
+  "Other Awesome Lists"
+ ],
+ [
+  "devtoolsd/awesome-cloud",
+  "Other Awesome Lists"
+ ],
+ [
+  "Axorax/awesome-free-apps",
+  "Other Awesome Lists"
+ ],
+ [
+  "igorbarinov/awesome-data-engineering",
+  "Other Awesome Lists"
+ ],
+ [
+  "awesomedata/awesome-public-datasets",
+  "Other Awesome Lists"
+ ]
+]
