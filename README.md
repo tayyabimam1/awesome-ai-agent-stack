@@ -553,6 +553,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [github/spec-kit](https://github.com/github/spec-kit) - Toolkit to help you get started with Spec-Driven Development.
 - [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Spec-driven development system with codebase standards.
+- [sandeco/reversa](https://github.com/sandeco/reversa) - Turn legacy systems into executable specifications for AI coding agents.
 
 **Codebase context & packing**
 
@@ -3188,6 +3189,7 @@
 - [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, and various other applications.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open video generation.
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Alibaba's open text/image-to-video generation and video-editing model suite.
+- [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Open and advanced large-scale video generative models from Alibaba.
 - [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - Lightricks' open real-time text-to-video generation model.
 - [mikehalleen/the-halleen-machine](https://github.com/mikehalleen/the-halleen-machine) - Agentic system managing AI video projects via ComfyUI.
 - [genmoai/mochi](https://github.com/genmoai/mochi) - Open-source text-to-video generation models by Genmo.
@@ -3888,6 +3890,8 @@
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Deep reinforcement learning library for financial trading.
 - [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel) - Self-hosted A-share stock screening, monitoring and backtesting with LLM analysis.
 - [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Autonomous AI trading agent across prediction and crypto markets.
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Foundation model for the language of financial markets.
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - Finance terminal with market analytics, research and AI agents.
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM-driven multi-market stock analysis with market data, news, a dashboard and scheduled alerts.
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - Chinese-enhanced multi-agent LLM framework for financial trading analysis, based on TradingAgents.
 
@@ -4090,6 +4094,7 @@
 - [opencrabs/opencrabs](https://github.com/opencrabs/opencrabs) - The autonomous, self-improving AI agent: single Rust binary; builds apps, manages files, deep research, TUI/CLI/daemon.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative; choose your own model and sandbox.
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI agent productivity platform.
+- [isair/jarvis](https://github.com/isair/jarvis) - Private local AI assistant with voice, personal memory and MCP tools; runs offline.
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - Personal agent on a $5 chip: no OS, no Node, no server.
 - [makecindy/cindy](https://github.com/makecindy/cindy) - Open-source AI agent that works out of the box.
 - [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) - Open-source personal agent for every device you own.
