@@ -1,6 +1,6 @@
 {
  "id": "awesomeStackPromo1",
- "name": "Awesome AI Agent Stack: daily promo",
+ "name": "Awesome AI Agent Stack: promo",
  "active": false,
  "settings": {
   "executionOrder": "v1",
@@ -9,7 +9,7 @@
  "nodes": [
   {
    "id": "n1",
-   "name": "Every day 14:00 UTC",
+   "name": "Daily spotlight 14:00 UTC",
    "type": "n8n-nodes-base.scheduleTrigger",
    "typeVersion": 1.2,
    "position": [
@@ -29,45 +29,52 @@
   },
   {
    "id": "n2",
+   "name": "Weekly roundup Mon 15:00 UTC",
+   "type": "n8n-nodes-base.scheduleTrigger",
+   "typeVersion": 1.2,
+   "position": [
+    0,
+    180
+   ],
+   "parameters": {
+    "rule": {
+     "interval": [
+      {
+       "field": "cronExpression",
+       "expression": "0 15 * * 1"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "n3",
    "name": "Run now (webhook)",
    "type": "n8n-nodes-base.webhook",
    "typeVersion": 2,
    "position": [
     0,
-    200
+    360
    ],
-   "webhookId": "WEBHOOK_TOKEN",
    "parameters": {
     "httpMethod": "POST",
     "path": "WEBHOOK_TOKEN",
     "responseMode": "lastNode",
     "options": {}
-   }
+   },
+   "webhookId": "WEBHOOK_TOKEN"
   },
   {
-   "id": "n3",
+   "id": "n4",
    "name": "Write posts",
    "type": "n8n-nodes-base.code",
    "typeVersion": 2,
    "position": [
-    260,
-    100
+    280,
+    180
    ],
    "parameters": {
-    "jsCode": "// Pick today's category and five of its tools, then write one short and one long post.\nconst SITE = 'https://tayyabimam1.github.io/awesome-ai-agent-stack/';\nconst data = await this.helpers.httpRequest({ url: SITE + 'data.json', json: true });\nconst day = Math.floor(Date.now() / 86400000);\nconst sections = data.sections.filter((s) => s.count >= 10);\nconst sec = sections[day % sections.length];\nconst entries = sec.blocks.flatMap((b) => b.entries || []).filter((e) => e.u && e.s).sort((a, b) => b.s - a.s);\n// each time a category comes round again, show the next five tools (within its top 30)\nconst round = Math.floor(day / sections.length);\nconst start = (round * 5) % Math.max(1, Math.min(entries.length - 4, 26));\nconst picks = entries.slice(start, start + 5).map((e) => ({ name: e.n, stars: e.s, about: e.d, url: e.u }));\nconst url = SITE + sec.slug + '.html';\nconst k = (n) => (n >= 1000 ? Math.round(n / 1000) + 'k' : String(n));\n\nconst fallbackShort = `${sec.title}: ${picks.slice(0, 3).map((p) => p.name.split('/')[1]).join(', ')} and ${sec.count - 3} more open-source tools, ranked by GitHub stars.\\n${url}`;\nconst fallbackLong = `${sec.title}: ${sec.count} open-source tools, ranked by GitHub stars.\\n\\n` +\n  picks.map((p) => `- ${p.name} (${k(p.stars)} stars): ${p.about}`).join('\\n') +\n  `\\n\\nFull list: ${url}\\nAll ${data.total.toLocaleString('en-US')} tools: ${SITE}`;\n\nlet short = fallbackShort, long = fallbackLong, source = 'template';\nfor (let attempt = 0; attempt < 3 && source === 'template'; attempt++) try {   // free gateways fail now and then\n  const res = await this.helpers.httpRequest({\n    method: 'POST', url: $env.FREELLMAPI_URL + '/chat/completions', json: true, timeout: 120000,\n    headers: { Authorization: 'Bearer ' + $env.FREELLMAPI_KEY },\n    body: {\n      model: 'auto', temperature: 0.7, max_tokens: 900,\n      messages: [\n        { role: 'system', content: 'You write social posts for \"Awesome AI Agent Stack\", a free open-source list of AI agent tools ranked by GitHub stars. Plain, specific, no hype words, no emoji, no hashtags, no invented facts: use only the tools and numbers given. Reply with JSON only: {\"short\": \"...\", \"long\": \"...\"}. \"short\" is one post under 240 characters that names 2 or 3 of the tools and ends with the link. \"long\" is a LinkedIn-style post of 80 to 140 words that says what the category is for, lists the five tools with one plain line each, and ends with the link.' },\n        { role: 'user', content: JSON.stringify({ category: sec.title, what_it_is: sec.tagline, tools_in_category: sec.count, tools: picks, link: url }) },\n      ],\n    },\n  });\n  const text = (res.choices[0].message.content || '').replace(/<think>[\\s\\S]*?<\\/think>/g, '');\n  const j = JSON.parse(text.slice(text.indexOf('{'), text.lastIndexOf('}') + 1));\n  const ok = (t, max) => typeof t === 'string' && t.includes(url) && t.length <= max && t.length > 40;\n  if (ok(j.short, 280) && ok(j.long, 1500)) { short = j.short; long = j.long; source = 'llm'; }\n} catch (e) { /* gateway down or bad JSON: the template posts are used */ }\n\nreturn [{ json: { category: sec.title, url, picks, short, long, source } }];\n"
-   }
-  },
-  {
-   "id": "n4",
-   "name": "Bluesky and Mastodon",
-   "type": "n8n-nodes-base.code",
-   "typeVersion": 2,
-   "position": [
-    520,
-    320
-   ],
-   "parameters": {
-    "jsCode": "// Post the short text to Bluesky and Mastodon when their settings exist. PROMO_MODE=draft (default) posts nothing.\nconst item = $input.first().json;\nconst { short, url } = item;\nconst live = ($env.PROMO_MODE || 'draft') === 'now';\nconst out = { ...item, mode: live ? 'now' : 'draft', bluesky: 'not configured', mastodon: 'not configured' };\n\nif ($env.BLUESKY_HANDLE && $env.BLUESKY_APP_PASSWORD) {\n  if (!live) out.bluesky = 'draft only';\n  else try {\n    const pds = 'https://bsky.social/xrpc/';\n    const s = await this.helpers.httpRequest({ method: 'POST', url: pds + 'com.atproto.server.createSession', json: true,\n      body: { identifier: $env.BLUESKY_HANDLE, password: $env.BLUESKY_APP_PASSWORD } });\n    // Bluesky needs the link marked by byte offsets to be clickable\n    const start = Buffer.byteLength(short.slice(0, short.indexOf(url)), 'utf8');\n    const facets = short.includes(url) ? [{ index: { byteStart: start, byteEnd: start + Buffer.byteLength(url, 'utf8') },\n      features: [{ $type: 'app.bsky.richtext.facet#link', uri: url }] }] : [];\n    const r = await this.helpers.httpRequest({ method: 'POST', url: pds + 'com.atproto.repo.createRecord', json: true,\n      headers: { Authorization: 'Bearer ' + s.accessJwt },\n      body: { repo: s.did, collection: 'app.bsky.feed.post',\n        record: { $type: 'app.bsky.feed.post', text: short, facets, createdAt: new Date().toISOString() } } });\n    out.bluesky = 'posted ' + r.uri;\n  } catch (e) { out.bluesky = 'failed: ' + String(e.message).slice(0, 200); }\n}\n\nif ($env.MASTODON_URL && $env.MASTODON_TOKEN) {\n  if (!live) out.mastodon = 'draft only';\n  else try {\n    const r = await this.helpers.httpRequest({ method: 'POST', url: $env.MASTODON_URL.replace(/\\/$/, '') + '/api/v1/statuses', json: true,\n      headers: { Authorization: 'Bearer ' + $env.MASTODON_TOKEN }, body: { status: short, visibility: 'public' } });\n    out.mastodon = 'posted ' + r.url;\n  } catch (e) { out.mastodon = 'failed: ' + String(e.message).slice(0, 200); }\n}\nreturn [{ json: out }];\n"
+    "jsCode": "// Decide what this run is (daily spotlight or weekly roundup), pick the tools, and write the texts.\nconst SITE = 'https://tayyabimam1.github.io/awesome-ai-agent-stack/';\nconst REPO = 'https://github.com/tayyabimam1/awesome-ai-agent-stack';\nconst input = $input.first().json;\nconst now = new Date();\nconst kind = (input.body && input.body.kind) || (now.getUTCDay() === 1 && now.getUTCHours() >= 15 ? 'weekly' : 'spotlight');\nconst data = await this.helpers.httpRequest({ url: SITE + 'data.json', json: true });\nconst store = $getWorkflowStaticData('global');\nconst k = (n) => (n >= 1000 ? Math.round(n / 1000) + 'k' : String(n));\nconst all = data.sections.flatMap((s) => s.blocks.flatMap((b) => (b.entries || []).filter((e) => e.u && e.s).map((e) => ({ name: e.n, stars: e.s, about: e.d, url: e.u, category: s.title }))));\n\nlet title, url, picks, context;\nif (kind === 'weekly') {\n  // new since the last weekly run; the first run has no snapshot, so it shows the most-starred tools\n  const seen = new Set(store.seenRepos || []);\n  const fresh = seen.size ? all.filter((e) => !seen.has(e.name)) : [];\n  const unique = [...new Map((fresh.length >= 5 ? fresh : all).map((e) => [e.name, e])).values()].sort((a, b) => b.stars - a.stars);\n  picks = unique.slice(0, 10);\n  title = fresh.length >= 5 ? `${fresh.length} tools added to the Awesome AI Agent Stack this week` : 'The 10 most-starred open-source AI agent tools right now';\n  url = SITE;\n  context = fresh.length >= 5 ? 'New additions this week, most-starred first.' : 'The most-starred projects on the whole list.';\n  store.seenRepos = [...new Set(all.map((e) => e.name))];\n} else {\n  const day = Math.floor(Date.now() / 86400000);\n  const sections = data.sections.filter((s) => s.count >= 10);\n  const sec = sections[day % sections.length];\n  const entries = all.filter((e) => e.category === sec.title).sort((a, b) => b.stars - a.stars);\n  // each time a category comes round again, show the next five tools (within its top 30)\n  const start = (Math.floor(day / sections.length) * 5) % Math.max(1, Math.min(entries.length - 4, 26));\n  picks = entries.slice(start, start + 5);\n  title = `${sec.title}: ${sec.count} open-source tools, ranked by GitHub stars`;\n  url = SITE + sec.slug + '.html';\n  context = sec.tagline;\n}\n\nconst names = picks.slice(0, 3).map((p) => p.name.split('/')[1]).join(', ');\nconst bullets = picks.map((p) => `- ${p.name} (${k(p.stars)} stars): ${p.about}`).join('\\n');\nlet short = `${title.length < 90 ? title : title.split(':')[0]}. Includes ${names}.\\n${url}`;\nlet long = `${title}\\n\\n${bullets}\\n\\nFull list: ${url}\\nAll ${data.total.toLocaleString('en-US')} tools: ${SITE}`;\nlet source = 'template';\nfor (let attempt = 0; attempt < 3 && source === 'template'; attempt++) try {   // free gateways fail now and then\n  const res = await this.helpers.httpRequest({\n    method: 'POST', url: $env.FREELLMAPI_URL + '/chat/completions', json: true, timeout: 120000,\n    headers: { Authorization: 'Bearer ' + $env.FREELLMAPI_KEY },\n    body: {\n      model: 'auto', temperature: 0.7, max_tokens: 1100,\n      messages: [\n        { role: 'system', content: 'You write social posts for \"Awesome AI Agent Stack\", a free open-source list of AI agent tools ranked by GitHub stars. Plain, specific, no hype words, no emoji, no hashtags, no invented facts: use only the tools and numbers given. Reply with JSON only: {\"short\": \"...\", \"long\": \"...\"}. \"short\" is one post under 240 characters that names 2 or 3 of the tools and ends with the link. \"long\" is a LinkedIn-style post of 80 to 160 words that opens with what this is, lists the tools with one plain line each, and ends with the link.' },\n        { role: 'user', content: JSON.stringify({ headline: title, context, tools: picks, link: url }) },\n      ],\n    },\n  });\n  const text = (res.choices[0].message.content || '').replace(/<think>[\\s\\S]*?<\\/think>/g, '');\n  const j = JSON.parse(text.slice(text.indexOf('{'), text.lastIndexOf('}') + 1));\n  const ok = (t, max) => typeof t === 'string' && t.includes(url) && t.length <= max && t.length > 40;\n  if (ok(j.short, 280) && ok(j.long, 1900)) { short = j.short; long = j.long; source = 'llm'; }\n} catch (e) { /* the template texts are used */ }\n\n// weekly runs also get a full article (facts only, no model text) for dev.to\nconst article = kind !== 'weekly' ? null : {\n  title,\n  tags: ['ai', 'opensource', 'agents', 'llm'],\n  markdown: `${context}\\n\\n` + picks.map((p, i) => `## ${i + 1}. [${p.name}](${p.url})\\n\\n${p.about}\\n\\n**${p.stars.toLocaleString('en-US')} stars** \u00b7 ${p.category}`).join('\\n\\n') +\n    `\\n\\n---\\n\\nThis is from [Awesome AI Agent Stack](${SITE}), a free map of ${data.total.toLocaleString('en-US')} open-source AI agent tools in ${data.sections.length} categories, ranked by GitHub stars. The source is on [GitHub](${REPO}).`,\n};\nreturn [{ json: { kind, title, url, picks, short, long, source, article, mode: ($env.PROMO_MODE || 'draft') === 'now' ? 'now' : 'draft', results: {} } }];\n"
    }
   },
   {
@@ -76,18 +83,18 @@
    "type": "n8n-nodes-base.twitter",
    "typeVersion": 2,
    "position": [
-    520,
-    -100
+    560,
+    -220
    ],
-   "disabled": true,
-   "onError": "continueRegularOutput",
-   "notes": "Pick your X credential here, then enable this node.",
    "parameters": {
     "resource": "tweet",
     "operation": "create",
     "text": "={{ $json.short }}",
     "additionalFields": {}
-   }
+   },
+   "notes": "Pick your X credential, then enable this node.",
+   "disabled": true,
+   "onError": "continueRegularOutput"
   },
   {
    "id": "n6",
@@ -95,23 +102,220 @@
    "type": "n8n-nodes-base.linkedIn",
    "typeVersion": 1,
    "position": [
-    520,
-    100
+    560,
+    -60
    ],
-   "disabled": true,
-   "onError": "continueRegularOutput",
-   "notes": "Pick your LinkedIn credential and person here, then enable this node.",
    "parameters": {
     "resource": "post",
     "operation": "create",
     "postAs": "person",
     "text": "={{ $json.long }}",
     "additionalFields": {}
+   },
+   "notes": "Pick your LinkedIn credential and person, then enable this node.",
+   "disabled": true,
+   "onError": "continueRegularOutput"
+  },
+  {
+   "id": "n7",
+   "name": "Post to Reddit",
+   "type": "n8n-nodes-base.reddit",
+   "typeVersion": 1,
+   "position": [
+    560,
+    100
+   ],
+   "parameters": {
+    "resource": "post",
+    "operation": "create",
+    "subreddit": "SideProject",
+    "kind": "self",
+    "title": "={{ $json.title }}",
+    "text": "={{ $json.long }}"
+   },
+   "notes": "Pick your Reddit credential and a subreddit that allows this, then enable. Reddit communities expect a human to reply.",
+   "disabled": true,
+   "onError": "continueRegularOutput"
+  },
+  {
+   "id": "n8",
+   "name": "Bluesky",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    560,
+    300
+   ],
+   "parameters": {
+    "jsCode": "// Bluesky: needs BLUESKY_HANDLE and BLUESKY_APP_PASSWORD (Settings, App passwords).\nconst item = $input.first().json;\nconst results = { ...(item.results || {}) };\nconst live = item.mode === 'now';\nif (!$env.BLUESKY_HANDLE || !$env.BLUESKY_APP_PASSWORD) results.bluesky = 'not configured';\nelse if (!live) results.bluesky = 'draft only';\nelse try {\n  const pds = 'https://bsky.social/xrpc/';\n  const s = await this.helpers.httpRequest({ method: 'POST', url: pds + 'com.atproto.server.createSession', json: true,\n    body: { identifier: $env.BLUESKY_HANDLE, password: $env.BLUESKY_APP_PASSWORD } });\n  // the link has to be marked by byte offsets to be clickable\n  const at = item.short.indexOf(item.url);\n  const start = Buffer.byteLength(item.short.slice(0, Math.max(at, 0)), 'utf8');\n  const facets = at < 0 ? [] : [{ index: { byteStart: start, byteEnd: start + Buffer.byteLength(item.url, 'utf8') },\n    features: [{ $type: 'app.bsky.richtext.facet#link', uri: item.url }] }];\n  const r = await this.helpers.httpRequest({ method: 'POST', url: pds + 'com.atproto.repo.createRecord', json: true,\n    headers: { Authorization: 'Bearer ' + s.accessJwt },\n    body: { repo: s.did, collection: 'app.bsky.feed.post',\n      record: { $type: 'app.bsky.feed.post', text: item.short, facets, createdAt: new Date().toISOString() } } });\n  results.bluesky = 'posted ' + r.uri;\n} catch (e) { results.bluesky = 'failed: ' + String(e.message).slice(0, 200); }\nreturn [{ json: { ...item, results } }];\n"
+   }
+  },
+  {
+   "id": "n9",
+   "name": "Mastodon",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    800,
+    300
+   ],
+   "parameters": {
+    "jsCode": "// Mastodon: needs MASTODON_URL and MASTODON_TOKEN (an access token with write:statuses).\nconst item = $input.first().json;\nconst results = { ...(item.results || {}) };\nconst live = item.mode === 'now';\nif (!$env.MASTODON_URL || !$env.MASTODON_TOKEN) results.mastodon = 'not configured';\nelse if (!live) results.mastodon = 'draft only';\nelse try {\n  const r = await this.helpers.httpRequest({ method: 'POST', url: $env.MASTODON_URL.replace(/\\/$/, '') + '/api/v1/statuses', json: true,\n    headers: { Authorization: 'Bearer ' + $env.MASTODON_TOKEN }, body: { status: item.short, visibility: 'public' } });\n  results.mastodon = 'posted ' + r.url;\n} catch (e) { results.mastodon = 'failed: ' + String(e.message).slice(0, 200); }\nreturn [{ json: { ...item, results } }];\n"
+   }
+  },
+  {
+   "id": "n10",
+   "name": "Discord",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    1040,
+    300
+   ],
+   "parameters": {
+    "jsCode": "// Discord: needs DISCORD_WEBHOOK_URL (channel settings, Integrations, Webhooks).\nconst item = $input.first().json;\nconst results = { ...(item.results || {}) };\nconst live = item.mode === 'now';\nif (!$env.DISCORD_WEBHOOK_URL) results.discord = 'not configured';\nelse if (!live) results.discord = 'draft only';\nelse try {\n  await this.helpers.httpRequest({ method: 'POST', url: $env.DISCORD_WEBHOOK_URL, json: true, body: { content: item.long.slice(0, 1990) } });\n  results.discord = 'posted';\n} catch (e) { results.discord = 'failed: ' + String(e.message).slice(0, 200); }\nreturn [{ json: { ...item, results } }];\n"
+   }
+  },
+  {
+   "id": "n11",
+   "name": "Telegram",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    1280,
+    300
+   ],
+   "parameters": {
+    "jsCode": "// Telegram: needs TELEGRAM_BOT_TOKEN (from @BotFather) and TELEGRAM_CHAT_ID (the channel, e.g. @mychannel).\nconst item = $input.first().json;\nconst results = { ...(item.results || {}) };\nconst live = item.mode === 'now';\nif (!$env.TELEGRAM_BOT_TOKEN || !$env.TELEGRAM_CHAT_ID) results.telegram = 'not configured';\nelse if (!live) results.telegram = 'draft only';\nelse try {\n  await this.helpers.httpRequest({ method: 'POST', url: 'https://api.telegram.org/bot' + $env.TELEGRAM_BOT_TOKEN + '/sendMessage', json: true,\n    body: { chat_id: $env.TELEGRAM_CHAT_ID, text: item.long.slice(0, 4000), disable_web_page_preview: false } });\n  results.telegram = 'posted';\n} catch (e) { results.telegram = 'failed: ' + String(e.message).slice(0, 200); }\nreturn [{ json: { ...item, results } }];\n"
+   }
+  },
+  {
+   "id": "n12",
+   "name": "dev.to article (weekly)",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    1520,
+    300
+   ],
+   "parameters": {
+    "jsCode": "// dev.to: weekly article. Needs DEVTO_API_KEY (Settings, Extensions). Saved as a draft unless DEVTO_PUBLISH=true.\nconst item = $input.first().json;\nconst results = { ...(item.results || {}) };\nconst live = item.mode === 'now';\nif (!item.article) results.devto = 'weekly only';\nelse if (!$env.DEVTO_API_KEY) results.devto = 'not configured';\nelse if (!live) results.devto = 'draft only';\nelse try {\n  const r = await this.helpers.httpRequest({ method: 'POST', url: 'https://dev.to/api/articles', json: true,\n    headers: { 'api-key': $env.DEVTO_API_KEY },\n    body: { article: { title: item.article.title, body_markdown: item.article.markdown, tags: item.article.tags, published: $env.DEVTO_PUBLISH === 'true' } } });\n  results.devto = (r.published ? 'published ' : 'saved as draft ') + r.url;\n} catch (e) { results.devto = 'failed: ' + String(e.message).slice(0, 200); }\nreturn [{ json: { ...item, results } }];\n"
+   }
+  },
+  {
+   "id": "n13",
+   "name": "Log run",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    1760,
+    300
+   ],
+   "parameters": {
+    "jsCode": "// Keep a log of the last 200 runs for the dashboard, and return the run summary.\nconst item = $input.first().json;\nconst store = $getWorkflowStaticData('global');\nstore.runs = [{ at: new Date().toISOString(), kind: item.kind, title: item.title, mode: item.mode, writtenBy: item.source, results: item.results }, ...(store.runs || [])].slice(0, 200);\nreturn [{ json: { kind: item.kind, title: item.title, mode: item.mode, writtenBy: item.source, results: item.results, short: item.short, long: item.long } }];\n"
+   }
+  },
+  {
+   "id": "n14",
+   "name": "Stats daily 06:00 UTC",
+   "type": "n8n-nodes-base.scheduleTrigger",
+   "typeVersion": 1.2,
+   "position": [
+    0,
+    600
+   ],
+   "parameters": {
+    "rule": {
+     "interval": [
+      {
+       "field": "cronExpression",
+       "expression": "0 6 * * *"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "n15",
+   "name": "Collect stats",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    280,
+    600
+   ],
+   "parameters": {
+    "jsCode": "// One row a day: stars, forks, watchers and list size; views and clones too when GITHUB_TOKEN can read traffic.\nconst REPO = 'tayyabimam1/awesome-ai-agent-stack';\nconst headers = { 'User-Agent': 'n8n-promo', Accept: 'application/vnd.github+json', ...($env.GITHUB_TOKEN ? { Authorization: 'Bearer ' + $env.GITHUB_TOKEN } : {}) };\nconst gh = (path) => this.helpers.httpRequest({ url: 'https://api.github.com/repos/' + REPO + path, headers, json: true });\nconst repo = await gh('');\nconst row = { date: new Date().toISOString().slice(0, 10), stars: repo.stargazers_count, forks: repo.forks_count, watchers: repo.subscribers_count, openIssues: repo.open_issues_count };\ntry { row.tools = (await this.helpers.httpRequest({ url: 'https://tayyabimam1.github.io/awesome-ai-agent-stack/data.json', json: true })).total; } catch (e) {}\nif ($env.GITHUB_TOKEN) try {\n  const [views, clones] = [await gh('/traffic/views'), await gh('/traffic/clones')];\n  row.views14d = views.count; row.visitors14d = views.uniques; row.clones14d = clones.count;\n} catch (e) { row.traffic = 'token cannot read traffic'; }\nconst store = $getWorkflowStaticData('global');\nstore.stats = [row, ...(store.stats || []).filter((r) => r.date !== row.date)].slice(0, 400);\nreturn [{ json: row }];\n"
+   }
+  },
+  {
+   "id": "n16",
+   "name": "Dashboard (webhook)",
+   "type": "n8n-nodes-base.webhook",
+   "typeVersion": 2,
+   "position": [
+    0,
+    800
+   ],
+   "parameters": {
+    "httpMethod": "GET",
+    "path": "WEBHOOK_TOKEN-dashboard",
+    "responseMode": "responseNode",
+    "options": {}
+   },
+   "webhookId": "WEBHOOK_TOKEN-dashboard"
+  },
+  {
+   "id": "n17",
+   "name": "Build dashboard",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    280,
+    800
+   ],
+   "parameters": {
+    "jsCode": "// A plain HTML page: growth numbers and the run log.\nconst store = $getWorkflowStaticData('global');\nconst stats = store.stats || [], runs = store.runs || [];\nconst esc = (s) => String(s ?? '').replace(/[&<>\"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '\"': '&quot;' }[c]));\nconst latest = stats[0] || {}, weekAgo = stats.find((r) => r.date <= new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10)) || stats[stats.length - 1] || {};\nconst delta = (key) => (latest[key] != null && weekAgo[key] != null ? (latest[key] - weekAgo[key] >= 0 ? '+' : '') + (latest[key] - weekAgo[key]) + ' in 7 days' : '');\nconst tile = (label, key) => `<div class=\"tile\"><div class=\"n\">${esc(latest[key] ?? '-')}</div><div>${label}</div><small>${delta(key)}</small></div>`;\nconst series = stats.slice(0, 60).reverse();\nlet chart = '<p>The chart appears after two days of data.</p>';\nif (series.length > 1) {\n  const min = Math.min(...series.map((r) => r.stars)), max = Math.max(...series.map((r) => r.stars)), span = Math.max(1, max - min);\n  const pts = series.map((r, i) => `${(i / (series.length - 1) * 580 + 10).toFixed(1)},${(110 - (r.stars - min) / span * 100).toFixed(1)}`).join(' ');\n  chart = `<svg viewBox=\"0 0 600 120\" role=\"img\" aria-label=\"Stars over the last ${series.length} days\"><polyline fill=\"none\" stroke=\"#0969da\" stroke-width=\"2\" points=\"${pts}\"/></svg><small>Stars, ${esc(series[0].date)} to ${esc(series[series.length - 1].date)}: ${min} to ${max}</small>`;\n}\nconst runRows = runs.slice(0, 40).map((r) => `<tr><td>${esc(r.at.slice(0, 16).replace('T', ' '))}</td><td>${esc(r.kind)}</td><td>${esc(r.mode)}</td><td>${esc(r.title)}</td><td>${Object.entries(r.results || {}).map(([c, v]) => `<b>${esc(c)}</b>: ${esc(v)}`).join('<br>')}</td></tr>`).join('');\nconst statRows = stats.slice(0, 30).map((r) => `<tr><td>${esc(r.date)}</td><td>${esc(r.stars)}</td><td>${esc(r.forks)}</td><td>${esc(r.watchers)}</td><td>${esc(r.tools ?? '')}</td><td>${esc(r.views14d ?? '')}</td><td>${esc(r.visitors14d ?? '')}</td><td>${esc(r.clones14d ?? '')}</td></tr>`).join('');\nconst html = `<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>Promo dashboard</title>\n<style>body{font:15px/1.5 system-ui,sans-serif;margin:0 auto;max-width:980px;padding:16px;color:#1f2328;background:#fff}h1{font-size:22px}h2{font-size:17px;margin-top:28px}\n.tiles{display:flex;flex-wrap:wrap;gap:12px}.tile{border:1px solid #d1d9e0;border-radius:8px;padding:12px 16px;min-width:130px}.n{font-size:26px;font-weight:600}\nsmall{color:#59636e}table{border-collapse:collapse;width:100%;font-size:13px}td,th{border-bottom:1px solid #d1d9e0;padding:6px 8px;text-align:left;vertical-align:top}.scroll{overflow-x:auto}svg{width:100%;height:auto;border:1px solid #d1d9e0;border-radius:8px}\n@media(prefers-color-scheme:dark){body{background:#0d1117;color:#f0f6fc}.tile,td,th,svg{border-color:#3d444d}small{color:#9198a1}}</style></head><body>\n<h1>Awesome AI Agent Stack: promo dashboard</h1>\n<div class=\"tiles\">${tile('GitHub stars', 'stars')}${tile('Forks', 'forks')}${tile('Watchers', 'watchers')}${tile('Tools listed', 'tools')}${tile('Views, 14 days', 'views14d')}${tile('Visitors, 14 days', 'visitors14d')}</div>\n<h2>Stars</h2>${chart}\n<h2>Runs (latest ${Math.min(40, runs.length)} of ${runs.length})</h2><div class=\"scroll\"><table><tr><th>When (UTC)</th><th>Kind</th><th>Mode</th><th>Post</th><th>Channels</th></tr>${runRows || '<tr><td colspan=\"5\">No runs yet.</td></tr>'}</table></div>\n<h2>Daily numbers</h2><div class=\"scroll\"><table><tr><th>Date</th><th>Stars</th><th>Forks</th><th>Watchers</th><th>Tools</th><th>Views 14d</th><th>Visitors 14d</th><th>Clones 14d</th></tr>${statRows || '<tr><td colspan=\"8\">No data yet.</td></tr>'}</table></div>\n</body></html>`;\nreturn [{ json: { html } }];\n"
+   }
+  },
+  {
+   "id": "n18",
+   "name": "Show page",
+   "type": "n8n-nodes-base.respondToWebhook",
+   "typeVersion": 1.1,
+   "position": [
+    560,
+    800
+   ],
+   "parameters": {
+    "respondWith": "text",
+    "responseBody": "={{ $json.html }}",
+    "options": {
+     "responseHeaders": {
+      "entries": [
+       {
+        "name": "Content-Type",
+        "value": "text/html; charset=utf-8"
+       }
+      ]
+     }
+    }
    }
   }
  ],
  "connections": {
-  "Every day 14:00 UTC": {
+  "Daily spotlight 14:00 UTC": {
+   "main": [
+    [
+     {
+      "node": "Write posts",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Weekly roundup Mon 15:00 UTC": {
    "main": [
     [
      {
@@ -137,17 +341,121 @@
    "main": [
     [
      {
-      "node": "Bluesky and Mastodon",
-      "type": "main",
-      "index": 0
-     },
-     {
       "node": "Post to X",
       "type": "main",
       "index": 0
      },
      {
       "node": "Post to LinkedIn",
+      "type": "main",
+      "index": 0
+     },
+     {
+      "node": "Post to Reddit",
+      "type": "main",
+      "index": 0
+     },
+     {
+      "node": "Bluesky",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Bluesky": {
+   "main": [
+    [
+     {
+      "node": "Mastodon",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Mastodon": {
+   "main": [
+    [
+     {
+      "node": "Discord",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Discord": {
+   "main": [
+    [
+     {
+      "node": "Telegram",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Telegram": {
+   "main": [
+    [
+     {
+      "node": "dev.to article (weekly)",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "dev.to article (weekly)": {
+   "main": [
+    [
+     {
+      "node": "Log run",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Stats daily 06:00 UTC": {
+   "main": [
+    [
+     {
+      "node": "Collect stats",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Dashboard (webhook)": {
+   "main": [
+    [
+     {
+      "node": "Collect stats",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Collect stats": {
+   "main": [
+    [
+     {
+      "node": "Build dashboard",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Build dashboard": {
+   "main": [
+    [
+     {
+      "node": "Show page",
       "type": "main",
       "index": 0
      }
