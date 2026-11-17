@@ -1,0 +1,36 @@
+name: Daily promo
+
+# Wakes the Instabox machine (it pauses when idle) and triggers the n8n promo workflow.
+# Skips quietly until these repository secrets exist:
+#   INSTABOX_API_KEY, INSTABOX_MACHINE_ID, N8N_WEBHOOK_URL
+on:
+  schedule:
+    - cron: "55 13 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  promo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      INSTABOX_API_KEY: ${{ secrets.INSTABOX_API_KEY }}
+      INSTABOX_MACHINE_ID: ${{ secrets.INSTABOX_MACHINE_ID }}
+      N8N_WEBHOOK_URL: ${{ secrets.N8N_WEBHOOK_URL }}
+    steps:
+      - name: Wake the machine and run the workflow
+        run: |
+          if [ -z "$INSTABOX_API_KEY" ] || [ -z "$INSTABOX_MACHINE_ID" ] || [ -z "$N8N_WEBHOOK_URL" ]; then
+            echo "Secrets not set; nothing to do."; exit 0
+          fi
+          curl -fsS -X POST -H "Authorization: Bearer $INSTABOX_API_KEY" \
+            "https://api.instabox.sh/v1/machines/$INSTABOX_MACHINE_ID/wake" -o /dev/null
+          for i in 1 2 3 4 5 6; do
+            sleep 20
+            if curl -fsS -m 240 -X POST -H "Content-Type: application/json" -d '{}' "$N8N_WEBHOOK_URL" -o result.json; then
+              python3 -c "import json;d=json.load(open('result.json'));d=d[0] if isinstance(d,list) else d;print('sent:',d.get('sent'),'| mode:',d.get('mode'),'| category:',d.get('category'),'| channels:',d.get('channels'),d.get('reason') or '')"
+              exit 0
+            fi
+          done
+          echo "n8n webhook did not answer"; exit 1

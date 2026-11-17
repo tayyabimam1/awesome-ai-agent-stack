@@ -1,0 +1,109 @@
+{
+ "id": "awesomeStackPromo1",
+ "name": "Awesome AI Agent Stack: daily promo",
+ "active": false,
+ "settings": {
+  "executionOrder": "v1",
+  "timezone": "UTC"
+ },
+ "nodes": [
+  {
+   "id": "n1",
+   "name": "Every day 14:00 UTC",
+   "type": "n8n-nodes-base.scheduleTrigger",
+   "typeVersion": 1.2,
+   "position": [
+    0,
+    0
+   ],
+   "parameters": {
+    "rule": {
+     "interval": [
+      {
+       "field": "cronExpression",
+       "expression": "0 14 * * *"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "n2",
+   "name": "Run now (webhook)",
+   "type": "n8n-nodes-base.webhook",
+   "typeVersion": 2,
+   "position": [
+    0,
+    200
+   ],
+   "webhookId": "WEBHOOK_TOKEN",
+   "parameters": {
+    "httpMethod": "POST",
+    "path": "WEBHOOK_TOKEN",
+    "responseMode": "lastNode",
+    "options": {}
+   }
+  },
+  {
+   "id": "n3",
+   "name": "Write posts",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    260,
+    100
+   ],
+   "parameters": {
+    "jsCode": "// Pick today's category and five of its tools, then write one short and one long post.\nconst SITE = 'https://tayyabimam1.github.io/awesome-ai-agent-stack/';\nconst data = await this.helpers.httpRequest({ url: SITE + 'data.json', json: true });\nconst day = Math.floor(Date.now() / 86400000);\nconst sections = data.sections.filter((s) => s.count >= 10);\nconst sec = sections[day % sections.length];\nconst entries = sec.blocks.flatMap((b) => b.entries || []).filter((e) => e.u && e.s).sort((a, b) => b.s - a.s);\n// each time a category comes round again, show the next five tools (within its top 30)\nconst round = Math.floor(day / sections.length);\nconst start = (round * 5) % Math.max(1, Math.min(entries.length - 4, 26));\nconst picks = entries.slice(start, start + 5).map((e) => ({ name: e.n, stars: e.s, about: e.d, url: e.u }));\nconst url = SITE + sec.slug + '.html';\nconst k = (n) => (n >= 1000 ? Math.round(n / 1000) + 'k' : String(n));\n\nconst fallbackShort = `${sec.title}: ${picks.slice(0, 3).map((p) => p.name.split('/')[1]).join(', ')} and ${sec.count - 3} more open-source tools, ranked by GitHub stars.\\n${url}`;\nconst fallbackLong = `${sec.title}: ${sec.count} open-source tools, ranked by GitHub stars.\\n\\n` +\n  picks.map((p) => `- ${p.name} (${k(p.stars)} stars): ${p.about}`).join('\\n') +\n  `\\n\\nFull list: ${url}\\nAll ${data.total.toLocaleString('en-US')} tools: ${SITE}`;\n\nlet short = fallbackShort, long = fallbackLong, source = 'template';\ntry {\n  const res = await this.helpers.httpRequest({\n    method: 'POST', url: $env.FREELLMAPI_URL + '/chat/completions', json: true, timeout: 120000,\n    headers: { Authorization: 'Bearer ' + $env.FREELLMAPI_KEY },\n    body: {\n      model: 'auto', temperature: 0.7, max_tokens: 900,\n      messages: [\n        { role: 'system', content: 'You write social posts for \"Awesome AI Agent Stack\", a free open-source list of AI agent tools ranked by GitHub stars. Plain, specific, no hype words, no emoji, no hashtags, no invented facts: use only the tools and numbers given. Reply with JSON only: {\"short\": \"...\", \"long\": \"...\"}. \"short\" is one post under 240 characters that names 2 or 3 of the tools and ends with the link. \"long\" is a LinkedIn-style post of 80 to 140 words that says what the category is for, lists the five tools with one plain line each, and ends with the link.' },\n        { role: 'user', content: JSON.stringify({ category: sec.title, what_it_is: sec.tagline, tools_in_category: sec.count, tools: picks, link: url }) },\n      ],\n    },\n  });\n  const text = (res.choices[0].message.content || '').replace(/<think>[\\s\\S]*?<\\/think>/g, '');\n  const j = JSON.parse(text.slice(text.indexOf('{'), text.lastIndexOf('}') + 1));\n  const ok = (t, max) => typeof t === 'string' && t.includes(url) && t.length <= max && t.length > 40;\n  if (ok(j.short, 280) && ok(j.long, 1500)) { short = j.short; long = j.long; source = 'llm'; }\n} catch (e) { /* gateway down or bad JSON: the template posts are used */ }\n\nreturn [{ json: { category: sec.title, url, picks, short, long, source } }];\n"
+   }
+  },
+  {
+   "id": "n4",
+   "name": "Send to Postiz",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    520,
+    100
+   ],
+   "parameters": {
+    "jsCode": "// Send the posts to every channel connected in Postiz. PROMO_MODE: draft (default), schedule or now.\nconst { short, long, category, source } = $input.first().json;\nconst headers = { Authorization: $env.POSTIZ_API_KEY };\nconst api = $env.POSTIZ_URL + '/api/public/v1';\nconst channels = (await this.helpers.httpRequest({ url: api + '/integrations', headers, json: true }))\n  .filter((c) => !c.disabled && c.identifier !== 'reddit');   // Reddit needs a subreddit and a human\nif (!channels.length) {\n  return [{ json: { sent: false, reason: 'No channels are connected in Postiz yet.', category, source, short, long } }];\n}\nconst SHORT = new Set(['x', 'bluesky', 'mastodon', 'threads', 'nostr', 'warpcast', 'farcaster']);\nconst mode = $env.PROMO_MODE || 'draft';\nconst body = {\n  type: mode, date: new Date(Date.now() + 15 * 60000).toISOString(), shortLink: false, tags: [],\n  posts: channels.map((c) => ({\n    integration: { id: c.id },\n    value: [{ content: SHORT.has(c.identifier) ? short : long, image: [] }],\n    settings: { __type: c.identifier, ...(c.identifier === 'x' ? { who_can_reply_post: 'everyone' } : {}) },\n  })),\n};\nconst result = await this.helpers.httpRequest({ method: 'POST', url: api + '/posts', headers, json: true, body });\nreturn [{ json: { sent: true, mode, category, source, channels: channels.map((c) => c.identifier + ':' + c.name), result } }];\n"
+   }
+  }
+ ],
+ "connections": {
+  "Every day 14:00 UTC": {
+   "main": [
+    [
+     {
+      "node": "Write posts",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Run now (webhook)": {
+   "main": [
+    [
+     {
+      "node": "Write posts",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Write posts": {
+   "main": [
+    [
+     {
+      "node": "Send to Postiz",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  }
+ }
+}
