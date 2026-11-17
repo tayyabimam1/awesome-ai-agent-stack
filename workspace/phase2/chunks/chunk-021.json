@@ -1,0 +1,2649 @@
+[
+{
+"repo": "torvalds/linux",
+"stars": 252357,
+"description": "Linux kernel source tree",
+"topics": [],
+"language": "C"
+},
+{
+"repo": "TheAlgorithms/Python",
+"stars": 225370,
+"description": "All Algorithms implemented in Python",
+"topics": [
+"python",
+"algorithm",
+"algorithms-implemented",
+"algorithm-competitions",
+"algos",
+"sorts",
+"searches",
+"sorting-algorithms",
+"education",
+"learn"
+],
+"language": "Python"
+},
+{
+"repo": "getify/You-Dont-Know-JS",
+"stars": 184821,
+"description": "A book series (2 published editions) on the JS language.",
+"topics": [
+"book-series",
+"javascript",
+"closures",
+"prototypes",
+"async",
+"es6",
+"es2015",
+"training-materials",
+"book",
+"training-providers"
+],
+"language": ""
+},
+{
+"repo": "microsoft/PowerToys",
+"stars": 139447,
+"description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+"topics": [
+"powertoys",
+"desktop",
+"windows",
+"fancyzones",
+"microsoft-powertoys",
+"powerrename",
+"keyboard-manager",
+"color-picker",
+"command-palette",
+"windows-10"
+],
+"language": "C"
+},
+{
+"repo": "godotengine/godot",
+"stars": 118601,
+"description": "Godot Engine – Multi-platform 2D and 3D game engine",
+"topics": [
+"game-engine",
+"godot",
+"godotengine",
+"open-source",
+"multi-platform",
+"gamedev",
+"game-development"
+],
+"language": "C++"
+},
+{
+"repo": "microsoft/TypeScript",
+"stars": 111521,
+"description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+"topics": [
+"typescript",
+"javascript",
+"language",
+"typechecker"
+],
+"language": "Go"
+},
+{
+"repo": "axios/axios",
+"stars": 109301,
+"description": "Promise based HTTP client for the browser and node.js",
+"topics": [
+"http-client",
+"javascript",
+"nodejs",
+"promise",
+"hacktoberfest"
+],
+"language": "JavaScript"
+},
+{
+"repo": "microsoft/terminal",
+"stars": 105179,
+"description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+"topics": [
+"console",
+"terminal",
+"cmd",
+"wsl",
+"windows-console",
+"command-line",
+"windows-terminal",
+"contributions-welcome",
+"good-first-issue",
+"windows"
+],
+"language": "C++"
+},
+{
+"repo": "microsoft/Web-Dev-For-Beginners",
+"stars": 96984,
+"description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+"topics": [
+"javascript",
+"curriculum",
+"html",
+"css",
+"education",
+"learning",
+"tutorials",
+"microsoft-for-beginners"
+],
+"language": "JavaScript"
+},
+{
+"repo": "home-assistant/core",
+"stars": 91579,
+"description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+"topics": [
+"python",
+"home-automation",
+"iot",
+"internet-of-things",
+"mqtt",
+"raspberry-pi",
+"asyncio",
+"hacktoberfest"
+],
+"language": "Python"
+},
+{
+"repo": "storybookjs/storybook",
+"stars": 91326,
+"description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+"topics": [
+"storybook",
+"styleguide",
+"testing",
+"components",
+"webpack",
+"ui",
+"react",
+"vue",
+"react-native",
+"design-systems"
+],
+"language": "TypeScript"
+},
+{
+"repo": "mermaid-js/mermaid",
+"stars": 90728,
+"description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+"topics": [
+"documentation",
+"flowchart",
+"javascript",
+"typescript",
+"uml-diagrams",
+"diagrams",
+"diagrams-as-code",
+"mindmap"
+],
+"language": "TypeScript"
+},
+{
+"repo": "vitejs/vite",
+"stars": 83380,
+"description": "Next generation frontend tooling. It's fast!",
+"topics": [
+"vite",
+"hmr",
+"frontend",
+"build-tool",
+"dev-server"
+],
+"language": "TypeScript"
+},
+{
+"repo": "python/cpython",
+"stars": 77673,
+"description": "The Python programming language",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "tensorflow/models",
+"stars": 77645,
+"description": "Models and examples built with TensorFlow",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "enaqx/awesome-react",
+"stars": 74937,
+"description": "A collection of awesome things regarding React ecosystem",
+"topics": [
+"react",
+"react-native",
+"tutorial",
+"samples",
+"awesome-list",
+"react-tutorial",
+"react-apps",
+"awesome",
+"javascript",
+"typescript"
+],
+"language": ""
+},
+{
+"repo": "BurntSushi/ripgrep",
+"stars": 69212,
+"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+"topics": [
+"ripgrep",
+"recursively-search",
+"search",
+"regex",
+"gitignore",
+"grep",
+"command-line-tool",
+"command-line",
+"cli",
+"rust"
+],
+"language": "Rust"
+},
+{
+"repo": "apache/echarts",
+"stars": 67538,
+"description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+"topics": [
+"echarts",
+"data-visualization",
+"charts",
+"charting-library",
+"visualization",
+"apache",
+"data-viz",
+"canvas",
+"svg"
+],
+"language": "TypeScript"
+},
+{
+"repo": "leonardomso/33-js-concepts",
+"stars": 66528,
+"description": "📜 33 JavaScript concepts every developer should know.",
+"topics": [
+"javascript",
+"concepts",
+"nodejs",
+"react",
+"angular",
+"programming",
+"javascript-programming",
+"javascript-closures",
+"javascript-engines",
+"primitive-types"
+],
+"language": "JavaScript"
+},
+{
+"repo": "webpack/webpack",
+"stars": 65980,
+"description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+"topics": [
+"webpack",
+"javascript",
+"module-bundler",
+"loaders",
+"plugins",
+"build-tool",
+"web",
+"web-performance",
+"compiler",
+"javascript-compiler"
+],
+"language": "JavaScript"
+},
+{
+"repo": "remotion-dev/remotion",
+"stars": 64905,
+"description": "🎥      Make videos programmatically with React",
+"topics": [
+"react",
+"video",
+"javascript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "commaai/openpilot",
+"stars": 63924,
+"description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+"topics": [
+"driver-assistance-systems",
+"robotics",
+"advanced-driver-assistance-systems"
+],
+"language": "Python"
+},
+{
+"repo": "marktext/marktext",
+"stars": 62783,
+"description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+"topics": [
+"macos",
+"typewriter-mode",
+"electron",
+"markdown",
+"editor",
+"mac",
+"windows",
+"linux",
+"source-code",
+"focus-mode"
+],
+"language": "TypeScript"
+},
+{
+"repo": "ghostty-org/ghostty",
+"stars": 62341,
+"description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+"topics": [],
+"language": "Zig"
+},
+{
+"repo": "lodash/lodash",
+"stars": 61287,
+"description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+"topics": [
+"lodash",
+"utilities",
+"javascript",
+"modules"
+],
+"language": "JavaScript"
+},
+{
+"repo": "makeplane/plane",
+"stars": 61049,
+"description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+"topics": [
+"django",
+"docker",
+"kanban",
+"project-management",
+"python",
+"react",
+"jira",
+"jira-alternative",
+"linear",
+"postgresql"
+],
+"language": "TypeScript"
+},
+{
+"repo": "jquery/jquery",
+"stars": 59866,
+"description": "jQuery JavaScript Library",
+"topics": [
+"jquery"
+],
+"language": "JavaScript"
+},
+{
+"repo": "pmndrs/zustand",
+"stars": 58835,
+"description": "🐻 Bear necessities for state management in React",
+"topics": [
+"hooks",
+"react",
+"react-context",
+"reactjs",
+"redux",
+"state-management",
+"hacktoberfest"
+],
+"language": "TypeScript"
+},
+{
+"repo": "deepfakes/faceswap",
+"stars": 57572,
+"description": "Deepfakes Software For All",
+"topics": [
+"faceswap",
+"face-swap",
+"deep-learning",
+"deeplearning",
+"deep-neural-networks",
+"deepfakes",
+"deepface",
+"deep-face-swap",
+"fakeapp",
+"neural-networks"
+],
+"language": "Python"
+},
+{
+"repo": "google/material-design-icons",
+"stars": 54127,
+"description": "Material Design icons by Google (Material Symbols)",
+"topics": [
+"material",
+"material-design",
+"icons",
+"sprites",
+"ios",
+"android",
+"web"
+],
+"language": ""
+},
+{
+"repo": "jesseduffield/lazydocker",
+"stars": 53153,
+"description": "The lazier way to manage everything docker",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "expo/expo",
+"stars": 52806,
+"description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+"topics": [
+"mobile",
+"expo",
+"native",
+"web",
+"universal",
+"react",
+"android",
+"ios",
+"app-framework",
+"web-framework"
+],
+"language": "TypeScript"
+},
+{
+"repo": "dbeaver/dbeaver",
+"stars": 52112,
+"description": "Free universal database tool and SQL client",
+"topics": [
+"sql",
+"database",
+"dbeaver",
+"gui",
+"mysql",
+"postgresql",
+"db2",
+"sqlite",
+"erd",
+"java"
+],
+"language": "Java"
+},
+{
+"repo": "google/guava",
+"stars": 51918,
+"description": "Google core libraries for Java",
+"topics": [
+"guava",
+"java"
+],
+"language": "Java"
+},
+{
+"repo": "apple/container",
+"stars": 50785,
+"description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+"topics": [],
+"language": "Swift"
+},
+{
+"repo": "ClickHouse/ClickHouse",
+"stars": 50471,
+"description": "ClickHouse® is a real-time analytics database management system",
+"topics": [
+"dbms",
+"olap",
+"analytics",
+"sql",
+"big-data",
+"mpp",
+"clickhouse",
+"hacktoberfest",
+"cpp",
+"rust"
+],
+"language": "C++"
+},
+{
+"repo": "TanStack/query",
+"stars": 50453,
+"description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+"topics": [
+"react",
+"hooks",
+"fetch",
+"cache",
+"async",
+"rest",
+"graphql",
+"data",
+"query",
+"stale"
+],
+"language": "TypeScript"
+},
+{
+"repo": "pandas-dev/pandas",
+"stars": 50154,
+"description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+"topics": [
+"data-analysis",
+"pandas",
+"flexible",
+"alignment",
+"python",
+"data-science"
+],
+"language": "Python"
+},
+{
+"repo": "hashicorp/terraform",
+"stars": 49963,
+"description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+"topics": [
+"graph",
+"infrastructure-as-code",
+"terraform",
+"cloud",
+"cloud-management"
+],
+"language": "Go"
+},
+{
+"repo": "slidevjs/slidev",
+"stars": 49112,
+"description": "Presentation Slides for Developers",
+"topics": [
+"slides",
+"presentation",
+"vite",
+"vueuse",
+"vue",
+"markdown"
+],
+"language": "TypeScript"
+},
+{
+"repo": "bevyengine/bevy",
+"stars": 49102,
+"description": "A refreshingly simple data-driven game engine built in Rust",
+"topics": [
+"bevy",
+"gamedev",
+"game-engine",
+"open-source",
+"rust",
+"game-development"
+],
+"language": "Rust"
+},
+{
+"repo": "Yuan1z0825/nature-skills",
+"stars": 49036,
+"description": "符合nature论文学术表达和科研绘图的Skill",
+"topics": [
+"codex-skills",
+"nature",
+"nature-skills"
+],
+"language": "Python"
+},
+{
+"repo": "brillout/awesome-react-components",
+"stars": 48674,
+"description": "Curated List of React Components & Libraries.",
+"topics": [
+"react",
+"awesome",
+"awesome-list",
+"react-components",
+"react-component"
+],
+"language": ""
+},
+{
+"repo": "abhigyanpatwari/GitNexus",
+"stars": 47932,
+"description": "GitNexus: The Zero-Server Code Intelligence Engine ",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "acmesh-official/acme.sh",
+"stars": 47831,
+"description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
+"topics": [
+"acme",
+"acme-protocol",
+"certbot",
+"shell",
+"ash",
+"bash",
+"posix",
+"posix-sh",
+"zerossl",
+"buypass"
+],
+"language": "Shell"
+},
+{
+"repo": "prisma/orm",
+"stars": 47694,
+"description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+"topics": [
+"prisma",
+"orm",
+"database",
+"typescript",
+"javascript",
+"nodejs",
+"mariadb",
+"mysql",
+"postgresql",
+"sqlserver"
+],
+"language": "TypeScript"
+},
+{
+"repo": "emilkowalski/skills",
+"stars": 47229,
+"description": "Skills for Designers and Engineers.",
+"topics": [],
+"language": "Markdown"
+},
+{
+"repo": "microsoft/monaco-editor",
+"stars": 46874,
+"description": "A browser based code editor",
+"topics": [
+"monaco-editor",
+"vscode",
+"editor",
+"browser",
+"typescript"
+],
+"language": "JavaScript"
+},
+{
+"repo": "RocketChat/Rocket.Chat",
+"stars": 46285,
+"description": "The Secure CommsOS™ for mission-critical operations",
+"topics": [
+"chat",
+"meteor",
+"javascript",
+"collaboration",
+"webrtc",
+"real-time",
+"slack",
+"foss",
+"free",
+"mit"
+],
+"language": "TypeScript"
+},
+{
+"repo": "google/zx",
+"stars": 45804,
+"description": "A tool for writing better scripts",
+"topics": [
+"javascript",
+"nodejs",
+"shell",
+"bash",
+"cli",
+"child-process",
+"exec",
+"pipe",
+"spawn"
+],
+"language": "JavaScript"
+},
+{
+"repo": "charmbracelet/bubbletea",
+"stars": 45444,
+"description": "A powerful little TUI framework 🏗",
+"topics": [
+"cli",
+"framework",
+"elm-architecture",
+"tui",
+"functional",
+"golang",
+"go",
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "vercel/hyper",
+"stars": 44741,
+"description": "A terminal built on web technologies",
+"topics": [
+"terminal",
+"javascript",
+"html",
+"css",
+"react",
+"terminal-emulators",
+"hyper",
+"macos",
+"linux"
+],
+"language": "TypeScript"
+},
+{
+"repo": "ccxt/ccxt",
+"stars": 44442,
+"description": "A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust",
+"topics": [
+"altcoin",
+"api",
+"arbitrage",
+"bitcoin",
+"bot",
+"cryptocurrency",
+"crypto",
+"ethereum",
+"exchange",
+"invest"
+],
+"language": "Python"
+},
+{
+"repo": "apache/spark",
+"stars": 44237,
+"description": "Apache Spark - A unified analytics engine for large-scale data processing",
+"topics": [
+"python",
+"scala",
+"r",
+"java",
+"big-data",
+"jdbc",
+"sql",
+"spark"
+],
+"language": "Scala"
+},
+{
+"repo": "colinhacks/zod",
+"stars": 44152,
+"description": "TypeScript-first schema validation with static type inference",
+"topics": [
+"typescript",
+"schema-validation",
+"type-inference",
+"runtime-validation",
+"static-types"
+],
+"language": "TypeScript"
+},
+{
+"repo": "babel/babel",
+"stars": 44058,
+"description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+"topics": [
+"babel",
+"javascript",
+"ast",
+"compiler",
+"flavortown",
+"es6",
+"es2015"
+],
+"language": "TypeScript"
+},
+{
+"repo": "sxyazi/yazi",
+"stars": 42897,
+"description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+"topics": [
+"asyncio",
+"concurrency",
+"file-manager",
+"linux",
+"macos",
+"rust",
+"tui",
+"windows",
+"terminal",
+"android"
+],
+"language": "Rust"
+},
+{
+"repo": "JustVugg/colibri",
+"stars": 42687,
+"description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+"topics": [],
+"language": "C"
+},
+{
+"repo": "GyulyVGC/sniffnet",
+"stars": 41609,
+"description": "Comfortably monitor your network traffic 🕵️‍♂️",
+"topics": [
+"networking",
+"packet-sniffer",
+"linux",
+"macos",
+"packet-capture",
+"rust",
+"windows",
+"security",
+"utility",
+"application"
+],
+"language": "Rust"
+},
+{
+"repo": "llvm/llvm-project",
+"stars": 41104,
+"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+"topics": [],
+"language": "LLVM"
+},
+{
+"repo": "vuetifyjs/vuetify",
+"stars": 41031,
+"description": "🐉 Vue Component Framework",
+"topics": [
+"vue",
+"vuejs",
+"vue-components",
+"material-design",
+"material",
+"material-theme",
+"material-components",
+"javascript",
+"semantic",
+"vue-material"
+],
+"language": "TypeScript"
+},
+{
+"repo": "outline/outline",
+"stars": 40945,
+"description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+"topics": [
+"react",
+"wiki",
+"nodejs",
+"mobx",
+"slack",
+"javascript",
+"docker"
+],
+"language": "TypeScript"
+},
+{
+"repo": "vadimdemedes/ink",
+"stars": 40115,
+"description": "🌈 React for interactive command-line apps",
+"topics": [
+"react",
+"cli",
+"command-line",
+"interactive",
+"flexbox",
+"javascript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "google/styleguide",
+"stars": 39682,
+"description": "Style guides for Google-originated open-source projects",
+"topics": [
+"cpplint",
+"styleguide",
+"style-guide"
+],
+"language": "HTML"
+},
+{
+"repo": "google/googletest",
+"stars": 39653,
+"description": "GoogleTest - Google Testing and Mocking Framework",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "google/leveldb",
+"stars": 39500,
+"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "sqlmapproject/sqlmap",
+"stars": 38727,
+"description": "Automatic SQL injection and database takeover tool",
+"topics": [
+"sql-injection",
+"detection",
+"exploitation",
+"python",
+"database",
+"pentesting",
+"api-security",
+"appsec",
+"security-testing",
+"security-testing-tool"
+],
+"language": "Python"
+},
+{
+"repo": "alibaba/arthas",
+"stars": 37585,
+"description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+"topics": [
+"java",
+"agent",
+"trace",
+"jvm",
+"arthas",
+"trouble-shooting",
+"diagnosis",
+"classloader",
+"alibaba"
+],
+"language": "Java"
+},
+{
+"repo": "keycloak/keycloak",
+"stars": 37419,
+"description": "Open Source Identity and Access Management For Modern Applications and Services",
+"topics": [
+"keycloak",
+"oidc",
+"saml"
+],
+"language": "Java"
+},
+{
+"repo": "fastify/fastify",
+"stars": 37284,
+"description": "Fast and low overhead web framework, for Node.js",
+"topics": [
+"webframework",
+"performance",
+"speed",
+"nodejs",
+"hacktoberfest",
+"fastify",
+"fastify-core"
+],
+"language": "JavaScript"
+},
+{
+"repo": "markedjs/marked",
+"stars": 37238,
+"description": "A markdown parser and compiler. Built for speed.",
+"topics": [
+"markdown",
+"compiler",
+"parser",
+"commonmark",
+"gfm",
+"hacktoberfest"
+],
+"language": "JavaScript"
+},
+{
+"repo": "gchq/CyberChef",
+"stars": 36149,
+"description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+"topics": [
+"data-analysis",
+"data-manipulation",
+"encryption",
+"encoding",
+"compression",
+"parsing",
+"hashing"
+],
+"language": "JavaScript"
+},
+{
+"repo": "netty/netty",
+"stars": 35058,
+"description": "Netty project - an event-driven asynchronous network application framework",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "aristocratos/btop",
+"stars": 35026,
+"description": "A monitor of resources",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "derailed/k9s",
+"stars": 34834,
+"description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+"topics": [
+"k9s",
+"kubernetes",
+"kubernetes-cli",
+"kubernetes-clusters",
+"k8s",
+"k8s-cluster",
+"go",
+"golang"
+],
+"language": "Go"
+},
+{
+"repo": "motiondivision/motion",
+"stars": 34294,
+"description": "A modern animation library for React and JavaScript",
+"topics": [
+"animation",
+"animation-js",
+"motion",
+"react",
+"reactanimations",
+"spring"
+],
+"language": "TypeScript"
+},
+{
+"repo": "microsoft/WSL",
+"stars": 34124,
+"description": "Windows Subsystem for Linux",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "tinygrad/tinygrad",
+"stars": 33772,
+"description": "You like pytorch? You like micrograd? You love tinygrad! ❤️ ",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "xai-org/x-algorithm",
+"stars": 33674,
+"description": "Algorithm powering the For You feed on X",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "google/comprehensive-rust",
+"stars": 33432,
+"description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+"topics": [
+"rust",
+"course",
+"classroom",
+"guide",
+"training-materials",
+"android",
+"google",
+"training"
+],
+"language": "Rust"
+},
+{
+"repo": "numpy/numpy",
+"stars": 33039,
+"description": "The fundamental package for scientific computing with Python.",
+"topics": [
+"numpy",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "zeroclaw-labs/zeroclaw",
+"stars": 32989,
+"description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+"topics": [
+"agent",
+"agentic",
+"ai",
+"openclaw",
+"infra",
+"ml",
+"os",
+"zeroclaw"
+],
+"language": "Rust"
+},
+{
+"repo": "vercel/swr",
+"stars": 32491,
+"description": "React Hooks for Data Fetching",
+"topics": [
+"react",
+"hook",
+"data-fetching",
+"swr",
+"suspense",
+"react-native",
+"fetch",
+"vercel",
+"stale-while-revalidate",
+"hooks"
+],
+"language": "TypeScript"
+},
+{
+"repo": "storytold/artcraft",
+"stars": 32283,
+"description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+"topics": [
+"3d-graphics",
+"ai",
+"aivideo",
+"filmmaking",
+"imagegeneration"
+],
+"language": "Rust"
+},
+{
+"repo": "google/material-design-lite",
+"stars": 32181,
+"description": "Material Design Components in HTML/CSS/JS",
+"topics": [
+"material-design",
+"material-design-lite",
+"mdl",
+"material-components",
+"material"
+],
+"language": "HTML"
+},
+{
+"repo": "influxdata/influxdb",
+"stars": 31770,
+"description": "Scalable datastore for metrics, events, and real-time analytics",
+"topics": [
+"influxdb",
+"monitoring",
+"database",
+"time-series",
+"metrics",
+"go",
+"react",
+"rust"
+],
+"language": "Rust"
+},
+{
+"repo": "fabricjs/fabric.js",
+"stars": 31505,
+"description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "vercel/turborepo",
+"stars": 31217,
+"description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+"topics": [
+"monorepo",
+"javascript",
+"typescript",
+"build-tool",
+"build-system"
+],
+"language": "Rust"
+},
+{
+"repo": "microsoft/calculator",
+"stars": 31083,
+"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+"topics": [
+"uwp",
+"windows",
+"windows-10",
+"xaml",
+"cpp",
+"csharp",
+"windows-11"
+],
+"language": "C#"
+},
+{
+"repo": "opentofu/opentofu",
+"stars": 30530,
+"description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "tobi/qmd",
+"stars": 30467,
+"description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "sipeed/picoclaw",
+"stars": 30087,
+"description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "modular/modular",
+"stars": 29964,
+"description": "The Modular Platform (includes MAX & Mojo)",
+"topics": [
+"ai",
+"language",
+"machine-learning",
+"mojo",
+"modular",
+"programming-language",
+"max"
+],
+"language": "Mojo"
+},
+{
+"repo": "alibaba/canal",
+"stars": 29737,
+"description": "阿里巴巴 MySQL binlog 增量订阅&消费组件 ",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "composer/composer",
+"stars": 29554,
+"description": "Dependency Manager for PHP",
+"topics": [
+"php",
+"composer",
+"dependency-manager",
+"package-manager",
+"packages"
+],
+"language": "PHP"
+},
+{
+"repo": "alibaba/spring-cloud-alibaba",
+"stars": 29175,
+"description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+"topics": [
+"spring-cloud",
+"java",
+"spring",
+"microservices",
+"cloud-native",
+"spring-cloud-core",
+"alibaba-oss",
+"alibaba",
+"dubbo",
+"rocketmq"
+],
+"language": "Java"
+},
+{
+"repo": "postcss/postcss",
+"stars": 28966,
+"description": "Transforming styles with JS plugins",
+"topics": [
+"postcss",
+"css",
+"parser",
+"ast",
+"framework"
+],
+"language": "TypeScript"
+},
+{
+"repo": "getredash/redash",
+"stars": 28836,
+"description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+"topics": [
+"redash",
+"python",
+"visualization",
+"analytics",
+"bi",
+"redshift",
+"bigquery",
+"athena",
+"mysql",
+"postgresql"
+],
+"language": "Python"
+},
+{
+"repo": "firecrawl/open-lovable",
+"stars": 28724,
+"description": "🔥 Clone and recreate any website as a modern React app in seconds",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "tj/commander.js",
+"stars": 28426,
+"description": "node.js command-line interfaces made easy",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "fastai/fastai",
+"stars": 28226,
+"description": "The fastai deep learning library",
+"topics": [
+"deep-learning",
+"machine-learning",
+"pytorch",
+"python",
+"gpu",
+"fastai",
+"notebooks",
+"colab"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "google/python-fire",
+"stars": 28224,
+"description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+"topics": [
+"python",
+"cli"
+],
+"language": "Python"
+},
+{
+"repo": "alibaba/druid",
+"stars": 28168,
+"description": "阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "baidu/Unlimited-OCR",
+"stars": 27774,
+"description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "charmbracelet/glow",
+"stars": 27726,
+"description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+"topics": [
+"markdown",
+"cli",
+"excitement",
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "cloudflare/pingora",
+"stars": 27640,
+"description": "A library for building fast, reliable and evolvable network services.",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "microsoft/vcpkg",
+"stars": 27524,
+"description": "C++ Library Manager for Windows, Linux, and MacOS",
+"topics": [
+"vcpkg",
+"visual-studio",
+"libraries",
+"windows",
+"cpp",
+"package-manager",
+"packages",
+"c",
+"cplusplus",
+"cmake"
+],
+"language": "CMake"
+},
+{
+"repo": "Tencent/weui",
+"stars": 27445,
+"description": "A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",
+"topics": [
+"weui",
+"wechat",
+"mobile-web",
+"style"
+],
+"language": "HTML"
+},
+{
+"repo": "google/flatbuffers",
+"stars": 26568,
+"description": "FlatBuffers: Memory Efficient Serialization Library",
+"topics": [
+"flatbuffers",
+"serialization",
+"serialization-library",
+"json-parser",
+"marshalling",
+"rpc",
+"zero-copy",
+"mmap",
+"cross-platform",
+"c-plus-plus"
+],
+"language": "C++"
+},
+{
+"repo": "microsoft/winget-cli",
+"stars": 26510,
+"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+"topics": [
+"windows",
+"package-manager",
+"winget",
+"command-line"
+],
+"language": "C++"
+},
+{
+"repo": "apache/flink",
+"stars": 26412,
+"description": "Apache Flink",
+"topics": [
+"scala",
+"java",
+"big-data",
+"flink",
+"python",
+"sql"
+],
+"language": "Java"
+},
+{
+"repo": "anomalyco/sst",
+"stars": 26360,
+"description": "Build full-stack apps on your own infrastructure.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "matteocrippa/awesome-swift",
+"stars": 26329,
+"description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
+"topics": [
+"swift-framework",
+"swift-library",
+"swift-extensions",
+"swift-language",
+"awesome-list",
+"swift",
+"awesome",
+"awesome-swift",
+"list",
+"lists"
+],
+"language": "Ruby"
+},
+{
+"repo": "vapor/vapor",
+"stars": 26230,
+"description": "💧 A server-side Swift HTTP web framework.",
+"topics": [
+"vapor",
+"swift",
+"server-side-swift",
+"web-framework",
+"server",
+"framework",
+"http",
+"http2"
+],
+"language": "Swift"
+},
+{
+"repo": "kovidgoyal/calibre",
+"stars": 26175,
+"description": "The official source code repository for the calibre ebook manager",
+"topics": [
+"ebook-manager",
+"calibre",
+"python",
+"ebook",
+"ebooks",
+"ebook-reader",
+"ebook-formats",
+"epub",
+"kindle",
+"epub-generation"
+],
+"language": "Python"
+},
+{
+"repo": "select2/select2",
+"stars": 25909,
+"description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",
+"topics": [
+"javascript",
+"jquery",
+"select2",
+"hacktoberfest"
+],
+"language": "JavaScript"
+},
+{
+"repo": "pulumi/pulumi",
+"stars": 25792,
+"description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+"topics": [
+"infrastructure-as-code",
+"serverless",
+"containers",
+"aws",
+"azure",
+"gcp",
+"kubernetes",
+"cloud",
+"cloud-computing",
+"iac"
+],
+"language": "Go"
+},
+{
+"repo": "d2lang/d2",
+"stars": 25627,
+"description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+"topics": [
+"diagramming",
+"diagrams",
+"text-to-diagram",
+"software-architecture",
+"go",
+"golang",
+"developer-tools"
+],
+"language": "Go"
+},
+{
+"repo": "ageron/handson-ml",
+"stars": 25602,
+"description": "⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.",
+"topics": [
+"tensorflow",
+"scikit-learn",
+"machine-learning",
+"python",
+"deep-learning",
+"neural-network",
+"ml",
+"distributed",
+"jupyter-notebook",
+"deprecated"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "zloirock/core-js",
+"stars": 25531,
+"description": "Standard Library",
+"topics": [
+"proposal",
+"polyfill",
+"shim",
+"es6",
+"es7",
+"es2015",
+"esnext",
+"ponyfill",
+"javascript",
+"js"
+],
+"language": "JavaScript"
+},
+{
+"repo": "clockworklabs/SpacetimeDB",
+"stars": 25313,
+"description": "Development at the speed of light",
+"topics": [
+"database",
+"dataoriented",
+"game-development",
+"relational",
+"relational-database",
+"mmorpg-server",
+"web-development",
+"web-framework"
+],
+"language": "Rust"
+},
+{
+"repo": "Dao-AILab/flash-attention",
+"stars": 25154,
+"description": "Fast and memory-efficient exact attention",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "highlightjs/highlight.js",
+"stars": 25003,
+"description": "JavaScript syntax highlighter with language auto-detection and zero dependencies.",
+"topics": [
+"syntax-highlighting",
+"language-grammars",
+"highlighting",
+"syntax-highlighter",
+"javascript"
+],
+"language": "JavaScript"
+},
+{
+"repo": "actix/actix-web",
+"stars": 24867,
+"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+"topics": [
+"rust",
+"web",
+"web-development",
+"websockets",
+"actix",
+"actix-web",
+"async"
+],
+"language": "Rust"
+},
+{
+"repo": "charmbracelet/gum",
+"stars": 24515,
+"description": "A tool for glamorous shell scripts 🎀",
+"topics": [
+"bash",
+"shell"
+],
+"language": "Go"
+},
+{
+"repo": "deepseek-ai/DeepSeek-Coder",
+"stars": 24292,
+"description": "DeepSeek Coder: Let the Code Write Itself",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "google/gson",
+"stars": 24237,
+"description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "processing/p5.js",
+"stars": 24140,
+"description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
+"topics": [
+"javascript",
+"graphics",
+"education",
+"learning",
+"art",
+"design",
+"sound",
+"html",
+"p5js",
+"creative-coding"
+],
+"language": "JavaScript"
+},
+{
+"repo": "MagicMirrorOrg/MagicMirror",
+"stars": 24135,
+"description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+"topics": [
+"magicmirror",
+"javascript",
+"raspberry-pi",
+"smarthome",
+"mirror",
+"domotics"
+],
+"language": "JavaScript"
+},
+{
+"repo": "PicoTrex/Awesome-Nano-Banana-images",
+"stars": 23907,
+"description": "A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)",
+"topics": [
+"awesome",
+"gemini-2-5-flash-image",
+"nano-banana"
+],
+"language": ""
+},
+{
+"repo": "timescale/timescaledb",
+"stars": 23713,
+"description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+"topics": [
+"time-series-database",
+"postgresql",
+"time-series",
+"sql",
+"postgres",
+"tsdb",
+"iot",
+"financial-analysis",
+"analytics",
+"timescaledb"
+],
+"language": "C"
+},
+{
+"repo": "kriasoft/react-starter-kit",
+"stars": 23695,
+"description": "Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.",
+"topics": [
+"react",
+"boilerplate",
+"nodejs",
+"starter-kit",
+"typescript",
+"template",
+"cloudflare",
+"vite",
+"hono",
+"trpc"
+],
+"language": "TypeScript"
+},
+{
+"repo": "matplotlib/matplotlib",
+"stars": 23380,
+"description": "matplotlib: plotting with Python",
+"topics": [
+"matplotlib",
+"data-visualization",
+"data-science",
+"python",
+"qt",
+"wx",
+"gtk",
+"plotting",
+"tk"
+],
+"language": "Python"
+},
+{
+"repo": "microsoft/api-guidelines",
+"stars": 23337,
+"description": "Microsoft REST API Guidelines",
+"topics": [
+"api",
+"guidelines",
+"rest-api",
+"styleguide"
+],
+"language": ""
+},
+{
+"repo": "chalk/chalk",
+"stars": 23330,
+"description": "🖍 Terminal string styling done right",
+"topics": [
+"ansi-escape-codes",
+"javascript",
+"chalk",
+"ansi",
+"color",
+"cli",
+"terminal",
+"console",
+"terminal-emulators",
+"commandline"
+],
+"language": "JavaScript"
+},
+{
+"repo": "neondatabase/neon",
+"stars": 23214,
+"description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+"topics": [
+"postgres",
+"postgresql",
+"serverless",
+"database",
+"rust"
+],
+"language": "Rust"
+},
+{
+"repo": "alibaba/Sentinel",
+"stars": 23150,
+"description": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+"topics": [
+"alibaba",
+"java",
+"microservice",
+"circuit-breaker",
+"rate-limiting",
+"reliability",
+"cloud-native",
+"microservices",
+"resiliency"
+],
+"language": "Java"
+},
+{
+"repo": "yjs/yjs",
+"stars": 22947,
+"description": "Shared data types for building collaborative software",
+"topics": [
+"yjs",
+"crdt",
+"shared-editing",
+"collaboration",
+"collaborative-editing",
+"peer-to-peer",
+"p2p",
+"offline-first",
+"decentralized",
+"realtime"
+],
+"language": "JavaScript"
+},
+{
+"repo": "super-productivity/super-productivity",
+"stars": 22917,
+"description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+"topics": [
+"task-manager",
+"linux",
+"macos",
+"time-tracker",
+"to-do-list",
+"productivity",
+"todo",
+"flowmodoro",
+"pomodoro",
+"pomodoro-timer"
+],
+"language": "TypeScript"
+},
+{
+"repo": "websockets/ws",
+"stars": 22807,
+"description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js",
+"topics": [
+"websocket",
+"javascript",
+"websocket-client",
+"websocket-server",
+"rfc-6455",
+"real-time",
+"nodejs",
+"node",
+"websocket-compression"
+],
+"language": "JavaScript"
+},
+{
+"repo": "gleam-lang/gleam",
+"stars": 21994,
+"description": "⭐️ A friendly language for building type-safe, scalable systems!",
+"topics": [
+"gleam",
+"programming-language",
+"compiler",
+"erlang",
+"statically-typed"
+],
+"language": "Rust"
+},
+{
+"repo": "recommenders-team/recommenders",
+"stars": 21956,
+"description": "Best Practices on Recommendation Systems",
+"topics": [
+"machine-learning",
+"recommender",
+"ranking",
+"deep-learning",
+"python",
+"jupyter-notebook",
+"recommendation-algorithm",
+"rating",
+"operationalization",
+"kubernetes"
+],
+"language": "Python"
+},
+{
+"repo": "google/ExoPlayer",
+"stars": 21944,
+"description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "aidenybai/react-scan",
+"stars": 21878,
+"description": "Scan and fix React performance issues",
+"topics": [
+"javascript",
+"react",
+"react-dom",
+"rendering",
+"react-scan"
+],
+"language": "TypeScript"
+},
+{
+"repo": "bee-san/Ciphey",
+"stars": 21686,
+"description": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+"topics": [
+"decryption",
+"natural-language-processing",
+"cryptography",
+"cipher",
+"artificial-intelligence",
+"ctf-tools",
+"ctf",
+"cpp",
+"python",
+"hacking"
+],
+"language": "Rust"
+},
+{
+"repo": "charmbracelet/vhs",
+"stars": 21142,
+"description": "Your CLI home video recorder 📼",
+"topics": [
+"gif",
+"recording",
+"terminal",
+"video",
+"cli",
+"command-line",
+"ascii",
+"vhs"
+],
+"language": "Go"
+},
+{
+"repo": "GoogleCloudPlatform/microservices-demo",
+"stars": 21061,
+"description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+"topics": [
+"kubernetes",
+"grpc",
+"istio",
+"gke",
+"skaffold",
+"sample-application",
+"google-cloud",
+"samples",
+"gcp",
+"kustomize"
+],
+"language": "Go"
+},
+{
+"repo": "allinurl/goaccess",
+"stars": 21058,
+"description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+"topics": [
+"goaccess",
+"c",
+"real-time",
+"data-analysis",
+"analytics",
+"nginx",
+"apache",
+"webserver",
+"web-analytics",
+"monitoring"
+],
+"language": "C"
+},
+{
+"repo": "google/fonts",
+"stars": 20644,
+"description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
+"topics": [],
+"language": "HTML"
+},
+{
+"repo": "google/filament",
+"stars": 20622,
+"description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+"topics": [
+"pbr",
+"graphics",
+"3d-graphics",
+"real-time",
+"android",
+"opengl",
+"opengl-es",
+"vulkan",
+"webgl",
+"wasm"
+],
+"language": "C++"
+},
+{
+"repo": "krisk/Fuse",
+"stars": 20506,
+"description": "Lightweight fuzzy-search, in JavaScript",
+"topics": [
+"javascript",
+"lightweight-fuzzy-search",
+"weighted-search",
+"bitap"
+],
+"language": "JavaScript"
+},
+{
+"repo": "openai/gpt-oss",
+"stars": 20473,
+"description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "bokeh/bokeh",
+"stars": 20460,
+"description": "Interactive Data Visualization in the browser, from  Python",
+"topics": [
+"bokeh",
+"python",
+"interactive-plots",
+"javascript",
+"visualization",
+"plotting",
+"plots",
+"data-visualisation",
+"notebooks",
+"jupyter"
+],
+"language": "TypeScript"
+},
+{
+"repo": "triton-lang/triton",
+"stars": 20397,
+"description": "Development repository for the Triton language and compiler",
+"topics": [],
+"language": "MLIR"
+},
+{
+"repo": "microsoft/fluentui",
+"stars": 20323,
+"description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+"topics": [
+"react",
+"react-components",
+"office-ui-fabric",
+"microsoft",
+"components",
+"fluent"
+],
+"language": "TypeScript"
+},
+{
+"repo": "docker-mailserver/docker-mailserver",
+"stars": 19610,
+"description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
+"topics": [
+"mailserver",
+"mail",
+"postfix",
+"dovecot",
+"ldap",
+"fail2ban",
+"imap",
+"smtp",
+"container",
+"rspamd"
+],
+"language": "Shell"
+},
+{
+"repo": "danielmiessler/LifeOS",
+"stars": 19495,
+"description": "⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.",
+"topics": [
+"ai",
+"augmentation",
+"productivity",
+"humans",
+"ai-harness",
+"intent-engineering",
+"personal-ai",
+"coding",
+"lifeos"
+],
+"language": "TypeScript"
+},
+{
+"repo": "google/cadvisor",
+"stars": 19483,
+"description": "Analyzes resource usage and performance characteristics of running containers.",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "golangci/golangci-lint",
+"stars": 19444,
+"description": "Fast linters runner for Go",
+"topics": [
+"go",
+"golang",
+"linter",
+"ci",
+"golangci-lint"
+],
+"language": "Go"
+},
+{
+"repo": "mountain-loop/yaak",
+"stars": 19328,
+"description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+"topics": [
+"http-client",
+"tauri",
+"graphql",
+"grpc",
+"sse",
+"websocket",
+"http",
+"postman-alternative",
+"bruno-alternative",
+"insomnia-alternative"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Orange-OpenSource/hurl",
+"stars": 19262,
+"description": "Hurl, run and test HTTP requests with plain text.",
+"topics": [
+"curl",
+"http",
+"testing-tools",
+"cli",
+"integration-testing",
+"http-client",
+"api-testing",
+"testing"
+],
+"language": "Rust"
+},
+{
+"repo": "tensorflow/tfjs",
+"stars": 19149,
+"description": "A WebGL accelerated JavaScript library for training and deploying ML models.",
+"topics": [
+"deep-learning",
+"typescript",
+"webgl",
+"javascript",
+"machine-learning",
+"neural-network",
+"deep-neural-network",
+"gpu-acceleration",
+"wasm",
+"web-assembly"
+],
+"language": "TypeScript"
+},
+{
+"repo": "react/yoga",
+"stars": 18929,
+"description": "Yoga is an embeddable layout engine targeting web standards.",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "Tencent/MMKV",
+"stars": 18763,
+"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.",
+"topics": [
+"android",
+"ios",
+"kotlin",
+"swift",
+"macos",
+"key-value",
+"wechat",
+"flutter",
+"golang",
+"python"
+],
+"language": "C++"
+},
+{
+"repo": "alibaba/ice",
+"stars": 18603,
+"description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）",
+"topics": [
+"react",
+"react-router",
+"typescript",
+"webpack",
+"framework",
+"icejs",
+"ssr",
+"serverless",
+"vite",
+"nodejs"
+],
+"language": "TypeScript"
+},
+{
+"repo": "alibaba/weex",
+"stars": 18492,
+"description": "A framework for building Mobile cross-platform UI",
+"topics": [
+"mobile",
+"android",
+"ios",
+"weex",
+"web",
+"sdk"
+],
+"language": "C++"
+},
+{
+"repo": "google/libphonenumber",
+"stars": 18319,
+"description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "Robbyant/lingbot-map",
+"stars": 18125,
+"description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "zincsearch/zincsearch",
+"stars": 17920,
+"description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+"topics": [
+"go",
+"golang",
+"search",
+"searchengine",
+"modern",
+"vuejs",
+"elasticsearch",
+"opensearch"
+],
+"language": "Go"
+},
+{
+"repo": "asciinema/asciinema",
+"stars": 17887,
+"description": "Terminal session recorder, streamer and player 📹",
+"topics": [
+"asciicast",
+"terminal",
+"recording",
+"cli",
+"asciinema",
+"streaming",
+"rustlang"
+],
+"language": "Rust"
+},
+{
+"repo": "ImageMagick/ImageMagick",
+"stars": 17675,
+"description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
+"topics": [
+"imagemagick",
+"image-conversion",
+"image-manipulation",
+"image-processing",
+"open-source-software",
+"command-line-image-tool",
+"digital-image-editing",
+"mastering-digital-image-alchemy"
+],
+"language": "C"
+},
+{
+"repo": "Tencent/tinker",
+"stars": 17658,
+"description": "Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+"topics": [
+"android",
+"dynamic",
+"hotfix",
+"wechat"
+],
+"language": "Java"
+},
+{
+"repo": "microsoft/data-formulator",
+"stars": 17573,
+"description": "🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "jtoy/awesome-tensorflow",
+"stars": 17534,
+"description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
+"topics": [],
+"language": ""
+},
+{
+"repo": "Tencent/vConsole",
+"stars": 17532,
+"description": "A lightweight, extendable front-end developer tool for mobile web page.",
+"topics": [
+"wechat",
+"mobile",
+"console"
+],
+"language": "TypeScript"
+},
+{
+"repo": "NVIDIA/open-gpu-kernel-modules",
+"stars": 17475,
+"description": "NVIDIA Linux open GPU kernel module source",
+"topics": [],
+"language": "C"
+},
+{
+"repo": "sindresorhus/type-fest",
+"stars": 17458,
+"description": "A collection of essential TypeScript types",
+"topics": [
+"typescript-definitions",
+"typescript",
+"types",
+"utilities",
+"npm-package"
+],
+"language": "TypeScript"
+},
+{
+"repo": "alibaba/DataX",
+"stars": 17363,
+"description": "DataX是阿里云DataWorks数据集成的开源版本。",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "microsoft/react-native-windows",
+"stars": 17359,
+"description": "A framework for building native Windows apps with React.",
+"topics": [
+"uwp",
+"xbox",
+"dotnet",
+"react-native",
+"react"
+],
+"language": "C++"
+},
+{
+"repo": "aws/aws-cli",
+"stars": 17307,
+"description": "Universal Command Line Interface for Amazon Web Services",
+"topics": [
+"aws",
+"cloud",
+"aws-cli",
+"cloud-management"
+],
+"language": "Python"
+},
+{
+"repo": "apache/arrow",
+"stars": 17210,
+"description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+"topics": [
+"arrow",
+"parquet"
+],
+"language": "C++"
+},
+{
+"repo": "microsoft/IoT-For-Beginners",
+"stars": 17150,
+"description": "12 Weeks, 24 Lessons, IoT for All!",
+"topics": [
+"iot",
+"microcontroller",
+"raspberry-pi",
+"rpi",
+"cpp",
+"python",
+"iot-edge",
+"iot-device",
+"hacktoberfest",
+"microsoft-for-beginners"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "LibreTranslate/LibreTranslate",
+"stars": 17114,
+"description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+"topics": [
+"translation",
+"translate",
+"api",
+"machine",
+"translator"
+],
+"language": "Python"
+},
+{
+"repo": "richards199999/Thinking-Claude",
+"stars": 17018,
+"description": "Let your Claude able to think",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "apple/foundationdb",
+"stars": 16783,
+"description": "FoundationDB - the open source, distributed, transactional key-value store",
+"topics": [
+"key-value-store",
+"transactional",
+"acid",
+"distributed-database",
+"foundationdb"
+],
+"language": "C++"
+},
+{
+"repo": "a2ui-project/a2ui",
+"stars": 16731,
+"description": "",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "piskvorky/gensim",
+"stars": 16505,
+"description": "Topic Modelling for Humans",
+"topics": [
+"gensim",
+"topic-modeling",
+"information-retrieval",
+"machine-learning",
+"natural-language-processing",
+"nlp",
+"data-science",
+"python",
+"data-mining",
+"word2vec"
+],
+"language": "Python"
+},
+{
+"repo": "vercel/vercel",
+"stars": 16409,
+"description": "Develop. Preview. Ship.",
+"topics": [
+"cli",
+"command",
+"vercel",
+"cloud",
+"hosting",
+"jamstack",
+"ship"
+],
+"language": "TypeScript"
+},
+{
+"repo": "go-task/task",
+"stars": 16261,
+"description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
+"topics": [
+"go",
+"make",
+"makefile",
+"task",
+"task-runner",
+"devops",
+"build-tool",
+"taskfile"
+],
+"language": "Go"
+},
+{
+"repo": "goreleaser/goreleaser",
+"stars": 16104,
+"description": "Release engineering, simplified",
+"topics": [
+"release-automation",
+"package",
+"hacktoberfest",
+"github-actions",
+"announcements",
+"release-engineering"
+],
+"language": "Go"
+},
+{
+"repo": "ArduPilot/ardupilot",
+"stars": 16087,
+"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+"topics": [
+"arducopter",
+"ardupilot",
+"arduplane",
+"ardurover",
+"ardusub",
+"uav",
+"drone",
+"plane",
+"copter",
+"rover"
+],
+"language": "C++"
+},
+{
+"repo": "spree/spree",
+"stars": 15762,
+"description": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
+"topics": [
+"ecommerce",
+"e-commerce",
+"ecommerce-platform",
+"spree-commerce",
+"marketplace",
+"multi-tenant",
+"multi-vendor",
+"multi-vendor-ecommerce",
+"ecommerce-api",
+"ecommerce-framework"
+],
+"language": "Ruby"
+},
+{
+"repo": "google-deepmind/mujoco",
+"stars": 15735,
+"description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+"topics": [
+"robotics",
+"physics",
+"mujoco"
+],
+"language": "C++"
+},
+{
+"repo": "apache/hadoop",
+"stars": 15694,
+"description": "Apache Hadoop",
+"topics": [
+"hadoop"
+],
+"language": "Java"
+},
+{
+"repo": "microsoft/pyright",
+"stars": 15685,
+"description": "Static Type Checker for Python",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "ggml-org/ggml",
+"stars": 15496,
+"description": "Tensor library for machine learning",
+"topics": [
+"machine-learning"
+],
+"language": "C++"
+},
+{
+"repo": "jupyter/jupyter",
+"stars": 15355,
+"description": "Jupyter metapackage for installation and documentation",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Tencent/weui-wxss",
+"stars": 15271,
+"description": "A UI library by WeChat official design team, includes the most useful widgets/modules.",
+"topics": [
+"weui",
+"wxss"
+],
+"language": "Less"
+},
+{
+"repo": "google-deepmind/deepmind-research",
+"stars": 15239,
+"description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "fmhy/FMHY",
+"stars": 15157,
+"description": "https://fmhy.net/",
+"topics": [
+"freemediaheckyeah"
+],
+"language": ""
+}
+]

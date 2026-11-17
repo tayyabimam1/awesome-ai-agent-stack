@@ -1,0 +1,217 @@
+sindresorhus/awesome 520393 😎 Awesome lists about all kinds of interesting topics [NOTE:
+CorentinJ/Real-Time-Voice-Cloning 60189 Clone a voice in 5 seconds to generate arbitrary speech in r
+ultralytics/yolov5 58179 Ultralytics YOLOv5 in PyTorch for object detection, instance
+babysor/MockingBird 36888 🚀Clone a voice in 5 seconds to generate arbitrary speech in 
+Anjok07/ultimatevocalremovergui 26665  GUI for a Vocal Remover that uses Deep Neural Networks.
+microsoft/unilm 22239 Large-scale Self-supervised Pre-training Across Tasks, Langu
+w-okada/voice-changer 21194 リアルタイムボイスチェンジャー Realtime Voice Changer
+BradyFU/Awesome-Multimodal-Large-Language-Models 18057 :sparkles::sparkles:Latest Advances on Multimodal Large Lang
+Wan-Video/Wan2.2 17981 Wan: Open and Advanced Large-Scale Video Generative Models
+NVlabs/instant-ngp 17577 Instant neural graphics primitives: lightning fast NeRF and 
+AaronFeng753/Waifu2x-Extension-GUI 17122 Video, Image and GIF upscale/enlarge(Super-Resolution) and V
+playcanvas/engine 17076 Powerful web graphics runtime built on WebGL, WebGPU, WebXR 
+modelscope/DiffSynth-Studio 13256 Enjoy the magic of Diffusion models!
+PaddlePaddle/PaddleNLP 12978 Easy-to-use and powerful LLM and SLM library with awesome mo
+google-research/vision_transformer 12747 
+OpenMOSS/MOSS 12270 An open-source, tool-augmented conversational language model
+Tongyi-MAI/Z-Image 12096 
+ollama/ollama-python 10604 Ollama Python library
+facebookresearch/xformers 10566 Hackable and optimized Transformers building blocks, support
+easydiffusion/easydiffusion 10473 An easy 1-click way to create beautiful artwork on your PC u
+easydiffusion/easydiffusion 10473 An easy 1-click way to create beautiful artwork on your PC u
+playcanvas/supersplat 10406 3D Gaussian Splat Editor
+open-mmlab/Amphion 10311 Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Spee
+brightmart/nlp_chinese_corpus 9923 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
+roboflow/notebooks 9717 A collection of tutorials on state-of-the-art computer visio
+PaddlePaddle/PaddleSeg 9411 Easy-to-use image segmentation library with awesome pre-trai
+voicepaw/so-vits-svc-fork 9333 so-vits-svc fork with realtime support, improved interface a
+modelscope/modelscope 9181 ModelScope: bring the notion of Model-as-a-Service to life.
+MoonshotAI/Kimi-K3 8939 Open Frontier Intelligence
+fishaudio/Bert-VITS2 8804 vits2 backbone with multilingual-bert
+FoundationVision/VAR 8758 [NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥] [scali
+jasonppy/VoiceCraft 8576 Zero-Shot Speech Editing and Text-to-Speech in the Wild
+boson-ai/higgs-audio 8371 Text-audio foundation model from Boson AI
+geekyutao/Inpaint-Anything 7726 Inpaint anything using Segment Anything and inpainting model
+facebookresearch/sam-3d-objects 7532 SAM 3D Objects
+facebookresearch/SlowFast 7434 PySlowFast: video understanding codebase from FAIR for repro
+visioncortex/vtracer 7318 Raster to Vector Graphics Converter
+PaddlePaddle/Paddle-Lite 7289 PaddlePaddle High Performance Deep Learning Inference Engine
+gaomingqi/Track-Anything 7010 Track-Anything is a flexible and interactive tool for video 
+spotify/pedalboard 6358 🎛 🔊 A Python library for audio.
+PaddlePaddle/PaddleX 6275 All-in-One Development Tool based on PaddlePaddle
+bytedance/MegaTTS3 6098 
+spotify/basic-pitch 5924 A lightweight yet powerful audio-to-MIDI converter with pitc
+OHF-Voice/piper1-gpl 5905 Fast and local neural text-to-speech engine
+PaddlePaddle/PaddleClas 5850 A treasure chest for visual classification and recognition p
+google-deepmind/gemma 5799 Gemma open-weight LLM library, from Google DeepMind
+facebookresearch/mmf 5636 A modular framework for vision & language multimodal researc
+remsky/Kokoro-FastAPI 5556 Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-
+roboflow/sports 5426 computer vision and sports
+Hillobar/Rope 5385 GUI-focused roop
+NVIDIAGameWorks/kaolin 5187 A PyTorch Library for Accelerating 3D Deep Learning Research
+salesforce/CodeGen 5182 CodeGen is a family of open-source model for program synthes
+open-mmlab/mmaction2 5177 OpenMMLab's Next Generation Video Understanding Toolbox and 
+facebookresearch/co-tracker 5156 CoTracker is a model for tracking any point (pixel) on a vid
+facebookresearch/moco 5141 PyTorch implementation of MoCo: https://arxiv.org/abs/1911.0
+AILab-CVC/VideoCrafter 5101 VideoCrafter2: Overcoming Data Limitations for High-Quality 
+AILab-CVC/VideoCrafter 5101 VideoCrafter2: Overcoming Data Limitations for High-Quality 
+Deci-AI/super-gradients 5073 Easily train or fine-tune SOTA computer vision models with o
+ace-step/ACE-Step 4949 ACE-Step: A Step Towards Music Generation Foundation Model
+Stability-AI/StableSwarmUI 4941 StableSwarmUI, A Modular Stable Diffusion Web-User-Interface
+facebookresearch/vjepa2 4781 PyTorch code and models for VJEPA2 self-supervised learning 
+facebookincubator/AITemplate 4730 AITemplate is a Python framework which renders neural networ
+antgroup/echomimic_v2 4659 [CVPR 2025] EchoMimicV2: Towards Striking, Simplified, and S
+turboderp-org/exllamav2 4638 A fast inference library for running LLMs locally on modern 
+hao-ai-lab/FastVideo 4613 A unified inference and post-training framework for accelera
+APIs-guru/openapi-directory 4580 🌐 Wikipedia for Web APIs. Directory of REST API definitions 
+microsoft/LMOps 4483 General technology for enabling AI capabilities w/ LLMs and 
+VectorSpaceLab/OmniGen 4342 OmniGen: Unified Image Generation. https://arxiv.org/pdf/240
+QwenLM/Qwen3.8 4289 Qwen3.8 is the large language model series developed by Qwen
+esbatmop/MNBVC 4287 MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。
+CLUEbenchmark/CLUE 4287 中文语言理解测评基准 Chinese Language Understanding Evaluation Benchma
+QwenLM/Qwen3-Omni 4060 Qwen3-omni is a natively end-to-end, omni-modal LLM develope
+ali-vilab/VACE 3979 [ICCV 2025] Official implementations for paper: VACE: All-in
+nunchux-ai/nunchaku 3958 [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Ran
+roboflow/trackers 3951 Trackers gives you clean, modular re-implementations of lead
+MrNeRF/LichtFeld-Studio 3877 Train, inspect, edit, automate, and export 3D Gaussian Splat
+SandAI-org/MAGI-1 3795 MAGI-1: Autoregressive Video Generation at Scale
+robbyant-research/MagicQuill 3685 [CVPR'25] Official Implementations for Paper - MagicQuill: A
+NVlabs/FoundationPose 3633 [CVPR 2024 Highlight] FoundationPose: Unified 6D Pose Estima
+facebookresearch/pytorchvideo 3570 A deep learning library for video understanding research.
+Tencent-Hunyuan/Hunyuan3D-1 3493 Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D an
+nihui/waifu2x-ncnn-vulkan 3487 waifu2x converter ncnn version, runs fast on intel / amd / n
+deepseek-ai/DeepSeek-OCR-2 3479 Visual Causal Flow
+aras-p/UnityGaussianSplatting 3433 Toy Gaussian Splatting visualization in Unity
+chaofengc/IQA-PyTorch 3420 🔎 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, includin
+HKUDS/VideoRAG 3404 [KDD'2026] "VideoRAG: Chat with Your Videos"
+Tencent-Hunyuan/HunyuanImage-3.0 3289 HunyuanImage-3.0: A Powerful Native Multimodal Model for Ima
+chflame163/ComfyUI_LayerStyle 3184 A set of nodes for ComfyUI that can composite layer and mask
+SkyworkAI/Skywork-R1V 3172 Skywork-R1V is an advanced multimodal AI model series develo
+z-x-yang/Segment-and-Track-Anything 3141 An open-source project dedicated to tracking and segmenting 
+QwenLM/Qwen-MM-Plugins 3141 Make any agent harness multimodal-native.
+antimatter15/splat 3074 WebGL 3D Gaussian Splat Viewer
+facebookresearch/Pearl 3033 A Production-ready Reinforcement Learning AI Agent Library b
+cordiverse/paper 3014 A Programming Paradigm for Spatiotemporal Composability
+ModelTC/LightX2V 2917 Lightweight Image Video Action Generation Inference Framewor
+mkkellogg/GaussianSplats3D 2916 Three.js-based implementation of 3D Gaussian splatting
+viser-project/viser 2822 Web-based 3D visualization in Python
+autodistill/autodistill 2792 Images to inference with no labeling (use foundation models 
+thewh1teagle/kokoro-onnx 2789 TTS with kokoro and onnx runtime
+UlionTse/translators 2697 Translators is a library that aims to bring free, multiple, 
+roboflow/maestro 2693 streamline the fine-tuning process for multimodal models: Pa
+roboflow/maestro 2693 streamline the fine-tuning process for multimodal models: Pa
+Tencent/MimicMotion 2676 High-Quality Human Motion Video Generation with Confidence-a
+sergree/matchering 2661 🎚️ Open Source Audio Matching and Mastering
+test-time-training/ttt-video-dit 2453 Official PyTorch implementation of One-Minute Video Generati
+baaivision/Emu3 2452 Next-Token Prediction is All You Need
+zai-org/GLM-V 2399 GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Re
+zai-org/GLM-V 2399 GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Re
+pydn/ComfyUI-to-Python-Extension 2389 A powerful tool that translates ComfyUI workflows into execu
+facebookresearch/perception_models 2387 State-of-the-art Image & Video CLIP, Multimodal Large Langua
+showlab/Paper2Video 2383 Automatic Video Generation from Scientific Papers
+heshengtao/comfyui_LLM_party 2383 LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT
+ASLP-lab/DiffRhythm 2348 Di♪♪Rhythm: Blazingly Fast and Embarrassingly Simple End-to-
+MoonshotAI/Kimi-K2.5 2311 Open Visual Agentic Intelligence
+kijai/ComfyUI-SUPIR 2310 SUPIR upscaling wrapper for ComfyUI
+hkchengrex/MMAudio 2287 [CVPR 2025] MMAudio: Taming Multimodal Joint Training for Hi
+TEN-framework/ten-vad 2287 Voice Activity Detector (VAD) : low-latency, high-performanc
+NVlabs/MambaVision 2242 [CVPR 2025] Official PyTorch Implementation of MambaVision: 
+WebODM/OpenSplat 2230 Production-grade 3D gaussian splatting with CPU/GPU support 
+PKU-YuanGroup/Helios 2209 Helios: Real Real-Time Long Video Generation Model
+kleinlee/DH_live 2201 每个人都能用的数字人
+Tencent-Hunyuan/HunyuanVideo-Avatar 2184 
+zombieyang/sd-ppp 2183 A Photoshop AI plugin
+showlab/Code2Video 2136 [ICML 2026] Video generation via code
+amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging 2112 Diffusion Models in Medical Imaging (Published in Medical Im
+kohya-ss/musubi-tuner 2100 
+River-Zhang/ICEdit 2098 [NeurIPS 2025] Image editing is worth a single LoRA! 0.1% tr
+Comfy-Org/ComfyUI_frontend 2071 Official front-end implementation of ComfyUI
+tdrussell/diffusion-pipe 2032 A pipeline parallel training script for diffusion models.
+cambrian-mllm/cambrian 2010 Cambrian-1 is a family of multimodal LLMs with a vision-cent
+crystian/ComfyUI-Crystools 2005 A powerful set of tools for ComfyUI
+showlab/Show-o 1979 [ICLR & NeurIPS 2025] Repository for Show-o series, One Sing
+adobe-research/custom-diffusion 1977 Custom Diffusion: Multi-Concept Customization of Text-to-Ima
+NVlabs/RADIO 1973 Official repository for "AM-RADIO: Reduce All Domains Into O
+siliconflow/onediff 1962 OneDiff: An out-of-the-box acceleration library for diffusio
+Yuanshi9815/OminiControl 1958 [ICCV 2025 Highlight] OminiControl: Minimal and Universal Co
+Yuliang-Liu/Monkey 1954 Monkey (LMM): Image Resolution and Text Label Are Important 
+Vchitect/Latte 1950 [TMLR 2025] Latte: Latent Diffusion Transformer for Video Ge
+NVlabs/nvdiffrast 1932 Nvdiffrast - Modular Primitives for High-Performance Differe
+OpenImagingLab/FlashVSR 1924 [CVPR 2026] Towards Real-Time Diffusion-Based Streaming Vide
+KlingAIResearch/ReCamMaster 1886 [ICCV'25 Best Paper Finalist] ReCamMaster: Camera-Controlled
+bootchk/resynthesizer 1880 Suite of gimp plugins for texture synthesis
+Zheng-Chong/CatVTON 1875 [ICLR 2025] CatVTON is a simple and efficient virtual try-on
+WASasquatch/was-node-suite-comfyui 1875 WAS-NS v3 Reborn; Tools for image processing, filters, maski
+MixLabPro/comfyui-mixlab-nodes 1863 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRec
+Tencent-Hunyuan/HunyuanVideo-I2V 1849 HunyuanVideo-I2V: A Customizable Image-to-Video Model based 
+baaivision/Emu 1777 Emu Series: Generative Multimodal Models from BAAI
+NimaNzrii/comfyui-photoshop 1774 ComfyUi inside of your Photoshop! you can install the plugin
+GAP-LAB-CUHK-SZ/gaustudio 1764 A Modular Framework for 3D Gaussian Splatting and Beyond
+kijai/ComfyUI-Florence2 1755 Inference Microsoft Florence2 VLM
+zai-org/ImageReward 1707 [NeurIPS 2023] ImageReward: Learning and Evaluating Human Pr
+kijai/ComfyUI-FramePackWrapper 1684 
+Gen-Verse/MMaDA 1673 MMaDA - Open-Sourced Multimodal Large Diffusion Language Mod
+huggingface/gsplat.js 1670 JavaScript Gaussian Splatting library.
+NVIDIAGameWorks/rtx-remix 1667 Combined repo for the RTX-Remix runtime and toolkit
+JiuhaiChen/BLIP3o 1667 Official implementation of BLIP3o-Series
+pipecat-ai/smart-turn 1623 
+IDEA-Research/Rex-Omni 1617 [CVPR2026] Detect Anything via Next Point Prediction 
+gururise/AlpacaDataCleaned 1610 Alpaca dataset from Stanford, cleaned and curated
+Drexubery/ViewCrafter 1605 [TPAMI 2025]  ViewCrafter: Taming Video Diffusion Models for
+FoundationVision/Infinity 1592 [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive 
+ZFTurbo/Music-Source-Separation-Training 1585 Repository for training models for music source separation.
+google-research/FLAN 1574 
+AIGODLIKE/ComfyUI-BlenderAI-node 1562 Used for AI model generation, next-generation Blender render
+baaivision/Emu3.5 1562 Native Multimodal Models are World Learners
+Florian-Barthel/splatviz 1551 Full python interactive 3D Gaussian Splatting viewer for rea
+bytedance/SALMONN 1547 SALMONN family: A suite of advanced multi-modal LLMs
+willmiao/ComfyUI-Lora-Manager 1538 LoRA Manager for ComfyUI - A powerful extension for organizi
+BennyKok/comfyui-deploy 1533 An open source `vercel` like deployment platform for Comfy U
+AlekPet/ComfyUI_Custom_Nodes_AlekPet 1531 Custom nodes that extend the capabilities of Comfyui
+zhulu111/ComfyUI_Bxb 1511 SD变现宝：一键把comfyui工作流转换成小程序。
+piddnad/DDColor 1508 [ICCV 2023] DDColor: Towards Photo-Realistic Image Colorizat
+open-mmlab/mmengine 1500 OpenMMLab Foundational Library for Training Deep Learning Mo
+emcconville/wand 1482 The ctypes-based simple ImageMagick binding for Python
+scraed/LanPaint 1462 High quality training free inpaint for every stable diffusio
+zsyOAOA/InvSR 1457 Arbitrary-steps Image Super-resolution via Diffusion Inversi
+nv-tlabs/GEN3C 1436 [CVPR 2025 Highlight] GEN3C: 3D-Informed World-Consistent Vi
+zsyOAOA/ResShift 1434 ResShift: Efficient Diffusion Model for Image Super-resoluti
+nomadkaraoke/python-audio-separator 1424 Easy to use stem (e.g. instrumental/vocals) separation from 
+om-ai-lab/OmDet 1408 Real-time and accurate open-vocabulary end-to-end object det
+playcanvas/splat-transform 1384 CLI tool and library for 3D Gaussian splat processing and co
+k2-fsa/k2 1368 FSA/FST algorithms, differentiable, with PyTorch compatibili
+ClownsharkBatwing/RES4LYF 1362 
+huggingface/finetrainers 1362 Scalable and memory-optimized training of diffusion models
+lxtGH/OMG-Seg 1354 Official Repo For OMG-LLaVA and OMG-Seg codebase [CVPR-24 an
+wenqsun/DimensionX 1337 [ICCV'25]DimensionX: Create Any 3D and 4D Scenes from a Sing
+PKU-YuanGroup/MagicTime 1336 [TPAMI 2025🔥] MagicTime: Time-lapse Video Generation Models 
+W2GenAI-Lab/LucidFlux 1299 LucidFlux: Caption-Free Photo-Realistic Image Restoration vi
+thu-ml/SpargeAttn 1263 [ICML2025] SpargeAttention: A training-free sparse attention
+ga642381/speech-trident 1248 Awesome speech/audio LLMs, representation learning, and code
+Acly/comfyui-inpaint-nodes 1247 Nodes for better inpainting with ComfyUI: Fooocus inpaint mo
+florestefano1975/comfyui-portrait-master 1244 This node was designed to help AI image creators to generate
+alibaba/Tora 1243 [CVPR'25]Tora: Trajectory-oriented Diffusion Transformer for
+Kiri-Innovation/3dgs-render-blender-addon 1235 3DGS Render by KIRI Engine
+EvolvingLMMs-Lab/LLaVA-OneVision-2 1222 Fully Open Framework for Democratized Multimodal Training
+DachunKai/EvTexture 1209 [ICML 2024 & TPAMI 2026] EvTexture & EvTexture++: Event-Driv
+lquesada/ComfyUI-Inpaint-CropAndStitch 1202 ComfyUI nodes to crop before sampling and stitch back after 
+wladradchenko/wunjo.wladradchenko.ru 1179 Wunjo Make: Face Swap, Lip Sync, Control Remove Objects & Te
+noahcao/OC_SORT 1154 [CVPR2023] The official repo for OC-SORT: Observation-Centri
+rohitgandikota/sliders 1144 Concept Sliders for Precise Control of Diffusion Models
+smthemex/ComfyUI_Sonic 1140 Sonic is a method about ' Shifting Focus to Global Audio Per
+OpenMOSS/MOVA 1124 A foundation model that generates synchronized video and aud
+PaddlePaddle/PaddleHelix 1123 Bio-Computing Platform Featuring Large-Scale Representation 
+yzslab/gaussian-splatting-lightning 1110 A 3D Gaussian Splatting framework with various derived algor
+NVlabs/Fast-dLLM 1106 Official implementation of "Fast-dLLM: Training-free Acceler
+XiaomiMiMo/MiMo-Audio 1088 MiMo-Audio: Audio Language Models are Few-Shot Learners
+Fannovel16/ComfyUI-Frame-Interpolation 1085 A custom node set for Video Frame Interpolation in ComfyUI.
+InternRobotics/PointLLM 1058 [ECCV 2024 Best Paper Candidate & TPAMI 2025] PointLLM: Empo
+liuyuan-pal/SyncDreamer 1045 [ICLR 2024 Spotlight] SyncDreamer: Generating Multiview-cons
+kijai/ComfyUI-Hunyuan3DWrapper 1045 
+chrisgoringe/cg-use-everywhere 1041 
+TTPlanetPig/Comfyui_TTP_Toolset 1041 for tile the image for advanced control or modification 
+Alpha-VLLM/Lumina-DiMOO 1028 Lumina-DiMOO - An Open-Sourced Multi-Modal Large Diffusion L
+JackAILab/ConsistentID 1027 [TPAMI 2026] ConsistentID : Portrait Generation with Multimo
+fallenshock/FlowEdit 1020 Official implementation of the paper: "FlowEdit: Inversion-F
+Comfy-Org/comfy-cli 1015 CLI for using ComfyUI
+thu-ml/Causal-Forcing 1007 [ICML 2026] Official codebase for "Causal Forcing: Autoregre

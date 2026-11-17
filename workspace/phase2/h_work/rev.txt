@@ -1,0 +1,730 @@
+0 0xsline/OpenChatCut Open-source, local-first conversational 
+1 11cafe/jaaz The world's first open-source multimodal
+2 1j01/jspaint 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
+3 2U1/Qwen-VL-Series-Finetune An open-source implementaion for fine-tu
+4 3D-Vision-World/awesome-NeRF-and-3DGS-SLAM A comprehensive list of Implicit Represe
+5 6drf21e/ChatTTS_colab 🚀 一键部署（含离线整合包）！基于 ChatTTS ，支持流式输出、音色抽卡、长
+6 869413421/ai-moive-studio 自然语言驱动的无限画布工作流 Agent，让 AI 视频创作第一次真正变成可编辑
+7 AI-Efficiency/Awesome-Model-Quantization A curated collection of papers, benchmar
+8 AIGODLIKE/ComfyUI-BlenderAI-node Used for AI model generation, next-gener
+9 AILab-CVC/VideoCrafter VideoCrafter2: Overcoming Data Limitatio
+10 ANTsX/ANTs Advanced Normalization Tools (ANTs)
+11 APIs-guru/openapi-directory 🌐 Wikipedia for Web APIs. Directory of R
+12 ARahim3/DigUp Search your computer by what's in your f
+13 ARahim3/mlx-tune Fine-tune LLMs on your Mac with Apple Si
+14 ASLP-lab/DiffRhythm Di♪♪Rhythm: Blazingly Fast and Embarrass
+15 ATH-MaaS/Awesome-Unified-Multimodal-Models Awesome Unified Multimodal Models
+16 ATH-MaaS/Pixelle-Video 🚀 AI 全自动短视频引擎 | AI Fully Automated Short
+17 AaronFeng753/Waifu2x-Extension-GUI Video, Image and GIF upscale/enlarge(Sup
+18 AcademySoftwareFoundation/OpenTimelineIO Open Source API and interchange format f
+19 Achno/gowall A tool to convert a Wallpaper's color sc
+20 Acly/comfyui-inpaint-nodes Nodes for better inpainting with ComfyUI
+21 AddictedCS/soundfingerprinting Open source audio fingerprinting in .NET
+22 Agents365-ai/video-podcast-maker Topic → 4K narrated video for coding age
+23 Akegarasu/lora-scripts SD-Trainer. LoRA & Dreambooth training s
+24 AlekPet/ComfyUI_Custom_Nodes_AlekPet Custom nodes that extend the capabilitie
+25 AlibabaResearch/AdvancedLiterateMachinery A collection of original, innovative ide
+26 Alisa0808/vox-director Turn one topic into a finished Vox-style
+27 Alpha-VLLM/Lumina-DiMOO Lumina-DiMOO - An Open-Sourced Multi-Mod
+28 Anil-matcha/AI-Youtube-Shorts-Generator Open-source alternative to Opus Clip, Vi
+29 Anil-matcha/Open-Generative-AI Unrestricted Open-source alternative to 
+30 Anil-matcha/awesome-agent-apis 660+ muapi-hosted generative-media model
+31 Anionex/agent-vision-toolkit 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI
+32 Anjok07/ultimatevocalremovergui GUI for a Vocal Remover that uses Deep N
+33 Aratako/Irodori-TTS A Flow Matching-based Text-to-Speech Mod
+34 ArcReel/ArcReel AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具
+35 Arekejoker/qwen21-nsfw-pose-skill Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 
+36 ArthurBrussee/brush 3D Reconstruction for all
+37 AutoArk/EVA-OS EVA OS — A real-time multimodal AIOS for
+38 AutoArk/GPA [AutoArk] GPA (General Purpose Audio) ca
+39 Awesome3DGS/3D-Gaussian-Splatting-Papers 3D高斯论文，持续更新，欢迎交流讨论。
+40 Babyhamsta/Aimmy Universal Second Eye for Gamers with Imp
+41 BennyKok/comfyui-deploy An open source `vercel` like deployment 
+42 BillyDM/awesome-audio-dsp My curated list of audio DSP and plugin 
+43 Bing-su/adetailer Auto detecting, masking and inpainting w
+44 Blinue/Magpie A general-purpose window upscaler for Wi
+45 BradyFU/Awesome-Multimodal-Large-Language-Models :sparkles::sparkles:Latest Advances on M
+46 ByteDance-Seed/SeedVR Repo for SeedVR2 (ICLR2026) & SeedVR (CV
+47 CLUEbenchmark/CLUE 中文语言理解测评基准 Chinese Language Understandin
+48 Capsize-Games/airunner Offline inference engine for art, real-t
+49 ChatAnyTeam/ChatAny 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click
+50 ChenHsing/Awesome-Video-Diffusion-Models [CSUR] A Survey on Video Diffusion Model
+51 CheshireCC/faster-whisper-GUI faster_whisper GUI with PySide6
+52 ClownsharkBatwing/RES4LYF 
+53 Comfy-Org/ComfyUI_frontend Official front-end implementation of Com
+54 Comfy-Org/comfy-cli CLI for using ComfyUI
+55 CookSleep/gpt_image_playground 基于 OpenAI gpt-image-2.5 API 的图片生成与编辑工具
+56 Core-Mate/OpenGUI OpenGUI is an Android GUI agent framewor
+57 CorentinJ/Real-Time-Voice-Cloning Clone a voice in 5 seconds to generate a
+58 CryptoAILab/Awesome-LM-SSP A reading list for large models safety, 
+59 DBraun/DawDreamer Digital Audio Workstation with Python; V
+60 DLR-RM/BlenderProc A procedural Blender pipeline for photor
+61 DachunKai/EvTexture [ICML 2024 & TPAMI 2026] EvTexture & EvT
+62 DanOps-1/Gpt-Agreement-Payment ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCa
+63 DanielSWolf/rhubarb-lip-sync Rhubarb Lip Sync is a command-line tool 
+64 DayBreak-u/chineseocr_lite 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( d
+65 Deci-AI/super-gradients Easily train or fine-tune SOTA computer 
+66 DeepLabCut/DeepLabCut Official implementation of DeepLabCut: M
+67 DepthAnything/PromptDA [CVPR 2025] Prompt Depth Anything
+68 DicioTeam/dicio-android Dicio assistant app for Android
+69 DigitalPhonetics/IMS-Toucan Controllable and fast Text-to-Speech for
+70 Djdefrag/QualityScaler QualityScaler - image/video AI upscaler 
+71 DominikDoom/a1111-sd-webui-tagcomplete Booru style tag autocompletion for AUTOM
+72 Dooy/chatgpt-web-midjourney-proxy One UI is all done with chatgpt web, mid
+73 Drexubery/ViewCrafter [TPAMI 2025]  ViewCrafter: Taming Video 
+74 Enemyx-net/VibeVoice-ComfyUI A comprehensive ComfyUI integration for 
+75 EutropicAI/Final2x a cross-platform image super-resolution 
+76 Evolink-AI/awesome-gpt-image-2-API-Prompts GPT-Image-2 API and Prompts
+77 EvolvingLMMs-Lab/LLaVA-OneVision-2 Fully Open Framework for Democratized Mu
+78 FaceAISDK/FaceAISDK_Android Android on_device Face Recognition 、 Liv
+79 Faceplugin-ltd/Open-Source-Face-Recognition-SDK Face Recognition, Face Liveness Detectio
+80 Fannovel16/ComfyUI-Frame-Interpolation A custom node set for Video Frame Interp
+81 Fantasy-AMAP/fantasy-talking [ACM MM 2025] FantasyTalking: Realistic 
+82 FeiYull/TensorRT-Alpha 🔥🔥🔥TensorRT for YOLOv26 (det/pose/seg/de
+83 Finrandojin/alexandria-audiobook AI-powered multi-voice audiobook generat
+84 FireRedTeam/FireRed-OpenStoryline FireRed-OpenStoryline is an AI video edi
+85 FireRedTeam/FireRedASR Open-source industrial-grade ASR models 
+86 FlashML-org/FreeVideo Make videos on the computer you already 
+87 Florian-Barthel/splatviz Full python interactive 3D Gaussian Spla
+88 FluxML/Flux.jl Relax! Flux is the ML library that doesn
+89 FoundationVision/Infinity [CVPR 2025 Oral]Infinity ∞ : Scaling Bit
+90 FoundationVision/VAR [NeurIPS 2024 Best Paper Award][GPT beat
+91 FurkanGozukara/Stable-Diffusion FLUX, Stable Diffusion, SDXL, SD3, LoRA,
+92 GAP-LAB-CUHK-SZ/gaustudio A Modular Framework for 3D Gaussian Spla
+93 GVCLab/PersonaLive [CVPR 2026] PersonaLive! : Expressive Po
+94 Gen-Verse/MMaDA MMaDA - Open-Sourced Multimodal Large Di
+95 GuanYixuan/pyJianYingDraft 轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混
+96 HBAI-Ltd/Toonflow-app 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智
+97 HITsz-TMG/VideoClaw 🚀 AI 全自动化视频生成员工 | Your First AIGC Cowork
+98 HIllya51/LunaTranslator 视觉小说翻译器 / Visual Novel Translator
+99 HKUDS/ViMax "ViMax: Agentic Video Generation (Direct
+100 HKUDS/VideoRAG [KDD'2026] "VideoRAG: Chat with Your Vid
+101 HUANGCHIHHUNGLeo/claude-real-video Let Claude (or any LLM) actually watch a
+102 HanaokaYuzu/Gemini-API ✨ Reverse-engineered Python API for Goog
+103 Hedlen/awesome-segment-anything Tracking and collecting papers/projects/
+104 Henry-23/VideoChat 实时交互数字人，可自定义形象与音色，支持音色克隆，对话延迟低至3s。Real-t
+105 HeyWillow/willow Open source, local, and self-hosted Amaz
+106 High-Logic/Genie-TTS GPT-SoVITS ONNX Inference Engine & Model
+107 Hillobar/Rope GUI-focused roop
+108 HisMax/RedInk Red Ink - A one-stop Xiaohongshu image-a
+109 Huanshere/VideoLingo Netflix-level subtitle cutting, translat
+110 Hunyuan-PromptEnhancer/PromptEnhancer [CVPR 2026] PromptEnhancer is a prompt-r
+111 IAHispano/Applio A simple, high-quality voice conversion 
+112 IDEA-CCNL/Fengshenbang-LM Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言
+113 IDEA-Research/Rex-Omni [CVPR2026] Detect Anything via Next Poin
+114 IliasHad/edit-mind Local-first Video Knowledge Base. Index 
+115 InternLM/xtuner A Next-Generation Training Engine Built 
+116 InternRobotics/InternNav InternRobotics' open platform for buildi
+117 InternRobotics/PointLLM [ECCV 2024 Best Paper Candidate & TPAMI 
+118 JIA-Lab-research/DreamOmni2 This project is the official implementat
+119 JabRef/jabref Desktop app for managing BibTeX and BibL
+120 JackAILab/ConsistentID [TPAMI 2026] ConsistentID : Portrait Gen
+121 JingyunLiang/VRT VRT: A Video Restoration Transformer (of
+122 JiuhaiChen/BLIP3o Official implementation of BLIP3o-Series
+123 Jumpat/SegAnyGAussians The official implementation of Segment A
+124 Kedreamix/Awesome-Talking-Head-Synthesis 💬 An extensive collection of exceptional
+125 Kieirra/murmure Fully local, private and cross platform 
+126 KinWaiCheuk/nnAudio Audio processing by using pytorch 1D con
+127 Kiri-Innovation/3dgs-render-blender-addon 3DGS Render by KIRI Engine
+128 KlingAIResearch/ReCamMaster [ICCV'25 Best Paper Finalist] ReCamMaste
+129 KlingAIResearch/ReCamMaster [ICCV'25 Best Paper Finalist] ReCamMaste
+130 KnpLabs/snappy PHP library allowing thumbnail, snapshot
+131 Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision A Collection of Papers and Codes for CVP
+132 Lake1059/FFmpegFreeUI 3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参
+133 LaoFeng-mouse/flyingmouse-format 飞鼠格式 FlyingMouse Format - Windows 免费文件格式
+134 LearnPrompt/awesome-seedance 🎬 Evidence-led Seedance 2.5 / 2.0 prompt
+135 LedFx/LedFx LedFx is a network based LED effect engi
+136 Lightricks/LTX-2 Official Python inference and LoRA train
+137 LingyiChen-AI/AIComicBuilder AI-powered animated comic generator — tr
+138 Linketic/CityGaussian [ECCV`24&ICLR`25] CityGaussian Series fo
+139 LokerL/tts-vue 🎤 微软语音合成工具，使用 Electron + Vue + ElementPl
+140 Lynpoint/CyberVerse Self hosted, real-time digital human age
+141 MIT-SPARK/TEASER-plusplus A fast and robust point cloud registrati
+142 MITDeepLearning/introtodeeplearning Lab Materials for MIT 6.S191: Introducti
+143 MaximeVandegar/Papers-in-100-Lines-of-Code Implementation of papers in 100 lines of
+144 Mayandev/notion-avatar 🪄 AI-powered online tool for making noti
+145 MiniMax-AI/MiniMax-MCP Official MiniMax Model Context Protocol 
+146 MixLabPro/comfyui-mixlab-nodes Workflow-to-APP、ScreenShare&FloatingVide
+147 MixLabPro/comfyui-mixlab-nodes Workflow-to-APP、ScreenShare&FloatingVide
+148 ModelTC/LightX2V Lightweight Image Video Action Generatio
+149 MoonInTheRiver/DiffSinger DiffSinger: Singing Voice Synthesis via 
+150 MoonshotAI/Kimi-K2.5 Open Visual Agentic Intelligence
+151 MoonshotAI/Kimi-K3 Open Frontier Intelligence
+152 MrNeRF/LichtFeld-Studio Train, inspect, edit, automate, and expo
+153 MrNeRF/awesome-3D-gaussian-splatting Curated list of papers and resources foc
+154 Mukosame/Anime2Sketch A sketch extractor for anime/illustratio
+155 NVIDIA-NeMo/Automodel 🚀 Pytorch Distributed native training li
+156 NVIDIAGameWorks/kaolin A PyTorch Library for Accelerating 3D De
+157 NVIDIAGameWorks/rtx-remix Combined repo for the RTX-Remix runtime 
+158 NVlabs/Fast-dLLM Official implementation of "Fast-dLLM: T
+159 NVlabs/FoundationPose [CVPR 2024 Highlight] FoundationPose: Un
+160 NVlabs/LongLive Long Video Gen / World Model / World Act
+161 NVlabs/MambaVision [CVPR 2025] Official PyTorch Implementat
+162 NVlabs/RADIO Official repository for "AM-RADIO: Reduc
+163 NVlabs/instant-ngp Instant neural graphics primitives: ligh
+164 NVlabs/nvdiffrast Nvdiffrast - Modular Primitives for High
+165 NVlabs/tiny-cuda-nn Lightning fast C++/CUDA neural network f
+166 NikoDemon80/ComfyUI-H3-Motion-Context Clip chaining for MiniMax H3 in ComfyUI 
+167 NimaNzrii/comfyui-photoshop ComfyUi inside of your Photoshop! you ca
+168 OHF-Voice/piper1-gpl Fast and local neural text-to-speech eng
+169 Open-Less/openless Hold a key, speak, release — AI-polished
+170 OpenImagingLab/FlashVSR [CVPR 2026] Towards Real-Time Diffusion-
+171 OpenMOSS/MOSS An open-source, tool-augmented conversat
+172 OpenMOSS/MOSS-TTSD A multilingual model for long-form, mult
+173 OpenMOSS/MOSS-Transcribe-Diarize A 0.9B model for long-form transcription
+174 OpenMOSS/MOVA A foundation model that generates synchr
+175 OpenShot/libopenshot OpenShot Video Library (libopenshot) is 
+176 OpenShot/openshot-qt OpenShot Video Editor is an award-winnin
+177 Osmantic/ODS ODS V3 Pre-Release: Public testing and r
+178 PKU-YuanGroup/Helios Helios: Real Real-Time Long Video Genera
+179 PKU-YuanGroup/MagicTime [TPAMI 2025🔥] MagicTime: Time-lapse Vide
+180 PaddlePaddle/ERNIE The official repository for ERNIE 4.5 an
+181 PaddlePaddle/Paddle-Lite PaddlePaddle High Performance Deep Learn
+182 PaddlePaddle/PaddleClas A treasure chest for visual classificati
+183 PaddlePaddle/PaddleHelix Bio-Computing Platform Featuring Large-S
+184 PaddlePaddle/PaddleNLP Easy-to-use and powerful LLM and SLM lib
+185 PaddlePaddle/PaddleSeg Easy-to-use image segmentation library w
+186 PaddlePaddle/PaddleX All-in-One Development Tool based on Pad
+187 Pan-Chera/Multi-Agent-CAD MAC (Multi-Agent CAD): A decoupled multi
+188 Parskatt/RoMa [CVPR 2024] RoMa: Robust Dense Feature M
+189 PatterAI/Patter Open-source voice-AI SDK. The Vapi/Retel
+190 Priler/jarvis Offline voice assistant that respects yo
+191 Purfview/whisper-standalone-win Whisper & Faster-Whisper standalone exec
+192 PurpleDoubleD/locally-uncensored The all-in-one local AI studio for your 
+193 QIN2DIM/hcaptcha-challenger 🥂 Gracefully face hCaptcha challenge wit
+194 QwenAudio/Fun-ASR Fun-ASR speech recognition models, with 
+195 QwenAudio/Fun-ASR Fun-ASR speech recognition models, with 
+196 QwenLM/Qwen-MM-Plugins Make any agent harness multimodal-native
+197 QwenLM/Qwen3-Omni Qwen3-omni is a natively end-to-end, omn
+198 QwenLM/Qwen3.8 Qwen3.8 is the large language model seri
+199 R3gm/SoniTranslate Synchronized Translation for Videos. Vid
+200 RHVoice/RHVoice a free and open source speech synthesize
+201 Rishabh-creator601/Books Books / PDFS / EPUBS for different field
+202 River-Zhang/ICEdit [NeurIPS 2025] Image editing is worth a 
+203 Robbyant/lingbot-world Advancing Open-source World Models
+204 Roblox/cube Roblox Foundation Model for 3D Intellige
+205 STranslate/STranslate A ready-to-go translation ocr tool devel
+206 SakiRinn/LiveCaptions-Translator Lightweight and powerful real-time audio
+207 SandAI-org/MAGI-1 MAGI-1: Autoregressive Video Generation 
+208 ScanNet/ScanNet 
+209 ShareX/ShareX ShareX is a free and open-source applica
+210 SharpAI/DeepCamera Open-Source AI Camera Skills Platform, A
+211 ShichenLiu/SoftRas Project page of paper "Soft Rasterizer: 
+212 ShisatoYano/AutonomousVehicleControlBeginnersGuide Python sample codes and documents about 
+213 ShuaixinHuang/image-multiple-angles-3d-camera 🎬 Generate images from any camera viewpo
+214 SkyworkAI/Matrix-Game Matrix-Game 4.0: Streaming Neural Render
+215 SkyworkAI/Skywork-R1V Skywork-R1V is an advanced multimodal AI
+216 Smorodov/Multitarget-tracker Multiple Object Tracker, Based on  Hunga
+217 Stability-AI/StableSwarmUI StableSwarmUI, A Modular Stable Diffusio
+218 Stability-AI/stability-sdk SDK for interacting with stability.ai AP
+219 StarTrail-org/PixelRAG https://arxiv.org/abs/2606.28344. The en
+220 Starmel/OpenSuperWhisper macOS dictation app
+221 T8RIN/ImageToolbox 🖼️ Image Toolbox is a powerful app for a
+222 TEN-framework/ten-vad Voice Activity Detector (VAD) : low-late
+223 TTPlanetPig/Comfyui_TTP_Toolset for tile the image for advanced control 
+224 TalAter/annyang 💬 Speech recognition for your site
+225 Tavris1/ComfyUI-Easy-Install One-click portable ComfyUI installer for
+226 Tencent-Hunyuan/HY-WorldPlay HY-World 1.5: A Systematic Framework for
+227 Tencent-Hunyuan/Hunyuan3D-1 Tencent Hunyuan3D-1.0: A Unified Framewo
+228 Tencent-Hunyuan/HunyuanImage-3.0 HunyuanImage-3.0: A Powerful Native Mult
+229 Tencent-Hunyuan/HunyuanVideo-Avatar 
+230 Tencent-Hunyuan/HunyuanVideo-I2V HunyuanVideo-I2V: A Customizable Image-t
+231 Tencent-Hunyuan/HunyuanWorld-Mirror [ICML 2026] WorldMirror: Fast and Univer
+232 Tencent-Hunyuan/HunyuanWorld-Voyager Voyager is an interactive RGBD video gen
+233 Tencent/MimicMotion High-Quality Human Motion Video Generati
+234 Tencent/WeMM-Embedding WeMM-Embedding is a family of universal 
+235 TheJoeFin/Text-Grab Use OCR in Windows quickly and easily wi
+236 TheLastBen/fast-stable-diffusion fast-stable-diffusion + DreamBooth
+237 TheShadow29/awesome-grounding awesome grounding: A curated list of res
+238 Thinklab-SJTU/Awesome-LLM4AD A curated list of awesome LLM/VLM/VLA/Wo
+239 TingsongYu/PyTorch-Tutorial-2nd 《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项
+240 Tongyi-MAI/Z-Image 
+241 Tracktion/tracktion_engine Tracktion Engine module
+242 TransparentLC/realesrgan-gui 实用、美观的 Real-ESRGAN 图形界面，同时支持 Windows、Ubu
+243 TypeWhisper/typewhisper-mac Local speech-to-text for macOS  on-devic
+244 Uberi/speech_recognition Speech recognition module for Python, su
+245 UlionTse/translators Translators is a library that aims to br
+246 Vchitect/Latte [TMLR 2025] Latte: Latent Diffusion Tran
+247 VectorSpaceLab/OmniGen OmniGen: Unified Image Generation. https
+248 Vexa-ai/vexa Open-source meeting transcription API fo
+249 ViTAE-Transformer/ViTPose The official repo for [NeurIPS'22] "ViTP
+250 Vincentqyw/cv-arxiv-daily 🎓Automatically Update CV Papers Daily us
+251 Vincentqyw/image-matching-webui 🤗 image matching webui
+252 Vincentwei1021/anything2explainer Topic in, narrated explainer video out. 
+253 Vincentwei1021/video-shotcraft AI video skill for Claude Code & Codex —
+254 Vincentwei1021/video-talkcraft Agent skill that turns Claude Code / Cod
+255 W2GenAI-Lab/LucidFlux LucidFlux: Caption-Free Photo-Realistic 
+256 WASasquatch/was-node-suite-comfyui WAS-NS v3 Reborn; Tools for image proces
+257 WSTxda/SwitchAI Easily select, start, and manage your pr
+258 WZMIAOMIAO/deep-learning-for-image-processing deep learning for image processing inclu
+259 Wan-Video/Wan2.2 Wan: Open and Advanced Large-Scale Video
+260 WeThinkIn/AIGC-Interview-Book 【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试资源平台。涵
+261 WebAV-Tech/WebAV A web-based Video Editing SDK built on W
+262 WebODM/OpenSplat Production-grade 3D gaussian splatting w
+263 Woolverine94/biniou a self-hosted webui for 30+ generative a
+264 WyattBlue/auto-editor Effort free video editing!
+265 X-LANCE/SLAM-LLM A Framework for Speech, Language, Audio,
+266 XiaomiMiMo/MiMo-Audio MiMo-Audio: Audio Language Models are Fe
+267 YanWenKun/ComfyUI-Docker 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
+268 YanWenKun/Hunyuan3D-2-WinPortable 📦Portable package for running Hunyuan3D 
+269 YaoFANGUK/video-subtitle-extractor 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度
+270 YouMind-OpenLab/awesome-gpt-image-2 🚀 World's largest GPT Image 2 prompt lib
+271 YouMind-OpenLab/awesome-nano-banana-pro-prompts 🍌 World's largest Nano Banana Pro prompt
+272 YouMind-OpenLab/awesome-seedance-2-prompts 🎬 2000+ curated Seedance 2.0 video gener
+273 YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill AI skill for OpenClaw & Claude Code — re
+274 Yuanshi9815/OminiControl [ICCV 2025 Highlight] OminiControl: Mini
+275 Yuliang-Liu/Monkey Monkey (LMM): Image Resolution and Text 
+276 Yutong-Zhou-cv/Awesome-Text-to-Image (ෆ`꒳´ෆ) A Survey on Text-to-Image Genera
+277 ZFTurbo/Music-Source-Separation-Training Repository for training models for music
+278 Zackriya-Solutions/meetily Privacy first, AI meeting assistant with
+279 Zheng-Chong/CatVTON [ICLR 2025] CatVTON is a simple and effi
+280 ZiYang-xie/WorldGen 🌍 WorldGen - Generate Any 3D Scene in Se
+281 aallam/openai-kotlin OpenAI API client for Kotlin with multip
+282 absadiki/subsai 🎞️ Subtitles generation tool (Web-UI + C
+283 abus-aikorea/voice-pro Gradio WebUI for creators and developers
+284 ace-step/ACE-Step ACE-Step: A Step Towards Music Generatio
+285 acoustid/chromaprint C library for generating audio fingerpri
+286 activeloopai/deeplake Deeplake is AI Data Runtime for Agents. 
+287 adithya-s-k/omniparse Ingest, parse, and optimize any data for
+288 adobe-research/custom-diffusion Custom Diffusion: Multi-Concept Customiz
+289 ailia-ai/ailia-models The collection of pre-trained, state-of-
+290 alexrudall/ruby-openai OpenAI API + Ruby! 🤖❤️ GPT-5 & Realtime 
+291 alibaba/Tora [CVPR'25]Tora: Trajectory-oriented Diffu
+292 alicevision/AliceVision 3D Computer Vision Framework
+293 alicevision/Meshroom Node-based Visual Programming Toolbox
+294 alphacep/vosk-android-demo Offline speech recognition for Android w
+295 amagine-ai/Amagine3D Amagine3D: From hardware requirements to
+296 amap-cvlab/ABot-Recon Streaming 3D reconstruction from only vi
+297 amicalhq/amical 🎙️ AI Dictation App - Open Source and Lo
+298 amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging Diffusion Models in Medical Imaging (Pub
+299 amusi/CVPR2026-Papers-with-Code CVPR 2026 论文和开源项目合集
+300 anonfaded/FadCam Open-source, ad-free Android multimedia 
+301 antgroup/echomimic_v2 [CVPR 2025] EchoMimicV2: Towards Strikin
+302 anthonynsimon/bild Image processing algorithms in pure Go
+303 antimatter15/splat WebGL 3D Gaussian Splat Viewer
+304 apache/seatunnel SeaTunnel is a multimodal, high-performa
+305 atfortes/Awesome-LLM-Reasoning From Chain-of-Thought prompting to OpenA
+306 autodistill/autodistill Images to inference with no labeling (us
+307 autogluon/autogluon Fast and Accurate ML in 3 Lines of Code
+308 axa-group/Parsr Transforms PDF, Documents and Images int
+309 baaivision/Emu Emu Series: Generative Multimodal Models
+310 baaivision/Emu3 Next-Token Prediction is All You Need
+311 baaivision/Emu3.5 Native Multimodal Models are World Learn
+312 babysor/MockingBird 🚀Clone a voice in 5 seconds to generate 
+313 betalgo/openai .NET library for the OpenAI service API 
+314 bitgapp/eqMac macOS  System-wide Audio Equalizer & Vol
+315 black-forest-labs/flux2 Official inference repo for FLUX.2 model
+316 bootchk/resynthesizer Suite of gimp plugins for texture synthe
+317 boringdesigners/boring-avatars Boring avatars is an open source React l
+318 boson-ai/higgs-audio Text-audio foundation model from Boson A
+319 brightmart/nlp_chinese_corpus 大规模中文自然语言处理语料  Large Scale Chinese Corpu
+320 bugbakery/audapolis an editor for spoken-word audio with aut
+321 buxuku/SmartSub 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具
+322 byjlw/video-analyzer Analyze videos using LLMs, Computer Visi
+323 bytedance/Bernini Bernini is a unified framework for video
+324 bytedance/Lance A 3B-active-parameter native unified mul
+325 bytedance/MegaTTS3 
+326 bytedance/SALMONN SALMONN family: A suite of advanced mult
+327 caiyuanhao1998/Retinexformer "Retinexformer: One-stage Retinex-based 
+328 cambrian-mllm/cambrian Cambrian-1 is a family of multimodal LLM
+329 camenduru/stable-diffusion-webui-colab stable diffusion webui colab
+330 cameraui/camera.ui The modern, local-first platform for pro
+331 catalyst-team/catalyst Accelerated deep learning R&D
+332 cclank/lanshu-create-ai-presenter-video Provider-neutral Codex Skill for produci
+333 cdcseacave/openMVS open Structure-fom-Motion and Multi-View
+334 cgzirim/seek-tune An implementation of Shazam's song recog
+335 changyeyu/LLM-RL-Visualized 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100
+336 chaofengc/IQA-PyTorch 🔎 🖼️ 🔥PyTorch Toolbox for Image Quality 
+337 cheind/py-motmetrics :bar_chart: Benchmark multiple object tr
+338 chflame163/ComfyUI_LayerStyle A set of nodes for ComfyUI that can comp
+339 chidiwilliams/buzz Buzz transcribes and translates audio of
+340 chrisgoringe/cg-use-everywhere 
+341 civitai/civitai A repository of models, textual inversio
+342 cleanlab/cleanvision Automatically find issues in image datas
+343 cmusatyalab/openface Face recognition with deep neural networ
+344 cmusphinx/pocketsphinx A small speech recognizer
+345 cnr-isti-vclab/meshlab The open source mesh processing system
+346 cordiverse/paper A Programming Paradigm for Spatiotempora
+347 cosmo-wander-ai/cosmo-edge Production-grade C++ edge AI engine for 
+348 crystian/ComfyUI-Crystools A powerful set of tools for ComfyUI
+349 cvg/Hierarchical-Localization Visual localization made easy with hloc
+350 cvg/LightGlue LightGlue: Local Feature Matching at Lig
+351 cyanfish/naps2 Scan documents to PDF and more, as simpl
+352 cycfi/q C++ Library for Audio Digital Signal Pro
+353 darkzOGx/youtube-automation-agent 🎬 Fully automated YouTube channel manage
+354 deepseek-ai/DeepSeek-OCR-2 Visual Causal Flow
+355 denizsafak/abogen Generate audiobooks from EPUBs, PDFs and
+356 dext0r/yandex_smart_home Управление устройствами из Home Assistan
+357 dicebear/dicebear DiceBear is an avatar library for design
+358 digitalsamba/claude-code-video-toolkit AI-native video production toolkit for C
+359 diodiogod/TTS-Audio-Suite A ComfyUI custom node integration for lo
+360 dmMaze/BallonsTranslator 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet an
+361 donydchen/mvsplat 🌊 [ECCV'24 Oral] MVSplat: Efficient 3D G
+362 dramaclaw/dramaclaw A general-purpose AIGC video engine: scr
+363 dscripka/openWakeWord An open-source audio wake word (or phras
+364 easydiffusion/easydiffusion An easy 1-click way to create beautiful 
+365 elegantapp/pwa-asset-generator Automates PWA asset generation and image
+366 elevenlabs/elevenlabs-python The official Python SDK for the ElevenLa
+367 embeddings-benchmark/mteb MTEB: State-of-the-art evaluation of emb
+368 emcconville/wand The ctypes-based simple ImageMagick bind
+369 emilianavt/OpenSeeFace Robust realtime face and facial landmark
+370 esbatmop/MNBVC MNBVC(Massive Never-ending BT Vast Chine
+371 esphome/esphome ESPHome is a system to control your ESP3
+372 etro-js/etro Typescript video-editing library for the
+373 facebookincubator/AITemplate AITemplate is a Python framework which r
+374 facebookresearch/EdgeTAM [CVPR 2025] Official PyTorch implementat
+375 facebookresearch/Pearl A Production-ready Reinforcement Learnin
+376 facebookresearch/SlowFast PySlowFast: video understanding codebase
+377 facebookresearch/co-tracker CoTracker is a model for tracking any po
+378 facebookresearch/map-anything MapAnything: Universal Feed-Forward Metr
+379 facebookresearch/mmf A modular framework for vision & languag
+380 facebookresearch/moco PyTorch implementation of MoCo: https://
+381 facebookresearch/perception_models State-of-the-art Image & Video CLIP, Mul
+382 facebookresearch/pytorchvideo A deep learning library for video unders
+383 facebookresearch/sam-3d-objects SAM 3D Objects
+384 facebookresearch/vjepa2 PyTorch code and models for VJEPA2 self-
+385 facebookresearch/xformers Hackable and optimized Transformers buil
+386 fallenshock/FlowEdit Official implementation of the paper: "F
+387 fastgs/FastGS [CVPR 2026 Highlight, the CVPR Compute G
+388 fikrikarim/parlor On-device, real-time multimodal AI with 
+389 filipecalegario/awesome-generative-ai A curated list of Generative AI tools, w
+390 fishaudio/Bert-VITS2 vits2 backbone with multilingual-bert
+391 flameshot-org/flameshot Powerful yet simple to use screenshot so
+392 flashlight/wav2letter Facebook AI Research's Automatic Speech 
+393 floneum/kalosm Instant, controllable, local pre-trained
+394 florestefano1975/comfyui-portrait-master This node was designed to help AI image 
+395 flux-iac/tofu-controller A GitOps OpenTofu and Terraform controll
+396 foxhui/WebAI2API WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支
+397 fpgaminer/joycaption JoyCaption is an image captioning Visual
+398 fspecii/ace-step-ui 🎵 The Ultimate Open Source Suno Alternat
+399 ga642381/speech-trident Awesome speech/audio LLMs, representatio
+400 gaomingqi/Track-Anything Track-Anything is a flexible and interac
+401 geekyutao/Inpaint-Anything Inpaint anything using Segment Anything 
+402 getopenscreen/openscreen Record your screen, ship a demo. Free an
+403 gfriends/gfriends 媒体服务器演员头像仓库
+404 gigwegbe/tinyml-papers-and-projects This is a list of interesting papers and
+405 gokayfem/awesome-vlm-architectures Curated visual catalog of 155+ vision-la
+406 google-ai-edge/mediapipe-samples 
+407 google-deepmind/alphafold Open source code for AlphaFold 2.
+408 google-deepmind/deepmind-research This repository contains implementations
+409 google-deepmind/dm-haiku JAX-based neural network library
+410 google-deepmind/dm_control Google DeepMind's software stack for phy
+411 google-deepmind/gemma Gemma open-weight LLM library, from Goog
+412 google-deepmind/mujoco Multi-Joint dynamics with Contact. A gen
+413 google-deepmind/open_x_embodiment 
+414 google-deepmind/weathernext 
+415 google-research-datasets/Objectron Objectron is a dataset of short, object-
+416 google-research/FLAN 
+417 google-research/kubric A data generation pipeline for creating 
+418 google-research/scenic Scenic: A Jax Library for Computer Visio
+419 google-research/t5x 
+420 google-research/vision_transformer 
+421 google/flax Flax is a neural network library for JAX
+422 google/gemma.cpp lightweight, standalone C++ inference en
+423 googlesamples/mlkit A collection of sample apps to demonstra
+424 guochengqian/Magic123 [ICLR'24] Official PyTorch Implementatio
+425 guoyingtao/Mantis An iOS image cropping library for UIKit 
+426 gururise/AlpacaDataCleaned Alpaca dataset from Stanford, cleaned an
+427 hako-mikan/sd-webui-regional-prompter set prompt to divided region
+428 handy-computer/transcribe.cpp ggml speech-to-text inference for 16+ mo
+429 hao-ai-lab/FastVideo A unified inference and post-training fr
+430 harlanhong/awesome-talking-head-generation 
+431 harry0703/AudioNotes 快速提取音视频内容，整理成一份结构化的markdown笔记
+432 hbb1/2d-gaussian-splatting [SIGGRAPH'24] 2D Gaussian Splatting for 
+433 hecomi/uLipSync MFCC-based LipSync plug-in for Unity usi
+434 helloianneo/ian-xiaohei-illustrations 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注
+435 heshengtao/comfyui_LLM_party LLM Agent Framework in ComfyUI includes 
+436 heshengtao/super-agent-party ⭐ All-in-one AI companion! Super Agent P
+437 hkchengrex/MMAudio [CVPR 2025] MMAudio: Taming Multimodal J
+438 hku-mars/FAST-LIVO2 FAST-LIVO2: Fast, Direct LiDAR-Inertial-
+439 hku-mars/r3live A Robust, Real-time, RGB-colored, LiDAR-
+440 home-assistant/addons :heavy_plus_sign: Docker add-ons for Hom
+441 home-assistant/core :house_with_garden: Open source home aut
+442 huangjunsen0406/py-xiaozhi Open-source AI assistant ecosystem with 
+443 huggingface/finetrainers Scalable and memory-optimized training o
+444 huggingface/gsplat.js JavaScript Gaussian Splatting library.
+445 hybridgroup/gocv Go package for computer vision using Ope
+446 iMoonLab/yolov13 Implementation of "YOLOv13: Real-Time Ob
+447 iamsrikanthnani/pluely The Open Source Alternative to Cluely - 
+448 img2threejs/img2threejs Rebuild the object in a reference image 
+449 isair/jarvis Private local AI assistant for your desk
+450 iscyy/ultralyticsPro 🔥🔥🔥 专注于YOLO11，YOLOv8、TYOLOv12、YOLOv10、RT
+451 janvarev/Irene-Voice-Assistant Ирина - русский голосовой ассистент для 
+452 jasonppy/VoiceCraft Zero-Shot Speech Editing and Text-to-Spe
+453 jdepoix/youtube-transcript-api This is a python API which allows you to
+454 jeremy-prt/bloub SVG recreation of the x.ai bot avatar. O
+455 jev-chat/jev-chat-jarvis The chat decision assistant: before you 
+456 jianchang512/ChatTTS-ui 一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供AP
+457 jianchang512/pyvideotrans Translate the video from one language to
+458 jianchang512/stt Voice Recognition to Text Tool / 一个离线运行的
+459 jing332/tts-server-android 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可
+460 jingyi0000/VLM_survey Collection of AWESOME vision-language mo
+461 jipraks/yt-short-clipper Windows desktop app that turns long-form
+462 joanrod/star-vector StarVector is a foundation model for SVG
+463 jolibrain/deepdetect Deep Learning Server and CLI for Torch a
+464 jrvansuita/MaterialAbout 🔖 It's a material-design about screen to
+465 jub0t/Concat The truly free, open-source, local-first
+466 julyx10/lap An offline-first photo manager for large
+467 jxlarrea/kiosk-satellite Turn any Android device into a beautiful
+468 k2-fsa/ZipVoice Fast and High-Quality Zero-Shot Text-to-
+469 k2-fsa/k2 FSA/FST algorithms, differentiable, with
+470 k2-fsa/sherpa-ncnn Real-time speech recognition and voice a
+471 kajisho5/ffmpeg-skill Local video editor for coding agents: 42
+472 kane50613/takumi Render OG images and paged PDFs from JSX
+473 kfrlib/kfr Fast, modern C++ DSP framework, FFT, Sam
+474 kijai/ComfyUI-Florence2 Inference Microsoft Florence2 VLM
+475 kijai/ComfyUI-FramePackWrapper 
+476 kijai/ComfyUI-Hunyuan3DWrapper 
+477 kijai/ComfyUI-SUPIR SUPIR upscaling wrapper for ComfyUI
+478 kleinlee/DH_live 每个人都能用的数字人
+479 kmario23/deep-learning-drizzle Drench yourself in Deep Learning, Reinfo
+480 kohya-ss/musubi-tuner 
+481 krillinai/OpenCreator Formerly KrillinAI, VideoTranslation and
+482 kyegomez/tree-of-thoughts Plug in and Play Implementation of Tree 
+483 kyutai-labs/pocket-tts A TTS that fits in your CPU (and pocket)
+484 laravolt/avatar Plug n play avatar, turn name, email, an
+485 latent-spaces/brag You built it. Now brag. Turn the project
+486 laugh12321/TensorRT-YOLO 🚀 Easier & Faster YOLO Deployment Toolki
+487 leemysw/yovoice Open-source local AI audio & music studi
+488 lemomo-ai/lemo-opuscar Claude Code skill for short films with n
+489 lenML/Speech-AI-Forge 🍦 Speech-AI-Forge is a project developed
+490 lessthanoptimal/BoofCV Fast computer vision library for SFM, ca
+491 letoram/arcan The owls are not what they seem.
+492 libAudioFlux/audioFlux A library for audio and music analysis, 
+493 lightly-ai/lightly-train All-in-one training for vision models (Y
+494 lightseekorg/tokenspeed TokenSpeed is a speed-of-light LLM infer
+495 lipku/LiveTalking Real time interactive streaming digital 
+496 liustack/modlens The first vision plugin for DeepSeek Har
+497 liuyuan-pal/SyncDreamer [ICLR 2024 Spotlight] SyncDreamer: Gener
+498 liuzhao1225/YouDub-webui Open-source AI video localization and du
+499 llm-jp/awesome-japanese-llm 日本語LLMまとめ - Overview of Japanese LLMs
+500 llmsresearch/paperbanana Open source implementation and extension
+501 lquesada/ComfyUI-Inpaint-CropAndStitch ComfyUI nodes to crop before sampling an
+502 luigifreda/pyslam pySLAM is a hybrid Python/C++ Visual SLA
+503 lxfater/inpaint-web A free and open-source inpainting & imag
+504 lxtGH/OMG-Seg Official Repo For OMG-LLaVA and OMG-Seg 
+505 mapillary/OpenSfM Open source Structure-from-Motion pipeli
+506 marcoslucianops/DeepStream-Yolo NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 
+507 mbailey/voicemode Natural voice conversations with Claude 
+508 mega-sam/mega-sam Code for the project "MegaSaM: Accurate,
+509 meizhong986/WhisperJAV ASR/STT subtitle generator. Uses Qwen3-A
+510 mg-chao/snow-apps Snow Apps repository, providing source c
+511 mgonzs13/yolo_ros Ultralytics YOLOv8, YOLOv9, YOLOv10, YOL
+512 microlinkhq/unavatar Get unified user avatar from social netw
+513 microsoft/LMOps General technology for enabling AI capab
+514 microsoft/ResearchStudio ResearchStudio: Our AI co-author, from r
+515 microsoft/ai-dev-gallery An open-source project for Windows devel
+516 microsoft/foundry-local 
+517 microsoft/unilm Large-scale Self-supervised Pre-training
+518 midas-research/audino Open source audio annotation tool for hu
+519 mint-lab/3dv_tutorial An Invitation to 3D Vision: A Tutorial f
+520 mkiol/dsnote Speech Note Linux app. Note taking, read
+521 mkkellogg/GaussianSplats3D Three.js-based implementation of 3D Gaus
+522 mltframework/mlt MLT Multimedia Framework
+523 mmorise/World A high-quality speech analysis, manipula
+524 modelscope/3D-Speaker A Repository for Single- and Multi-modal
+525 modelscope/DiffSynth-Studio Enjoy the magic of Diffusion models!
+526 modelscope/FunClip FunASR-powered video transcription, subt
+527 modelscope/evalscope A streamlined and customizable framework
+528 modelscope/modelscope ModelScope: bring the notion of Model-as
+529 moltis-org/moltis A secure persistent personal agent serve
+530 monocasual/giada Your Hardcore Loop Machine.
+531 mosch/react-avatar-editor Small avatar & profile picture component
+532 mrpmorris/Fluxor Fluxor is a zero boilerplate Flux/Redux 
+533 mylxsw/aidea An APP that integrates mainstream large 
+534 nadermx/backgroundremover Background Remover lets you Remove Backg
+535 nagadomi/nunif Misc; latest version of waifu2x;  2D vid
+536 nateherkai/herk-edit-kit Herk Edit Kit by Nate Herk: edit videos,
+537 nateraw/stable-diffusion-videos Create 🔥 videos with Stable Diffusion by
+538 netease-youdao/EmotiVoice EmotiVoice 😊: a Multi-Voice and Prompt-C
+539 nexu-io/html-video Programmatic video for coding agents — H
+540 nghorbani/amass Data preparation and loader for AMASS
+541 nianticlabs/monodepth2 [ICCV 2019] Monocular depth estimation f
+542 niedev/RTranslator Open source real-time translation app fo
+543 niessner/Matterport Matterport3D is a pretty awesome dataset
+544 nihui/waifu2x-ncnn-vulkan waifu2x converter ncnn version, runs fas
+545 nklmilojevic/sofka A Kubernetes TUI, reimagined in Rust - b
+546 nl8590687/ASRT_SpeechRecognition A Deep-Learning-Based Chinese Speech Rec
+547 noahcao/OC_SORT [CVPR2023] The official repo for OC-SORT
+548 nomadkaraoke/python-audio-separator Easy to use stem (e.g. instrumental/voca
+549 nunchux-ai/nunchaku [ICLR2025 Spotlight] SVDQuant: Absorbing
+550 nunchux-ai/nunchaku [ICLR2025 Spotlight] SVDQuant: Absorbing
+551 nv-tlabs/3dgrut Ray tracing and hybrid rasterization of 
+552 nv-tlabs/GEN3C [CVPR 2025 Highlight] GEN3C: 3D-Informed
+553 nv-tlabs/vipe ViPE: Video Pose Engine for Geometric 3D
+554 nyrahealth/CrisperWhisper Controllable Transcription. Verbatim ( e
+555 okooo5km/HiPixel HiPixel is a native macOS application fo
+556 ollama/ollama-python Ollama Python library
+557 om-ai-lab/OmAgent [EMNLP-2024] Build multimodal language a
+558 om-ai-lab/OmDet Real-time and accurate open-vocabulary e
+559 onedr0p/cluster-template A template for deploying a Talos Kuberne
+560 onedr0p/home-ops Wife approved HomeOps driven by Kubernet
+561 ooolabdev/ooosplat A local desktop app that turns videos an
+562 op7418/guizang-ppt-skill AI-agent Skill for generating polished H
+563 op7418/guizang-social-card-skill 🪧 Claude Code / Codex skill — generate X
+564 open-edge-platform/geti Build, train, optimize, and run computer
+565 open-mmlab/Amphion Amphion (/æmˈfaɪən/) is a toolkit for Au
+566 open-mmlab/PowerPaint [ECCV 2024] PowerPaint, a versatile imag
+567 open-mmlab/mmaction2 OpenMMLab's Next Generation Video Unders
+568 open-mmlab/mmengine OpenMMLab Foundational Library for Train
+569 openMVG/openMVG open Multiple View Geometry library. Bas
+570 openai/openai-realtime-agents This is a simple demonstration of more a
+571 opendatacam/opendatacam An open source tool to quantify the worl
+572 opendilab/awesome-diffusion-model-in-rl A curated list of Diffusion Model in RL 
+573 opengeos/segment-geospatial A Python package for segmenting geospati
+574 openutau/OpenUtau Open singing synthesis platform / Open s
+575 peteonrails/voxtype Voice-to-text with push-to-talk for Wayl
+576 peterdsharpe/AeroSandbox Aircraft design optimization made fast t
+577 photonixapp/photonix A modern, web-based photo management ser
+578 piddnad/DDColor [ICCV 2023] DDColor: Towards Photo-Reali
+579 pipecat-ai/smart-turn 
+580 pireel/pireel The open-source alternative to Capcut、Ch
+581 pixiv/three-vrm Use VRM on Three.js
+582 playcanvas/engine Powerful web graphics runtime built on W
+583 playcanvas/splat-transform CLI tool and library for 3D Gaussian spl
+584 playcanvas/supersplat 3D Gaussian Splat Editor
+585 plemeri/transparent-background This is a background removing tool power
+586 pluja/whishper Transcribe any audio to text, translate 
+587 pmh1314520/WebRPA A powerful no-code automation tool. Buil
+588 pndurette/gTTS Python library and CLI tool to interface
+589 pnnbao97/VieNeu-TTS Vietnamese TTS with instant voice clonin
+590 pydn/ComfyUI-to-Python-Extension A powerful tool that translates ComfyUI 
+591 pykaldi/pykaldi A Python wrapper for Kaldi
+592 pypose/pypose A library for differentiable robotics on
+593 rafaelpadilla/Object-Detection-Metrics Most popular metrics used to evaluate ob
+594 ramjke/Translumo Advanced real-time screen translator for
+595 reactor/reactor-core Non-Blocking Reactive Foundation for the
+596 reactor/reactor-netty TCP/HTTP/UDP/QUIC client/server with Rea
+597 readbeyond/aeneas aeneas is a Python/C library and a set o
+598 readest/readest Readest is a modern, feature-rich ebook 
+599 reatom/reatom Reatom - the ultimate state manager
+600 remsky/Kokoro-FastAPI Dockerized OpenAI-compatible wrapper for
+601 ricky0123/vad Voice activity detector (VAD) for the br
+602 robbyant-research/MagicQuill [CVPR'25] Official Implementations for P
+603 roboflow/maestro streamline the fine-tuning process for m
+604 roboflow/notebooks A collection of tutorials on state-of-th
+605 roboflow/sports computer vision and sports
+606 roboflow/trackers Trackers gives you clean, modular re-imp
+607 roflcoopter/viseron Self-hosted, local only NVR and AI Compu
+608 rohitgandikota/sliders Concept Sliders for Precise Control of D
+609 rom1504/img2dataset Easily turn large sets of image urls to 
+610 royshil/obs-backgroundremoval An OBS plugin for removing background in
+611 royshil/obs-localvocal OBS plugin for local speech recognition 
+612 rsxdalv/TTS-WebUI A single Gradio + React WebUI with exten
+613 rupeshs/fastsdcpu Fast stable diffusion on CPU and AI PC
+614 rushindrasinha/youtube-shorts-pipeline Automated YouTube Shorts pipeline: news 
+615 ruvnet/RuVector RuVector provides High Performance, Real
+616 ruvnet/RuView π RuView turns commodity WiFi signals in
+617 s1dashu/ip-as-logo-skill A compact Agent Skill for highly simplif
+618 salesforce/CodeGen CodeGen is a family of open-source model
+619 santinic/audiblez Generate audiobooks from e-books
+620 satellite-image-deep-learning/techniques Techniques for deep learning with satell
+621 scottlawsonbc/audio-reactive-led-strip :musical_note: :rainbow: Real-time LED s
+622 scraed/LanPaint High quality training free inpaint for e
+623 serengil/retinaface RetinaFace: Deep Face Detection Library 
+624 sergree/matchering 🎚️ Open Source Audio Matching and Master
+625 shang-zhu/violin Open-source Video Translation Skill
+626 sherlockchou86/VideoPipe A cross-platform video structuring (vide
+627 showlab/Code2Video [ICML 2026] Video generation via code
+628 showlab/Paper2Video Automatic Video Generation from Scientif
+629 showlab/Show-o [ICLR & NeurIPS 2025] Repository for Sho
+630 shubham-goel/4D-Humans 4DHumans: Reconstructing and Tracking Hu
+631 siliconflow/onediff OneDiff: An out-of-the-box acceleration 
+632 silverstein/minutes Open-source, local-first Granola/Otter a
+633 sindresorhus/awesome 😎 Awesome lists about all kinds of inter
+634 sindresorhus/awesome-whisper 🔊 Awesome list for Whisper — an open-sou
+635 sml2h3/ddddocr 带带弟弟 通用验证码识别OCR pypi版
+636 smthemex/ComfyUI_Sonic Sonic is a method about ' Shifting Focus
+637 sn4k3/UVtools MSLA/DLP, file analysis, calibration, re
+638 snapotter-hq/SnapOtter Open-source, self-hosted file-processing
+639 soniqo/speech-swift AI speech toolkit for Apple Silicon — AS
+640 sooftware/conformer [Unofficial] PyTorch implementation of "
+641 spotify/basic-pitch A lightweight yet powerful audio-to-MIDI
+642 spotify/pedalboard 🎛 🔊 A Python library for audio.
+643 stemrollerapp/stemroller Isolate vocals, drums, bass, and other i
+644 stereolabs/zed-sdk ⚡️The spatial perception framework for r
+645 storytold/filmcraft FilmCraft: An open-source, nonlinear vid
+646 storytold/photocraft PhotoCraft: An open-source, photo editor
+647 swyxio/ai-notes notes for software engineers getting up 
+648 swz30/Restormer [CVPR 2022--Oral] Restormer: Efficient T
+649 tdrussell/diffusion-pipe A pipeline parallel training script for 
+650 tensorflow/lingvo Lingvo
+651 test-time-training/ttt-video-dit Official PyTorch implementation of One-M
+652 thewh1teagle/kokoro-onnx TTS with kokoro and onnx runtime
+653 thu-ml/Causal-Forcing [ICML 2026] Official codebase for "Causa
+654 thu-ml/SpargeAttn [ICML2025] SpargeAttention: A training-f
+655 tianrun-chen/SAM-Adapter-PyTorch Adapting Meta AI's Segment Anything to D
+656 timschneeb/RootlessJamesDSP An implementation of the system-wide Jam
+657 tin2tin/Pallaidium PALLAIDIUM — a generative AI movie studi
+658 tisfeng/Easydict 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支
+659 tmoroney/auto-subs On-device subtitle generation that conne
+660 trykimu/videoeditor Your Creative Copilot for Video Editing
+661 tumuyan/RealSR-NCNN-Android An Android application for super-resolut
+662 turboderp-org/exllamav2 A fast inference library for running LLM
+663 tuya/TuyaOpen Next-gen AI+IoT framework for T2/T3/T5AI
+664 ultralytics/JSON2YOLO Legacy JSON-to-YOLO dataset converter fo
+665 ultralytics/yolov3 PyTorch implementation of YOLOv3, YOLOv3
+666 ultralytics/yolov5 Ultralytics YOLOv5 in PyTorch for object
+667 umlx5h/LLPlayer The media player for language learning, 
+668 v-modal/vmodal_sdk_flutter V- Modal AI: Visual Video / Image Search
+669 veedstudio/open-edit Open-source, agent-driven editing pipeli
+670 vercel/avatar 💎   Beautiful avatars as a microservice
+671 vercel/satori Enlightened library to convert HTML and 
+672 videoflow/videoflow Python framework that facilitates the qu
+673 vietanhdev/anylabeling Effortless AI-assisted data labeling wit
+674 viser-project/viser Web-based 3D visualization in Python
+675 visioncortex/vtracer Raster to Vector Graphics Converter
+676 vitoplantamura/OnnxStream Lightweight inference library for ONNX f
+677 vladmandic/human Human: AI-powered 3D Face Detection & Ro
+678 voicepaw/so-vits-svc-fork so-vits-svc fork with realtime support, 
+679 volcengine/MineContext MineContext is your proactive context-aw
+680 vortex-data/vortex An extensible, state-of-the-art framewor
+681 w-okada/voice-changer リアルタイムボイスチェンジャー Realtime Voice Changer
+682 walterlow/freecut FreeCut is a professional-grade video ed
+683 wangkai930418/awesome-diffusion-categorized collection of diffusion model papers cat
+684 waooAI/waoowaoo 首家工业级全流程 AI 影视生产平台。Industry-first profes
+685 weaveworks/weave-gitops Weave GitOps is transitioning to a commu
+686 weihaox/awesome-digital-human Digital Human Resource: 2D/3D/4D Human M
+687 wenet-e2e/wespeaker Research and Production Oriented Speaker
+688 wgsxm/PartCrafter [NeurIPS 2025] PartCrafter: Structured 3
+689 wilbowes/EchoMuse Alexa replacement and controller for Ech
+690 willmiao/ComfyUI-Lora-Manager LoRA Manager for ComfyUI - A powerful ex
+691 wiltodelta/remove-ai-watermarks Remove visible and invisible AI watermar
+692 withoutbg/withoutbg-python Python SDK for local and cloud backgroun
+693 wladradchenko/wunjo.wladradchenko.ru Wunjo Make: Face Swap, Lip Sync, Control
+694 wq2012/awesome-diarization A curated list of awesome Speaker Diariz
+695 wuyoscar/GPT-Image2-Skill GPT Image 2/2.5 prompt gallery, image pr
+696 wwbin2017/bailing 百聆 是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集
+697 xemle/home-gallery Self-hosted open-source web gallery to v
+698 xiangyuecn/Recorder html5 js 录音 mp3 wav ogg webm amr g711a g
+699 xixihhhh/clipforge ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 A
+700 xlite-dev/lite.ai.toolkit A lite C++ AI toolkit: 100+ models with 
+701 xororz/local-dream Run Stable Diffusion on Android Devices 
+702 xuanyustudio/LocalMiniDrama 🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故
+703 xushengfeng/eSearch 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   S
+704 xzf-thu/Mega-ASR First foundation ASR built for the real 
+705 yakhyo/uniface UniFace: A Unified Face Analysis Library
+706 yangjian102621/geekai AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT,
+707 yanliudesign/mono-color-skill One-ink editorial print image skill — wa
+708 yanshengjia/ml-road Machine Learning and Agentic AI Resource
+709 yatengLG/ISAT_with_segment_anything Labeling tool with SAM(segment anything 
+710 yawiii/ComfyUI-Prompt-Assistant 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大
+711 yeyupiaoling/Whisper-Finetune Fine-tune the Whisper speech recognition
+712 yossdotpro/removerized AI Image Toolkit that runs fully in your
+713 yueliu1999/Awesome-Jailbreak-on-LLMs Awesome-Jailbreak-on-LLMs is a collectio
+714 yuezhiai/jonex All-in-One Multimodal Parsing Engine + O
+715 yusufkaraaslan/Skill_Seekers Convert documentation websites, GitHub r
+716 yzhao062/anomaly-detection-resources Anomaly detection related books, papers,
+717 yzhao062/pyod A Python library for anomaly detection a
+718 yzslab/gaussian-splatting-lightning A 3D Gaussian Splatting framework with v
+719 z-x-yang/Segment-and-Track-Anything An open-source project dedicated to trac
+720 zai-org/CogAgent An open-sourced end-to-end VLM-based GUI
+721 zai-org/GLM-V GLM-4.6V/4.5V/4.1V-Thinking: Towards Ver
+722 zai-org/ImageReward [NeurIPS 2023] ImageReward: Learning and
+723 zanllp/infinite-image-browsing A full-featured image/video management a
+724 zapdos-labs/unblink Camera monitoring with VLM
+725 zhulu111/ComfyUI_Bxb SD变现宝：一键把comfyui工作流转换成小程序。
+726 zhyever/PatchFusion [CVPR 2024] An End-to-End Tile-Based Fra
+727 zombieyang/sd-ppp A Photoshop AI plugin
+728 zsyOAOA/InvSR Arbitrary-steps Image Super-resolution v
+729 zsyOAOA/ResShift ResShift: Efficient Diffusion Model for 

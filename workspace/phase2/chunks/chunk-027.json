@@ -1,0 +1,2160 @@
+[
+{
+"repo": "ResearAI/AutoFigure",
+"stars": 1929,
+"description": "",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "alibaba/xquic",
+"stars": 1928,
+"description": "XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.",
+"topics": [
+"quic",
+"http3",
+"tls13",
+"protocol",
+"ietf"
+],
+"language": "C"
+},
+{
+"repo": "Tencent/NeuralNLP-NeuralClassifier",
+"stars": 1923,
+"description": "An Open-source Neural Hierarchical Multi-label Text Classification Toolkit",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "NVlabs/curobo",
+"stars": 1922,
+"description": "CUDA Accelerated Robot Library",
+"topics": [
+"cuda",
+"motion-planning",
+"pytorch",
+"robotics",
+"inverse-kinematics",
+"trajectory-optimization",
+"tsdf"
+],
+"language": "Python"
+},
+{
+"repo": "vercel-labs/emulate",
+"stars": 1922,
+"description": "Local API emulation for CI and no-network sandboxes",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "weaviate/elysia",
+"stars": 1920,
+"description": "Python package and backend for the Elysia platform app.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Azure/aztfexport",
+"stars": 1918,
+"description": "A tool to bring existing Azure resources under Terraform's management",
+"topics": [
+"terraform",
+"iac",
+"azure",
+"devops",
+"tool",
+"terraform-azurerm"
+],
+"language": "Go"
+},
+{
+"repo": "microsoft/vscode-mssql",
+"stars": 1915,
+"description": "Visual Studio Code SQL Server extension.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "mathiasbynens/emoji-regex",
+"stars": 1912,
+"description": "A regular expression to match all Emoji-only symbols as per the Unicode Standard.",
+"topics": [
+"emoji",
+"regex",
+"regexp",
+"regular-expression",
+"unicode"
+],
+"language": "JavaScript"
+},
+{
+"repo": "NVIDIA/dcgm-exporter",
+"stars": 1910,
+"description": "NVIDIA GPU metrics exporter for Prometheus leveraging DCGM",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "GoogleCloudPlatform/java-docs-samples",
+"stars": 1909,
+"description": "Java and Kotlin Code samples used on cloud.google.com",
+"topics": [
+"java",
+"kotlin",
+"appengine",
+"auth",
+"automl",
+"cdn",
+"vision",
+"video",
+"translate",
+"samples"
+],
+"language": "Java"
+},
+{
+"repo": "microsoft/WhatTheHack",
+"stars": 1906,
+"description": "A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://aka.ms/wth",
+"topics": [],
+"language": "C#"
+},
+{
+"repo": "flexflow/flexflow-train",
+"stars": 1903,
+"description": "Automatically Discovering Fast Parallelization Strategies for Distributed Deep Neural Network Training",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "Farama-Foundation/Metaworld",
+"stars": 1897,
+"description": "Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning",
+"topics": [
+"meta-rl",
+"multi-task",
+"benchmark-environments",
+"mujoco"
+],
+"language": "Python"
+},
+{
+"repo": "uber/petastorm",
+"stars": 1895,
+"description": "Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.",
+"topics": [
+"tensorflow",
+"pytorch",
+"deep-learning",
+"machine-learning",
+"sysml",
+"pyspark",
+"pyarrow",
+"parquet",
+"parquet-files"
+],
+"language": "Python"
+},
+{
+"repo": "hummingbird-project/hummingbird",
+"stars": 1894,
+"description": "Lightweight, flexible HTTP server framework written in Swift",
+"topics": [
+"server-side-swift",
+"http-server",
+"server",
+"web-server",
+"swift-nio",
+"swift",
+"http",
+"web"
+],
+"language": "Swift"
+},
+{
+"repo": "microsoft/mssql-docker",
+"stars": 1892,
+"description": "Official Microsoft repository for SQL Server in Docker resources",
+"topics": [
+"sql-server",
+"database",
+"docker",
+"docker-engine",
+"linux",
+"windows"
+],
+"language": "Dockerfile"
+},
+{
+"repo": "google/fruit",
+"stars": 1890,
+"description": "Fruit, a dependency injection framework for C++",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "flyeric0212/cursor-rules",
+"stars": 1889,
+"description": "整理和收集来自不同项目的Cursor规则文件，提供多种编程语言和框架的规则支持。",
+"topics": [
+"cursor-rules",
+"cursor"
+],
+"language": ""
+},
+{
+"repo": "microsoft/msphpsql",
+"stars": 1885,
+"description": "Microsoft Drivers for PHP for SQL Server",
+"topics": [
+"microsoft",
+"php-extension",
+"php-driver",
+"microsoft-driver",
+"sql-server"
+],
+"language": "PHP"
+},
+{
+"repo": "vercel/react-tweet",
+"stars": 1885,
+"description": "Embed tweets in your React application.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "cloudflare/workers-oauth-provider",
+"stars": 1884,
+"description": "OAuth provider library for Cloudflare Workers",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "reflex-dev/xy",
+"stars": 1879,
+"description": "Ultra-fast and customizable Python charts",
+"topics": [
+"charts",
+"data-analysis",
+"data-science",
+"data-visualization",
+"graphs",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "microsoft/cppwinrt",
+"stars": 1877,
+"description": "C++/WinRT",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "apple/swift-numerics",
+"stars": 1876,
+"description": "Advanced mathematical types and functions for Swift",
+"topics": [
+"math",
+"complex",
+"mathematics",
+"maths",
+"real",
+"trig"
+],
+"language": "Swift"
+},
+{
+"repo": "microsoft/MarS",
+"stars": 1876,
+"description": "MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "RoboVerseOrg/RoboVerse",
+"stars": 1872,
+"description": "RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning",
+"topics": [
+"imitation-learning",
+"reinforcement-learning",
+"robotics",
+"simulation"
+],
+"language": "Python"
+},
+{
+"repo": "docling-project/docling-serve",
+"stars": 1866,
+"description": "Running Docling as an API service",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Robbyant/lingbot-world-v2",
+"stars": 1866,
+"description": "Infinite Worlds with Versatile Interactions",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "google/CausalImpact",
+"stars": 1864,
+"description": "An R package for causal inference in time series",
+"topics": [],
+"language": "R"
+},
+{
+"repo": "Robbyant/lingbot-vla",
+"stars": 1863,
+"description": "A Pragmatic VLA Foundation Model",
+"topics": [
+"embodied-ai",
+"vla"
+],
+"language": "Python"
+},
+{
+"repo": "arviz-devs/arviz",
+"stars": 1861,
+"description": "Exploratory analysis of Bayesian models with Python",
+"topics": [
+"python",
+"bayesian",
+"closember"
+],
+"language": "TeX"
+},
+{
+"repo": "Jellify-Music/App",
+"stars": 1859,
+"description": "A cross-platform, free and open source music player for Jellyfin, powered by React Native",
+"topics": [
+"jellyfin",
+"react-native",
+"tamagui",
+"fastlane",
+"typescript",
+"blurhash",
+"react-native-mmkv",
+"react",
+"tanstack-query",
+"android-auto"
+],
+"language": "TypeScript"
+},
+{
+"repo": "webpilot-ai/Webpilot",
+"stars": 1859,
+"description": "",
+"topics": [],
+"language": "Vue"
+},
+{
+"repo": "Azure/azure-sdk-for-go",
+"stars": 1857,
+"description": "This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:",
+"topics": [
+"azure",
+"go",
+"rest",
+"azure-sdk",
+"microsoft",
+"golang",
+"sdk",
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "google/go-jsonnet",
+"stars": 1855,
+"description": "",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "golang/geo",
+"stars": 1854,
+"description": "S2 geometry library in Go",
+"topics": [
+"go",
+"geometry",
+"geometry-library",
+"sphere"
+],
+"language": "Go"
+},
+{
+"repo": "Friedrich-M/UniMate",
+"stars": 1852,
+"description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Tencent/CodeAnalysis",
+"stars": 1851,
+"description": "Static Code Analysis - 静态代码分析",
+"topics": [
+"code-analysis",
+"python37",
+"program-analysis",
+"code-quality",
+"code-quality-analyzer",
+"code-review"
+],
+"language": "Python"
+},
+{
+"repo": "apple-aiml-research/pico-banana-400k",
+"stars": 1850,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "charmbracelet/skate",
+"stars": 1847,
+"description": "A personal key value store 🛼",
+"topics": [
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "microsoft/responsible-ai-toolbox",
+"stars": 1847,
+"description": "Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions.",
+"topics": [
+"ui",
+"responsible-ai",
+"data-science",
+"fairness",
+"fairness-ml",
+"fairness-ai",
+"explainable-ai",
+"explainable-ml",
+"explainability",
+"machinelearning"
+],
+"language": "TypeScript"
+},
+{
+"repo": "google/yamlfmt",
+"stars": 1841,
+"description": "An extensible command line tool or library to format yaml files.",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "alibaba/havenask",
+"stars": 1840,
+"description": "Havenask is a large-scale distributed information search system widely used within Alibaba Group",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "JuliaData/DataFrames.jl",
+"stars": 1839,
+"description": "In-memory tabular data in Julia",
+"topics": [
+"julia",
+"data-frame",
+"datasets",
+"data",
+"tabular-data",
+"hacktoberfest",
+"dataframes"
+],
+"language": "Julia"
+},
+{
+"repo": "Jakeschincariol/instagram-agent-skill",
+"stars": 1833,
+"description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "google/protobuf-gradle-plugin",
+"stars": 1832,
+"description": "Protobuf Plugin for Gradle",
+"topics": [],
+"language": "Groovy"
+},
+{
+"repo": "aws-samples/serverless-patterns",
+"stars": 1827,
+"description": "Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.",
+"topics": [
+"aws",
+"serverless",
+"awssam"
+],
+"language": "Python"
+},
+{
+"repo": "google/woff2",
+"stars": 1825,
+"description": "",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "alibaba/MongoShake",
+"stars": 1820,
+"description": "MongoShake is a universal data replication platform based on MongoDB's oplog. Redundant replication and active-active replication are two most important functions. 基于mongodb oplog的集群复制工具，可以满足迁移和同步的需求，进一步实现灾备和多活功能。",
+"topics": [
+"mongo-database",
+"mongodb-oplog",
+"replication",
+"active-active",
+"mongoshake"
+],
+"language": "Go"
+},
+{
+"repo": "Edge0-AI/Audio8_TTS",
+"stars": 1820,
+"description": "SOTA-Class TTS at Compact Scale",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "icebear0828/codex-proxy",
+"stars": 1820,
+"description": "OpenAI-compatible proxy for ChatGPT Codex Responses API",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "google-research/language",
+"stars": 1819,
+"description": "Shared repository for open-sourced projects from the Google AI Language team.",
+"topics": [
+"natural-language-processing",
+"machine-learning",
+"research"
+],
+"language": "Python"
+},
+{
+"repo": "n8n-io/n8n-docs",
+"stars": 1819,
+"description": "Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.",
+"topics": [],
+"language": ""
+},
+{
+"repo": "google/nomulus",
+"stars": 1816,
+"description": "Top-level domain name registry service on Google Cloud Platform",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "microsoft/DirectXMath",
+"stars": 1811,
+"description": "DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps",
+"topics": [
+"microsoft",
+"directx",
+"simd",
+"neon",
+"cpp-library",
+"sse",
+"avx",
+"avx2",
+"clang",
+"msvc"
+],
+"language": "C++"
+},
+{
+"repo": "pemistahl/lingua-py",
+"stars": 1809,
+"description": "The most accurate natural language detection library for Python, suitable for short text and mixed-language text",
+"topics": [
+"nlp",
+"natural-language-processing",
+"language-detection",
+"language-recognition",
+"language-identification",
+"language-classification",
+"python-library"
+],
+"language": "Python"
+},
+{
+"repo": "Trusted-AI/AIX360",
+"stars": 1809,
+"description": "Interpretability and explainability of data and machine learning models",
+"topics": [
+"explainable-ai",
+"explainable-ml",
+"trusted-ai",
+"trusted-ml",
+"machine-learning",
+"deep-learning",
+"codait",
+"artificial-intelligence",
+"explainabil",
+"xai"
+],
+"language": "Python"
+},
+{
+"repo": "google/budoux",
+"stars": 1806,
+"description": "",
+"topics": [
+"nlp",
+"machine-learning",
+"python",
+"javascript"
+],
+"language": "Python"
+},
+{
+"repo": "awslabs/open-data-registry",
+"stars": 1805,
+"description": "A registry of publicly available datasets on AWS",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "towardsthecloud/cloudburn",
+"stars": 1800,
+"description": "Open-source policy engine that blocks bad AWS spending patterns before they ship and remediates what's already burning.",
+"topics": [
+"devops-tools",
+"devops",
+"aws",
+"amazon-web-services",
+"command-line-tool",
+"cloud",
+"cost-management",
+"cost-optimization",
+"finops",
+"homebrew"
+],
+"language": "TypeScript"
+},
+{
+"repo": "prettytable/prettytable",
+"stars": 1796,
+"description": "Display tabular data in a visually appealing ASCII table format",
+"topics": [
+"python",
+"package",
+"python-3",
+"utility-library"
+],
+"language": "Python"
+},
+{
+"repo": "salesforce/lwc",
+"stars": 1796,
+"description": "⚡️ LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation",
+"topics": [
+"lwc",
+"salesforce",
+"web-component",
+"framework",
+"library",
+"webcomponents"
+],
+"language": "JavaScript"
+},
+{
+"repo": "microsoft/vscode-languageserver-node",
+"stars": 1794,
+"description": "Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "microsoft/nodejstools",
+"stars": 1793,
+"description": "Node.js Tools for Visual Studio",
+"topics": [],
+"language": "C#"
+},
+{
+"repo": "kubevious/kubevious",
+"stars": 1791,
+"description": "Kubevious - Kubernetes without disasters",
+"topics": [
+"kubernetes",
+"kubernetes-monitoring",
+"kubernetes-dashboard",
+"cloud",
+"cloud-native",
+"microservices",
+"docker",
+"troubleshooting",
+"configuration",
+"assurance"
+],
+"language": ""
+},
+{
+"repo": "microsoft/debug-adapter-protocol",
+"stars": 1789,
+"description": "Defines a common protocol for debug adapters.",
+"topics": [],
+"language": "HTML"
+},
+{
+"repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+"stars": 1786,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Tencent/tdesign-miniprogram",
+"stars": 1779,
+"description": "Wechat MiniProgram and Uniapp UI components lib for TDesign",
+"topics": [
+"miniprogram",
+"tdesign",
+"wechat",
+"uniapp"
+],
+"language": "Vue"
+},
+{
+"repo": "baaivision/Emu",
+"stars": 1777,
+"description": "Emu Series: Generative Multimodal Models from BAAI",
+"topics": [
+"foundation-models",
+"in-context-learning",
+"instruct-tuning",
+"multimodal-pretraining",
+"generative-pretraining-in-multimodality",
+"multimodal-generalist"
+],
+"language": "Python"
+},
+{
+"repo": "FireRedTeam/FireRedTTS3",
+"stars": 1776,
+"description": "FireRedTTS3: Multilingual and Multi-Dialect Voice Cloning with Instruction-Guided Voice Design and Speech Editing",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "mlcommons/training",
+"stars": 1776,
+"description": "Reference implementations of MLPerf® training benchmarks",
+"topics": [
+"benchmark",
+"machine-learning"
+],
+"language": "Python"
+},
+{
+"repo": "alexmojaki/birdseye",
+"stars": 1775,
+"description": "Graphical Python debugger which lets you easily view the values of all evaluated expressions",
+"topics": [
+"python-debugger",
+"python",
+"debugger",
+"debugging",
+"birdseye",
+"ast"
+],
+"language": "JavaScript"
+},
+{
+"repo": "google/sandboxed-api",
+"stars": 1769,
+"description": "Generate sandboxes for C/C++ libraries automatically",
+"topics": [
+"sandboxing",
+"sandbox",
+"security",
+"security-hardening",
+"cplusplus-17",
+"cplusplus",
+"apache-license-2",
+"sapi"
+],
+"language": "C++"
+},
+{
+"repo": "Netflix/genie",
+"stars": 1766,
+"description": "Distributed Big Data Orchestration Service",
+"topics": [
+"big-data",
+"bigdata",
+"orchestration",
+"configuration",
+"configuration-management",
+"java",
+"spring-boot",
+"distributed-systems",
+"netflixoss",
+"cloud"
+],
+"language": "Java"
+},
+{
+"repo": "aws/aws-node-termination-handler",
+"stars": 1763,
+"description": "Gracefully handle EC2 instance shutdown within Kubernetes",
+"topics": [
+"kubernetes",
+"aws-ec2",
+"spot-instances",
+"eks",
+"golang",
+"maintenance-events"
+],
+"language": "Go"
+},
+{
+"repo": "microsoft/DirectXTK12",
+"stars": 1762,
+"description": "The DirectX Tool Kit (aka DirectXTK12) is a collection of helper classes for writing DirectX 12 code in C++",
+"topics": [
+"microsoft",
+"directx",
+"directx-12",
+"cpp-library",
+"graphics",
+"xbox",
+"uwp",
+"directxtk",
+"shaders",
+"desktop"
+],
+"language": "C++"
+},
+{
+"repo": "DialmasterOrg/Youtarr",
+"stars": 1756,
+"description": "Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin",
+"topics": [
+"automation",
+"plex",
+"scheduler",
+"self-hosted",
+"youtube-downloader",
+"yt-dlp",
+"emby",
+"jellyfin",
+"kodi",
+"plex-media-server"
+],
+"language": "JavaScript"
+},
+{
+"repo": "datastax/jvector",
+"stars": 1755,
+"description": "JVector: the most advanced embedded vector search engine",
+"topics": [
+"ann",
+"java",
+"knn",
+"machine-learning",
+"search-engine",
+"similarity-search",
+"vector-search"
+],
+"language": "Java"
+},
+{
+"repo": "bytedance/appshark",
+"stars": 1754,
+"description": "Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.",
+"topics": [
+"android",
+"compliance",
+"static-analysis",
+"vulnerability"
+],
+"language": "Kotlin"
+},
+{
+"repo": "jaywcjlove/awesome-swift-macos-apps",
+"stars": 1754,
+"description": "A curated collection of open-source macOS applications built with Swift",
+"topics": [
+"macos",
+"macos-app",
+"swift",
+"swiftui",
+"swift-app",
+"swift-application",
+"awesome",
+"awesome-list",
+"macos-swift",
+"open-source-project"
+],
+"language": "Swift"
+},
+{
+"repo": "antirez/voxtral.c",
+"stars": 1750,
+"description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
+"topics": [],
+"language": "C"
+},
+{
+"repo": "n8n-io/n8n-hosting",
+"stars": 1750,
+"description": "Example of self-hosting n8n in various environments like docker, kubernetes, etc.",
+"topics": [],
+"language": "Go Template"
+},
+{
+"repo": "pd4d10/debugtron",
+"stars": 1749,
+"description": "Debug in-production Electron based app",
+"topics": [
+"electron",
+"debugging-tool",
+"electron-debug",
+"electron-app"
+],
+"language": "TypeScript"
+},
+{
+"repo": "vbgate/learn-opencode",
+"stars": 1748,
+"description": "OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。",
+"topics": [
+"opencode",
+"opencode-ai",
+"opencode-cluster",
+"opencode-plugin",
+"opencode-plugins"
+],
+"language": "Shell"
+},
+{
+"repo": "google-deepmind/mujoco_mpc",
+"stars": 1746,
+"description": "Real-time behaviour synthesis with MuJoCo, using Predictive Control",
+"topics": [
+"model-predictive-control",
+"mpc",
+"mpc-control",
+"mujoco",
+"predictive-control",
+"motor-control"
+],
+"language": "C++"
+},
+{
+"repo": "awslabs/aws-config-rules",
+"stars": 1743,
+"description": "[Node, Python, Java] Repository of sample Custom Rules for AWS Config. ",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "facebookresearch/multimodal",
+"stars": 1743,
+"description": "TorchMultimodal is a PyTorch library for training state-of-the-art multimodal multi-task models at scale.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "microsoft/rnx-kit",
+"stars": 1739,
+"description": "Modern, scalable tools. Exceptional developer experience.",
+"topics": [
+"react-native",
+"cli",
+"monorepo",
+"typescript",
+"cross-platform",
+"dependency-manager",
+"android",
+"desktop",
+"ios",
+"macos"
+],
+"language": "TypeScript"
+},
+{
+"repo": "smartstore/Smartstore",
+"stars": 1733,
+"description": "A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 10",
+"topics": [
+"cms",
+"ecommerce",
+"shop",
+"aspnet",
+"azure",
+"e-commerce",
+"cms-framework",
+"ecommerce-platform",
+"shopping-cart",
+"asp-net"
+],
+"language": "C#"
+},
+{
+"repo": "apple/swift-crypto",
+"stars": 1732,
+"description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
+"topics": [
+"cryptography",
+"elliptic-curves",
+"hash-functions",
+"ciphers",
+"ecdsa",
+"ecdh",
+"eddsa",
+"boringssl",
+"swift-crypto",
+"swift"
+],
+"language": "Assembly"
+},
+{
+"repo": "google-research/circuit_training",
+"stars": 1730,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "cloudflare/circl",
+"stars": 1728,
+"description": "CIRCL: Cloudflare Interoperable Reusable Cryptographic Library",
+"topics": [
+"go",
+"golang",
+"post-quantum",
+"cryptography",
+"dilithium",
+"ed25519",
+"ed448",
+"csidh",
+"sidh",
+"kyber"
+],
+"language": "Go"
+},
+{
+"repo": "openappsec/openappsec",
+"stars": 1726,
+"description": "open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.",
+"topics": [
+"api-security",
+"application-security",
+"kubernetes",
+"nginx",
+"web-application-firewall",
+"appsec",
+"devsecops",
+"kong",
+"rate-limiting",
+"security-tools"
+],
+"language": "C++"
+},
+{
+"repo": "facebookresearch/coconut",
+"stars": 1725,
+"description": "Training Large Language Model to Reason in a Continuous Latent Space",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "nvim-java/nvim-java",
+"stars": 1724,
+"description": "Painless Java in Neovim",
+"topics": [
+"autocompletion",
+"debugging",
+"diagnostics",
+"language-server-client",
+"language-server-protocol",
+"neovim",
+"neovim-plugin",
+"neovim-plugins",
+"running",
+"spring"
+],
+"language": "Lua"
+},
+{
+"repo": "allenai/Olmo-core",
+"stars": 1722,
+"description": "PyTorch building blocks for the OLMo ecosystem",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "gradio-app/trackio",
+"stars": 1722,
+"description": "A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "microsoft/GDK",
+"stars": 1720,
+"description": "Microsoft Public GDK",
+"topics": [
+"microsoft",
+"game-development",
+"desktop",
+"xbox",
+"sdk"
+],
+"language": ""
+},
+{
+"repo": "aws/aws-sdk-php-laravel",
+"stars": 1715,
+"description": "A Laravel 6+ service provider for the AWS SDK for PHP",
+"topics": [],
+"language": "PHP"
+},
+{
+"repo": "microsoft/ARI",
+"stars": 1715,
+"description": "Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort",
+"topics": [
+"azure-resource-inventory",
+"inventory",
+"azure-cloudshell",
+"importexcel",
+"azure",
+"azure-inventory",
+"architecture",
+"cloud",
+"documentation",
+"powershell"
+],
+"language": "PowerShell"
+},
+{
+"repo": "muscriptor/muscriptor",
+"stars": 1713,
+"description": "A multi-instrument music transcription model developed by Kyutai and Mirelo.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "BindsNET/bindsnet",
+"stars": 1706,
+"description": "Simulation of spiking neural networks (SNNs) using PyTorch.",
+"topics": [
+"spiking-neural-networks",
+"gpu-computing",
+"pytorch",
+"machine-learning",
+"snn",
+"reinforcement-learning",
+"stdp",
+"dynamic",
+"neurons",
+"simulation"
+],
+"language": "Python"
+},
+{
+"repo": "AllenDowney/ThinkBayes",
+"stars": 1705,
+"description": "Code repository for Think Bayes.",
+"topics": [],
+"language": "TeX"
+},
+{
+"repo": "google-research/dex-lang",
+"stars": 1704,
+"description": "Research language for array processing in the Haskell/ML family",
+"topics": [],
+"language": "Haskell"
+},
+{
+"repo": "IBM/Project_CodeNet",
+"stars": 1702,
+"description": "This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "cloudflare/foundations",
+"stars": 1700,
+"description": "Cloudflare's Rust service foundations library.",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "microsoft/TypeScript-Sublime-Plugin",
+"stars": 1700,
+"description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "py-why/causal-learn",
+"stars": 1698,
+"description": "Causal Discovery in Python. Learning causality from data.",
+"topics": [
+"causal",
+"causal-discovery",
+"causal-inference",
+"causality",
+"python",
+"graph",
+"structure",
+"tetrad",
+"time-series",
+"hidden-causal"
+],
+"language": "Python"
+},
+{
+"repo": "Azure/azure-policy",
+"stars": 1697,
+"description": "Repository for Azure Resource Policy built-in definitions and samples",
+"topics": [
+"azure",
+"policy"
+],
+"language": "Open Policy Agent"
+},
+{
+"repo": "pacstall/pacstall",
+"stars": 1696,
+"description": "An AUR-inspired package manager for Ubuntu",
+"topics": [
+"bash",
+"package-manager",
+"ubuntu",
+"aur",
+"pacscript",
+"pacstall",
+"aur-ubuntu",
+"gplv3",
+"freesoftware",
+"shell"
+],
+"language": "Shell"
+},
+{
+"repo": "microsoft/onnxruntime-inference-examples",
+"stars": 1695,
+"description": "Examples for using ONNX Runtime for machine learning inferencing.",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "SciML/ModelingToolkit.jl",
+"stars": 1694,
+"description": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
+"topics": [
+"differential-equations",
+"ode",
+"dae",
+"ordinary-differential-equations",
+"pde",
+"sde",
+"dde",
+"stochastic-differential-equations",
+"delay-differential-equations",
+"julia"
+],
+"language": "Julia"
+},
+{
+"repo": "B16f00t/whapa",
+"stars": 1693,
+"description": "WhatsApp Parser Toolset v1.59",
+"topics": [
+"forensic-analysis",
+"whatsapp-parser",
+"whatsapp-encryption"
+],
+"language": "Python"
+},
+{
+"repo": "vercel-labs/openreview",
+"stars": 1693,
+"description": "An open-source, self-hosted AI code review bot powered by Vercel.",
+"topics": [
+"aisdk",
+"codereview",
+"vercel"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Netflix/metacat",
+"stars": 1692,
+"description": "",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "aws/aws-fpga",
+"stars": 1689,
+"description": "Official repository of the AWS EC2 FPGA Hardware and Software Development Kit",
+"topics": [],
+"language": "SystemVerilog"
+},
+{
+"repo": "google/atheris",
+"stars": 1689,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "intelligent-machine-learning/dlrover",
+"stars": 1689,
+"description": "DLRover: An Automatic Distributed Deep Learning System",
+"topics": [
+"distributed-training",
+"k8s",
+"llm-training",
+"hacktoberfest"
+],
+"language": "Python"
+},
+{
+"repo": "microsoft/vscode-cmake-tools",
+"stars": 1686,
+"description": "CMake Tools provides a robust, convenient workflow for CMake projects in VS Code. It simplifies configurations with CMake presets, supports IntelliSense and built-in debugging for CMake scripts, and offers configurable tasks. Its customizable interface allows for efficient project control, while also simplifying test execution and monitoring.",
+"topics": [
+"cmake",
+"visual-studio-code",
+"c",
+"cpp",
+"intellisense",
+"microsoft",
+"ctest",
+"debugging",
+"tasks"
+],
+"language": "TypeScript"
+},
+{
+"repo": "DeepSpaceHarbor/Awesome-AI-Security",
+"stars": 1682,
+"description": ":file_folder: #AISecurity",
+"topics": [],
+"language": ""
+},
+{
+"repo": "Tencent/Biny",
+"stars": 1681,
+"description": "Biny is a tiny, high-performance PHP framework for web applications",
+"topics": [
+"php",
+"web",
+"anti-xss",
+"mvc"
+],
+"language": "PHP"
+},
+{
+"repo": "google/vizier",
+"stars": 1680,
+"description": "Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.",
+"topics": [
+"vizier",
+"hyperparameter-optimization",
+"tuning",
+"tuning-parameters",
+"blackbox-optimization",
+"hyperparameter-tuning",
+"bayesian-optimization",
+"evolutionary-algorithms",
+"distributed-systems",
+"distributed-computing"
+],
+"language": "Python"
+},
+{
+"repo": "vercel/nft",
+"stars": 1678,
+"description": "Node.js dependency tracing utility",
+"topics": [
+"static-analysis"
+],
+"language": "JavaScript"
+},
+{
+"repo": "Robbyant/lingbot-depth",
+"stars": 1676,
+"description": "Masked Depth Modeling for Spatial Perception",
+"topics": [
+"depth",
+"depth-camera",
+"masked-image-modeling"
+],
+"language": "Python"
+},
+{
+"repo": "NVIDIA/nccl-tests",
+"stars": 1675,
+"description": "NCCL Tests",
+"topics": [],
+"language": "Cuda"
+},
+{
+"repo": "koaning/drawdata",
+"stars": 1674,
+"description": "Draw datasets from within Python notebooks.",
+"topics": [
+"drawdata",
+"data",
+"marimo",
+"anywidget"
+],
+"language": "JavaScript"
+},
+{
+"repo": "NVIDIA/trt-samples-for-hackathon-cn",
+"stars": 1673,
+"description": "Simple samples for TensorRT programming",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "charmbracelet/wishlist",
+"stars": 1672,
+"description": "The SSH directory ✨",
+"topics": [
+"hacktoberfest",
+"ssh"
+],
+"language": "Go"
+},
+{
+"repo": "LeapLabTHU/cooragent",
+"stars": 1671,
+"description": "Official Repository of Cooragent.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "huggingface/gsplat.js",
+"stars": 1670,
+"description": "JavaScript Gaussian Splatting library.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "Stability-AI/stable-virtual-camera",
+"stars": 1669,
+"description": "Stable Virtual Camera: Generative View Synthesis with Diffusion Models",
+"topics": [
+"diffusion-model",
+"image-to-video",
+"novel-view-synthesis",
+"stable-virtual-camera"
+],
+"language": "Python"
+},
+{
+"repo": "JiuhaiChen/BLIP3o",
+"stars": 1667,
+"description": "Official implementation of BLIP3o-Series",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "microsoft/Mage",
+"stars": 1667,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "amrzv/awesome-colab-notebooks",
+"stars": 1664,
+"description": "Collection of google colaboratory notebooks for fast and easy experiments",
+"topics": [
+"colab-notebooks",
+"machine-learning",
+"deep-learning",
+"generative-adversarial-network",
+"tensorflow",
+"tensorflow-tutorials",
+"jupyter-notebooks",
+"google-colaboratory",
+"google-colab",
+"google-colab-tutorial"
+],
+"language": "Python"
+},
+{
+"repo": "aws/aws-lambda-dotnet",
+"stars": 1662,
+"description": "Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.",
+"topics": [
+"aws",
+"aws-apigateway",
+"aws-lambda",
+"serverless",
+"netcore"
+],
+"language": "C#"
+},
+{
+"repo": "Nutlope/turboseek",
+"stars": 1658,
+"description": "An AI search engine inspired by Perplexity",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "deepseek-ai/DeepSeek-V3.2-Exp",
+"stars": 1655,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "skrub-data/skrub",
+"stars": 1655,
+"description": "Machine learning with dataframes",
+"topics": [
+"machine-learning",
+"data-science",
+"data-cleaning",
+"data",
+"data-preparation",
+"data-preprocessing",
+"data-analysis",
+"dirty-data",
+"data-wrangling",
+"dataframe"
+],
+"language": "Python"
+},
+{
+"repo": "CopilotKit/open-mcp-client",
+"stars": 1652,
+"description": "",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "mlcommons/inference",
+"stars": 1647,
+"description": "Reference implementations of MLPerf® inference benchmarks",
+"topics": [
+"benchmark",
+"machine-learning"
+],
+"language": "Python"
+},
+{
+"repo": "awslabs/eks-node-viewer",
+"stars": 1644,
+"description": "EKS Node Viewer",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "Jakeschincariol/youtube-agent-skill",
+"stars": 1641,
+"description": "Eleven Claude skills that run a YouTube channel: scripts off 21 hook formulas with a scored hook, title and thumbnail linted as one pairing, an edit decision list from your transcript, a retention reader that finds where viewers actually leave, a Shorts cutter, and a virality engine. Free, MIT.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "NVlabs/sionna",
+"stars": 1641,
+"description": "Sionna: An Open-Source Library for Research on Communication Systems",
+"topics": [
+"communications",
+"5g",
+"6g",
+"machine-learning",
+"deep-learning",
+"link-level-simulation",
+"reproducible-research",
+"open-source",
+"gpu-acceleration",
+"raytracing"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "microsoft/vscode-generator-code",
+"stars": 1636,
+"description": "Visual Studio Code extension generator",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "autonomio/talos",
+"stars": 1635,
+"description": "Hyperparameter Experiments with TensorFlow and Keras",
+"topics": [
+"deep-learning",
+"keras",
+"keras-tensorflow",
+"hyperparameter-optimization",
+"artificial-intelligence",
+"tensorflow"
+],
+"language": "Python"
+},
+{
+"repo": "yoshitomo-matsubara/torchdistill",
+"stars": 1634,
+"description": "A coding-free framework built on PyTorch for reproducible deep learning studies. PyTorch Ecosystem. 🏆26 knowledge distillation methods presented at TPAMI, CVPR, ICLR, ECCV, NeurIPS, ICCV, AAAI, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.",
+"topics": [
+"knowledge-distillation",
+"pytorch",
+"image-classification",
+"imagenet",
+"object-detection",
+"coco",
+"semantic-segmentation",
+"cifar10",
+"cifar100",
+"colab-notebook"
+],
+"language": "Python"
+},
+{
+"repo": "NVIDIA/Personal-AI-Router",
+"stars": 1633,
+"description": "Router that virtually distributes inference across connected devices in the home.",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "charmbracelet/harmonica",
+"stars": 1627,
+"description": "A simple, physics-based animation library 🎼",
+"topics": [
+"go",
+"animation",
+"physics",
+"golang",
+"game-development",
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "NVIDIA/RULER",
+"stars": 1624,
+"description": "This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "pipecat-ai/smart-turn",
+"stars": 1624,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "vercel/nextjs-postgres-nextauth-tailwindcss-template",
+"stars": 1622,
+"description": "Admin dashboard template.",
+"topics": [
+"nextjs",
+"react",
+"vercel",
+"tailwindcss"
+],
+"language": "TypeScript"
+},
+{
+"repo": "google/json_serializable.dart",
+"stars": 1619,
+"description": "Generates utilities to aid in serializing to/from JSON.",
+"topics": [
+"source-gen",
+"json",
+"dart-build-system",
+"dartlang"
+],
+"language": "Dart"
+},
+{
+"repo": "Yuliang-Liu/MonkeyOCRv2",
+"stars": 1619,
+"description": "MonkeyOCRv2 Vision Encoder — A Document-Native Visual Backbone",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Tencent-Hunyuan/HY-WorldPlay",
+"stars": 1618,
+"description": "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency",
+"topics": [
+"3d",
+"hunyuan",
+"hunyuan3d",
+"image-to-3d",
+"world-model",
+"world-models",
+"hunyuan-world"
+],
+"language": "Python"
+},
+{
+"repo": "MoonshotAI/Kimi-Linear",
+"stars": 1617,
+"description": "",
+"topics": [],
+"language": ""
+},
+{
+"repo": "open-gigaai/giga-world-0",
+"stars": 1617,
+"description": "GigaWorld-0: World Models as Data Engine to Empower Embodied AI",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "deepseek-ai/DeepSeek-Math-V2",
+"stars": 1612,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "microsoft/OpenAPI.NET",
+"stars": 1611,
+"description": "The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.",
+"topics": [
+"openapi",
+"http"
+],
+"language": "C#"
+},
+{
+"repo": "AlibabaResearch/DAMO-ConvAI",
+"stars": 1607,
+"description": "DAMO-ConvAI: The official repository which contains the codebase for Alibaba DAMO Conversational AI.",
+"topics": [
+"conversational-ai",
+"deep-learning",
+"natural-language-processing",
+"dialog"
+],
+"language": "Python"
+},
+{
+"repo": "ezyang/codemcp",
+"stars": 1606,
+"description": "Coding assistant MCP for Claude Desktop",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "fabiocaccamo/python-benedict",
+"stars": 1606,
+"description": ":blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.",
+"topics": [
+"python",
+"dict",
+"dictionary",
+"keypath",
+"base64",
+"csv",
+"json",
+"pickle",
+"plist",
+"query-string"
+],
+"language": "Python"
+},
+{
+"repo": "Tencent-Hunyuan/HunyuanWorld-Voyager",
+"stars": 1604,
+"description": "Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction.",
+"topics": [
+"3d",
+"3d-generation",
+"aigc",
+"hunyuan3d",
+"image-to-3d",
+"image-to-video",
+"scene-generation",
+"world-model",
+"world-models"
+],
+"language": "Python"
+},
+{
+"repo": "dfm/emcee",
+"stars": 1603,
+"description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
+"topics": [
+"python",
+"mcmc",
+"mcmc-sampler",
+"probabilistic-data-analysis"
+],
+"language": "Python"
+},
+{
+"repo": "docker/mcp-gateway",
+"stars": 1603,
+"description": "docker mcp CLI plugin / MCP Gateway",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "google/uncertainty-baselines",
+"stars": 1601,
+"description": "High-quality implementations of standard and SOTA methods on a variety of tasks.",
+"topics": [
+"bayesian-methods",
+"deep-learning",
+"machine-learning",
+"data-science",
+"tensorflow",
+"neural-networks",
+"statistics",
+"probabilistic-programming"
+],
+"language": "Python"
+},
+{
+"repo": "geekplux/markvis",
+"stars": 1599,
+"description": "Charts in Markdown. The fence is the data.",
+"topics": [
+"markdown",
+"visualization",
+"markdown-it",
+"markdown-it-plugin",
+"chart",
+"visualizer",
+"visual",
+"markdown-to-html",
+"charts",
+"cli"
+],
+"language": "TypeScript"
+},
+{
+"repo": "microsoft/coyote",
+"stars": 1599,
+"description": "Coyote is a library and tool for testing concurrent C# code and deterministically reproducing bugs.",
+"topics": [
+"systematic-testing",
+"software-reliability",
+"dotnet",
+"coyote",
+"testing",
+"testing-tools",
+"fuzzing"
+],
+"language": "C#"
+},
+{
+"repo": "pytorch/FBGEMM",
+"stars": 1594,
+"description": "FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "Tencent/tgfx",
+"stars": 1594,
+"description": "A lightweight 2D graphics library for modern GPUs, delivering high-performance text, image, and vector rendering across major platforms.",
+"topics": [
+"2d",
+"graphics",
+"tgfx",
+"rendering",
+"gpu",
+"filter",
+"image",
+"text",
+"pdf",
+"svg"
+],
+"language": "C++"
+},
+{
+"repo": "Tencent/DepthCrafter",
+"stars": 1591,
+"description": "[CVPR 2025 Highlight] DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "awslabs/diagram-as-code",
+"stars": 1588,
+"description": "Diagram-as-code for AWS architecture.",
+"topics": [
+"aws",
+"diagram-as-code"
+],
+"language": "Go"
+},
+{
+"repo": "google/GNM",
+"stars": 1588,
+"description": "An open ecosystem of parametric human models and perception stacks, starting with GNM Head.",
+"topics": [
+"3dmm",
+"gnm",
+"parametric-model",
+"digital-human"
+],
+"language": "Python"
+},
+{
+"repo": "kai-scheduler/KAI-Scheduler",
+"stars": 1588,
+"description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "vibeforge1111/keep-codex-fast",
+"stars": 1587,
+"description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "salesforce/sloop",
+"stars": 1585,
+"description": "Kubernetes History Visualization",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "vercel-labs/dev3000",
+"stars": 1585,
+"description": "Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.",
+"topics": [
+"ai",
+"devtools",
+"web"
+],
+"language": "TypeScript"
+},
+{
+"repo": "NVIDIA/DLSS",
+"stars": 1582,
+"description": "NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games",
+"topics": [],
+"language": "C"
+},
+{
+"repo": "google-ai-edge/model-explorer",
+"stars": 1577,
+"description": "A modern model graph visualizer and debugger",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "google-research/FLAN",
+"stars": 1574,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "google/meridian",
+"stars": 1574,
+"description": "Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "eval-exec/neomacs",
+"stars": 1572,
+"description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+"topics": [
+"emacs",
+"rust",
+"neomacs",
+"elisp",
+"wgpu",
+"lisp",
+"winit",
+"editor",
+"neovim",
+"productivity"
+],
+"language": "Rust"
+},
+{
+"repo": "ByteDance-Seed/Triton-distributed",
+"stars": 1569,
+"description": "Distributed Compiler and Optimized Parallel Kernels",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "aws/serverless-java-container",
+"stars": 1566,
+"description": "A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.",
+"topics": [
+"jersey",
+"api-gateway",
+"aws-lambda",
+"spring",
+"serverless",
+"aws",
+"api",
+"api-server",
+"rest-api",
+"sparkjava"
+],
+"language": "Java"
+},
+{
+"repo": "google/neuroglancer",
+"stars": 1564,
+"description": "WebGL-based viewer for volumetric data",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "google-deepmind/mujoco_warp",
+"stars": 1563,
+"description": "GPU-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware.",
+"topics": [
+"nvidia-warp",
+"mujoco-warp"
+],
+"language": "Python"
+},
+{
+"repo": "baaivision/Emu3.5",
+"stars": 1562,
+"description": "Native Multimodal Models are World Learners",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "microsoft/playwright-java",
+"stars": 1562,
+"description": "Java version of the Playwright testing and automation library",
+"topics": [
+"playwright",
+"java"
+],
+"language": "Java"
+},
+{
+"repo": "Osilly/Vision-R1",
+"stars": 1554,
+"description": "[ICLR2026] This is the first paper to explore how  to effectively use R1-like RL for MLLMs and introduce Vision-R1, a reasoning MLLM that leverages cold-start initialization and RL training to incentivize reasoning capability.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "pydantic/httpx2",
+"stars": 1554,
+"description": "A next generation HTTP client for Python. 🦋",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "ZeyueT/AudioX",
+"stars": 1554,
+"description": "[ICLR 2026] Repository of AudioX",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "openai/openai-java",
+"stars": 1550,
+"description": "The official Java library for the OpenAI API",
+"topics": [],
+"language": "Kotlin"
+},
+{
+"repo": "google/tensorstore",
+"stars": 1547,
+"description": "Library for reading and writing large multi-dimensional arrays.",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "microsoft/Microsoft-Win32-Content-Prep-Tool",
+"stars": 1547,
+"description": "A tool to wrap Win32 App and then it can be uploaded to Intune",
+"topics": [],
+"language": ""
+},
+{
+"repo": "combust/mleap",
+"stars": 1546,
+"description": "MLeap: Deploy ML Pipelines to Production",
+"topics": [
+"scikit-learn",
+"spark",
+"data-pipelines",
+"transformers",
+"tensorflow",
+"scala",
+"python"
+],
+"language": "Scala"
+},
+{
+"repo": "tensorflow/gnn",
+"stars": 1545,
+"description": "TensorFlow GNN is a library to build Graph Neural Networks on the TensorFlow platform.",
+"topics": [
+"tensorflow",
+"gnn",
+"deep-learning",
+"machine-learning"
+],
+"language": "Python"
+},
+{
+"repo": "google-research/rrsi",
+"stars": 1541,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "microsoft/vscode-jupyter",
+"stars": 1541,
+"description": "VS Code Jupyter extension",
+"topics": [
+"jupyter",
+"vscode",
+"vscode-extension",
+"datascience",
+"machine-learning"
+],
+"language": "TypeScript"
+},
+{
+"repo": "aws-samples/aws-glue-samples",
+"stars": 1539,
+"description": "AWS Glue code samples",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "microsoft/scalar",
+"stars": 1539,
+"description": "Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer",
+"topics": [],
+"language": "C#"
+}
+]

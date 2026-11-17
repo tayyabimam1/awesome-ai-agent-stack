@@ -1,0 +1,2189 @@
+[
+{
+"repo": "codecrafters-io/build-your-own-x",
+"stars": 554232,
+"description": "Master programming by recreating your favorite technologies from scratch.",
+"topics": [
+"programming",
+"tutorials",
+"tutorial-code",
+"tutorial-exercises",
+"free",
+"awesome-list"
+],
+"language": "Markdown"
+},
+{
+"repo": "EbookFoundation/free-programming-books",
+"stars": 399429,
+"description": ":books: Freely available programming books",
+"topics": [
+"education",
+"books",
+"list",
+"resource",
+"hacktoberfest"
+],
+"language": "Python"
+},
+{
+"repo": "awesome-selfhosted/awesome-selfhosted",
+"stars": 327880,
+"description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+"topics": [
+"selfhosted",
+"awesome",
+"awesome-list",
+"privacy",
+"hosting",
+"cloud",
+"self-hosted",
+"free-software"
+],
+"language": ""
+},
+{
+"repo": "practical-tutorials/project-based-learning",
+"stars": 287128,
+"description": "Curated list of project-based tutorials",
+"topics": [
+"tutorial",
+"project",
+"beginner-project",
+"webdevelopment",
+"python",
+"javascript",
+"cpp",
+"golang"
+],
+"language": "Python"
+},
+{
+"repo": "Chalarangelo/30-seconds-of-code",
+"stars": 129243,
+"description": "Coding articles to level up your development skills",
+"topics": [
+"awesome-list",
+"javascript",
+"snippets",
+"learning-resources",
+"learn-to-code",
+"programming",
+"education",
+"es6-javascript",
+"nodejs",
+"css"
+],
+"language": "JavaScript"
+},
+{
+"repo": "MunGell/awesome-for-beginners",
+"stars": 90387,
+"description": "A list of awesome beginners-friendly projects.",
+"topics": [
+"awesome",
+"beginner-project",
+"awesome-list",
+"list",
+"beginners-friendly"
+],
+"language": ""
+},
+{
+"repo": "realworld-apps/realworld",
+"stars": 84300,
+"description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "prometheus/prometheus",
+"stars": 66620,
+"description": "The Prometheus monitoring system and time series database.",
+"topics": [
+"monitoring",
+"metrics",
+"alerting",
+"graphing",
+"time-series",
+"prometheus",
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "TheAlgorithms/Java",
+"stars": 66378,
+"description": "All Algorithms implemented in Java",
+"topics": [
+"java",
+"algorithms",
+"algorithms-datastructures",
+"algorithm-challenges",
+"sorting-algorithms",
+"search",
+"sort",
+"hacktoberfest",
+"algorithm",
+"data-structures"
+],
+"language": "Java"
+},
+{
+"repo": "penpot/penpot",
+"stars": 61318,
+"description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+"topics": [
+"ux-design",
+"ux-experience",
+"prototyping",
+"clojure",
+"clojurescript",
+"ui",
+"design"
+],
+"language": "Clojure"
+},
+{
+"repo": "Leaflet/Leaflet",
+"stars": 45765,
+"description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+"topics": [
+"javascript",
+"leaflet",
+"maps"
+],
+"language": "JavaScript"
+},
+{
+"repo": "denysdovhan/wtfjs",
+"stars": 37692,
+"description": "🤪 A list of funny and tricky JavaScript examples",
+"topics": [
+"javascript",
+"specification",
+"handbook",
+"notes",
+"js",
+"wtf",
+"learning",
+"book"
+],
+"language": "JavaScript"
+},
+{
+"repo": "utmapp/UTM",
+"stars": 35973,
+"description": "Virtual machines for iOS and macOS",
+"topics": [
+"utm",
+"qemu",
+"jailbreak",
+"virtual-machines",
+"apple",
+"vm",
+"ios",
+"emulation",
+"macos"
+],
+"language": "Swift"
+},
+{
+"repo": "seaweedfs/seaweedfs",
+"stars": 35563,
+"description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+"topics": [
+"distributed-storage",
+"distributed-systems",
+"s3",
+"hdfs",
+"fuse",
+"distributed-file-system",
+"hadoop-hdfs",
+"posix",
+"tiered-file-system",
+"kubernetes"
+],
+"language": "Go"
+},
+{
+"repo": "facebook/rocksdb",
+"stars": 32207,
+"description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+"topics": [
+"database",
+"storage-engine"
+],
+"language": "C++"
+},
+{
+"repo": "AtsushiSakai/PythonRobotics",
+"stars": 30722,
+"description": "Python sample codes and textbook for robotics algorithms.",
+"topics": [
+"python",
+"robotics",
+"algorithm",
+"path-planning",
+"control",
+"animation",
+"localization",
+"slam",
+"cvxpy",
+"ekf"
+],
+"language": "Python"
+},
+{
+"repo": "trailofbits/algo",
+"stars": 30425,
+"description": "Set up a personal VPN in the cloud",
+"topics": [
+"vpn-server",
+"strongswan",
+"ansible",
+"vpn",
+"ikev2",
+"security",
+"encryption",
+"ipsec",
+"vpn-client",
+"ssh-tunnel"
+],
+"language": "Python"
+},
+{
+"repo": "hashicorp/consul",
+"stars": 30088,
+"description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+"topics": [
+"consul",
+"service-mesh",
+"service-discovery",
+"kubernetes",
+"vault",
+"ecs",
+"api-gateway"
+],
+"language": "Go"
+},
+{
+"repo": "zhiwehu/Python-programming-exercises",
+"stars": 29790,
+"description": "100+ Python challenging programming exercises",
+"topics": [],
+"language": ""
+},
+{
+"repo": "notepad-plus-plus/notepad-plus-plus",
+"stars": 29594,
+"description": "Notepad++ official repository",
+"topics": [
+"notepad-official",
+"notepad",
+"editor",
+"windows"
+],
+"language": "C++"
+},
+{
+"repo": "plausible/analytics",
+"stars": 29541,
+"description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+"topics": [
+"analytics",
+"privacy",
+"elixir",
+"phoenix",
+"postgresql",
+"tailwindcss",
+"clickhouse",
+"plausible-analytics",
+"google-analytics",
+"web-analytics"
+],
+"language": "Elixir"
+},
+{
+"repo": "mongodb/mongo",
+"stars": 28650,
+"description": "The MongoDB Database",
+"topics": [
+"c-plus-plus",
+"database",
+"mongodb",
+"nosql"
+],
+"language": "C++"
+},
+{
+"repo": "tayllan/awesome-algorithms",
+"stars": 25623,
+"description": "A curated list of awesome places to learn and/or practice algorithms.",
+"topics": [],
+"language": ""
+},
+{
+"repo": "dimsemenov/PhotoSwipe",
+"stars": 25279,
+"description": "JavaScript image gallery for mobile and desktop, modular, framework independent",
+"topics": [
+"gallery",
+"lightbox",
+"image",
+"javascript"
+],
+"language": "JavaScript"
+},
+{
+"repo": "taosdata/TDengine",
+"stars": 25167,
+"description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+"topics": [
+"iot",
+"bigdata",
+"time-series",
+"database",
+"industrial-iot",
+"connected-vehicles",
+"monitoring",
+"tsdb",
+"tdengine",
+"sql"
+],
+"language": "C"
+},
+{
+"repo": "react-bootstrap/react-bootstrap",
+"stars": 22607,
+"description": "Bootstrap components built with React",
+"topics": [
+"react",
+"bootstrap",
+"hacktoberfest",
+"react-components",
+"typescript",
+"javascript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "postgres/postgres",
+"stars": 22457,
+"description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",
+"topics": [],
+"language": "C"
+},
+{
+"repo": "avajs/ava",
+"stars": 20824,
+"description": "Node.js test runner that lets you develop with confidence 🚀",
+"topics": [
+"test-runner",
+"ava",
+"javascript",
+"concurrency",
+"async-functions",
+"tap",
+"assert",
+"nodejs",
+"cli",
+"async"
+],
+"language": "JavaScript"
+},
+{
+"repo": "apache/shardingsphere",
+"stars": 20810,
+"description": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
+"topics": [
+"database",
+"distributed-database",
+"distributed-sql-database",
+"sql",
+"shard",
+"database-cluster",
+"mysql",
+"postgresql",
+"encrypt",
+"bigdata"
+],
+"language": "Java"
+},
+{
+"repo": "JetBrains/intellij-community",
+"stars": 20635,
+"description": "IntelliJ IDEA & IntelliJ Platform",
+"topics": [
+"intellij",
+"intellij-platform",
+"ide",
+"code-editor",
+"intellij-community"
+],
+"language": "Java"
+},
+{
+"repo": "spaceship-prompt/spaceship-prompt",
+"stars": 20591,
+"description": "🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt",
+"topics": [
+"zsh",
+"zsh-users",
+"prompt",
+"oh-my-zsh",
+"zsh-theme",
+"shell",
+"spaceship",
+"shell-prompt",
+"terminal",
+"shell-theme"
+],
+"language": "Shell"
+},
+{
+"repo": "graphql/graphql-js",
+"stars": 20340,
+"description": "A reference implementation of GraphQL for JavaScript",
+"topics": [
+"graphql",
+"graphql-js"
+],
+"language": "TypeScript"
+},
+{
+"repo": "trekhleb/learn-python",
+"stars": 18414,
+"description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+"topics": [
+"python",
+"python3",
+"learning",
+"programming-language",
+"learning-python",
+"learning-by-doing"
+],
+"language": "Python"
+},
+{
+"repo": "rqlite/rqlite",
+"stars": 17805,
+"description": "The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.",
+"topics": [
+"go",
+"sqlite",
+"distributed-systems",
+"database",
+"relational-database",
+"raft",
+"consensus",
+"distributed-database",
+"sql",
+"fault-tolerance"
+],
+"language": "Go"
+},
+{
+"repo": "questdb/questdb",
+"stars": 17449,
+"description": "QuestDB is a high performance, open-source, time-series database",
+"topics": [
+"time-series",
+"low-latency",
+"database",
+"sql",
+"questdb",
+"tsdb",
+"time-series-database",
+"capital-markets",
+"market-data",
+"real-time-analytics"
+],
+"language": "Java"
+},
+{
+"repo": "ceph/ceph",
+"stars": 17136,
+"description": "Ceph is a distributed object, block, and file storage platform ",
+"topics": [
+"storage",
+"software-defined-storage",
+"distributed-storage",
+"s3",
+"block-storage",
+"distributed-file-system",
+"object-store",
+"nfs",
+"highly-available",
+"iscsi"
+],
+"language": "C++"
+},
+{
+"repo": "carloscuesta/gitmoji",
+"stars": 16805,
+"description": "An emoji guide for your commit messages. 😜 ",
+"topics": [
+"emoji",
+"gitmoji",
+"commits"
+],
+"language": "TypeScript"
+},
+{
+"repo": "prestodb/presto",
+"stars": 16762,
+"description": "The official home of the Presto distributed SQL query engine for big data",
+"topics": [
+"java",
+"presto",
+"hive",
+"hadoop",
+"big-data",
+"sql",
+"data",
+"lakehouse",
+"query"
+],
+"language": "Java"
+},
+{
+"repo": "scylladb/scylladb",
+"stars": 15788,
+"description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+"topics": [
+"nosql",
+"c-plus-plus",
+"scylla",
+"seastar",
+"cassandra",
+"database",
+"cpp"
+],
+"language": "C++"
+},
+{
+"repo": "dgraph-io/badger",
+"stars": 15784,
+"description": "Fast key-value DB in Go.",
+"topics": [
+"key-value",
+"golang",
+"library",
+"go",
+"ssd",
+"database",
+"document-database"
+],
+"language": "Go"
+},
+{
+"repo": "apache/pulsar",
+"stars": 15349,
+"description": "Apache Pulsar - distributed pub-sub messaging system",
+"topics": [
+"pulsar",
+"pubsub",
+"messaging",
+"streaming",
+"queuing",
+"event-streaming"
+],
+"language": "Java"
+},
+{
+"repo": "bulletphysics/bullet3",
+"stars": 14803,
+"description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+"topics": [
+"simulation",
+"robotics",
+"kinematics",
+"virtual-reality",
+"reinforcement-learning",
+"computer-animation",
+"game-development",
+"simulator",
+"pybullet"
+],
+"language": "C++"
+},
+{
+"repo": "memcached/memcached",
+"stars": 14297,
+"description": "memcached development tree",
+"topics": [],
+"language": "C"
+},
+{
+"repo": "trinodb/trino",
+"stars": 13345,
+"description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+"topics": [
+"java",
+"presto",
+"hive",
+"hadoop",
+"big-data",
+"sql",
+"prestodb",
+"database",
+"databases",
+"distributed-systems"
+],
+"language": "Java"
+},
+{
+"repo": "citusdata/citus",
+"stars": 12818,
+"description": "Distributed PostgreSQL as an extension",
+"topics": [
+"database",
+"citus",
+"multi-tenant",
+"postgresql",
+"scale",
+"sharding",
+"sql",
+"distributed-database",
+"postgres",
+"citus-extension"
+],
+"language": "C"
+},
+{
+"repo": "redpanda-data/redpanda",
+"stars": 12621,
+"description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+"topics": [
+"kafka",
+"cpp",
+"kubernetes",
+"go",
+"streaming",
+"redpanda",
+"containers",
+"realtime",
+"event-driven",
+"microservices"
+],
+"language": "C++"
+},
+{
+"repo": "retejs/rete",
+"stars": 12293,
+"description": "JavaScript framework for visual programming",
+"topics": [
+"visual-programming",
+"node-editor",
+"dataflow-programming",
+"graph-editor",
+"flow-based-programming",
+"standwithukraine"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Tyrrrz/DiscordChatExporter",
+"stars": 12210,
+"description": "Saves Discord chat logs to a file",
+"topics": [
+"discord",
+"chat",
+"log",
+"export",
+"archival",
+"archiver",
+"expoter"
+],
+"language": "C#"
+},
+{
+"repo": "StarRocks/starrocks",
+"stars": 12186,
+"description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+"topics": [
+"database",
+"olap",
+"sql",
+"analytics",
+"big-data",
+"realtime-database",
+"vectorized",
+"distributed-database",
+"real-time-analytics",
+"mpp"
+],
+"language": "Java"
+},
+{
+"repo": "leachim6/hello-world",
+"stars": 12000,
+"description": "Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+"topics": [
+"hello-world",
+"example-code",
+"esolangs",
+"hacktoberfest"
+],
+"language": "Assembly"
+},
+{
+"repo": "svgdotjs/svg.js",
+"stars": 11832,
+"description": "The lightweight library for manipulating and animating SVG",
+"topics": [
+"svg",
+"javascript",
+"svgjs",
+"animation"
+],
+"language": "JavaScript"
+},
+{
+"repo": "FerretDB/FerretDB",
+"stars": 11101,
+"description": "A truly Open Source MongoDB alternative",
+"topics": [
+"mongodb",
+"mongo",
+"mongodb-database",
+"mongo-db",
+"golang",
+"postgresql",
+"postgres",
+"go",
+"database",
+"document"
+],
+"language": "Go"
+},
+{
+"repo": "AutoMQ/automq",
+"stars": 10917,
+"description": "Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+"topics": [
+"kafka",
+"diskless",
+"automq",
+"serverless"
+],
+"language": "Java"
+},
+{
+"repo": "resilience4j/resilience4j",
+"stars": 10788,
+"description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming",
+"topics": [
+"resilience",
+"circuitbreaker",
+"rate-limiter",
+"retry",
+"bulkhead",
+"metrics"
+],
+"language": "Java"
+},
+{
+"repo": "Yorko/mlcourse.ai",
+"stars": 10760,
+"description": "Open Machine Learning Course",
+"topics": [
+"machine-learning",
+"data-analysis",
+"data-science",
+"pandas",
+"algorithms",
+"numpy",
+"scipy",
+"matplotlib",
+"seaborn",
+"plotly"
+],
+"language": "Python"
+},
+{
+"repo": "lucidrains/denoising-diffusion-pytorch",
+"stars": 10704,
+"description": "Implementation of Denoising Diffusion Probabilistic Model in Pytorch",
+"topics": [
+"artificial-intelligence",
+"deep-learning",
+"generative-model",
+"score-matching"
+],
+"language": "Python"
+},
+{
+"repo": "yugabyte/yugabyte-db",
+"stars": 10601,
+"description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+"topics": [
+"distributed-database",
+"database",
+"cpp",
+"high-performance",
+"cloud-native",
+"scale-out",
+"sql",
+"multi-region",
+"multi-cloud",
+"kubernetes"
+],
+"language": "C"
+},
+{
+"repo": "s3fs-fuse/s3fs-fuse",
+"stars": 10012,
+"description": "FUSE-based file system backed by Amazon S3",
+"topics": [
+"fuse",
+"s3",
+"aws-s3",
+"filesystem",
+"cloud-storage",
+"fuse-filesystem"
+],
+"language": "C++"
+},
+{
+"repo": "tidwall/tile38",
+"stars": 9745,
+"description": "Real-time Geospatial and Geofencing",
+"topics": [
+"geospatial",
+"database",
+"geo",
+"spatial",
+"location",
+"geofences",
+"index"
+],
+"language": "Go"
+},
+{
+"repo": "platformio/platformio-core",
+"stars": 9536,
+"description": "Your Gateway to Embedded Software Development Excellence :alien:",
+"topics": [
+"iot",
+"embedded",
+"arduino",
+"esp8266",
+"esp32",
+"avr",
+"arm",
+"platformio",
+"ide",
+"unit-testing"
+],
+"language": "Python"
+},
+{
+"repo": "voidcosmos/npkill",
+"stars": 9477,
+"description": "List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹",
+"topics": [
+"npm",
+"typescript",
+"cli",
+"node",
+"module",
+"developer-tools",
+"tool",
+"nodejs",
+"hacktoberfest",
+"command-line"
+],
+"language": "TypeScript"
+},
+{
+"repo": "codenotary/immudb",
+"stars": 9045,
+"description": "immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history",
+"topics": [
+"key-value",
+"immutable",
+"merkle-tree",
+"go",
+"database",
+"tamperproof",
+"verification",
+"immutable-database",
+"compliance",
+"pci-dss"
+],
+"language": "Go"
+},
+{
+"repo": "react-toolbox/react-toolbox",
+"stars": 8604,
+"description": "A set of React components implementing Google's Material Design specification with the power of CSS Modules",
+"topics": [
+"material-design",
+"react",
+"ui-kits",
+"css-modules"
+],
+"language": "JavaScript"
+},
+{
+"repo": "brycedrennan/imaginAIry",
+"stars": 8183,
+"description": "Pythonic AI generation of images and videos",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "allegro/bigcache",
+"stars": 8171,
+"description": "Efficient cache for gigabytes of data written in Go.",
+"topics": [
+"cache",
+"performance",
+"caching",
+"golang-library",
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "wasm3/wasm3",
+"stars": 8055,
+"description": "🚀 A fast WebAssembly interpreter and the most universal WASM runtime",
+"topics": [
+"wasm",
+"webassembly",
+"embedded",
+"iot",
+"scripting",
+"edge-computing",
+"cosmopolitan",
+"smart-contracts",
+"virtual-machine",
+"serverless"
+],
+"language": "C"
+},
+{
+"repo": "glushchenko/fsnotes",
+"stars": 7536,
+"description": "Fast Markdown note-taking app for Mac and iPhone",
+"topics": [
+"macos",
+"notebook",
+"note-taking",
+"notes-app",
+"swift",
+"ios",
+"markdown"
+],
+"language": "Swift"
+},
+{
+"repo": "erikgrinaker/toydb",
+"stars": 7295,
+"description": "Distributed SQL database in Rust, written as an educational project",
+"topics": [
+"rust",
+"distributed",
+"database",
+"raft",
+"sql",
+"mvcc"
+],
+"language": "Rust"
+},
+{
+"repo": "railsgirls/guides.railsgirls.com",
+"stars": 7221,
+"description": "Rails Girls Guides",
+"topics": [
+"hacktoberfest",
+"ruby",
+"rails",
+"tutorial"
+],
+"language": "CSS"
+},
+{
+"repo": "eclipse-che/che",
+"stars": 7170,
+"description": "Kubernetes based Cloud Development Environments for Enterprise Teams",
+"topics": [
+"eclipse",
+"devtools",
+"ide",
+"cloud",
+"cloud-ide",
+"kubernetes",
+"containers"
+],
+"language": "TypeScript"
+},
+{
+"repo": "authzed/spicedb",
+"stars": 7154,
+"description": "Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data",
+"topics": [
+"zanzibar",
+"permissions",
+"database",
+"distributed-systems",
+"security",
+"security-tools",
+"fine-grained-access-control",
+"ciam",
+"kubernetes",
+"acl"
+],
+"language": "Go"
+},
+{
+"repo": "snowplow/snowplow",
+"stars": 7041,
+"description": "The leader in Customer Data Infrastructure",
+"topics": [
+"snowplow",
+"analytics",
+"data",
+"data-pipeline",
+"data-collection",
+"product-analytics",
+"marketing-analytics",
+"snowplow-pipeline",
+"snowplow-events"
+],
+"language": "Scala"
+},
+{
+"repo": "mapbox/pixelmatch",
+"stars": 6994,
+"description": "The smallest, simplest and fastest JavaScript pixel-level image comparison library",
+"topics": [
+"image-comparison",
+"testing-tools",
+"diff"
+],
+"language": "JavaScript"
+},
+{
+"repo": "littlefs-project/littlefs",
+"stars": 6971,
+"description": "A little fail-safe filesystem designed for microcontrollers",
+"topics": [
+"filesystem",
+"embedded",
+"microcontroller"
+],
+"language": "C"
+},
+{
+"repo": "brunch/brunch",
+"stars": 6758,
+"description": "🍴 Web applications made easy. Since 2011.",
+"topics": [
+"javascript",
+"workflow",
+"build-automation",
+"pipeline",
+"brunch"
+],
+"language": "JavaScript"
+},
+{
+"repo": "cloudquery/cloudquery",
+"stars": 6542,
+"description": "Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.",
+"topics": [
+"aws",
+"gcp",
+"azure",
+"sql",
+"data-integration",
+"elt",
+"etl",
+"etl-framework",
+"bigquery",
+"data-collection"
+],
+"language": "Go"
+},
+{
+"repo": "apache/flink-cdc",
+"stars": 6485,
+"description": "Flink CDC is a streaming data integration tool",
+"topics": [
+"change-data-capture",
+"cdc",
+"batch",
+"data-integration",
+"data-pipeline",
+"distributed",
+"elt",
+"etl",
+"flink",
+"kafka"
+],
+"language": "Java"
+},
+{
+"repo": "ros2/ros2",
+"stars": 6183,
+"description": "The Robot Operating System, is a meta operating system for robots.",
+"topics": [],
+"language": ""
+},
+{
+"repo": "OpenAtomFoundation/pikiwidb",
+"stars": 6134,
+"description": "Pikiwidb is a Redis-Compatible database developed by Qihoo's infrastructure team.",
+"topics": [
+"redis-interfaces",
+"redis",
+"nosql",
+"nosql-databases",
+"nosql-data-storage",
+"rocksdb",
+"pikiwidb"
+],
+"language": "C++"
+},
+{
+"repo": "cockroachdb/pebble",
+"stars": 6057,
+"description": "RocksDB/LevelDB inspired key-value database in Go",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "apache/hive",
+"stars": 6031,
+"description": "Apache Hive",
+"topics": [
+"java",
+"hive",
+"database",
+"sql",
+"apache",
+"big-data",
+"hadoop"
+],
+"language": "Java"
+},
+{
+"repo": "cortexproject/cortex",
+"stars": 5878,
+"description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+"topics": [
+"prometheus",
+"kubernetes",
+"monitoring",
+"cncf",
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "dmytrodanylyk/circular-progress-button",
+"stars": 5739,
+"description": "Android Circular Progress Button",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "cubefs/cubefs",
+"stars": 5679,
+"description": "cloud-native distributed storage",
+"topics": [
+"distributed-storage",
+"cncf",
+"kubernetes",
+"cloud-storage",
+"erasure-coding",
+"hybrid-cloud",
+"ai-native-storage",
+"object-storage",
+"cloud-native-storage",
+"distributed-file-system"
+],
+"language": "Go"
+},
+{
+"repo": "thuquant/awesome-quant",
+"stars": 5674,
+"description": "中国的Quant相关资源索引",
+"topics": [
+"quant",
+"python",
+"machine-learning",
+"statistics",
+"r",
+"cpp",
+"trading",
+"finance",
+"china"
+],
+"language": ""
+},
+{
+"repo": "apache/hbase",
+"stars": 5566,
+"description": "Apache HBase",
+"topics": [
+"database",
+"java",
+"hbase"
+],
+"language": "Java"
+},
+{
+"repo": "valor-software/ngx-bootstrap",
+"stars": 5508,
+"description": "Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)",
+"topics": [
+"angular",
+"bootstrap",
+"components",
+"datepicker",
+"daterangepicker",
+"modals",
+"popover",
+"sortable",
+"carousel",
+"typeahead"
+],
+"language": "TypeScript"
+},
+{
+"repo": "leits/MeetingBar",
+"stars": 5374,
+"description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar ",
+"topics": [
+"swift",
+"calendar",
+"macos",
+"meetings",
+"google-meet",
+"zoom",
+"microsoft-teams",
+"macos-calendar",
+"productivity",
+"apple"
+],
+"language": "Swift"
+},
+{
+"repo": "wangzhe3224/awesome-systematic-trading",
+"stars": 5293,
+"description": "A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资",
+"topics": [
+"systematic-trading",
+"quantitative-trading",
+"awesome-list",
+"trading",
+"quant",
+"backtesting",
+"alpha",
+"trading-bot",
+"algorithmic-trading",
+"trading-strategies"
+],
+"language": "HTML"
+},
+{
+"repo": "gluster/glusterfs",
+"stars": 5259,
+"description": "Gluster Filesystem : Build your distributed storage in minutes",
+"topics": [
+"gluster",
+"storage",
+"c",
+"distributed-systems",
+"glusterfs",
+"libgfapi",
+"k8s-sig-storage",
+"filesystem",
+"fuse-filesystem",
+"high-availability"
+],
+"language": "C"
+},
+{
+"repo": "jitsucom/jitsu",
+"stars": 5108,
+"description": "Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days",
+"topics": [
+"data-integration",
+"clickhouse",
+"golang",
+"bigquery",
+"data-collection",
+"data-connectors",
+"redshift",
+"snowflake",
+"postgres"
+],
+"language": "TypeScript"
+},
+{
+"repo": "karlhorky/learn-to-program",
+"stars": 4982,
+"description": "Educational resources to learn to program (Foundation in Web Development)",
+"topics": [],
+"language": ""
+},
+{
+"repo": "m3db/m3",
+"stars": 4907,
+"description": "M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform",
+"topics": [
+"prometheus",
+"kubernetes",
+"graphite",
+"metrics",
+"tsdb",
+"query-engine",
+"aggregator",
+"m3"
+],
+"language": "Go"
+},
+{
+"repo": "rosedblabs/rosedb",
+"stars": 4884,
+"description": "Lightweight, fast and reliable key/value storage engine based on Bitcask.",
+"topics": [
+"database",
+"kv-store",
+"golang",
+"data-structures",
+"go",
+"key-value",
+"embedded",
+"rosedb",
+"throughput"
+],
+"language": "Go"
+},
+{
+"repo": "tidwall/buntdb",
+"stars": 4871,
+"description": "BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support",
+"topics": [
+"database",
+"in-memory",
+"key-value",
+"golang",
+"geospatial"
+],
+"language": "Go"
+},
+{
+"repo": "Codeception/Codeception",
+"stars": 4856,
+"description": "Full-stack testing PHP framework",
+"topics": [
+"codeception",
+"php",
+"phpunit",
+"bdd",
+"testing",
+"end-to-end",
+"acceptance-testing",
+"unit-testing",
+"integration-testing",
+"hacktoberfest"
+],
+"language": "PHP"
+},
+{
+"repo": "APIs-guru/openapi-directory",
+"stars": 4580,
+"description": "🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format",
+"topics": [
+"swagger",
+"openapi",
+"rest-api",
+"opendata",
+"api",
+"aws",
+"azure",
+"google-api",
+"oas",
+"openapi3"
+],
+"language": ""
+},
+{
+"repo": "rudderlabs/rudder-server",
+"stars": 4501,
+"description": "Privacy and Security focused Segment-alternative, in Golang and React  ",
+"topics": [
+"privacy",
+"warehouse-management",
+"data-warehouse",
+"customer-data",
+"customer-data-pipeline",
+"customer-data-platform",
+"customer-data-lake",
+"segment-alternative",
+"data-integration",
+"data-synchronization"
+],
+"language": "Go"
+},
+{
+"repo": "apache/kvrocks",
+"stars": 4463,
+"description": "Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.",
+"topics": [
+"redis",
+"kv",
+"namespace",
+"redis-cluster",
+"distributed",
+"database"
+],
+"language": "C++"
+},
+{
+"repo": "sjqzhang/go-fastdfs",
+"stars": 4140,
+"description": "go-fastdfs 是一个简单的分布式文件系统(私有云存储)，具有无中心、高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。Go-fastdfs is a simple distributed file system (private cloud storage), with no center, high performance, high reliability, maintenance free and other advantages, support breakpoint continuation, block upload, small file merge, automatic synchronization, automatic repair.(similar fastdfs).",
+"topics": [
+"storage-servers",
+"distributed-file-storage",
+"distributed-file-system",
+"godfs",
+"file-system",
+"go-fastdfs",
+"fastdfs",
+"breakpoint-resume",
+"small-file-merge",
+"tus"
+],
+"language": "Go"
+},
+{
+"repo": "aykutkardas/regexlearn.com",
+"stars": 4111,
+"description": "Learn RegEx step by step, from zero to advanced.",
+"topics": [
+"regex",
+"tool",
+"tutorial",
+"guide",
+"learn",
+"regexp"
+],
+"language": "TypeScript"
+},
+{
+"repo": "DTStack/chunjun",
+"stars": 4103,
+"description": "A data integration framework",
+"topics": [
+"flink",
+"bigdata",
+"data-integration",
+"framework",
+"java"
+],
+"language": "Java"
+},
+{
+"repo": "emitter-io/emitter",
+"stars": 4009,
+"description": "High performance, distributed and low latency publish-subscribe platform.",
+"topics": [
+"pubsub",
+"networking",
+"emitter",
+"mqtt",
+"mqtt-broker",
+"realtime",
+"high-performance",
+"low-latency",
+"golang",
+"go"
+],
+"language": "Go"
+},
+{
+"repo": "apache/kylin",
+"stars": 3781,
+"description": "Apache Kylin",
+"topics": [
+"kylin"
+],
+"language": "Java"
+},
+{
+"repo": "Tyrrrz/YoutubeExplode",
+"stars": 3741,
+"description": "Abstraction layer over YouTube's internal API",
+"topics": [
+"youtube",
+"download",
+"reverse-engineering",
+"dotnet",
+"dotnet-core",
+"dotnet-standard",
+"downloader",
+"parser"
+],
+"language": "C#"
+},
+{
+"repo": "nutsdb/nutsdb",
+"stars": 3583,
+"description": "A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.",
+"topics": [
+"key-value",
+"go",
+"golang",
+"database",
+"data-structures",
+"kv-store",
+"nutsdb",
+"supports-transactions"
+],
+"language": "Go"
+},
+{
+"repo": "Netflix/atlas",
+"stars": 3573,
+"description": "In-memory dimensional time series database.",
+"topics": [],
+"language": "Scala"
+},
+{
+"repo": "fasiondog/hikyuu",
+"stars": 3562,
+"description": "An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting",
+"topics": [
+"quant",
+"system-trading",
+"finance",
+"stock",
+"trading",
+"vestment",
+"algorithms-trading",
+"backtesting",
+"portfolio"
+],
+"language": "C++"
+},
+{
+"repo": "petercorke/robotics-toolbox-python",
+"stars": 3544,
+"description": "Robotics Toolbox for Python",
+"topics": [
+"python",
+"robotics",
+"robotics-toolbox",
+"robotics-simulation",
+"robotics-control",
+"kinematics",
+"dynamics",
+"jacobian",
+"robot-manipulator",
+"trajectory-generation"
+],
+"language": "C++"
+},
+{
+"repo": "mourner/suncalc",
+"stars": 3498,
+"description": "A tiny JavaScript library for calculating sun/moon positions and phases.",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "storj/storj",
+"stars": 3283,
+"description": "Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.",
+"topics": [
+"distributed-storage",
+"distributed-systems",
+"distributed",
+"storage",
+"object-storage",
+"golang",
+"open-source"
+],
+"language": "Go"
+},
+{
+"repo": "openaddresses/openaddresses",
+"stars": 3274,
+"description": "A global repository of open address, building, and parcel data.",
+"topics": [
+"openaddresses",
+"addresses",
+"geocoding",
+"hacktoberfest"
+],
+"language": "Python"
+},
+{
+"repo": "soundcloud/roshi",
+"stars": 3175,
+"description": "Roshi is a large-scale CRDT set implementation for timestamped events.",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "lindb/lindb",
+"stars": 3065,
+"description": "LinDB is a scalable, high performance, high availability distributed time series database.",
+"topics": [
+"monitoring",
+"metrics",
+"high-performance",
+"distributed-database",
+"go",
+"database",
+"timeseries",
+"cross-datacenter-native"
+],
+"language": "Go"
+},
+{
+"repo": "CVEProject/cvelistV5",
+"stars": 3056,
+"description": "CVE cache of the official CVE List in CVE JSON 5 format",
+"topics": [],
+"language": ""
+},
+{
+"repo": "mourner/rbush",
+"stars": 2787,
+"description": "RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles",
+"topics": [
+"javascript",
+"r-tree",
+"spatial-index",
+"computational-geometry",
+"algorithm"
+],
+"language": "JavaScript"
+},
+{
+"repo": "microlinkhq/metascraper",
+"stars": 2747,
+"description": "Scrape metadata from any URL using Open Graph, JSON-LD, HTML meta tags, and smart fallbacks.",
+"topics": [
+"metadata",
+"article",
+"cheerio",
+"extract",
+"html",
+"json-ld",
+"metascraper",
+"og",
+"open-graph",
+"preview"
+],
+"language": "HTML"
+},
+{
+"repo": "mapbox/delaunator",
+"stars": 2633,
+"description": "An incredibly fast JavaScript library for Delaunay triangulation of 2D points",
+"topics": [
+"computational-geometry",
+"algorithm",
+"javascript",
+"delaunay",
+"triangulation",
+"2d",
+"fast"
+],
+"language": "JavaScript"
+},
+{
+"repo": "mapbox/earcut",
+"stars": 2603,
+"description": "The fastest and smallest JavaScript polygon triangulation library for your WebGL apps",
+"topics": [
+"triangulation",
+"tessellation",
+"polygon",
+"algorithm",
+"computational-geometry",
+"javascript",
+"delaunay"
+],
+"language": "JavaScript"
+},
+{
+"repo": "apache/logging-flume",
+"stars": 2574,
+"description": "Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log-like data",
+"topics": [
+"flume",
+"java",
+"apache",
+"api",
+"jvm",
+"library"
+],
+"language": "Java"
+},
+{
+"repo": "github/advisory-database",
+"stars": 2499,
+"description": "Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.",
+"topics": [],
+"language": ""
+},
+{
+"repo": "griddb/griddb",
+"stars": 2474,
+"description": "GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.",
+"topics": [
+"database",
+"griddb",
+"nosql",
+"iot",
+"fast",
+"time-series",
+"newsql",
+"sql",
+"bigdata",
+"timeseries"
+],
+"language": "C++"
+},
+{
+"repo": "unitedstates/congress-legislators",
+"stars": 2452,
+"description": "Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "vadimdemedes/pastel",
+"stars": 2410,
+"description": "🎨 Next.js-like framework for CLIs made with Ink",
+"topics": [
+"ink",
+"cli",
+"command-line",
+"react"
+],
+"language": "TypeScript"
+},
+{
+"repo": "mapbox/supercluster",
+"stars": 2384,
+"description": "A very fast geospatial point clustering library for browsers and Node.",
+"topics": [
+"clustering",
+"algorithm",
+"computational-geometry",
+"javascript",
+"maps"
+],
+"language": "JavaScript"
+},
+{
+"repo": "pinterest/querybook",
+"stars": 2295,
+"description": "Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.",
+"topics": [
+"metastore",
+"analyses",
+"hive",
+"presto",
+"notebook",
+"typescript",
+"flask",
+"celery",
+"charting"
+],
+"language": "TypeScript"
+},
+{
+"repo": "trekhleb/nano-neuron",
+"stars": 2273,
+"description": "🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually \"learn\"",
+"topics": [
+"machine-learning",
+"machine-learning-algorithms",
+"machinelearning",
+"javascript",
+"artificial-intelligence"
+],
+"language": "JavaScript"
+},
+{
+"repo": "lotusdblabs/lotusdb",
+"stars": 2256,
+"description": "Most advanced key-value database written in Go, extremely fast, compatible with LSM tree and B+ tree.",
+"topics": [
+"lsm-tree",
+"bptree",
+"kv-store",
+"golang",
+"database",
+"storage"
+],
+"language": "Go"
+},
+{
+"repo": "ompl/ompl",
+"stars": 2178,
+"description": "The Open Motion Planning Library (OMPL)",
+"topics": [
+"motion-planning",
+"robotics"
+],
+"language": "C++"
+},
+{
+"repo": "mapbox/geojson-vt",
+"stars": 2080,
+"description": "Slice GeoJSON into vector tiles on the fly in the browser",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "moosefs/moosefs",
+"stars": 2008,
+"description": "MooseFS Distributed Storage – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System / Software-Defined Storage",
+"topics": [
+"software-defined-storage",
+"posix",
+"filesystem",
+"distributed-storage",
+"distributed-computing",
+"high-availability",
+"storage",
+"posix-compliant",
+"ditributed-systems",
+"erasure-coding"
+],
+"language": "C"
+},
+{
+"repo": "cherrypy/cherrypy",
+"stars": 1947,
+"description": "CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev",
+"topics": [
+"python",
+"python-3",
+"idiomatic-python",
+"http",
+"http-server",
+"https",
+"http-streaming",
+"daemon-mode",
+"cross-platform",
+"pypy3"
+],
+"language": "Python"
+},
+{
+"repo": "mourner/bullshit.js",
+"stars": 1898,
+"description": "A bookmarklet for translating marketing speak into human-readable text. :poop:",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "kairosdb/kairosdb",
+"stars": 1761,
+"description": "Fast scalable time series database",
+"topics": [
+"kairosdb",
+"java",
+"timeseries-database",
+"metrics",
+"timeseries"
+],
+"language": "Java"
+},
+{
+"repo": "polardb/polardbx-sql",
+"stars": 1686,
+"description": "PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.",
+"topics": [
+"horizontal-scaling",
+"distributed-transactions",
+"htap",
+"enterprise-class",
+"cloud-native",
+"high-availability",
+"mysql",
+"high-concurrency",
+"massive-datasets",
+"relational-database"
+],
+"language": "Java"
+},
+{
+"repo": "cswinter/LocustDB",
+"stars": 1647,
+"description": "Blazingly fast analytics database that will rapidly devour all of your data.",
+"topics": [
+"analytics",
+"database",
+"rust"
+],
+"language": "Rust"
+},
+{
+"repo": "alpacahq/alpaca-py",
+"stars": 1557,
+"description": "The Official Python SDK for Alpaca API",
+"topics": [
+"algorithmic-trading",
+"brokerage",
+"crypto",
+"finance",
+"market-data",
+"python",
+"trading",
+"alpaca",
+"alpaca-api",
+"equities"
+],
+"language": "Python"
+},
+{
+"repo": "vshymanskyy/StandWithUkraine",
+"stars": 1552,
+"description": "#StandWithUkraine banner and related documents",
+"topics": [
+"ukraine",
+"standwithukraine",
+"stoprussionagression",
+"stopputinnow",
+"russia",
+"belarus"
+],
+"language": "JavaScript"
+},
+{
+"repo": "polarsignals/frostdb",
+"stars": 1549,
+"description": "❄️ Coolest database around 🧊 Embeddable column database written in Go.",
+"topics": [
+"database",
+"columnar-storage",
+"apache-arrow",
+"apache-parquet",
+"golang"
+],
+"language": "Go"
+},
+{
+"repo": "gazebosim/gz-sim",
+"stars": 1542,
+"description": "Open source robotics simulator. The latest version of Gazebo.",
+"topics": [
+"ignition-gazebo",
+"ignition-robotics",
+"graphical-interface",
+"ignition-libraries",
+"robotics",
+"simulation",
+"robotics-simulation",
+"cpp",
+"gazebo",
+"physics"
+],
+"language": "C++"
+},
+{
+"repo": "graphite-project/carbon",
+"stars": 1531,
+"description": "Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend.",
+"topics": [
+"carbon",
+"graphite",
+"python",
+"graphite-components",
+"time-series",
+"metrics"
+],
+"language": "Python"
+},
+{
+"repo": "apache/inlong",
+"stars": 1508,
+"description": "Apache InLong - a one-stop, full-scenario integration framework for massive data",
+"topics": [
+"inlong",
+"one-stop-service",
+"data-streaming",
+"event-streaming",
+"framework",
+"massive-data-integration",
+"full-scenario-service"
+],
+"language": "Java"
+},
+{
+"repo": "tinyfish-io/agentql",
+"stars": 1489,
+"description": "AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale. Includes REST API, Python and JavaScript SDKs, browser debugger.",
+"topics": [
+"automation",
+"playwright",
+"python",
+"scraping",
+"web-scraping-python",
+"web-scrapping",
+"web-scraping",
+"agent",
+"ai",
+"aiagent"
+],
+"language": "Python"
+},
+{
+"repo": "microlinkhq/unavatar",
+"stars": 1473,
+"description": "Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.",
+"topics": [
+"avatar",
+"domain",
+"email",
+"github",
+"gravatar",
+"instagram",
+"microlink",
+"telegram",
+"twitter",
+"youtube"
+],
+"language": "HTML"
+},
+{
+"repo": "filodb/FiloDB",
+"stars": 1468,
+"description": "Distributed Prometheus time series database",
+"topics": [
+"scala",
+"time-series",
+"database",
+"distributed",
+"prometheus",
+"metrics",
+"reactive",
+"kafka"
+],
+"language": "Scala"
+},
+{
+"repo": "apache/cloudberry",
+"stars": 1432,
+"description": "One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.",
+"topics": [
+"database",
+"data-analysis",
+"data-warehouse",
+"olap",
+"postgresql",
+"sql",
+"ai",
+"greenplum",
+"mpp",
+"postgres"
+],
+"language": "C"
+},
+{
+"repo": "aerospike/aerospike-server",
+"stars": 1383,
+"description": "Aerospike Database Server – flash-optimized, in-memory, nosql database",
+"topics": [],
+"language": "C"
+},
+{
+"repo": "apache/ozone",
+"stars": 1316,
+"description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
+"topics": [
+"hadoop",
+"object-store",
+"storage",
+"big-data",
+"s3",
+"kubernetes"
+],
+"language": "Java"
+},
+{
+"repo": "nationalparkservice/data",
+"stars": 1280,
+"description": "An unofficial repository of National Park Service data.",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "percona/percona-server",
+"stars": 1275,
+"description": "Percona Server",
+"topics": [
+"ps"
+],
+"language": "C++"
+},
+{
+"repo": "graphite-project/whisper",
+"stars": 1261,
+"description": "Whisper is a file-based time-series database format for Graphite.",
+"topics": [
+"whisper",
+"python",
+"graphite",
+"graphite-components",
+"library",
+"time-series",
+"metrics"
+],
+"language": "Python"
+},
+{
+"repo": "chelsea0x3b/cudarc",
+"stars": 1237,
+"description": "Safe rust wrapper around CUDA toolkit",
+"topics": [
+"cuda",
+"cuda-programming",
+"cuda-toolkit",
+"gpu",
+"gpu-acceleration",
+"rust",
+"cublas",
+"curand",
+"cuda-kernels",
+"nvrtc"
+],
+"language": "Rust"
+},
+{
+"repo": "OpenExoplanetCatalogue/open_exoplanet_catalogue",
+"stars": 1129,
+"description": "The main data repository for the Open Exoplanet Catalogue",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "oetiker/rrdtool-1.x",
+"stars": 1120,
+"description": "RRDtool 1.x - Round Robin Database",
+"topics": [
+"rrdtool",
+"round-robin-database",
+"time-series",
+"tsdb"
+],
+"language": "C"
+}
+]

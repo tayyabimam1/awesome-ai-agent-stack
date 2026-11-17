@@ -1,0 +1,764 @@
+[
+{
+"repo": "ohmyzsh/ohmyzsh",
+"stars": 190066,
+"description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+"topics": [
+"shell",
+"zsh-configuration",
+"theme",
+"terminal",
+"productivity",
+"zsh",
+"cli",
+"cli-app",
+"themes",
+"plugins"
+],
+"language": "Shell"
+},
+{
+"repo": "jackfrued/Python-100-Days",
+"stars": 187271,
+"description": "Python - 100天从新手到大师",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "flutter/flutter",
+"stars": 180263,
+"description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+"topics": [
+"mobile",
+"android",
+"ios",
+"material-design",
+"dart",
+"skia",
+"web",
+"web-framework",
+"windows",
+"macos"
+],
+"language": "Dart"
+},
+{
+"repo": "github/gitignore",
+"stars": 175980,
+"description": "A collection of useful .gitignore templates",
+"topics": [
+"gitignore",
+"git"
+],
+"language": ""
+},
+{
+"repo": "twbs/bootstrap",
+"stars": 174928,
+"description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+"topics": [
+"css",
+"bootstrap",
+"javascript",
+"html",
+"scss",
+"css-framework",
+"sass"
+],
+"language": "MDX"
+},
+{
+"repo": "airbnb/javascript",
+"stars": 148061,
+"description": "JavaScript Style Guide",
+"topics": [
+"javascript",
+"eslint",
+"naming-conventions",
+"arrow-functions",
+"style-guide",
+"style-linter",
+"es6",
+"es2015",
+"linting",
+"styleguide"
+],
+"language": "JavaScript"
+},
+{
+"repo": "ytdl-org/youtube-dl",
+"stars": 141320,
+"description": "Command-line program to download videos from YouTube.com and other video sites",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "golang/go",
+"stars": 139300,
+"description": "The Go programming language",
+"topics": [
+"programming-language",
+"language",
+"go",
+"golang"
+],
+"language": "Go"
+},
+{
+"repo": "labuladong/fucking-algorithm",
+"stars": 135923,
+"description": "Crack LeetCode, not only how, but also why. ",
+"topics": [
+"leetcode",
+"algorithms",
+"interview-questions",
+"data-structures",
+"kmp",
+"dynamic-programming",
+"computer-science",
+"dynamic-programming-algorithm"
+],
+"language": "Markdown"
+},
+{
+"repo": "react/react-native",
+"stars": 126701,
+"description": "A framework for building native applications using React",
+"topics": [
+"android",
+"app-framework",
+"ios",
+"mobile",
+"mobile-development",
+"react-native",
+"cross-platform",
+"react"
+],
+"language": "C++"
+},
+{
+"repo": "electron/electron",
+"stars": 123380,
+"description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+"topics": [
+"electron",
+"javascript",
+"c-plus-plus",
+"html",
+"css",
+"chrome",
+"nodejs",
+"v8",
+"works-with-codespaces"
+],
+"language": "C++"
+},
+{
+"repo": "justjavac/free-programming-books-zh_CN",
+"stars": 119255,
+"description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+"topics": [
+"python",
+"javascript",
+"android",
+"books",
+"free",
+"pdf",
+"programming",
+"react",
+"vue",
+"angular"
+],
+"language": ""
+},
+{
+"repo": "immich-app/immich",
+"stars": 116546,
+"description": "High performance self-hosted photo and video management solution.",
+"topics": [
+"backup-tool",
+"mobile-app",
+"photo-gallery",
+"photos",
+"self-hosted",
+"videos",
+"flutter",
+"nestjs",
+"nodejs",
+"google-photos-alternative"
+],
+"language": "TypeScript"
+},
+{
+"repo": "binhnguyennus/awesome-scalability",
+"stars": 74806,
+"description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+"topics": [
+"system-design",
+"backend",
+"scalability",
+"interview",
+"architecture",
+"devops",
+"design-patterns",
+"interview-questions",
+"awesome-list",
+"big-data"
+],
+"language": ""
+},
+{
+"repo": "HeyPuter/puter",
+"stars": 43803,
+"description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+"topics": [
+"desktop",
+"desktop-environment",
+"osjs",
+"web-desktop",
+"webtop",
+"cloud-os",
+"web-os",
+"javascript",
+"cloud",
+"os"
+],
+"language": "TypeScript"
+},
+{
+"repo": "photoprism/photoprism",
+"stars": 40317,
+"description": "AI-Powered Photos App 🌈💎✨",
+"topics": [
+"golang",
+"tensorflow",
+"photography",
+"private-cloud",
+"google-photos",
+"ai",
+"machine-learning",
+"self-hosted"
+],
+"language": "Go"
+},
+{
+"repo": "RSSNext/Folo",
+"stars": 39115,
+"description": "🧡 Folo is the AI RSS Reader",
+"topics": [
+"reader",
+"rss",
+"rss-reader",
+"ai",
+"rsshub"
+],
+"language": "TypeScript"
+},
+{
+"repo": "projectdiscovery/nuclei",
+"stars": 32105,
+"description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+"topics": [
+"cve-scanner",
+"subdomain-takeover",
+"nuclei-engine",
+"vulnerability-detection",
+"vulnerability-assessment",
+"vulnerability-scanner",
+"security",
+"attack-surface",
+"security-scanner",
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "compiler-explorer/compiler-explorer",
+"stars": 19138,
+"description": "Run compilers interactively from your web browser and interact with the assembly",
+"topics": [
+"rust",
+"c-plus-plus",
+"go",
+"dlang",
+"compiler",
+"cpp",
+"assembly",
+"ispc",
+"haskell",
+"swift"
+],
+"language": "TypeScript"
+},
+{
+"repo": "openimsdk/open-im-server",
+"stars": 16701,
+"description": "IM Chat OpenClaw",
+"topics": [
+"im",
+"chat",
+"messaging",
+"messenger",
+"openclaw"
+],
+"language": "Go"
+},
+{
+"repo": "Billionmail/BillionMail",
+"stars": 15925,
+"description": "BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+"topics": [
+"email-marketing",
+"mail",
+"mailserver",
+"email",
+"server",
+"smtp",
+"dovecot",
+"postfix",
+"rspamd",
+"newsletter"
+],
+"language": "Go"
+},
+{
+"repo": "altic-dev/FluidVoice",
+"stars": 12273,
+"description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp",
+"topics": [
+"ai",
+"dictation",
+"ios",
+"llama-cpp",
+"macos",
+"swift"
+],
+"language": "Swift"
+},
+{
+"repo": "fastrepl/anarlog",
+"stars": 9526,
+"description": "Open source Granola AI Alternative",
+"topics": [
+"local-first",
+"notetaking",
+"open-source",
+"react",
+"rust",
+"tauri",
+"typescript"
+],
+"language": "Rust"
+},
+{
+"repo": "CarterPerez-dev/Cybersecurity-Projects",
+"stars": 8309,
+"description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
+"topics": [
+"ai",
+"certification",
+"cloud-engineering",
+"cyber",
+"cybersecurity",
+"cybersecurity-analyst",
+"cybersecurity-certification",
+"cybersecurity-certifications",
+"cybersecurity-education",
+"cybersecurity-jobs"
+],
+"language": "Go"
+},
+{
+"repo": "MystenLabs/sui",
+"stars": 7778,
+"description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+"topics": [
+"blockchain",
+"distributed-ledger-technology",
+"move",
+"smart-contracts"
+],
+"language": "Rust"
+},
+{
+"repo": "apurvsinghgautam/robin",
+"stars": 7587,
+"description": "AI-Powered Dark Web OSINT Tool",
+"topics": [
+"ai-tool",
+"darkweb",
+"darkweb-osint",
+"investigation-tool",
+"llm-powered",
+"osint",
+"osint-tool"
+],
+"language": "Python"
+},
+{
+"repo": "Conway-Research/automaton",
+"stars": 7366,
+"description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "Countly/countly-server",
+"stars": 5918,
+"description": "Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected environments.",
+"topics": [
+"web-analytics",
+"dashboard",
+"mobile-analytics",
+"analytics",
+"push-notifications",
+"insights",
+"tracking",
+"crash-analytics",
+"data-ownership",
+"data-privacy"
+],
+"language": "JavaScript"
+},
+{
+"repo": "jgraph/drawio-mcp",
+"stars": 5654,
+"description": "",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "ProtonMail/WebClients",
+"stars": 5640,
+"description": "Monorepo hosting the proton web clients",
+"topics": [
+"webmail",
+"pgp",
+"protonmail",
+"protoncalendar",
+"yarn",
+"react",
+"protondrive",
+"monorepo",
+"protoncontacts"
+],
+"language": "TypeScript"
+},
+{
+"repo": "firebase/firebase-tools",
+"stars": 4475,
+"description": "The Firebase Command Line Tools",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "tolgee/tolgee-platform",
+"stars": 4132,
+"description": "Developer & translator friendly web-based localization platform",
+"topics": [
+"localization",
+"localization-tool",
+"internationalization",
+"i18n",
+"i18next",
+"l10n",
+"react",
+"javascript",
+"angular",
+"vue"
+],
+"language": "TypeScript"
+},
+{
+"repo": "revolist/revogrid",
+"stars": 3450,
+"description": "Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋",
+"topics": [
+"grid",
+"revo-grid",
+"vuegrid",
+"excel-grid",
+"stenciljs",
+"vuejs-grid",
+"vuejs-components",
+"excel",
+"data-grid",
+"vuejs"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Anil-matcha/awesome-open-source-saas-alternatives",
+"stars": 3407,
+"description": "Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.",
+"topics": [
+"open-source",
+"self-hosted",
+"alternatives",
+"auth0-alternative",
+"awesome",
+"awesome-list",
+"figma-alternative",
+"firebase-alternative",
+"free-software",
+"notion-alternative"
+],
+"language": "JavaScript"
+},
+{
+"repo": "linq2db/linq2db",
+"stars": 3334,
+"description": "Linq to database provider.",
+"topics": [
+"linq",
+"database",
+"orm",
+"sql",
+"access",
+"db2",
+"firebird",
+"informix",
+"mysql",
+"postgresql"
+],
+"language": "C#"
+},
+{
+"repo": "rishikanthc/Scriberr",
+"stars": 3104,
+"description": "Self-hosted AI audio transcription",
+"topics": [
+"ai",
+"audio",
+"transcript",
+"transcription"
+],
+"language": "Go"
+},
+{
+"repo": "medplum/medplum",
+"stars": 2749,
+"description": "Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.",
+"topics": [
+"healthcare",
+"fhir",
+"fhir-server",
+"typescript",
+"electronic-health-record",
+"ehr",
+"soc2",
+"react",
+"hipaa",
+"graphql"
+],
+"language": "TypeScript"
+},
+{
+"repo": "nteract/semiotic",
+"stars": 2716,
+"description": "React data visualization library for streaming, networks, and AI-assisted development",
+"topics": [
+"nteract",
+"visualization",
+"d3",
+"react",
+"data-visualization",
+"ai",
+"streaming"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Checkmk/checkmk",
+"stars": 2597,
+"description": "Checkmk - Best-in-class infrastructure & application monitoring",
+"topics": [
+"monitoring"
+],
+"language": "Python"
+},
+{
+"repo": "usertour/usertour",
+"stars": 2323,
+"description": "Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to Userflow and Appcues",
+"topics": [
+"appcues",
+"checklist",
+"onboarding",
+"pendo",
+"surveys",
+"tour",
+"userflow",
+"walkme",
+"announcements",
+"chameleon"
+],
+"language": "TypeScript"
+},
+{
+"repo": "dongdongbh/Mindwtr",
+"stars": 2280,
+"description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+"topics": [
+"gtd",
+"productivity",
+"getting-things-done",
+"gtd-applications",
+"gtd-workflow",
+"task-management",
+"cross-platform",
+"personal-management",
+"second-brain",
+"todo-app"
+],
+"language": "TypeScript"
+},
+{
+"repo": "betterleaks/betterleaks",
+"stars": 2258,
+"description": "Find leaked secrets everywhere.",
+"topics": [
+"cicd",
+"credentials",
+"developer-tools",
+"devops",
+"devsecops",
+"git",
+"github",
+"gitleaks",
+"go",
+"golang"
+],
+"language": "Go"
+},
+{
+"repo": "Emanuele-web04/synara",
+"stars": 2116,
+"description": "The best place to build with your AI sub",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "NuGet/Home",
+"stars": 1555,
+"description": "Repo for NuGet Client issues",
+"topics": [],
+"language": "HTML"
+},
+{
+"repo": "ibelick/zola",
+"stars": 1533,
+"description": "Open chat interface for all your models.",
+"topics": [
+"ai",
+"chat",
+"multi-model",
+"nextjs",
+"open-source",
+"shadcn-ui",
+"supabase",
+"typescript",
+"prompt-kit"
+],
+"language": "TypeScript"
+},
+{
+"repo": "rzru/nightingale",
+"stars": 1502,
+"description": "Machine learning powered Karaoke app (with scores!) ",
+"topics": [
+"ai",
+"karaoke",
+"karaoke-application",
+"ml",
+"party",
+"karaoke-game",
+"demucs",
+"machine-learning",
+"machine-learning-algorithms",
+"rust"
+],
+"language": "TypeScript"
+},
+{
+"repo": "measure-sh/measure",
+"stars": 1412,
+"description": "Measure helps mobile teams monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics.",
+"topics": [
+"android",
+"flutter",
+"ios",
+"react-native",
+"kotlin",
+"swift",
+"crash-reporting",
+"open-source",
+"apm",
+"bug-reporting"
+],
+"language": "TypeScript"
+},
+{
+"repo": "nrwl/nx-console",
+"stars": 1412,
+"description": "Nx Console is the user interface for Nx & Lerna.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "anypost/emailmd",
+"stars": 1381,
+"description": "Render markdown into email-safe HTML",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "pullfrog/pullfrog",
+"stars": 1324,
+"description": "Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "firecmsco/firecms",
+"stars": 1281,
+"description": "Awesome Firebase/Firestore-based CMS. The missing admin panel for your Firebase project!",
+"topics": [
+"firebase",
+"react",
+"cms",
+"firestore",
+"admin-dashboard",
+"headless-cms",
+"mongodb"
+],
+"language": "TypeScript"
+},
+{
+"repo": "web-infra-dev/rsdoctor",
+"stars": 1147,
+"description": "AI-friendly build analyzer for Rspack",
+"topics": [
+"analyze",
+"bundle",
+"rspack",
+"webpack",
+"build-analyzer",
+"hacktoberfest",
+"rstack"
+],
+"language": "TypeScript"
+},
+{
+"repo": "scaleway/scaleway-cli",
+"stars": 1013,
+"description": "Command Line Interface for Scaleway",
+"topics": [
+"scaleway",
+"scaleway-cli",
+"cli",
+"go"
+],
+"language": "Go"
+}
+]

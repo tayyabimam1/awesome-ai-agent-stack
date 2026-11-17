@@ -1,0 +1,1712 @@
+{
+"build-with-groq/groq-code-cli": {
+"name": "build-with-groq/groq-code-cli",
+"stars": 745,
+"pushed": "2025-12-19T13:44:22Z",
+"archived": false,
+"fork": false,
+"desc": "A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.",
+"topics": [
+"managed-by-terraform"
+],
+"lang": "TypeScript"
+},
+"coleam00/remote-agentic-coding-system": {
+"name": "coleam00/remote-agentic-coding-system",
+"stars": 352,
+"pushed": "2025-11-29T16:00:04Z",
+"archived": false,
+"fork": false,
+"desc": "Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc.",
+"topics": [],
+"lang": "TypeScript"
+},
+"AgentsMesh/AgentsMesh": {
+"dead": true
+},
+"skainguyen1412/antigravity-superpowers": {
+"name": "skainguyen1412/antigravity-superpowers",
+"stars": 333,
+"pushed": "2026-02-26T08:48:22Z",
+"archived": false,
+"fork": false,
+"desc": "Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible.",
+"topics": [
+"ai",
+"skills"
+],
+"lang": "JavaScript"
+},
+"muratcankoylan/ralph-wiggum-marketer": {
+"name": "muratcankoylan/ralph-wiggum-marketer",
+"stars": 778,
+"pushed": "2026-04-09T14:00:57Z",
+"archived": false,
+"fork": false,
+"desc": "A Claude Code Plugin that provides an autonomous AI copywriter.",
+"topics": [],
+"lang": "JavaScript"
+},
+"snwfdhmp/awesome-ralph": {
+"name": "snwfdhmp/awesome-ralph",
+"stars": 932,
+"pushed": "2026-02-03T08:34:43Z",
+"archived": false,
+"fork": false,
+"desc": "A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.",
+"topics": [
+"ai-coding",
+"ralph",
+"ralph-loop",
+"ralph-wiggum",
+"vibe-coding",
+"claude",
+"claude-code"
+],
+"lang": ""
+},
+"jthack/ffuf_claude_skill": {
+"name": "jthack/ffuf_claude_skill",
+"stars": 215,
+"pushed": "2025-10-16T19:39:14Z",
+"archived": false,
+"fork": false,
+"desc": "This is a \"skill\" for claude to use FFUF.",
+"topics": [],
+"lang": "Python"
+},
+"AlmogBaku/debug-skill": {
+"name": "AlmogBaku/debug-skill",
+"stars": 335,
+"pushed": "2026-04-17T20:40:54Z",
+"archived": false,
+"fork": false,
+"desc": "",
+"topics": [],
+"lang": "Go"
+},
+"ZongqianLi/500xCompressor": {
+"name": "ZongqianLi/500xCompressor",
+"stars": 65,
+"pushed": "2026-03-09T13:58:06Z",
+"archived": false,
+"fork": false,
+"desc": "[ACL 2025 Main] Repository for the paper: 500xCompressor: Generalized Prompt Compression for Large Language Models",
+"topics": [],
+"lang": "Python"
+},
+"sci-m-wang/OpenCE": {
+"name": "sci-m-wang/OpenCE",
+"stars": 333,
+"pushed": "2025-11-14T14:08:00Z",
+"archived": false,
+"fork": false,
+"desc": "OpenCE (Open Context Engineering): A community toolkit to implement, evaluate, and combine LLM context strategies (RAG, ACE, Compression). Evolved from the `ACE-open` reproduction.",
+"topics": [],
+"lang": "Python"
+},
+"ithiria894/awesome-claude-code-workflows": {
+"name": "ithiria894/awesome-claude-code-workflows",
+"stars": 134,
+"pushed": "2026-03-28T04:01:43Z",
+"archived": false,
+"fork": false,
+"desc": "Curated workflow recipes that combine hooks, MCP servers, skills, agents, and CLAUDE.md to automate real Claude Code tasks",
+"topics": [
+"agents",
+"awesome",
+"awesome-list",
+"claude-code",
+"hooks",
+"mcp",
+"skills",
+"workflows"
+],
+"lang": ""
+},
+"loulanyue/awesome-claude-notes": {
+"dead": true
+},
+"inngest/agent-kit": {
+"name": "inngest/agent-kit",
+"stars": 959,
+"pushed": "2026-04-29T18:37:00Z",
+"archived": false,
+"fork": false,
+"desc": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.",
+"topics": [
+"agent",
+"ai",
+"ai-agent-framework",
+"ai-agents",
+"llm"
+],
+"lang": "TypeScript"
+},
+"dust-tt/dust": {
+"dead": true
+},
+"projnanda/adapter": {
+"name": "projnanda/adapter",
+"stars": 55,
+"pushed": "2025-10-27T19:27:54Z",
+"archived": false,
+"fork": false,
+"desc": "Building the Internet of Agents",
+"topics": [],
+"lang": "Python"
+},
+"MSFT-Innovation-Hub-India/LangGraph-Foundry-HostedAgent-TravelAgent": {
+"name": "MSFT-Innovation-Hub-India/LangGraph-Foundry-HostedAgent-TravelAgent",
+"stars": 5,
+"pushed": "2025-12-26T07:39:29Z",
+"archived": false,
+"fork": false,
+"desc": "This project showcases a multi-agent customer support system built with LangGraph deployed as a Hosted Agent on the new Microsoft Foundry",
+"topics": [],
+"lang": "Python"
+},
+"scholarly360/From-Zero-to-Microsoft-Foundry-Creating-Agents-Via-AI-Projects-Library": {
+"name": "scholarly360/From-Zero-to-Microsoft-Foundry-Creating-Agents-Via-AI-Projects-Library",
+"stars": 4,
+"pushed": "2026-01-31T13:37:29Z",
+"archived": false,
+"fork": false,
+"desc": "Learn how to create powerful AI agents using the Azure AI Projects SDK! ",
+"topics": [],
+"lang": "Jupyter Notebook"
+},
+"kael-bit/engram-rs": {
+"name": "kael-bit/engram-rs",
+"stars": 28,
+"pushed": "2026-03-03T05:02:31Z",
+"archived": false,
+"fork": false,
+"desc": "Memory engine for AI agents — time axis (3-layer decay/promotion) + space axis (self-organizing topic tree). Hybrid search, LLM consolidation. Single Rust binary.",
+"topics": [
+"agents",
+"ai",
+"rust",
+"sqlite",
+"ai-agents",
+"ai-memory",
+"mcp",
+"claudecode",
+"openclaw",
+"mcp-server"
+],
+"lang": "Rust"
+},
+"InternLM/EMemBench": {
+"name": "InternLM/EMemBench",
+"stars": 12,
+"pushed": "2026-03-05T09:42:48Z",
+"archived": false,
+"fork": false,
+"desc": "[EMNLP 2026 Findings] Official Repository of EMemBench: Interactive Benchmarking of Episodic Memory for VLM Agents",
+"topics": [],
+"lang": "Python"
+},
+"nixiesearch/nixiesearch": {
+"name": "nixiesearch/nixiesearch",
+"stars": 620,
+"pushed": "2026-01-06T14:42:55Z",
+"archived": false,
+"fork": false,
+"desc": "Hybrid search engine, combining best features of text and semantic search worlds",
+"topics": [
+"search",
+"search-engine",
+"semantic-search"
+],
+"lang": "Scala"
+},
+"carriex/recomp": {
+"name": "carriex/recomp",
+"stars": 152,
+"pushed": "2026-01-06T23:10:37Z",
+"archived": false,
+"fork": false,
+"desc": "RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation.",
+"topics": [],
+"lang": "Python"
+},
+"nshkrdotcom/rag_ex": {
+"name": "nshkrdotcom/rag_ex",
+"stars": 13,
+"pushed": "2026-04-09T05:32:08Z",
+"archived": false,
+"fork": false,
+"desc": "Elixir RAG library with multi-LLM routing (Gemini, Claude, OpenAI, Ollama), GraphRAG, knowledge graphs, modular retrievers/rerankers, composable pipelines, pgvector integration, advanced chunking, and tool-using agents. Fork of bitcrowd/rag.",
+"topics": [
+"agents",
+"ai",
+"claude",
+"elixir",
+"embeddings",
+"gemini",
+"graphrag",
+"knowledge-graph",
+"llm",
+"machine-learning"
+],
+"lang": "Elixir"
+},
+"weizhepei/InstructRAG": {
+"name": "weizhepei/InstructRAG",
+"stars": 152,
+"pushed": "2026-04-26T06:59:34Z",
+"archived": false,
+"fork": false,
+"desc": "[ICLR 2025] InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales",
+"topics": [
+"large-language-models",
+"retrieval-augmented-generation"
+],
+"lang": "Python"
+},
+"DerwenAI/strwythura": {
+"name": "DerwenAI/strwythura",
+"stars": 233,
+"pushed": "2026-04-15T22:53:52Z",
+"archived": false,
+"fork": false,
+"desc": "Strwythura: construct an entity-resolved knowledge graph from structured data sources and unstructured content sources, implementing an ontology pipeline, plus context engineering for optimizing AI application outcomes within a specific domain. This produces a Streamlit app, with MLOps instrumentation.",
+"topics": [
+"textgraphs",
+"unstructured-data",
+"vector-database",
+"entity-linking",
+"entity-resolution",
+"machine-learning",
+"named-entity-recognition",
+"semantic-expansion",
+"graphrag",
+"ontology"
+],
+"lang": "Python"
+},
+"hanjiale/Temporal-GraphRAG": {
+"name": "hanjiale/Temporal-GraphRAG",
+"stars": 43,
+"pushed": "2026-02-25T07:36:34Z",
+"archived": false,
+"fork": false,
+"desc": "Official code for ''RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge''.",
+"topics": [
+"financial-text-analysis",
+"knowledge-graph",
+"rag-benchmarks",
+"retrieval-augmented-generation"
+],
+"lang": "Python"
+},
+"machuangtao/LLM-KG4QA": {
+"name": "machuangtao/LLM-KG4QA",
+"stars": 167,
+"pushed": "2025-11-24T20:32:58Z",
+"archived": false,
+"fork": false,
+"desc": "[EMNLP2025] LLM-KG4QA: Large Language Models and Knowledge Graphs for Question Answering",
+"topics": [
+"graphrag",
+"llm",
+"question-answering",
+"rag",
+"knowledge-graph"
+],
+"lang": "JavaScript"
+},
+"aqstack/mimir": {
+"name": "aqstack/mimir",
+"stars": 94,
+"pushed": "2025-12-24T09:47:25Z",
+"archived": false,
+"fork": false,
+"desc": "mimir is a drop-in proxy that caches LLM API responses using semantic similarity, reducing costs and latency for repeated or similar queries.",
+"topics": [
+"caching",
+"cost-optimization",
+"golang",
+"kubernetes",
+"llm",
+"openai",
+"proxy",
+"semantic-cache"
+],
+"lang": "Go"
+},
+"sensoris/semcache": {
+"name": "sensoris/semcache",
+"stars": 99,
+"pushed": "2026-01-02T17:29:09Z",
+"archived": false,
+"fork": false,
+"desc": "Semantic caching layer for your LLM applications. Reuse responses and reduce token usage.",
+"topics": [
+"anthropic",
+"gemini",
+"genai",
+"llm",
+"openai",
+"semantic-cache"
+],
+"lang": "Rust"
+},
+"zakariaf/RAG-Cache": {
+"name": "zakariaf/RAG-Cache",
+"stars": 13,
+"pushed": "2025-12-02T02:56:53Z",
+"archived": false,
+"fork": false,
+"desc": "  High-performance LLM query cache with semantic search. Reduce API costs 80% and latency from 8.5s to 1ms using Redis + Qdrant vector DB. Multi-provider support (OpenAI, Anthropic).",
+"topics": [
+"cost-optimization",
+"embeddings",
+"fastapi",
+"openai",
+"qdrant",
+"rag",
+"redis",
+"semantic-cache",
+"vector-database",
+"llm-caching"
+],
+"lang": "Python"
+},
+"agentset-ai/reranker-eval": {
+"name": "agentset-ai/reranker-eval",
+"stars": 12,
+"pushed": "2026-02-06T15:07:52Z",
+"archived": false,
+"fork": false,
+"desc": "Benchmarking rerankers in a RAG pipeline, evaluating accuracy (nDCG, Recall), latency, and LLM preferences.",
+"topics": [],
+"lang": "Python"
+},
+"LucasHild/mcp-server-bigquery": {
+"name": "LucasHild/mcp-server-bigquery",
+"stars": 131,
+"pushed": "2026-03-26T13:57:09Z",
+"archived": false,
+"fork": false,
+"desc": "A Model Context Protocol server that provides access to BigQuery",
+"topics": [
+"mcp",
+"mcp-server",
+"bigquery"
+],
+"lang": "Python"
+},
+"jparkerweb/mcp-sqlite": {
+"name": "jparkerweb/mcp-sqlite",
+"stars": 130,
+"pushed": "2026-04-05T04:51:05Z",
+"archived": false,
+"fork": false,
+"desc": "🐇 Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities",
+"topics": [
+"cursor",
+"database",
+"development",
+"mcp",
+"nodejs",
+"sqlite",
+"windsurf",
+"aitooling",
+"equill-service"
+],
+"lang": "JavaScript"
+},
+"edwinbernadus/nocodb-mcp-server": {
+"name": "edwinbernadus/nocodb-mcp-server",
+"stars": 76,
+"pushed": "2026-03-30T13:44:10Z",
+"archived": false,
+"fork": false,
+"desc": "nocodb mcp server",
+"topics": [
+"mcp",
+"mcp-server",
+"nocodb"
+],
+"lang": "JavaScript"
+},
+"strowk/mcp-k8s-go": {
+"name": "strowk/mcp-k8s-go",
+"stars": 381,
+"pushed": "2025-12-22T20:12:06Z",
+"archived": false,
+"fork": false,
+"desc": "MCP server connecting to Kubernetes",
+"topics": [
+"kubernetes",
+"mcp",
+"server"
+],
+"lang": "Go"
+},
+"thunderboltsid/mcp-nutanix": {
+"name": "thunderboltsid/mcp-nutanix",
+"stars": 13,
+"pushed": "2026-01-29T09:57:21Z",
+"archived": false,
+"fork": false,
+"desc": "MCP Server for Nutanix",
+"topics": [],
+"lang": "Go"
+},
+"uju777/coupang-mcp": {
+"name": "uju777/coupang-mcp",
+"stars": 18,
+"pushed": "2026-04-13T03:18:24Z",
+"archived": false,
+"fork": false,
+"desc": "Claude/Cursor에서 쿠팡 검색. 최저가 비교, 로켓배송 표시, 중고상품도 검색됨. API 키 불필요.",
+"topics": [
+"ai-assistant",
+"claude",
+"coupang",
+"cursor",
+"korea",
+"mcp",
+"shopping",
+"e-commerce",
+"mcp-server",
+"model-context-protocol"
+],
+"lang": "Python"
+},
+"uju777/mcp-server-naver-search": {
+"name": "uju777/mcp-server-naver-search",
+"stars": 1,
+"pushed": "2026-01-12T12:04:35Z",
+"archived": false,
+"fork": false,
+"desc": "MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.",
+"topics": [
+"claude",
+"korean",
+"mcp",
+"mcp-server",
+"naver",
+"naver-search",
+"search-api",
+"anthropic",
+"cafe",
+"claude-code"
+],
+"lang": "Python"
+},
+"mark3labs/mcp-filesystem-server": {
+"name": "mark3labs/mcp-filesystem-server",
+"stars": 695,
+"pushed": "2025-11-24T15:46:55Z",
+"archived": false,
+"fork": false,
+"desc": "Go server implementing Model Context Protocol (MCP) for filesystem operations.",
+"topics": [],
+"lang": "Go"
+},
+"onebirdrocks/ebook-mcp": {
+"name": "onebirdrocks/ebook-mcp",
+"stars": 396,
+"pushed": "2026-01-10T16:39:38Z",
+"archived": false,
+"fork": false,
+"desc": "A MCP server that supports mainstream eBook formats including EPUB, PDF and more. Simplify your eBook user experience with LLM.",
+"topics": [
+"ebook",
+"epub",
+"mcp",
+"mcp-client",
+"mcp-server",
+"pdf",
+"examples",
+"mcp-examples"
+],
+"lang": "Python"
+},
+"fajarmf/slite-mcp": {
+"name": "fajarmf/slite-mcp",
+"stars": 2,
+"pushed": "2026-03-12T16:59:34Z",
+"archived": false,
+"fork": false,
+"desc": "Model Context Protocol server for Slite integration - search and retrieve notes from your Slite workspace",
+"topics": [
+"ai",
+"knowledge-base",
+"mcp",
+"model-context-protocol",
+"notes",
+"slite",
+"typescript"
+],
+"lang": "TypeScript"
+},
+"video-db/agent-toolkit": {
+"name": "video-db/agent-toolkit",
+"stars": 50,
+"pushed": "2026-03-26T11:05:28Z",
+"archived": false,
+"fork": false,
+"desc": "An open-source agent toolkit that auto-syncs SDK versions, docs, and examples—built for seamless integration with LLMs, and AI agents ( MCP compatible).",
+"topics": [
+"agent",
+"llm",
+"llms-txt",
+"mcp",
+"mcpserver",
+"videodb"
+],
+"lang": "Python"
+},
+"ChenghaoMou/text-dedup": {
+"name": "ChenghaoMou/text-dedup",
+"stars": 764,
+"pushed": "2026-03-09T10:24:42Z",
+"archived": false,
+"fork": false,
+"desc": "All-in-one text de-duplication",
+"topics": [
+"text-processing",
+"de-duplication",
+"nlp",
+"data-processing"
+],
+"lang": "Python"
+},
+"infiniticio/infinitic": {
+"name": "infiniticio/infinitic",
+"stars": 361,
+"pushed": "2026-04-27T13:47:24Z",
+"archived": false,
+"fork": false,
+"desc": "Infinitic is an open source orchestration framework for application teams to build durable and flexible backend processes.",
+"topics": [
+"workflow",
+"orchestration",
+"microservice",
+"automation",
+"orchestrate-microservices",
+"workflow-engine",
+"pulsar",
+"workflows"
+],
+"lang": "Kotlin"
+},
+"Helicone/ai-gateway": {
+"name": "Helicone/ai-gateway",
+"stars": 642,
+"pushed": "2025-11-21T01:25:55Z",
+"archived": false,
+"fork": false,
+"desc": "The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.",
+"topics": [
+"ai",
+"cache",
+"gateway",
+"llm",
+"llms",
+"load-balancing",
+"observability",
+"rate-limiting"
+],
+"lang": "Rust"
+},
+"rxliuli/llm-api-proxy": {
+"name": "rxliuli/llm-api-proxy",
+"stars": 153,
+"pushed": "2025-12-01T12:18:48Z",
+"archived": false,
+"fork": false,
+"desc": "Provides the same proxy OpenAI API interface for different LLM models, and supports deployment to any Edge Runtime environment.",
+"topics": [
+"anthropic",
+"gemini",
+"openai",
+"vertex-ai"
+],
+"lang": "TypeScript"
+},
+"ziozzang/llm-toolcall-proxy": {
+"name": "ziozzang/llm-toolcall-proxy",
+"stars": 62,
+"pushed": "2026-03-26T15:11:03Z",
+"archived": false,
+"fork": false,
+"desc": "General Tool-calling API Proxy",
+"topics": [],
+"lang": "Python"
+},
+"obirler/LLMProxy": {
+"name": "obirler/LLMProxy",
+"stars": 29,
+"pushed": "2025-12-06T10:11:15Z",
+"archived": false,
+"fork": false,
+"desc": "LLMProxy is an intelligent large language model backend routing proxy service.",
+"topics": [
+"ai",
+"gemini",
+"inference",
+"llm",
+"lmstudio",
+"localllm",
+"openai",
+"proxy-server",
+"openrouter",
+"mixture-of-agents"
+],
+"lang": "C#"
+},
+"QImageLab/cf-proxy": {
+"name": "QImageLab/cf-proxy",
+"stars": 226,
+"pushed": "2025-12-15T03:35:45Z",
+"archived": false,
+"fork": false,
+"desc": "Zero-config HTTP/HTTPS reverse proxy on Cloudflare Workers. Perfect for proxying AI APIs (OpenAI, Claude, Gemini, etc.)",
+"topics": [],
+"lang": "JavaScript"
+},
+"PicoMLX/PicoAIProxy": {
+"name": "PicoMLX/PicoAIProxy",
+"stars": 153,
+"pushed": "2025-10-26T23:07:45Z",
+"archived": false,
+"fork": false,
+"desc": "Reverse proxy for OpenAI and Anthropic written in server-side Swift",
+"topics": [
+"ios",
+"macos",
+"openai",
+"openai-api",
+"server-side-swift",
+"swift",
+"anthropic",
+"anthropic-ai",
+"anthropic-claude"
+],
+"lang": "Swift"
+},
+"invariantlabs-ai/invariant-gateway": {
+"name": "invariantlabs-ai/invariant-gateway",
+"stars": 82,
+"pushed": "2025-11-06T11:42:12Z",
+"archived": false,
+"fork": false,
+"desc": "LLM proxy to observe and debug what your AI agents are doing.",
+"topics": [
+"ai-agents",
+"llm",
+"debugging",
+"guardrails",
+"proxy",
+"observability"
+],
+"lang": "Python"
+},
+"Veloera/Veloera": {
+"dead": true
+},
+"cgaeking/ClawRouter": {
+"name": "cgaeking/ClawRouter",
+"stars": 28,
+"pushed": "2026-02-15T12:00:47Z",
+"archived": false,
+"fork": false,
+"desc": "Smart LLM router with direct API keys + OpenRouter support. Fork of BlockRunAI/ClawRouter without crypto payments.",
+"topics": [],
+"lang": "TypeScript"
+},
+"zuisong/gemini-openai-proxy": {
+"name": "zuisong/gemini-openai-proxy",
+"stars": 434,
+"pushed": "2026-04-02T02:31:14Z",
+"archived": false,
+"fork": false,
+"desc": "OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev",
+"topics": [
+"ai",
+"chatgpt-api",
+"gemini-pro",
+"openai-api",
+"bun",
+"deno",
+"deno-deploy",
+"hono",
+"node",
+"gemini-pro-vision"
+],
+"lang": "TypeScript"
+},
+"OrionStarAI/claudecode-vertex-proxy": {
+"name": "OrionStarAI/claudecode-vertex-proxy",
+"stars": 242,
+"pushed": "2026-01-16T07:46:19Z",
+"archived": false,
+"fork": false,
+"desc": "Proxy service for Claude Code to access Claude models via GCP Vertex AI | 让 Claude Code 通过 GCP Vertex AI 访问 Claude 模型",
+"topics": [
+"anthropic",
+"claude-ai",
+"claude-code",
+"gcp",
+"vertex-ai"
+],
+"lang": "Python"
+},
+"tingxifa/claude_proxy": {
+"name": "tingxifa/claude_proxy",
+"stars": 214,
+"pushed": "2025-11-27T08:23:13Z",
+"archived": false,
+"fork": false,
+"desc": "这是一个部署在 Cloudflare Workers 上的 TypeScript 项目，它充当一个代理服务器，能够将 Claude API 格式的请求无缝转换为 OpenAI API 格式。这使得任何与 Claude API 兼容的客户端（例如官方的 @anthropic-ai/claude-code CLI）都能够与任何支持 OpenAI API 格式的服务进行通信，如 Google Gemini, Groq, Ollama 等。",
+"topics": [],
+"lang": "TypeScript"
+},
+"aptdnfapt/qwen-code-oai-proxy": {
+"name": "aptdnfapt/qwen-code-oai-proxy",
+"stars": 172,
+"pushed": "2026-04-16T12:28:20Z",
+"archived": false,
+"fork": false,
+"desc": "qwen proxy . qwen code oauth file in use for a proxy server so you can use qwen coder model any tool that uses openai api and base url .  and also the websearch api proxy",
+"topics": [
+"agent",
+"ai",
+"free",
+"llm",
+"ocr",
+"qwen3",
+"websearch",
+"qwen3-5"
+],
+"lang": "TypeScript"
+},
+"nettee/gemini-cli-proxy": {
+"name": "nettee/gemini-cli-proxy",
+"stars": 152,
+"pushed": "2026-04-04T10:34:51Z",
+"archived": false,
+"fork": false,
+"desc": "Wrap Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini Pro model through API!",
+"topics": [],
+"lang": "Python"
+},
+"BytePioneer-AI/weixin-agent-gateway": {
+"name": "BytePioneer-AI/weixin-agent-gateway",
+"stars": 76,
+"pushed": "2026-03-25T01:22:24Z",
+"archived": false,
+"fork": false,
+"desc": "一个面向微信入口的多后端 AI 网关，解耦微信接入层与后端路由层，统一接入 OpenClaw、Codex、Claude Code 等平级后端。",
+"topics": [],
+"lang": "TypeScript"
+},
+"yinxulai/claude-proxy": {
+"name": "yinxulai/claude-proxy",
+"stars": 66,
+"pushed": "2026-03-10T16:05:25Z",
+"archived": false,
+"fork": false,
+"desc": "🚀 免费开源的 Claude 到 OpenAI API 格式转换代理服务，让您能够在任何支持 OpenAI API 的应用中无缝使用 Claude 客户端工具，支持流式响应、Tool Calling 和动态路由。",
+"topics": [
+"claude",
+"claude-code",
+"openai",
+"claude-proxy",
+"proxy"
+],
+"lang": "TypeScript"
+},
+"chand1012/claude-code-mlx-proxy": {
+"name": "chand1012/claude-code-mlx-proxy",
+"stars": 51,
+"pushed": "2026-04-14T14:27:43Z",
+"archived": false,
+"fork": false,
+"desc": "Run Claude Code with Local MLX powered models",
+"topics": [
+"ai",
+"claude",
+"claude-code",
+"llm"
+],
+"lang": "Python"
+},
+"RunMintOn/OpenCode-Qwen-Proxy": {
+"name": "RunMintOn/OpenCode-Qwen-Proxy",
+"stars": 28,
+"pushed": "2026-02-21T12:33:19Z",
+"archived": false,
+"fork": false,
+"desc": "OAuth authentication plugin for OpenCode CLI – Use Qwen3.5Plus-Coder models with your qwen.ai account (2,000 requests/day free)",
+"topics": [],
+"lang": "TypeScript"
+},
+"ulab-uiuc/Router-R1": {
+"name": "ulab-uiuc/Router-R1",
+"stars": 155,
+"pushed": "2025-12-30T11:00:07Z",
+"archived": false,
+"fork": false,
+"desc": "[NeurIPS'25] Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning",
+"topics": [],
+"lang": "Python"
+},
+"ulab-uiuc/GraphRouter": {
+"name": "ulab-uiuc/GraphRouter",
+"stars": 83,
+"pushed": "2025-12-30T11:02:20Z",
+"archived": false,
+"fork": false,
+"desc": "[ICLR 2025] \"GraphRouter: A Graph-based Router for LLM Selections\", Tao Feng, Yanzhen Shen, Jiaxuan You",
+"topics": [],
+"lang": "Python"
+},
+"tatn/awesome-free-ai-apis": {
+"name": "tatn/awesome-free-ai-apis",
+"stars": 3,
+"pushed": "2026-04-18T13:36:16Z",
+"archived": false,
+"fork": false,
+"desc": "A curated list of free AI and LLM API resources with rate limits and pricing details",
+"topics": [
+"ai-api",
+"api",
+"awesome",
+"awesome-list",
+"free-api",
+"free-tier",
+"generative-ai",
+"llm",
+"machine-learning",
+"open-source"
+],
+"lang": ""
+},
+"spf0209/FreeAI-Gateway": {
+"name": "spf0209/FreeAI-Gateway",
+"stars": 34,
+"pushed": "2026-03-29T15:00:13Z",
+"archived": false,
+"fork": false,
+"desc": "OpenAI-compatible gateway for free AI web APIs (GLM, Kimi, Qwen, MiniMax, DeepSeek, Z.ai)",
+"topics": [],
+"lang": "TypeScript"
+},
+"KashifKhn/gemini-proxy": {
+"name": "KashifKhn/gemini-proxy",
+"stars": 52,
+"pushed": "2026-03-09T12:17:09Z",
+"archived": false,
+"fork": false,
+"desc": "Self-hosted OpenAI-compatible API proxy for Google Gemini — authenticated via OAuth 2.0 + PKCE, no paid API key required. Built with Bun + Hono + TypeScript.",
+"topics": [
+"ai-proxy",
+"bun",
+"gemini",
+"google-gemini",
+"hono",
+"llm",
+"oauth2",
+"openai-compatible",
+"pkce",
+"proxy"
+],
+"lang": "TypeScript"
+},
+"ihuzaifashoukat/free-ai-router": {
+"name": "ihuzaifashoukat/free-ai-router",
+"stars": 21,
+"pushed": "2026-03-28T05:46:09Z",
+"archived": false,
+"fork": false,
+"desc": "150+ free AI models across 20+ providers. Groq, Cerebras, NVIDIA and more with automatic fallback when rate limits hit.",
+"topics": [
+"ai-gateway",
+"free-api",
+"llm",
+"nodejs",
+"openai",
+"ai-router",
+"api-router",
+"chatgpt",
+"groq",
+"javascript"
+],
+"lang": "TypeScript"
+},
+"rohansx/nvidia-litellm-router": {
+"name": "rohansx/nvidia-litellm-router",
+"stars": 12,
+"pushed": "2026-03-28T19:14:35Z",
+"archived": false,
+"fork": false,
+"desc": "Free LLM router - latency-based routing across 31 NVIDIA NIM models with automatic failover.",
+"topics": [
+"deepseek",
+"free-api",
+"litellm",
+"llama",
+"llm-routing",
+"model-router",
+"nvidia",
+"nvidia-nim",
+"openai-compatible"
+],
+"lang": "Python"
+},
+"comedy1024/modelscope-auto-proxy": {
+"name": "comedy1024/modelscope-auto-proxy",
+"stars": 4,
+"pushed": "2026-04-13T09:53:50Z",
+"archived": false,
+"fork": false,
+"desc": "OpenAI-compatible proxy for ModelScope free LLMs. Auto-selects best model, failover on errors. Works with Cursor, Cline, Continue, Aider.",
+"topics": [
+"ai-coding",
+"api-proxy",
+"cline",
+"cursor",
+"deepseek",
+"failover",
+"fastapi",
+"free-llm",
+"llm",
+"modelscope"
+],
+"lang": "Python"
+},
+"iSoumyaDey/Awesome-Web-Hosting-2026": {
+"name": "iSoumyaDey/Awesome-Web-Hosting-2026",
+"stars": 334,
+"pushed": "2025-12-30T14:56:16Z",
+"archived": false,
+"fork": false,
+"desc": "The Ultimate Guide to Free Cloud Hosting. Compare 100+ Free Tier vs Paid platforms: Vercel, Netlify, Heroku, AWS, & VPS. Deploy Node.js, Python, Docker, Databases (SQL/NoSQL), & AI Models for free.",
+"topics": [
+"awesome-list",
+"cloud-computing",
+"deployment",
+"developer-tools",
+"devops",
+"docker-containers",
+"free-tier",
+"heroku-alternative",
+"netlify",
+"nodejs-hosting"
+],
+"lang": ""
+},
+"DmitryScaletta/free-database-services": {
+"name": "DmitryScaletta/free-database-services",
+"stars": 26,
+"pushed": "2025-05-28T18:04:44Z",
+"archived": false,
+"fork": false,
+"desc": "Free Database Services",
+"topics": [],
+"lang": ""
+},
+"ParisNeo/lollms_hub": {
+"name": "ParisNeo/lollms_hub",
+"stars": 649,
+"pushed": "2026-04-23T01:45:29Z",
+"archived": false,
+"fork": false,
+"desc": "A proxy server for multiple ollama instances with Key security",
+"topics": [
+"ollama",
+"proxy",
+"security",
+"rate-limiting",
+"api-gateway",
+"user-management",
+"load-balancer",
+"federation",
+"agent",
+"personal"
+],
+"lang": "Python"
+},
+"toverainc/willow-inference-server": {
+"name": "toverainc/willow-inference-server",
+"stars": 511,
+"pushed": "2026-02-12T15:41:20Z",
+"archived": false,
+"fork": false,
+"desc": "Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS",
+"topics": [
+"cuda",
+"deep-learning",
+"llama",
+"llm",
+"privacy",
+"speech-recognition",
+"speech-to-text",
+"text-to-speech",
+"vicuna",
+"webrtc"
+],
+"lang": "Python"
+},
+"TechNickAI/claude_telemetry": {
+"name": "TechNickAI/claude_telemetry",
+"stars": 31,
+"pushed": "2025-10-24T01:57:56Z",
+"archived": false,
+"fork": false,
+"desc": "OpenTelemetry wrapper for Claude Code CLI that logs tool calls, token usage, costs, and execution traces to Logfire, Sentry, Honeycomb, or Datadog. Drop-in replacement that swaps 'claude' command for 'claudia'.",
+"topics": [
+"anthropic-claude",
+"claude-code",
+"cli",
+"datadog",
+"honeycomb",
+"llm-monitoring",
+"logfire",
+"observability",
+"opentelemetry",
+"python"
+],
+"lang": "Python"
+},
+"VTSTech/ACP-Agent-Control-Panel": {
+"name": "VTSTech/ACP-Agent-Control-Panel",
+"stars": 2,
+"pushed": "2026-04-14T21:09:38Z",
+"archived": false,
+"fork": false,
+"desc": "A lightweight monitoring and observability sidecar for AI agents. Provides real-time tracking of agent activities, token usage, shell commands, and task management through a web UI and REST API.",
+"topics": [
+"acp",
+"agents",
+"ai",
+"workflows"
+],
+"lang": "Python"
+},
+"nyktora/noctrace": {
+"name": "nyktora/noctrace",
+"stars": 5,
+"pushed": "2026-04-19T03:56:08Z",
+"archived": false,
+"fork": false,
+"desc": "Chrome DevTools Network-tab-style waterfall visualizer for Claude Code agent workflows. Zero config, zero cloud.",
+"topics": [
+"ai-agents",
+"anthropic",
+"claude",
+"claude-code",
+"devtools",
+"observability",
+"react",
+"timeline",
+"typescript",
+"waterfall"
+],
+"lang": "TypeScript"
+},
+"google/litmus": {
+"name": "google/litmus",
+"stars": 52,
+"pushed": "2026-03-29T16:13:21Z",
+"archived": false,
+"fork": false,
+"desc": "Litmus is a comprehensive LLM testing and evaluation tool designed for GenAI Application Development. It provides a robust platform with a user-friendly UI for streamlining the process of building and assessing the performance of your LLM-powered applications. ",
+"topics": [
+"api",
+"apitesting",
+"cicd",
+"devops",
+"llm",
+"llm-evaluation",
+"llm-security",
+"llm-training",
+"llmops",
+"testing"
+],
+"lang": "Vue"
+},
+"paradime-io/dbt-llm-evals": {
+"name": "paradime-io/dbt-llm-evals",
+"stars": 35,
+"pushed": "2026-02-10T21:32:55Z",
+"archived": false,
+"fork": false,
+"desc": "The warehouse-native LLM evaluation package for dbt™ - monitor AI quality without data egress",
+"topics": [
+"ai",
+"bigquery",
+"databricks",
+"dbt",
+"dbt-packages",
+"llm-eval",
+"snowflake",
+"anthropic",
+"gemini",
+"llm"
+],
+"lang": "Python"
+},
+"CodeEmperor7/rag-eval": {
+"dead": true
+},
+"HiThink-Research/BizFinBench": {
+"name": "HiThink-Research/BizFinBench",
+"stars": 170,
+"pushed": "2026-05-01T01:36:34Z",
+"archived": false,
+"fork": false,
+"desc": "A Business-Driven Real-World Financial Benchmark for Evaluating LLMs",
+"topics": [
+"finance",
+"llm",
+"benchmark",
+"llm-benchmarking",
+"llm-evaluation"
+],
+"lang": "Python"
+},
+"HiThink-Research/MME-Finance": {
+"name": "HiThink-Research/MME-Finance",
+"stars": 44,
+"pushed": "2026-01-08T09:48:30Z",
+"archived": false,
+"fork": false,
+"desc": "[MM 2025] A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning",
+"topics": [
+"finance",
+"llm",
+"llm-benchmarking",
+"llm-evaluation",
+"mmllm",
+"multimodal"
+],
+"lang": "Python"
+},
+"whitecircle/circle-guard-bench": {
+"name": "whitecircle/circle-guard-bench",
+"stars": 81,
+"pushed": "2026-03-07T12:39:03Z",
+"archived": false,
+"fork": false,
+"desc": "First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (guardrails and safeguards)",
+"topics": [
+"ai",
+"benchmark",
+"large-language-model",
+"large-language-models",
+"llm",
+"llm-eval",
+"llm-evaluation",
+"guardrails",
+"safeguard",
+"benchmarking"
+],
+"lang": "Python"
+},
+"OpenMOSS/ABC-Bench": {
+"name": "OpenMOSS/ABC-Bench",
+"stars": 37,
+"pushed": "2026-01-20T10:22:03Z",
+"archived": false,
+"fork": false,
+"desc": "A benchmark for testing whether coding agents can build, deploy, and verify backend services in real repositories",
+"topics": [
+"backend",
+"benchmark",
+"coding-agents",
+"llm-evaluation",
+"software-engineering"
+],
+"lang": ""
+},
+"thedataquarry/structured-outputs": {
+"name": "thedataquarry/structured-outputs",
+"stars": 29,
+"pushed": "2025-12-23T13:58:42Z",
+"archived": false,
+"fork": false,
+"desc": "Structured output benchmarks comparing DSPy and BAML with different LLMs",
+"topics": [
+"baml",
+"dspy",
+"llm",
+"information-extraction",
+"structured-output",
+"llm-evaluation",
+"structured-evaluation",
+"llm-eval"
+],
+"lang": "Python"
+},
+"cyberful/cyberful-public": {
+"dead": true
+},
+"Nexus-Router/nexus": {
+"name": "Nexus-Router/nexus",
+"stars": 437,
+"pushed": "2026-03-16T20:50:37Z",
+"archived": false,
+"fork": false,
+"desc": "Govern & Secure your AI",
+"topics": [
+"ai",
+"api",
+"model-context-protocol",
+"mcp",
+"large-language-models",
+"llmops",
+"llms"
+],
+"lang": "Rust"
+},
+"vinkius-labs/crewai-mcp-lead-gen-agents": {
+"name": "vinkius-labs/crewai-mcp-lead-gen-agents",
+"stars": 5,
+"pushed": "2026-04-14T18:16:00Z",
+"archived": false,
+"fork": false,
+"desc": "AI agent crew that generates qualified B2B lead lists with enriched contacts and personalized outreach using CrewAI + 5 MCP servers + Google Gemini.",
+"topics": [
+"agentic-ai",
+"ai-agents",
+"apollo",
+"b2b",
+"crewai",
+"crm",
+"email-outreach",
+"google-gemini",
+"lead-generation",
+"linkedin"
+],
+"lang": "Python"
+},
+"vercel-labs/ai-sdk-starter-xai": {
+"name": "vercel-labs/ai-sdk-starter-xai",
+"stars": 38,
+"pushed": "2026-04-19T20:55:43Z",
+"archived": false,
+"fork": false,
+"desc": "",
+"topics": [],
+"lang": "TypeScript"
+},
+"upstash/rag-chat": {
+"name": "upstash/rag-chat",
+"stars": 256,
+"pushed": "2025-12-15T08:00:31Z",
+"archived": false,
+"fork": false,
+"desc": "Prototype SDK for RAG development.",
+"topics": [
+"ai",
+"llm",
+"upstash",
+"upstash-sdk",
+"vector",
+"rag",
+"rag-chatbot"
+],
+"lang": "TypeScript"
+},
+"markredito/selfstudy-roadmap-ml-ai": {
+"name": "markredito/selfstudy-roadmap-ml-ai",
+"stars": 259,
+"pushed": "2023-10-25T00:10:24Z",
+"archived": false,
+"fork": false,
+"desc": "A beginner's roadmap to self studying Machine Learning and Artificial Intelligence",
+"topics": [
+"artificial-intelligence",
+"generative-ai",
+"machine-learning",
+"neural-networks",
+"numpy",
+"pandas",
+"python",
+"pytorch",
+"tensorflow"
+],
+"lang": ""
+},
+"ksopyla/pytorch-course": {
+"name": "ksopyla/pytorch-course",
+"stars": 10,
+"pushed": "2025-10-26T17:47:46Z",
+"archived": false,
+"fork": false,
+"desc": "Join Professor Torchenstein on an electrifying quest to bend PyTorch to your will. Mwahahaha",
+"topics": [
+"course",
+"pytorch",
+"pytorch-tutorial"
+],
+"lang": "Python"
+},
+"ProjectProRepo/Agentic-AI": {
+"name": "ProjectProRepo/Agentic-AI",
+"stars": 208,
+"pushed": "2025-10-29T09:41:02Z",
+"archived": false,
+"fork": false,
+"desc": "This repository provides comprehensive resources for learning Agentic AI, including blogs, tutorials, and projects that will help you master generative AI and develop industry-grade applications.",
+"topics": [],
+"lang": ""
+},
+"FareedKhan-dev/langgraph-101": {
+"name": "FareedKhan-dev/langgraph-101",
+"stars": 9,
+"pushed": "2025-05-27T16:29:35Z",
+"archived": false,
+"fork": true,
+"desc": "Learn about the fundamentals of LangGraph through a series of notebooks",
+"topics": [],
+"lang": "Jupyter Notebook"
+},
+"MAlshurbaji/LLM-Playground-From-Scratch": {
+"name": "MAlshurbaji/LLM-Playground-From-Scratch",
+"stars": 1,
+"pushed": "2025-12-16T16:20:50Z",
+"archived": false,
+"fork": false,
+"desc": "A hands-on educational repository demonstrating how to build a miniature LLM from scratch using real-world technical reports as training data.",
+"topics": [
+"large-language-models",
+"llms"
+],
+"lang": "Jupyter Notebook"
+},
+"bshall/knn-vc": {
+"name": "bshall/knn-vc",
+"stars": 527,
+"pushed": "2026-01-16T18:16:04Z",
+"archived": false,
+"fork": false,
+"desc": "Voice Conversion With Just Nearest Neighbors",
+"topics": [
+"any-to-any",
+"knn",
+"pytorch",
+"self-supervised-learning",
+"speech",
+"speech-synthesis",
+"voice-conversion"
+],
+"lang": "Python"
+},
+"RVC-Project/Retrieval-based-Voice-Conversion": {
+"name": "RVC-Project/Retrieval-based-Voice-Conversion",
+"stars": 624,
+"pushed": "2025-11-05T07:01:32Z",
+"archived": false,
+"fork": false,
+"desc": "in preparation...",
+"topics": [],
+"lang": "Python"
+},
+"ltdrdata/ComfyUI-Inspire-Pack": {
+"name": "ltdrdata/ComfyUI-Inspire-Pack",
+"stars": 825,
+"pushed": "2025-11-17T17:03:31Z",
+"archived": false,
+"fork": false,
+"desc": "This repository offers various extension nodes for ComfyUI. Nodes here have different characteristics compared to those in the ComfyUI Impact Pack. The Impact Pack has become too large now...",
+"topics": [],
+"lang": "Python"
+},
+"SkyworkAI/SkyReels-V3": {
+"name": "SkyworkAI/SkyReels-V3",
+"stars": 593,
+"pushed": "2026-01-30T04:25:13Z",
+"archived": false,
+"fork": false,
+"desc": "SkyReels V3: Multimodal Video Generation Model",
+"topics": [],
+"lang": "Python"
+},
+"showlab/ShowUI-Aloha": {
+"name": "showlab/ShowUI-Aloha",
+"stars": 329,
+"pushed": "2026-01-20T09:41:09Z",
+"archived": false,
+"fork": false,
+"desc": "Human-taught Computer-use Agent Designed for Real Windows and MacOS Desktops.",
+"topics": [],
+"lang": "Python"
+},
+"mlfoundations/Gelato": {
+"name": "mlfoundations/Gelato",
+"stars": 46,
+"pushed": "2025-12-22T15:06:59Z",
+"archived": false,
+"fork": false,
+"desc": "🍨 Gelato — From Data Curation to Reinforcement Learning: Building a Strong Grounding Model for Computer-Use Agents",
+"topics": [],
+"lang": "Python"
+},
+"GUI-Libra/GUI-Libra": {
+"name": "GUI-Libra/GUI-Libra",
+"stars": 75,
+"pushed": "2026-03-29T07:27:49Z",
+"archived": false,
+"fork": false,
+"desc": "Official code for NeurIPS 2026 paper \"GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL\"",
+"topics": [],
+"lang": "Python"
+},
+"promplate/partial-json-parser": {
+"name": "promplate/partial-json-parser",
+"stars": 141,
+"pushed": "2026-04-22T15:29:41Z",
+"archived": false,
+"fork": false,
+"desc": "Parse partial JSON generated by LLM",
+"topics": [
+"json",
+"llm",
+"parser",
+"streaming",
+"agent",
+"prompt-engineering",
+"structured-data"
+],
+"lang": "Python"
+},
+"invariantlabs-ai/invariant": {
+"name": "invariantlabs-ai/invariant",
+"stars": 476,
+"pushed": "2026-01-12T12:50:28Z",
+"archived": false,
+"fork": false,
+"desc": "Guardrails for secure and robust agent development",
+"topics": [
+"agents",
+"ai",
+"security"
+],
+"lang": "Python"
+},
+"baoguangsheng/fast-detect-gpt": {
+"name": "baoguangsheng/fast-detect-gpt",
+"stars": 439,
+"pushed": "2026-02-07T07:18:26Z",
+"archived": false,
+"fork": false,
+"desc": "Code base for ICLR 2024 \"Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature\".",
+"topics": [],
+"lang": "Python"
+},
+"agencyenterprise/PromptInject": {
+"name": "agencyenterprise/PromptInject",
+"stars": 528,
+"pushed": "2026-04-27T18:55:36Z",
+"archived": false,
+"fork": false,
+"desc": "PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. 🏆 Best Paper Awards @ NeurIPS ML Safety Workshop 2022",
+"topics": [
+"ai-safety",
+"language-models",
+"ml-safety",
+"agi",
+"ai-alignment",
+"agi-alignment",
+"adversarial-attacks",
+"gpt-3",
+"large-language-models",
+"machine-learning"
+],
+"lang": "Python"
+},
+"Genentech/CLADD": {
+"name": "Genentech/CLADD",
+"stars": 30,
+"pushed": "2025-11-13T20:05:35Z",
+"archived": false,
+"fork": false,
+"desc": "The official source code for \"RAG-Enhanced Collaborative LLM Agents for Drug Discovery\"",
+"topics": [],
+"lang": "Python"
+},
+"KaiChenNJ/MDTeamGPT": {
+"name": "KaiChenNJ/MDTeamGPT",
+"stars": 40,
+"pushed": "2025-12-12T10:45:52Z",
+"archived": false,
+"fork": false,
+"desc": "",
+"topics": [],
+"lang": "Python"
+},
+"monk1337/Bio-Autoresearch": {
+"name": "monk1337/Bio-Autoresearch",
+"stars": 3,
+"pushed": "2026-04-04T06:23:27Z",
+"archived": false,
+"fork": false,
+"desc": "Bio-Autoresearch: Karpathy-Style Autoresearch for Rare Disease Drug Discovery",
+"topics": [
+"auto-research",
+"autoresearch",
+"karpathy-inspired"
+],
+"lang": "Python"
+},
+"tokisaka23/RxLM-Med-Agent": {
+"name": "tokisaka23/RxLM-Med-Agent",
+"stars": 8,
+"pushed": "2026-04-01T06:54:45Z",
+"archived": false,
+"fork": false,
+"desc": "RxLM-Med: A multimodal clinical AI agent featuring System 2 reasoning, cross-lingual hierarchical RAG (BM25 + FAISS + RRF), deterministic medical calculation engine, and Traffic Light Protocol (TLP) safety alignment — built on Qwen-VL with LoRA fine-tuning, SFT/DPO alignment, and INT4 quantization for real-world lab report interpretation.",
+"topics": [
+"agentic-workflow",
+"langsmith",
+"quantization-algorithms",
+"rag-pipeline",
+"system2-reasoning",
+"deepspeed",
+"qwen2-5-vl"
+],
+"lang": "Python"
+},
+"Wangyixinxin/MMedAgent": {
+"name": "Wangyixinxin/MMedAgent",
+"stars": 279,
+"pushed": "2026-03-18T07:16:08Z",
+"archived": false,
+"fork": false,
+"desc": "Learning to Use Medical Tools with Multi-modal Agent",
+"topics": [],
+"lang": "Python"
+},
+"wzn99/DrugPilot": {
+"name": "wzn99/DrugPilot",
+"stars": 25,
+"pushed": "2026-01-11T14:28:28Z",
+"archived": false,
+"fork": false,
+"desc": "A LLM-based Agent Framework for Drug Discovery",
+"topics": [],
+"lang": "Jupyter Notebook"
+},
+"Future-House/robin": {
+"name": "Future-House/robin",
+"stars": 750,
+"pushed": "2026-04-21T23:58:38Z",
+"archived": false,
+"fork": false,
+"desc": "Robin: A multi-agent system for automating scientific discovery",
+"topics": [],
+"lang": "Python"
+},
+"UniPat-AI/UniScientist": {
+"name": "UniPat-AI/UniScientist",
+"stars": 175,
+"pushed": "2026-03-14T15:23:53Z",
+"archived": false,
+"fork": false,
+"desc": "UniScientist is designed to advance universal scientific research intelligence through a unified paradigm",
+"topics": [],
+"lang": "Python"
+},
+"tarun7r/deep-research-agent": {
+"name": "tarun7r/deep-research-agent",
+"stars": 190,
+"pushed": "2026-04-04T17:51:43Z",
+"archived": false,
+"fork": false,
+"desc": "Multi-agent autonomous research system using LangGraph and LangChain. Generates citation-backed reports with credibility scoring and web search",
+"topics": [
+"agentic-ai",
+"deepresearch",
+"langchain",
+"langgraph",
+"ai-agents",
+"ollama-api",
+"gemini"
+],
+"lang": "Python"
+},
+"adamkarvonen/SAEBench": {
+"name": "adamkarvonen/SAEBench",
+"stars": 186,
+"pushed": "2026-05-01T22:01:31Z",
+"archived": false,
+"fork": false,
+"desc": "",
+"topics": [],
+"lang": "Python"
+},
+"stanfordnlp/pyvene": {
+"name": "stanfordnlp/pyvene",
+"stars": 914,
+"pushed": "2026-03-06T05:39:27Z",
+"archived": false,
+"fork": false,
+"desc": "Stanford NLP Python library for understanding and improving PyTorch models via interventions",
+"topics": [
+"interpretability",
+"mechanistic-interpretability",
+"intervention",
+"activation-intervention",
+"activation-patching"
+],
+"lang": "Python"
+},
+"TransformerLensOrg/CircuitsVis": {
+"name": "TransformerLensOrg/CircuitsVis",
+"stars": 373,
+"pushed": "2026-04-30T09:16:53Z",
+"archived": false,
+"fork": false,
+"desc": "Mechanistic Interpretability Visualizations using React",
+"topics": [],
+"lang": "Jupyter Notebook"
+},
+"levashi/reprobe": {
+"name": "levashi/reprobe",
+"stars": 2,
+"pushed": "2026-04-01T15:20:15Z",
+"archived": false,
+"fork": false,
+"desc": "Phase-aware LLM activation steering and linear probing. A memory-efficient, practical implementation of Representation Engineering (RepE) for safety research.",
+"topics": [
+"activation-steering",
+"ai-safety",
+"linear-probes",
+"llm-safety",
+"mechanistic-interpretability",
+"pytorch",
+"representation-engineering",
+"transformers"
+],
+"lang": "Python"
+},
+"Agent-Tools/awesome-autonomous-web": {
+"name": "Agent-Tools/awesome-autonomous-web",
+"stars": 420,
+"pushed": "2026-03-15T14:30:16Z",
+"archived": false,
+"fork": false,
+"desc": "",
+"topics": [],
+"lang": ""
+},
+"amartinson193/The-Ultimate-List-of-Free-SQL-Resources": {
+"name": "amartinson193/The-Ultimate-List-of-Free-SQL-Resources",
+"stars": 178,
+"pushed": "2025-03-09T20:28:52Z",
+"archived": false,
+"fork": false,
+"desc": "Contains a lot of useful free resources for learning SQL",
+"topics": [],
+"lang": ""
+}
+}

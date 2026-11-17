@@ -1,0 +1,431 @@
+[
+{
+"repo": "microsoft/TRELLIS.2",
+"description": "Native and Compact Structured Latents for 3D Generation",
+"topics": [],
+"language": "Python",
+"stars": 12603
+},
+{
+"repo": "keephq/keep",
+"description": "The open-source AIOps and alert management platform",
+"topics": [
+"alarm",
+"alarms",
+"alerting",
+"alerts",
+"monitoring",
+"monitoring-tool",
+"python",
+"python3",
+"aiops",
+"workflow-automation"
+],
+"language": "Python",
+"stars": 12471
+},
+{
+"repo": "DayBreak-u/chineseocr_lite",
+"description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M ",
+"topics": [
+"ncnn",
+"ocr",
+"pytorch"
+],
+"language": "C++",
+"stars": 12355
+},
+{
+"repo": "OpenMOSS/MOSS",
+"description": "An open-source, tool-augmented conversational language model from Fudan University",
+"topics": [
+"chatgpt",
+"deep-learning",
+"dialogue-systems",
+"large-language-models",
+"natural-language-processing",
+"text-generation"
+],
+"language": "Python",
+"stars": 12328
+},
+{
+"repo": "tw93/Kami",
+"description": "👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.",
+"topics": [
+"agent-skills",
+"ai-agents",
+"claude-code",
+"codex",
+"document-design",
+"pdf",
+"pptx",
+"typesetting"
+],
+"language": "HTML",
+"stars": 12208
+},
+{
+"repo": "calesthio/Crucix",
+"description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+"topics": [
+"ai",
+"intelligence",
+"osint"
+],
+"language": "JavaScript",
+"stars": 12190
+},
+{
+"repo": "xlite-dev/LeetCUDA",
+"description": "An Open-source book with Modern CUDA learning Notes for Beginners - BF16/FP8/FP4, HGEMM, CuTe, Flash-Attention, etc.",
+"topics": [
+"cuda",
+"hgemm",
+"cuda-kernels",
+"cuda-toolkit",
+"flash-attention",
+"cuda-demo",
+"learn-cuda",
+"leet-cuda",
+"cuda-kernel",
+"cuda-library"
+],
+"language": "Cuda",
+"stars": 12147
+},
+{
+"repo": "kangarooking/cangjie-skill",
+"description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）",
+"topics": [
+"agent-workflows",
+"ai-skills",
+"automation",
+"book-to-skill",
+"knowledge-distillation",
+"prompt-engineering",
+"skill-generator",
+"templates"
+],
+"language": "Python",
+"stars": 11995
+},
+{
+"repo": "yizhiyanhua-ai/fireworks-tech-graph",
+"description": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
+"topics": [
+"agent-workflows",
+"ai",
+"claude-code",
+"developer-tools",
+"diagrams",
+"svg"
+],
+"language": "Python",
+"stars": 11917
+},
+{
+"repo": "zaidmukaddam/scira",
+"description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!",
+"topics": [
+"ai-search-engine",
+"scira",
+"search-engine",
+"minimalistic-ai-search-engine",
+"scira-ai"
+],
+"language": "TypeScript",
+"stars": 11910
+},
+{
+"repo": "cocoindex-io/cocoindex",
+"description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+"topics": [
+"ai",
+"change-data-capture",
+"data-indexing",
+"etl",
+"indexing",
+"python",
+"rag",
+"real-time",
+"rust",
+"semantic-search"
+],
+"language": "Rust",
+"stars": 11811
+},
+{
+"repo": "EmbraceAGI/awesome-chatgpt-zh",
+"description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
+"topics": [
+"chatgpt",
+"gpt-4",
+"chat-gpt",
+"chatgpt3",
+"chatgpt35-turbo",
+"awesome-list",
+"awesome",
+"agi",
+"ai",
+"chatglm"
+],
+"language": "Python",
+"stars": 11797
+},
+{
+"repo": "ludwig-ai/ludwig",
+"description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+"topics": [
+"deep-learning",
+"deeplearning",
+"deep",
+"learning",
+"machine-learning",
+"machinelearning",
+"natural-language-processing",
+"natural-language",
+"computer-vision",
+"data-centric"
+],
+"language": "Python",
+"stars": 11793
+},
+{
+"repo": "NielsRogge/Transformers-Tutorials",
+"description": "This repository contains demos I made with the Transformers library by HuggingFace.",
+"topics": [
+"transformers",
+"pytorch",
+"bert",
+"vision-transformer",
+"layoutlm",
+"gpt-2"
+],
+"language": "Jupyter Notebook",
+"stars": 11779
+},
+{
+"repo": "github/copilot.vim",
+"description": "Neovim plugin for GitHub Copilot",
+"topics": [],
+"language": "Vim Script",
+"stars": 11706
+},
+{
+"repo": "linyqh/NarratoAI",
+"description": "利用 AI 大模型，一键解说并剪辑视频",
+"topics": [
+"aiagent",
+"aiops",
+"llm",
+"gemini-api",
+"moviepy",
+"python"
+],
+"language": "Python",
+"stars": 11681
+},
+{
+"repo": "EKKOLearnAI/ekko-studio",
+"description": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
+"topics": [
+"ai-agent",
+"chat-ui",
+"dashboard",
+"hermes-agent",
+"llm",
+"multi-platform",
+"typescript",
+"vue3",
+"hermes",
+"agent"
+],
+"language": "TypeScript",
+"stars": 11644
+},
+{
+"repo": "presenton/presenton",
+"description": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
+"topics": [
+"ai-agent",
+"api",
+"powerpoint-generation",
+"presentation",
+"ai-presentation",
+"gamma",
+"powerpoint-ai",
+"presentation-agent",
+"powerpoint-agent"
+],
+"language": "TypeScript",
+"stars": 11626
+},
+{
+"repo": "adongwanai/AgentGuide",
+"description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+"topics": [
+"ai-agent",
+"crewai",
+"interview",
+"job-hunting",
+"langchain",
+"llm",
+"multi-agent",
+"rag",
+"tutorial",
+"agenticrag"
+],
+"language": "MDX",
+"stars": 11546
+},
+{
+"repo": "wangrongding/wechat-bot",
+"description": "🤖 Multi-platform IM AI Agent for Telegram, WhatsApp, Lark, and WeChat. Connects ChatGPT / Claude / Kimi / DeepSeek / Ollama / Pi for auto-replies, community analysis, contact management, and inactive-friend detection.",
+"topics": [
+"wechat",
+"wechatbot",
+"chatgpt",
+"openai",
+"wechaty"
+],
+"language": "JavaScript",
+"stars": 11516
+},
+{
+"repo": "simonlin1212/a-stock-data",
+"description": "A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings, options, macro, futures, events, convertibles | 15 layers·87 endpoints·34 sources",
+"topics": [
+"a-share",
+"ai-agent",
+"ai-skill",
+"china-stocks",
+"claude-code",
+"financial-data",
+"fintech",
+"investment-research",
+"llm-tools",
+"market-data"
+],
+"language": "Python",
+"stars": 11395
+},
+{
+"repo": "HKUSTDial/Supervisor-Skills",
+"description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。",
+"topics": [
+"ai-research",
+"ai-researcher",
+"awesome",
+"awesome-list",
+"phd-research",
+"research-skills",
+"skills",
+"vibe-research"
+],
+"language": "Python",
+"stars": 11391
+},
+{
+"repo": "openai/codex-security",
+"description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+"topics": [
+"ai-security",
+"application-security",
+"cli",
+"code-scanning",
+"codex",
+"codex-security",
+"cybersecurity",
+"devsecops",
+"nodejs",
+"npm"
+],
+"language": "TypeScript",
+"stars": 11284
+},
+{
+"repo": "huggingface/skills",
+"description": "Give your agents the power of the Hugging Face ecosystem",
+"topics": [],
+"language": "Python",
+"stars": 11252
+},
+{
+"repo": "blevesearch/bleve",
+"description": "A modern text/numeric/geo-spatial/vector indexing library for go",
+"topics": [],
+"language": "Go",
+"stars": 11249
+},
+{
+"repo": "PointCloudLibrary/pcl",
+"description": "Point Cloud Library (PCL)",
+"topics": [
+"pcl",
+"c-plus-plus",
+"cpp",
+"pointcloud",
+"computer-vision",
+"point-cloud"
+],
+"language": "C++",
+"stars": 11204
+},
+{
+"repo": "rushter/MLAlgorithms",
+"description": "Minimal and clean examples of machine learning algorithms implementations",
+"topics": [
+"machine-learning",
+"deep-learning",
+"neural-networks",
+"machine-learning-algorithms",
+"python"
+],
+"language": "Python",
+"stars": 11182
+},
+{
+"repo": "blinkospace/blinko",
+"description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+"topics": [
+"markdown",
+"memos",
+"nextjs",
+"notebook",
+"openai",
+"self-hosted",
+"postgres",
+"react"
+],
+"language": "TypeScript",
+"stars": 11149
+},
+{
+"repo": "open-gsd/gsd-core",
+"description": "Git. Ship. Done - Core",
+"topics": [
+"claude-code",
+"context-engineering",
+"meta-prompting",
+"spec-driven-development"
+],
+"language": "JavaScript",
+"stars": 11141
+},
+{
+"repo": "xinnan-tech/xiaozhi-esp32-server",
+"description": "本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.",
+"topics": [
+"dify",
+"esp32",
+"xiaozhi-esp32",
+"mcp-server",
+"xiaozhi",
+"xiaozhi-ai",
+"xiaozhi-server"
+],
+"language": "JavaScript",
+"stars": 11125
+}
+]

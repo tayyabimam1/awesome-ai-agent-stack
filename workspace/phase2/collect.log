@@ -1,0 +1,223 @@
+listed 3207, removed by audit 114
+  [1/99] topic:ai-agents -> 662  (unique so far 662)
+  [2/99] topic:ai-agent -> 285  (unique so far 904)
+  [3/99] topic:agents -> 345  (unique so far 1151)
+  [4/99] topic:agentic-ai -> 255  (unique so far 1268)
+  [5/99] topic:autonomous-agents -> 63  (unique so far 1281)
+  [6/99] topic:multi-agent -> 120  (unique so far 1312)
+  [7/99] topic:multi-agent-systems -> 56  (unique so far 1323)
+  [8/99] topic:agent-framework -> 63  (unique so far 1335)
+  [9/99] topic:llm -> 1147  (unique so far 2055)
+  [10/99] topic:llms -> 161  (unique so far 2121)
+  [11/99] topic:large-language-models -> 163  (unique so far 2173)
+  [12/99] topic:llm-agent -> 41  (unique so far 2179)
+  [13/99] topic:llm-agents -> 41  (unique so far 2185)
+  [14/99] topic:llm-inference -> 56  (unique so far 2202)
+  [15/99] topic:llm-serving -> 17  (unique so far 2204)
+  [16/99] topic:llmops -> 62  (unique so far 2215)
+  [17/99] topic:llm-framework -> 11  (unique so far 2215)
+  [18/99] topic:llm-tools -> 27  (unique so far 2224)
+  [19/99] topic:mcp -> 675  (unique so far 2488)
+  [20/99] topic:mcp-server -> 235  (unique so far 2519)
+  [21/99] topic:mcp-servers -> 23  (unique so far 2519)
+  [22/99] topic:model-context-protocol -> 107  (unique so far 2522)
+  [23/99] topic:mcp-client -> 41  (unique so far 2523)
+  [24/99] topic:claude -> 411  (unique so far 2660)
+  [25/99] topic:claude-code -> 641  (unique so far 2811)
+  [26/99] topic:claude-ai -> 41  (unique so far 2814)
+  [27/99] topic:anthropic -> 190  (unique so far 2824)
+  [28/99] topic:openai -> 417  (unique so far 2954)
+  [29/99] topic:codex -> 406  (unique so far 2983)
+  [30/99] topic:gemini -> 227  (unique so far 3020)
+  [31/99] topic:gpt -> 156  (unique so far 3047)
+  [32/99] topic:chatgpt -> 325  (unique so far 3120)
+  [33/99] topic:ollama -> 118  (unique so far 3137)
+  [34/99] topic:local-llm -> 41  (unique so far 3142)
+  [35/99] topic:llama -> 109  (unique so far 3155)
+  [36/99] topic:deepseek -> 166  (unique so far 3171)
+  [37/99] topic:qwen -> 72  (unique so far 3179)
+  [38/99] topic:rag -> 277  (unique so far 3221)
+  [39/99] topic:retrieval-augmented-generation -> 50  (unique so far 3223)
+  [40/99] topic:vector-database -> 69  (unique so far 3247)
+  [41/99] topic:embeddings -> 54  (unique so far 3262)
+  [42/99] topic:semantic-search -> 63  (unique so far 3269)
+  [43/99] topic:knowledge-graph -> 82  (unique so far 3293)
+  [44/99] topic:memory -> 94  (unique so far 3329)
+  [45/99] topic:ai-memory -> 24  (unique so far 3330)
+  [46/99] topic:langchain -> 106  (unique so far 3337)
+  [47/99] topic:llamaindex -> 9  (unique so far 3337)
+  [48/99] topic:langgraph -> 42  (unique so far 3338)
+  [49/99] topic:prompt-engineering -> 134  (unique so far 3350)
+  [50/99] topic:context-engineering -> 54  (unique so far 3355)
+  [51/99] topic:ai-coding -> 77  (unique so far 3361)
+  [52/99] topic:coding-agent -> 78  (unique so far 3362)
+  [53/99] topic:code-generation -> 52  (unique so far 3392)
+  [54/99] topic:copilot -> 78  (unique so far 3403)
+  [55/99] topic:ai-assistant -> 60  (unique so far 3409)
+  [56/99] topic:chatbot -> 162  (unique so far 3447)
+  [57/99] topic:generative-ai -> 171  (unique so far 3475)
+  [58/99] topic:genai -> 62  (unique so far 3479)
+  [59/99] topic:ai-tools -> 100  (unique so far 3494)
+  [60/99] topic:text-to-speech -> 83  (unique so far 3546)
+  [61/99] topic:speech-recognition -> 70  (unique so far 3587)
+  [62/99] topic:speech-to-text -> 81  (unique so far 3604)
+  [63/99] topic:voice-assistant -> 19  (unique so far 3611)
+  [64/99] topic:tts -> 101  (unique so far 3634)
+  [65/99] topic:asr -> 49  (unique so far 3638)
+  [66/99] topic:computer-vision -> 200  (unique so far 3803)
+  [67/99] topic:vision-language-model -> 22  (unique so far 3806)
+  [68/99] topic:multimodal -> 82  (unique so far 3820)
+  [69/99] topic:stable-diffusion -> 68  (unique so far 3859)
+  [70/99] topic:diffusion-models -> 55  (unique so far 3893)
+  [71/99] topic:image-generation -> 61  (unique so far 3904)
+  [72/99] topic:video-generation -> 74  (unique so far 3925)
+  [73/99] topic:comfyui -> 37  (unique so far 3934)
+  [74/99] topic:ai-art -> 11  (unique so far 3934)
+  [75/99] topic:browser-automation -> 58  (unique so far 3953)
+  [76/99] topic:web-agent -> 3  (unique so far 3953)
+  [77/99] topic:computer-use -> 37  (unique so far 3960)
+  [78/99] topic:gui-agent -> 9  (unique so far 3960)
+  [79/99] topic:ai-browser -> 1  (unique so far 3960)
+  [80/99] topic:web-scraping-ai -> 0  (unique so far 3960)
+  [81/99] topic:document-parsing -> 10  (unique so far 3964)
+  [82/99] topic:ocr -> 110  (unique so far 4029)
+  [83/99] topic:pdf-parser -> 13  (unique so far 4034)
+  [84/99] topic:fine-tuning -> 38  (unique so far 4039)
+  [85/99] topic:lora -> 44  (unique so far 4059)
+  [86/99] topic:reinforcement-learning-from-human-feedback -> 2  (unique so far 4059)
+  [87/99] topic:inference -> 72  (unique so far 4078)
+  [88/99] topic:quantization -> 36  (unique so far 4089)
+  [89/99] topic:mlops -> 77  (unique so far 4114)
+  [90/99] topic:ai-safety -> 10  (unique so far 4116)
+  [91/99] topic:guardrails -> 15  (unique so far 4119)
+  [92/99] topic:llm-evaluation -> 28  (unique so far 4121)
+  [93/99] topic:evaluation -> 45  (unique so far 4133)
+  [94/99] topic:observability -> 122  (unique so far 4213)
+  [95/99] topic:ai-workflow -> 9  (unique so far 4213)
+  [96/99] topic:workflow-automation -> 59  (unique so far 4228)
+  [97/99] topic:no-code-ai -> 1  (unique so far 4228)
+  [98/99] topic:ai-search -> 14  (unique so far 4230)
+  [99/99] topic:deep-research -> 19  (unique so far 4230)
+  keyword "mcp server" -> 207  (unique 4283)
+  keyword "ai agent" -> 613  (unique 4442)
+  keyword "llm" -> 732  (unique 4648)
+  keyword "agentic" -> 2057  (unique 5177)
+  keyword "claude code" -> 546  (unique 5297)
+  keyword "rag" -> 147  (unique 5308)
+  keyword "coding agent" -> 253  (unique 5310)
+  list punkpeye/awesome-mcp-servers -> 0 links
+  list wong2/awesome-mcp-servers -> 487 links
+  list appcypher/awesome-mcp-servers -> 177 links
+  list e2b-dev/awesome-ai-agents -> 119 links
+  list kyrolabs/awesome-agents -> 189 links
+  list Shubhamsaboo/awesome-llm-apps -> 3 links
+  list hesreallyhim/awesome-claude-code -> 236 links
+  list steven2358/awesome-generative-ai -> 109 links
+  list Hannibal046/Awesome-LLM -> 150 links
+  list tensorchord/Awesome-LLMOps -> 437 links
+  list kyrolabs/awesome-langchain -> 203 links
+  list jim-schwoebel/awesome_ai_agents -> 1493 links
+  list filipecalegario/awesome-vibe-coding -> 50 links
+  list ai-for-developers/awesome-ai-coding-tools -> 226 links
+  list rafska/awesome-local-llm -> 196 links
+  list VoltAgent/awesome-agent-skills -> 275 links
+  list travisvn/awesome-claude-skills -> 19 links
+  list ComposioHQ/awesome-claude-skills -> 37 links
+  list punkpeye/awesome-mcp-clients -> 80 links
+  list yzfly/Awesome-AGI-Agents -> 67 links
+  list mahseema/awesome-ai-tools -> 52 links
+  list ikaijua/Awesome-AITools -> 156 links
+  list philfung/awesome-computer-use -> 16 links
+  list Agent-Tools/awesome-autonomous-web -> 29 links
+  list ottosulin/awesome-ai-security -> 209 links
+  firecrawl https://mcp.so/explore -> 1 links
+  firecrawl https://glama.ai/mcp/servers -> 0 links
+  firecrawl https://smithery.ai/ -> 2 links
+  firecrawl https://www.pulsemcp.com/servers -> 0 links
+  firecrawl https://trendshift.io/topics/ai-agent -> 4 links
+  firecrawl https://trendshift.io/topics/ai-coding -> 4 links
+  firecrawl https://trendshift.io/topics/local-llm -> 5 links
+  firecrawl https://huggingface.co/spaces -> 0 links
+unique 8724, not yet listed 7028, GraphQL checks needed 3230
+  github 40/3230
+  github 80/3230
+  github 120/3230
+  github 160/3230
+  github 200/3230
+  github 240/3230
+  github 280/3230
+  github 320/3230
+  github 360/3230
+  github 400/3230
+  github 440/3230
+  github 480/3230
+  github 520/3230
+  github 560/3230
+  github 600/3230
+  github 640/3230
+  github 680/3230
+  github 720/3230
+  github 760/3230
+  github 800/3230
+  github 840/3230
+  github 880/3230
+  github 920/3230
+  github 960/3230
+  github 1000/3230
+  github 1040/3230
+  github 1080/3230
+  github 1120/3230
+  github 1160/3230
+  github 1200/3230
+  github 1240/3230
+  github 1280/3230
+  github 1320/3230
+  github 1360/3230
+  github 1400/3230
+  github 1440/3230
+  github 1480/3230
+  github 1520/3230
+  github 1560/3230
+  github 1600/3230
+  github 1640/3230
+  github 1680/3230
+  github 1720/3230
+  github 1760/3230
+  github 1800/3230
+  github 1840/3230
+  github 1880/3230
+  github 1920/3230
+  github 1960/3230
+  github 2000/3230
+  github 2040/3230
+  github 2080/3230
+  github 2120/3230
+  github 2160/3230
+  github 2200/3230
+  github 2240/3230
+  github 2280/3230
+  github 2320/3230
+  github 2360/3230
+  github 2400/3230
+  github 2440/3230
+  github 2480/3230
+  github 2520/3230
+  github 2560/3230
+  github 2600/3230
+  github 2640/3230
+  github 2680/3230
+  github 2720/3230
+  github 2760/3230
+  github 2800/3230
+  github 2840/3230
+  github 2880/3230
+  github 2920/3230
+  github 2960/3230
+  github 3000/3230
+  github 3040/3230
+  github 3080/3230
+  github 3120/3230
+  github 3160/3230
+  github 3200/3230
+  github 3230/3230
+DONE: 3975 candidates pass the bar -> phase2/candidates.json | by source: {'keyword': 2092, 'list': 442, 'topic': 2918, 'firecrawl': 1}

@@ -1,0 +1,12 @@
+115
+Comfy-Org/ComfyUI 138047 The most powerful and modular diffusion model GUI, api and backend wit
+CorentinJ/Real-Time-Voice-Cloning 60189 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+ultralytics/yolov5 58179 Ultralytics YOLOv5 in PyTorch for object detection, instance segmentat
+babysor/MockingBird 36888 Traceback (most recent call last):
+  File "D:\awsome AI stack github\phase2\h_work\verify.py", line 31, in <module>
+    for v in sorted(res,key=lambda x:-x[1]): print(v[0],v[1],(v[5] or "")[:70])
+                                             ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>

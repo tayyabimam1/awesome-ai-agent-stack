@@ -1,0 +1,3459 @@
+[
+{
+"repo": "unrealcv/unrealcv",
+"stars": 2226,
+"description": "UnrealCV: Connecting Computer Vision to Unreal Engine",
+"topics": [
+"computer-vision",
+"embodied-ai",
+"machine-learning",
+"simulation",
+"synthetic-data",
+"ue4",
+"ue5",
+"virtual-worlds"
+],
+"language": "Python"
+},
+{
+"repo": "mathworks/MATLAB-Simulink-Challenge-Project-Hub",
+"stars": 2225,
+"description": "This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.",
+"topics": [
+"ai",
+"autonomous",
+"capstone",
+"capstone-project",
+"computer-vision",
+"deep-learning",
+"drones",
+"energy",
+"final-project",
+"final-year-project",
+"master-thesis",
+"matlab",
+"project-ideas",
+"robotics",
+"senior-design",
+"senior-project",
+"simulink",
+"student-project",
+"students",
+"thesis"
+],
+"language": "HTML"
+},
+{
+"repo": "AnotiaWang/deep-research-web-ui",
+"stars": 2224,
+"description": "AI deep-research agent that turns any question into a cited report: plans searches, reads real sources, verifies evidence. Self-hosted, multi-provider, Docker-ready.",
+"topics": [
+"ai-agent",
+"citations",
+"deep-research",
+"docker",
+"llm",
+"nuxtjs",
+"rag",
+"research-assistant",
+"self-hosted",
+"web-search"
+],
+"language": "TypeScript"
+},
+{
+"repo": "proma-ai/Proma",
+"stars": 2224,
+"description": "Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era",
+"topics": [
+"agent",
+"agent-sdk",
+"agents",
+"chatbot",
+"chatgpt",
+"claude",
+"gemini",
+"llm"
+],
+"language": "TypeScript"
+},
+{
+"repo": "wangkai930418/awesome-diffusion-categorized",
+"stars": 2224,
+"description": "collection of diffusion model papers categorized by their subareas",
+"topics": [
+"continual-learning",
+"controlnet",
+"detection",
+"diffusion",
+"diffusion-model",
+"diffusion-models",
+"few-shot",
+"image-edit",
+"inpainting",
+"inversion",
+"segmentation",
+"stable-diffusion",
+"text-guided",
+"tracking"
+],
+"language": ""
+},
+{
+"repo": "mhss1/MyBrain",
+"stars": 2220,
+"description": "All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.",
+"topics": [
+"android",
+"chatbot",
+"clean-architecture",
+"compose",
+"gemini",
+"gpt",
+"jetpack-compose",
+"koin",
+"kotlin",
+"ktor",
+"material-ui",
+"mvi",
+"mvvm",
+"productivity",
+"room-database",
+"ui",
+"ux"
+],
+"language": "Kotlin"
+},
+{
+"repo": "martin-ger/esp32_nat_router",
+"stars": 2218,
+"description": "An AI-enabled NAT Router/Firewall for the ESP32",
+"topics": [
+"dhcp-server",
+"esp-idf",
+"esp32",
+"firewall",
+"home-assistant-integration",
+"mcp-server",
+"nat",
+"pcap",
+"router",
+"vpn",
+"wireguard",
+"wt32-eth01"
+],
+"language": "C"
+},
+{
+"repo": "github/app",
+"stars": 2218,
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"topics": [],
+"language": ""
+},
+{
+"repo": "NanmiCoder/dsh-agent-teams",
+"stars": 2216,
+"description": "DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行、成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness",
+"topics": [
+"agentteams",
+"deepseekharness",
+"dsh",
+"dsh-agent-teams",
+"dsh-plugin"
+],
+"language": "JavaScript"
+},
+{
+"repo": "datawhalechina/hello-claw",
+"stars": 2215,
+"description": "哈喽！龙虾 🙋‍♀️ Adopt from scratch and build your first claw 🦞 来领养你的第一只龙虾！",
+"topics": [
+"ai",
+"assistant",
+"clawuhub",
+"llm",
+"openclaw",
+"own-your-data",
+"personal",
+"skills",
+"tutorial"
+],
+"language": "Python"
+},
+{
+"repo": "MineDojo/NitroGen",
+"stars": 2214,
+"description": "A Foundation Model for Generalist Gaming Agents",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "NX-AI/xlstm",
+"stars": 2212,
+"description": "Official repository of the xLSTM.",
+"topics": [
+"deep-learning",
+"deep-learning-architecture",
+"llm",
+"machine-learning",
+"nlp",
+"rnn"
+],
+"language": "Python"
+},
+{
+"repo": "DigitalPhonetics/IMS-Toucan",
+"stars": 2211,
+"description": "Controllable and fast Text-to-Speech for over 7000 languages!",
+"topics": [
+"deep-learning",
+"pytorch",
+"speech",
+"speech-processing",
+"speech-synthesis",
+"text-to-speech",
+"toolkit",
+"tts"
+],
+"language": "Python"
+},
+{
+"repo": "kaomei/stickman-video-director",
+"stars": 2210,
+"description": "AI stickman animation style library & video prompts.｜火柴人动画画风大全：输入话题，生成脚本、动态分镜及配音音效提示词。",
+"topics": [
+"agent-skills",
+"ai-animation",
+"ai-video",
+"animation-prompts",
+"codex-skill",
+"content-creation",
+"gemini",
+"google-flow",
+"stick-figure-animation",
+"stickman-animation",
+"storyboard",
+"video-prompts"
+],
+"language": "Python"
+},
+{
+"repo": "hncboy/ai-beehive",
+"stars": 2210,
+"description": "AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing、文心一言等等",
+"topics": [
+"chatgpt",
+"chatgpt-java",
+"java",
+"midjourney"
+],
+"language": "Java"
+},
+{
+"repo": "Dicklesworthstone/mcp_agent_mail",
+"stars": 2209,
+"description": "Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite",
+"topics": [
+"ai-agents",
+"coordination",
+"fastmcp",
+"mcp",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "PKU-YuanGroup/Helios",
+"stars": 2209,
+"description": "Helios: Real Real-Time Long Video Generation Model",
+"topics": [
+"acceleration",
+"diffusion",
+"diffusion-model",
+"diffusion-models",
+"efficient-tuning",
+"high-quality",
+"image-to-video",
+"image2video",
+"interactive",
+"long-context",
+"long-video-generation",
+"real-time",
+"text-to-video",
+"text2video",
+"video-generation",
+"video-generator",
+"video-to-video",
+"video2video",
+"world-model",
+"world-models"
+],
+"language": "Python"
+},
+{
+"repo": "alibaba/loongcollector",
+"stars": 2208,
+"description": "Fast and Lightweight Observability Data Collector",
+"topics": [
+"aliyun",
+"apm",
+"cloud-native",
+"ebpf",
+"kubernetes",
+"log",
+"observability",
+"sls"
+],
+"language": "C++"
+},
+{
+"repo": "louislva/claude-peers-mcp",
+"stars": 2206,
+"description": "Allow all your Claude Codes to message each other ad-hoc!",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "unreallabsai/unreal-agent",
+"stars": 2205,
+"description": "Async-first agent harness",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "beelzebub-labs/beelzebub",
+"stars": 2199,
+"description": "A secure low code deception runtime framework, leveraging AI for System Virtualization.",
+"topics": [
+"acis",
+"agentic-ai-security",
+"cloudnative",
+"cloudsecurity",
+"cybersecurity",
+"deception",
+"decoys",
+"framework",
+"go",
+"honeypot",
+"llama",
+"llm",
+"llm-honeypot",
+"llm-security",
+"mcp",
+"mcp-honeypot",
+"preemptive-cybersecurity",
+"research-project",
+"security",
+"whitehat"
+],
+"language": "Go"
+},
+{
+"repo": "VictorTaelin/OptMem",
+"stars": 2198,
+"description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "carlvellotti/free-ai-courses",
+"stars": 2196,
+"description": "Interactive course teaching Product Managers how to use Claude Code effectively",
+"topics": [],
+"language": "HTML"
+},
+{
+"repo": "fendouai/Awesome-Chatbot",
+"stars": 2195,
+"description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
+"topics": [
+"awesome",
+"chatbot",
+"corpus",
+"seq2seq",
+"seq2seq-chatbot",
+"seq2seq-model",
+"tensorflow",
+"tutorial"
+],
+"language": "Python"
+},
+{
+"repo": "skalesapp/skales",
+"stars": 2194,
+"description": "Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding (Skales Code), desktop + browser automation, autonomous scheduled Tasks. Teams of agents and humans across paired desktops. Agent2Agent, MCP, computer use, voice, local LLMs (Ollama), Agent Skills (SKILL.md). 26 AI providers, BYOK. No Docker, no terminal.",
+"topics": [
+"agentic-ai",
+"ai-agent",
+"ai-assistant",
+"android",
+"automation",
+"autonomous-agent",
+"desktop-app",
+"electron",
+"ios",
+"linux",
+"llm",
+"local-ai",
+"local-first",
+"macos",
+"mcp",
+"ollama",
+"privacy",
+"react-native",
+"typescript",
+"windows"
+],
+"language": ""
+},
+{
+"repo": "yatengLG/ISAT_with_segment_anything",
+"stars": 2194,
+"description": "Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM etc.交互式半自动图像标注工具",
+"topics": [
+"annotation-tool",
+"computer-vision",
+"labeling",
+"labeling-tool",
+"sam",
+"sam2",
+"sam3",
+"segment-anything",
+"segment-anything-2",
+"text-prompt",
+"video-segmentation"
+],
+"language": "Python"
+},
+{
+"repo": "joshuayoes/ios-simulator-mcp",
+"stars": 2194,
+"description": "MCP server for interacting with the iOS simulator",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "voocel/ainovel-cli",
+"stars": 2192,
+"description": "✨多agent实现全自动AI小说生成",
+"topics": [
+"agents",
+"ai",
+"ai-agents",
+"go",
+"llm",
+"novel",
+"openai"
+],
+"language": "Go"
+},
+{
+"repo": "zhaoyang97/Paper-Notes",
+"stars": 2192,
+"description": "📚 数千篇 AI、LLM、NLP、CV 顶会论文解读，每篇 5 分钟读懂核心思想。",
+"topics": [
+"acl",
+"acl2026",
+"ai",
+"cv",
+"cvpr",
+"cvpr2026",
+"iclr",
+"icml-2026",
+"llm",
+"neurips",
+"nlp",
+"paper",
+"paper-notes",
+"paper-reading"
+],
+"language": "Python"
+},
+{
+"repo": "atomicstrata/llm-wiki-compiler",
+"stars": 2191,
+"description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.",
+"topics": [
+"agent-skills",
+"ai-agents",
+"cli",
+"compiler",
+"context-engineering",
+"karpathy",
+"knowledge-base",
+"knowledge-compilation",
+"llm",
+"markdown",
+"mcp",
+"mcp-server",
+"obsidian",
+"wiki"
+],
+"language": "TypeScript"
+},
+{
+"repo": "AIScientists-Dev/academic-humanizer",
+"stars": 2191,
+"description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
+"topics": [
+"academic-writing",
+"grant-writing",
+"llm",
+"nih",
+"nsf",
+"research",
+"scientific-writing",
+"writing-assistant"
+],
+"language": ""
+},
+{
+"repo": "githubharald/SimpleHTR",
+"stars": 2190,
+"description": "Handwritten Text Recognition (HTR) system implemented with TensorFlow.",
+"topics": [
+"deep-learning",
+"handwritten-text-recognition",
+"machine-learning",
+"ocr",
+"recurrent-neural-networks",
+"tensorflow"
+],
+"language": "Python"
+},
+{
+"repo": "ggml-org/llama.vim",
+"stars": 2189,
+"description": "Vim plugin for LLM-assisted code/text completion",
+"topics": [
+"copilot",
+"developer-tool",
+"llama",
+"llm",
+"vim",
+"vim-plugin"
+],
+"language": "Vim Script"
+},
+{
+"repo": "0-AI-UG/cate",
+"stars": 2189,
+"description": "An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "TimmyOVO/deepseek-ocr.rs",
+"stars": 2186,
+"description": "Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.",
+"topics": [
+"candle",
+"ocr",
+"ocr-recognition",
+"openai",
+"rust"
+],
+"language": "Rust"
+},
+{
+"repo": "appeeky/aso-skills",
+"stars": 2185,
+"description": "AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth.",
+"topics": [
+"app-store-analytics",
+"app-store-connect",
+"app-store-live",
+"app-store-optimization",
+"aso",
+"marketing",
+"mcp",
+"mobile-app",
+"skills"
+],
+"language": "MDX"
+},
+{
+"repo": "appeeky/aso-skills",
+"stars": 2185,
+"description": "AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth.",
+"topics": [
+"aso",
+"marketing",
+"mobile-app",
+"mcp",
+"skills",
+"app-store-analytics",
+"app-store-connect",
+"app-store-live",
+"app-store-optimization"
+],
+"language": "MDX"
+},
+{
+"repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+"stars": 2184,
+"description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
+"topics": [
+"agent",
+"awsome-list",
+"benchmark",
+"blogs",
+"compress",
+"evaluation",
+"large-language-models",
+"length-extrapolation",
+"llm",
+"long-context-modeling",
+"long-term-memory",
+"longcot",
+"papers",
+"rag",
+"ssm",
+"survey",
+"transformer"
+],
+"language": ""
+},
+{
+"repo": "aws/amazon-ecs-agent",
+"stars": 2184,
+"description": "Amazon Elastic Container Service Agent",
+"topics": [
+"amazon-ec2",
+"amazon-ecs-agent",
+"amazon-linux-ami",
+"docker-container",
+"go"
+],
+"language": "Go"
+},
+{
+"repo": "sapientinc/HRM-Text",
+"stars": 2183,
+"description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
+"topics": [
+"hierarchical-reasoning-model",
+"hrm",
+"large-language-models",
+"pretraining"
+],
+"language": "Python"
+},
+{
+"repo": "zombieyang/sd-ppp",
+"stars": 2183,
+"description": "A Photoshop AI plugin",
+"topics": [
+"adobe",
+"comfyui",
+"flux",
+"flux-kontext",
+"midjourney",
+"nano-banana",
+"photoshop",
+"replicate",
+"runninghub",
+"stable-diffusion"
+],
+"language": "JavaScript"
+},
+{
+"repo": "watercrawl/WaterCrawl",
+"stars": 2180,
+"description": "Transform Web Content into LLM-Ready Data",
+"topics": [
+"aicrawler",
+"crawl4ai",
+"crawler",
+"crawling-python",
+"html2markdown",
+"llm-crawler",
+"llm-scraper",
+"scraper"
+],
+"language": "TypeScript"
+},
+{
+"repo": "nanaism/yomiyasu",
+"stars": 2177,
+"description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+"topics": [
+"agent-skills",
+"ai-writing",
+"antigravity",
+"claude-code",
+"codex",
+"cursor",
+"gemini",
+"japanese",
+"linter",
+"llm",
+"nlp",
+"writing",
+"writing-assistant",
+"writing-tool"
+],
+"language": "Python"
+},
+{
+"repo": "JuneYaooo/nihaisha-nishi-tcm",
+"stars": 2177,
+"description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haisha TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing.",
+"topics": [
+"acupuncture",
+"agent-skills",
+"claude-code-skills",
+"codex-skill",
+"nihaisha",
+"nihaixia",
+"nishi",
+"shennong",
+"tcm",
+"tcmcp",
+"traditional-chinese-medicine",
+"traditional-chinese-medicine-healthcare"
+],
+"language": "Python"
+},
+{
+"repo": "samchon/nestia",
+"stars": 2175,
+"description": "NestJS Helper + AI Chatbot Development",
+"topics": [
+"agent",
+"ai",
+"api",
+"class-validator",
+"decorator",
+"hacktoberfest",
+"large-language-model",
+"llm",
+"llm-function-calling",
+"nestjs",
+"rag",
+"retrieval-augmented-generation",
+"sdk",
+"swagger",
+"trpc",
+"typescript",
+"typia",
+"validator"
+],
+"language": "TypeScript"
+},
+{
+"repo": "NVIDIA-NeMo/Nemotron",
+"stars": 2175,
+"description": "Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models",
+"topics": [
+"ai",
+"fine-tuning",
+"model-training",
+"nemotron",
+"nvidia",
+"reinforcement-learning"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "0Chencc/clawgod",
+"stars": 2174,
+"description": "ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.",
+"topics": [
+"ai",
+"assistant",
+"claude-ai",
+"claude-code",
+"claw",
+"clawcode",
+"limit",
+"linux",
+"macos",
+"patch",
+"skill",
+"vibe-coded",
+"vibe-coding",
+"windows"
+],
+"language": "JavaScript"
+},
+{
+"repo": "OpenMOSS/MOSS-Transcribe-Diarize",
+"stars": 2172,
+"description": "A 0.9B model for long-form transcription in 50+ languages with speaker diarization, timestamps, and acoustic event awareness",
+"topics": [
+"audio",
+"automatic-speech-recognition",
+"multilingual",
+"speaker-diarization",
+"speech-recognition",
+"subtitles",
+"transcription"
+],
+"language": "Python"
+},
+{
+"repo": "learnsyslab/gym-pybullet-drones",
+"stars": 2170,
+"description": "PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control",
+"topics": [
+"betaflight",
+"control",
+"crazyflie",
+"gym",
+"gymnasium",
+"multi-agent",
+"pybullet",
+"quadcopter",
+"quadrotor",
+"reinforcement-learning",
+"robotics",
+"sitl",
+"stable-baselines3",
+"uav"
+],
+"language": "Python"
+},
+{
+"repo": "alfredfrancis/ai-chatbot-framework",
+"stars": 2170,
+"description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
+"topics": [
+"ai-chatbot",
+"ai-chatbot-framework",
+"chatbot",
+"conversational-ai",
+"deepseek",
+"hacktoberfest",
+"help-wanted",
+"langchain",
+"llm",
+"nextjs",
+"openai",
+"python",
+"tool-calling"
+],
+"language": "TypeScript"
+},
+{
+"repo": "MRPT/mrpt",
+"stars": 2169,
+"description": ":zap: The Mobile Robot Programming Toolkit (MRPT)",
+"topics": [
+"autonomous-driving",
+"c-plus-plus",
+"computer-vision",
+"maps",
+"mobile-robotics",
+"mobile-robots",
+"mrpt",
+"particle-filter",
+"robot-framework",
+"robot-motion-estimate",
+"robot-programming",
+"robotics",
+"slam"
+],
+"language": "C++"
+},
+{
+"repo": "ZiYang-xie/WorldGen",
+"stars": 2167,
+"description": "🌍 WorldGen - Generate Any 3D Scene in Seconds",
+"topics": [
+"3d-generation",
+"3d-reconstruction",
+"generative-ai",
+"graphics",
+"image-to-3d",
+"scene-generation",
+"text-to-3d",
+"worldgen",
+"worldmodel"
+],
+"language": "Python"
+},
+{
+"repo": "scambier/obsidian-omnisearch",
+"stars": 2167,
+"description": "A search engine that \"just works\" for Obsidian.",
+"topics": [
+"minisearch",
+"obsidian",
+"obsidian-md",
+"obsidian-plugin",
+"ocr",
+"pdf",
+"search"
+],
+"language": "TypeScript"
+},
+{
+"repo": "LeoYeAI/openclaw-master-skills",
+"stars": 2166,
+"description": "🧠 Curated collection of 1209+ best OpenClaw skills — weekly updated by MyClaw.ai",
+"topics": [
+"agentskills",
+"ai-agent",
+"curated",
+"myclaw",
+"openclaw",
+"skill-collection",
+"skills",
+"weekly"
+],
+"language": "Python"
+},
+{
+"repo": "benborla/mcp-server-mysql",
+"stars": 2166,
+"description": "A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "alpic-ai/skybridge",
+"stars": 2161,
+"description": "Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.",
+"topics": [
+"agent",
+"ai",
+"apps-sdk",
+"chatgpt",
+"claude",
+"claude-code",
+"devtools",
+"ext-apps",
+"llms",
+"mcp",
+"mcp-apps",
+"mcp-server",
+"mcp-ui",
+"modelcontextprotocol",
+"openai",
+"react",
+"skills",
+"tooling",
+"typescript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "phronesis-io/eigenflux",
+"stars": 2160,
+"description": "Official repository for EigenFlux — the open-source communication and broadcast network for AI agents.",
+"topics": [
+"agent-network",
+"ai-agents",
+"eigenflux",
+"multi-agent-systems"
+],
+"language": "Go"
+},
+{
+"repo": "LetsFG/LetsFG",
+"stars": 2160,
+"description": "Agent-native flight & hotel search and booking — MCP server, CLI, and Python/JS SDKs. Every airline in the world, major booking sites and OTAs, with per-flight reliability history.",
+"topics": [
+"ai",
+"ai-agent",
+"ai-agents",
+"airline-api",
+"booking",
+"cli",
+"flight-search",
+"flights",
+"hotel-api",
+"hotel-booking",
+"hotels",
+"mcp",
+"nodejs",
+"openclaw",
+"python-sdk",
+"travel",
+"travel-api",
+"typescript-sdk"
+],
+"language": "Python"
+},
+{
+"repo": "hexo-ai/sia",
+"stars": 2160,
+"description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "lessweb/deepcode-cli",
+"stars": 2159,
+"description": "Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。",
+"topics": [
+"ai-agent",
+"deepseek"
+],
+"language": "TypeScript"
+},
+{
+"repo": "huggingface/evaluation-guidebook",
+"stars": 2157,
+"description": "Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!",
+"topics": [
+"evaluation",
+"evaluation-metrics",
+"guidebook",
+"large-language-models",
+"llm",
+"machine-learning",
+"tutorial"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "satellitecomponent/Neurite",
+"stars": 2153,
+"description": "Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.",
+"topics": [
+"ai-agents",
+"ai-agents-framework",
+"ai-graphs",
+"ai-os",
+"fractals",
+"graph-of-thoughts",
+"knowledge-graph",
+"llm-os",
+"mandelbrot",
+"mindmap",
+"multi-agent-simulation",
+"note-taking",
+"ollama",
+"ollama-gui",
+"rag",
+"second-brain",
+"swarm-intelligence",
+"tree-of-thoughts",
+"web-browsing",
+"web-desktop"
+],
+"language": "JavaScript"
+},
+{
+"repo": "crshdn/mission-control",
+"stars": 2151,
+"description": "The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted via OpenClaw Gateway.",
+"topics": [
+"aiagent",
+"automation",
+"openclaw"
+],
+"language": "TypeScript"
+},
+{
+"repo": "YouMind-OpenLab/awesome-seedance-2-prompts",
+"stars": 2148,
+"description": "🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.",
+"topics": [
+"ai-video",
+"awesome",
+"awesome-list",
+"prompt-engineering",
+"seedance",
+"seedance-2",
+"seedance-api",
+"seedance2",
+"video-generation",
+"video-prompt"
+],
+"language": "TypeScript"
+},
+{
+"repo": "numtide/llm-agents.nix",
+"stars": 2148,
+"description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+"topics": [],
+"language": "Nix"
+},
+{
+"repo": "grafana/beyla",
+"stars": 2147,
+"description": "eBPF-based autoinstrumentation of web applications and network metrics",
+"topics": [
+"ebpf",
+"metrics-gathering",
+"observability",
+"traces"
+],
+"language": "Go"
+},
+{
+"repo": "arcsin1/oh-my-ppt",
+"stars": 2146,
+"description": "Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
+"topics": [
+"ai-agents",
+"ai-ppt",
+"ai-ppt-generator",
+"ai-tool",
+"aippt",
+"design-systems",
+"desktop-app",
+"html-ppt",
+"local-fist",
+"ppt-generator",
+"pptx-generator"
+],
+"language": "TypeScript"
+},
+{
+"repo": "neuron-core/neuron-ai",
+"stars": 2146,
+"description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI.",
+"topics": [
+"agent",
+"agentic-ai",
+"agentic-framework",
+"agents",
+"ai",
+"llm",
+"llm-inference",
+"llms",
+"php",
+"vector-database"
+],
+"language": "PHP"
+},
+{
+"repo": "emcf/engshell",
+"stars": 2145,
+"description": "An English-language shell for any OS, powered by LLMs",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "modelcontextprotocol/mcpb",
+"stars": 2142,
+"description": "Desktop Extensions: One-click local MCP server installation in desktop apps",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "MrGeDiao/shuorenhua",
+"stars": 2141,
+"description": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.",
+"topics": [
+"agent-skill",
+"ai-writing",
+"anti-slop",
+"chatgpt",
+"chinese",
+"claude-code",
+"codex",
+"cursor",
+"developer-tools",
+"openclaw",
+"prompt",
+"prompt-engineering",
+"rewriting",
+"skill",
+"text-quality",
+"writing"
+],
+"language": "Python"
+},
+{
+"repo": "elastio/bon",
+"stars": 2140,
+"description": "Next-gen compile-time-checked builder generator, named function's arguments, and more!",
+"topics": [
+"asynchronous",
+"builder",
+"builder-pattern",
+"builders",
+"code-generation",
+"constructor",
+"constructors",
+"data-structures",
+"derive",
+"derive-macro",
+"generator",
+"macro",
+"macros",
+"no-std",
+"no-std-alloc",
+"rust",
+"setter",
+"setter-methods",
+"setters"
+],
+"language": "Rust"
+},
+{
+"repo": "OpenVidu/openvidu",
+"stars": 2137,
+"description": "OpenVidu Platform: self-hosted real-time video and audio for your apps, built on LiveKit and mediasoup",
+"topics": [
+"active",
+"ai-agents",
+"chat",
+"e-learning",
+"embeddable",
+"meet",
+"openvidu",
+"platform",
+"product",
+"room",
+"self-hosted",
+"sfu",
+"typescript",
+"video",
+"video-conferencing",
+"webcomponents",
+"webrtc"
+],
+"language": "TypeScript"
+},
+{
+"repo": "bohyy/academic-ai-prompt",
+"stars": 2137,
+"description": "一套为研究生和学术研究者设计的完整AI Prompt库  📖 包含内容： ✨ 40+ 精心设计的AI Prompt ✨ 论文选题系统方法（生成、评估、论证） ✨ 论文查找快速方案（8个不同方案） ✨ 文献综述框架和工具 ✨ Excel自动评估表格 ✨ 3个完整的论证模板  🚀 核心优势： ⚡ 节省时间 50-70%（选题3-5天而不是2-3周） 🎯 科学方法（基于系统的5维度评估体系） 💡 即插即用（所有Prompt直接复制可用） 📚 全流程覆盖（从选题到出版的完整方案）  🎓 适用人群： 👨‍🎓 硕士研究生 | 博士研究生 | 本科毕业设计 | 学术研究者 | 内容创作者  ",
+"topics": [
+"academic-research",
+"ai",
+"ai-prompts",
+"ailearning",
+"knowledge-base",
+"open-source",
+"paper-writing",
+"productivity",
+"prompt-engineering",
+"research-tools",
+"research-workflows"
+],
+"language": ""
+},
+{
+"repo": "showlab/Code2Video",
+"stars": 2136,
+"description": "[ICML 2026] Video generation via code",
+"topics": [
+"coding",
+"education",
+"multi-agent",
+"video-generation"
+],
+"language": "Python"
+},
+{
+"repo": "Mukosame/Anime2Sketch",
+"stars": 2135,
+"description": "A sketch extractor for anime/illustration.",
+"topics": [
+"anime",
+"comic",
+"computer-vision",
+"deep-learning",
+"gan",
+"gans",
+"generative-adversarial-network",
+"gradio",
+"image-generation",
+"manga",
+"pytorch",
+"sketch",
+"wacv"
+],
+"language": "Python"
+},
+{
+"repo": "trailofbits/claude-code-config",
+"stars": 2133,
+"description": "Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits",
+"topics": [
+"claude",
+"claude-code",
+"claude-code-cli",
+"developer-tool"
+],
+"language": "Shell"
+},
+{
+"repo": "TNT-Likely/PanWatch",
+"stars": 2131,
+"description": "PanWatch — AI stock monitoring for A-shares, HK & US markets, powered by TradingAgents. Portfolio insights, real-time alerts & automated reports.｜盯盘侠：覆盖 A股/港股/美股的 AI 盯盘、持仓分析、实时提醒与自动报告。",
+"topics": [
+"a-share",
+"agent",
+"ai",
+"ai-agent",
+"akshare",
+"deepseek",
+"fastapi",
+"fintech",
+"langgraph",
+"llm",
+"mcp",
+"openai",
+"pwa",
+"quant",
+"self-hosted",
+"stock",
+"stock-analysis",
+"stock-market",
+"trading-agents",
+"trading-bot"
+],
+"language": "Python"
+},
+{
+"repo": "tairov/llama2.mojo",
+"stars": 2129,
+"description": "Inference Llama 2 in one file of pure 🔥",
+"topics": [
+"inference",
+"llama",
+"llama2",
+"modular",
+"mojo",
+"parallelize",
+"performance",
+"simd",
+"tensor",
+"transformer-architecture",
+"vectorization"
+],
+"language": "Mojo"
+},
+{
+"repo": "ZJU4HealthCare/Foundations-of-Medical-LLMs",
+"stars": 2129,
+"description": " Foundations of Medical Large Language Model Learning",
+"topics": [],
+"language": ""
+},
+{
+"repo": "deusyu/translate-book",
+"stars": 2128,
+"description": "Agent skill for Codex, Claude Code, and OpenClaw that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "apioo/fusio",
+"stars": 2126,
+"description": "Self-Hosted API Management for Builders",
+"topics": [
+"ai",
+"ai-agents",
+"api",
+"api-gateway",
+"api-management",
+"api-manager",
+"backend",
+"javascript",
+"mcp-server",
+"microservice",
+"openapi",
+"php",
+"rest"
+],
+"language": "PHP"
+},
+{
+"repo": "jtmuller5/The-HustleGPT-Challenge",
+"stars": 2125,
+"description": "Building Startups with an AI Co-Founder",
+"topics": [
+"ai",
+"business",
+"chatgpt",
+"hustlegpt",
+"prompt-engineering",
+"startups"
+],
+"language": ""
+},
+{
+"repo": "AI-Anywhere/AI-Anywhere",
+"stars": 2124,
+"description": "Your agents. Any browser. Anywhere",
+"topics": [
+"bing",
+"claude",
+"codex",
+"copilot"
+],
+"language": "TypeScript"
+},
+{
+"repo": "google-gemini/genai-processors",
+"stars": 2121,
+"description": "GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.",
+"topics": [
+"agent",
+"ai",
+"asyncio",
+"gemini",
+"genai",
+"generative-ai",
+"language-model",
+"multimodal",
+"python",
+"realtime"
+],
+"language": "Python"
+},
+{
+"repo": "xuanyustudio/LocalMiniDrama",
+"stars": 2116,
+"description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
+"topics": [
+"ai",
+"ai-agent",
+"ai-mini-drama",
+"ai-video",
+"electron",
+"javascript",
+"mini-drama",
+"nodejs",
+"offline",
+"offline-short-drama",
+"open-source",
+"short-video",
+"short-video-maker",
+"storyboard",
+"video-generation",
+"vue",
+"vue3"
+],
+"language": "JavaScript"
+},
+{
+"repo": "ModelEngine-Group/fit-framework",
+"stars": 2116,
+"description": "FIT: 企业级AI开发框架，提供多语言函数引擎（FIT）、流式编排引擎（WaterFlow）及Java生态的LangChain替代方案（FEL）。原生/Spring双模运行，支持插件热插拔与智能聚散部署，无缝统一大模型与业务系统。",
+"topics": [
+"agentic-ai",
+"ai",
+"java",
+"plugin",
+"plugin-system",
+"python"
+],
+"language": "Java"
+},
+{
+"repo": "LearnPrompt/awesome-seedance",
+"stars": 2116,
+"description": "🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retest runs with public verdicts, 25 copy-ready templates, 50+ installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語.",
+"topics": [
+"agent-skill",
+"ai-video",
+"ai-video-generation",
+"awesome",
+"awesome-list",
+"bytedance",
+"claude-code",
+"codex",
+"goodcase",
+"minimax",
+"prompt-engineering",
+"prompt-library",
+"prompt-templates",
+"prompts",
+"seedance",
+"seedance-2-0",
+"seedance-2-5",
+"text-to-video",
+"video-generation"
+],
+"language": "JavaScript"
+},
+{
+"repo": "peteromallet/dataclaw",
+"stars": 2115,
+"description": "Agent harness to publish your agent chat history as Huggingface datasets. ",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "cyberman54/ESP32-Paxcounter",
+"stars": 2114,
+"description": "Wifi & BLE driven passenger flow metering with cheap ESP32 boards",
+"topics": [
+"arduino",
+"bme680",
+"dcf77",
+"esp32",
+"gps",
+"gps-tracker",
+"helium-network",
+"heltec",
+"iot",
+"lopy",
+"lora",
+"lorawan",
+"macaddr",
+"mqtt",
+"platformio",
+"pycom",
+"thethingsnetwork",
+"ttgo",
+"ttn",
+"wifi"
+],
+"language": "C++"
+},
+{
+"repo": "olaxbt/ai-market-maker",
+"stars": 2114,
+"description": "Agentic AI Hedge Fund OS (AIMM)",
+"topics": [
+"agentic-trading",
+"claw",
+"crypto",
+"multiagent-systems",
+"openclaw",
+"stock",
+"trade",
+"trade-bot"
+],
+"language": "Python"
+},
+{
+"repo": "awesome-skills/code-review-skill",
+"stars": 2113,
+"description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
+"topics": [],
+"language": "HTML"
+},
+{
+"repo": "agentset-ai/agentset",
+"stars": 2112,
+"description": "The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.",
+"topics": [
+"agentic-rag",
+"ai",
+"ai-agents",
+"ai-sdk",
+"chatbots",
+"embeddings",
+"genai",
+"llms",
+"memory",
+"memory-management",
+"rag",
+"vercel-ai-sdk"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Dryxio/reagent",
+"stars": 2112,
+"description": "Reconstruct and validate C/C++ code from compiled programs with AI.",
+"topics": [
+"ai-agent",
+"autonomous-agent",
+"binary-analysis",
+"c-plus-plus",
+"claude",
+"codex",
+"cybersecurity",
+"decompilation",
+"ghidra",
+"llm",
+"reverse-engineering",
+"source-code-recovery",
+"static-analysis"
+],
+"language": "Python"
+},
+{
+"repo": "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging",
+"stars": 2112,
+"description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
+"topics": [
+"ddpm",
+"deep-learning",
+"denoising",
+"diffusion",
+"diffusion-models",
+"generation",
+"generative-models",
+"machine-learning",
+"medical-imaging",
+"ncsn",
+"reconstruction",
+"score-based",
+"score-matching",
+"sde",
+"segmentation",
+"vae"
+],
+"language": ""
+},
+{
+"repo": "eugene1g/agent-safehouse",
+"stars": 2110,
+"description": "Sandbox your local AI agents so they can read/write only what they need",
+"topics": [
+"ai-agents",
+"claude-code",
+"llm",
+"macos",
+"sandbox",
+"security"
+],
+"language": "Shell"
+},
+{
+"repo": "Leanmcp/gateway-skills",
+"stars": 2110,
+"description": "See your claude code logs in clear details in your dashboard",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "cyberagiinc/DevDocs",
+"stars": 2109,
+"description": "Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App ",
+"topics": [
+"cline",
+"crawl4ai",
+"cursor",
+"documentation",
+"llm",
+"playwright",
+"python3",
+"scraper",
+"security",
+"typescript",
+"windsurf"
+],
+"language": "TypeScript"
+},
+{
+"repo": "MemTensor/memmy-agent",
+"stars": 2108,
+"description": "🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.",
+"topics": [
+"agent",
+"agentic-ai",
+"ai-agents",
+"chatgpt",
+"claude-code",
+"cli",
+"codex",
+"cursor",
+"desktop-app",
+"desktop-pet",
+"dsh-plugin",
+"hermes-agent",
+"llm",
+"long-term-memory",
+"mcp",
+"memory",
+"openai-api",
+"openclaw",
+"personal-ai",
+"tui"
+],
+"language": "TypeScript"
+},
+{
+"repo": "inferstep/ATLAS",
+"stars": 2108,
+"description": "Adaptive Test-time Learning and Autonomous Specialization",
+"topics": [
+"ai-agent",
+"ai-harness",
+"coding-agent",
+"developer-tools",
+"llm",
+"local-first",
+"local-llm",
+"self-hosted"
+],
+"language": "Python"
+},
+{
+"repo": "iniwap/AIWriteX",
+"stars": 2107,
+"description": "AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布 | AI自动配图 | 去AI味、过朱雀检测 | 支持小红书/百家号/头条等多平台 | 洗稿润色支持多账号 | 专家赛道 | 小绿书贴图 | 短视频文案 | 手机控制 | 小说连载 | 爆文10w+神器",
+"topics": [
+"agents",
+"ai-agents",
+"ai-auto-wxgzh",
+"ai-wx",
+"aipy",
+"aipyapp",
+"aixiezuo",
+"baowen",
+"crewai",
+"gongzhonghao-a",
+"openclaw",
+"qu-ai-wei",
+"search-tool",
+"web-search",
+"wechat",
+"weixin",
+"wx",
+"wx-template",
+"wxgzh",
+"xiaohongshu"
+],
+"language": "Python"
+},
+{
+"repo": "LiuMengxuan04/shushu-internship-tool",
+"stars": 2106,
+"description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+"topics": [
+"ai",
+"ai-agents",
+"skills"
+],
+"language": "Python"
+},
+{
+"repo": "streamich/memfs",
+"stars": 2106,
+"description": "Node.js \"fs\" and browser \"File System API\" adapters and in-memory implementations 👍",
+"topics": [
+"browserfs",
+"cas",
+"crud",
+"file",
+"file-system",
+"filesystem",
+"fs",
+"fsa",
+"in-memory",
+"memfs",
+"memory",
+"node",
+"opfs",
+"webfs"
+],
+"language": "TypeScript"
+},
+{
+"repo": "greggh/claude-code.nvim",
+"stars": 2103,
+"description": "Seamless integration between Claude Code AI assistant and Neovim",
+"topics": [
+"ai-assistant",
+"anthropic",
+"claude",
+"claude-code",
+"neovim",
+"nvim",
+"plugin",
+"terminal"
+],
+"language": "Lua"
+},
+{
+"repo": "Anil-matcha/open-agent-email",
+"stars": 2100,
+"description": "Open-source email infrastructure for AI agents: secure inboxes, REST and MCP APIs, SMTP, human approval workflows, signed webhooks, and Python and TypeScript SDKs. Self-host with Docker and PostgreSQL.",
+"topics": [
+"agent-email",
+"agentic-ai",
+"ai-agents",
+"aws-ses",
+"developer-tools",
+"email-api",
+"email-automation",
+"email-infrastructure",
+"fastapi",
+"human-in-the-loop",
+"imap",
+"mcp",
+"open-source",
+"python",
+"rest-api",
+"sdk",
+"self-hosted",
+"smtp",
+"typescript",
+"webhooks"
+],
+"language": "Python"
+},
+{
+"repo": "River-Zhang/ICEdit",
+"stars": 2098,
+"description": "[NeurIPS 2025] Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Surpasses GPT-4o in ID persistence~ MoE ckpt released! Only 4GB VRAM is enough to run! ",
+"topics": [
+"diffusion",
+"diffusion-models",
+"diffusion-transformer",
+"dit",
+"editing-image",
+"gpt4o",
+"gpt4oimage",
+"image-editing",
+"in-context"
+],
+"language": "Python"
+},
+{
+"repo": "can4hou6joeng4/boss-agent-cli",
+"stars": 2097,
+"description": "🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.",
+"topics": [
+"agent-skill",
+"agent-tools",
+"ai-agent",
+"boss-zhipin",
+"claude",
+"cli",
+"command-line",
+"job-hunting",
+"job-search",
+"mcp",
+"model-context-protocol",
+"python",
+"recruiter-workflow",
+"recruitment",
+"resume",
+"zhipin"
+],
+"language": "Python"
+},
+{
+"repo": "ChinaGodMan/UserScripts",
+"stars": 2097,
+"description": "🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet",
+"topics": [
+"chatgpt",
+"chinese-translation",
+"csdn",
+"github",
+"google",
+"greasyfork",
+"greasyfork-org",
+"greasyfork-script",
+"greasymonkey",
+"hightlight",
+"missav-downloader",
+"popup-window",
+"scrollbar",
+"tampermonkey",
+"translation",
+"userjs",
+"userscripts",
+"violentmonkey",
+"webpage"
+],
+"language": "JavaScript"
+},
+{
+"repo": "Lightricks/LTX-Desktop",
+"stars": 2097,
+"description": "An open-source desktop app for generating videos with LTX models",
+"topics": [
+"generative-ai",
+"ltx",
+"ltx-2",
+"non-linear-editing"
+],
+"language": "TypeScript"
+},
+{
+"repo": "quantskills/quantskills",
+"stars": 2096,
+"description": "QuantSkills组织的全景导航 ：面向 AI Agent 的开源量化 Skill & Agent 生态，从数据、因子研究、回测验证到风险监控与交易自动化。｜Open-source Quant Skills & Agents for AI-driven research, backtesting, risk and trading automation.——Panoramic navigator for the QuantSkills organization",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "midday-ai/ai-sdk-tools",
+"stars": 2096,
+"description": "Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.",
+"topics": [
+"ai-sdk"
+],
+"language": "TypeScript"
+},
+{
+"repo": "pydoit/doit",
+"stars": 2094,
+"description": "CLI task management & automation tool",
+"topics": [
+"build-automation",
+"build-system",
+"build-tool",
+"cli",
+"data-pipeline",
+"data-science",
+"hacktoberfest",
+"python",
+"task-runner",
+"workflow",
+"workflow-automation",
+"workflow-management"
+],
+"language": "Python"
+},
+{
+"repo": "rebel0789/codexpro",
+"stars": 2093,
+"description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+"topics": [
+"apps-sdk",
+"chatgpt",
+"cloudflare-tunnel",
+"codex",
+"local-development",
+"mcp",
+"ngrok"
+],
+"language": "JavaScript"
+},
+{
+"repo": "blackholll/loonflow",
+"stars": 2093,
+"description": "A Intelligent and Visual Process Automation System,  ticket, workflow, MCP",
+"topics": [
+"devops",
+"django",
+"mcp",
+"python",
+"ticket",
+"workflow",
+"workflow-engine"
+],
+"language": "TypeScript"
+},
+{
+"repo": "isair/jarvis",
+"stars": 2093,
+"description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.",
+"topics": [
+"ai",
+"ai-assistant",
+"assistant",
+"health",
+"local-ai",
+"machine-learning",
+"mcp",
+"nutrition",
+"privacy",
+"private",
+"search",
+"searching",
+"voice",
+"voice-assistant"
+],
+"language": "Python"
+},
+{
+"repo": "riddleling/iOS-OCR-Server",
+"stars": 2093,
+"description": "An iOS OCR Server Using Apple’s Vision Framework",
+"topics": [
+"http-server",
+"ios",
+"ocr",
+"vision-framework"
+],
+"language": "Swift"
+},
+{
+"repo": "zhimaAi/chatwiki",
+"stars": 2090,
+"description": "ChatWiki 微信公众号的AI知识库工作流Agent平台，RAG大模型AI客服机器人，致力于成为垂直领域的coze、n8n。",
+"topics": [
+"agent",
+"ai",
+"aytomation",
+"llm",
+"rag",
+"workflow"
+],
+"language": "Vue"
+},
+{
+"repo": "yakhyo/uniface",
+"stars": 2089,
+"description": "UniFace: A Unified Face Analysis Library for Python | Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes and anti-spoofing under one API.",
+"topics": [
+"computer-vision",
+"deep-learning",
+"face-alignment",
+"face-analysis",
+"face-anonymization",
+"face-anti-spoofing",
+"face-attributes",
+"face-detection",
+"face-mesh",
+"face-parsing",
+"face-quality-assessment",
+"face-recognition",
+"face-segmentation",
+"face-tracking",
+"facial-landmarks",
+"gaze-estimation",
+"head-pose-estimation",
+"onnxruntime",
+"portrait-matting",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "vitoplantamura/OnnxStream",
+"stars": 2088,
+"description": "Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in 298MB of RAM) but also Mistral 7B on desktops and servers. ARM, x86, WASM, RISC-V supported. Accelerated by XNNPACK. Python, C# and JS(WASM) bindings available.",
+"topics": [
+"llama",
+"machine-learning",
+"mistral",
+"onnx",
+"raspberry-pi",
+"stable-diffusion",
+"tinyml",
+"wasm",
+"webassembly",
+"whisper",
+"yolov8"
+],
+"language": "C++"
+},
+{
+"repo": "stepfun-ai/Step-3.5-Flash",
+"stars": 2088,
+"description": "Fast, Sharp & Reliable Agentic Intelligence",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "CryptoAILab/Awesome-LM-SSP",
+"stars": 2087,
+"description": "A reading list for large models safety, security, and privacy (including Awesome LLM Security, Safety, etc.).",
+"topics": [
+"adversarial-attacks",
+"awesome-list",
+"diffusion-models",
+"jailbreak",
+"language-model",
+"llm",
+"nlp",
+"privacy",
+"safety",
+"security",
+"vlm"
+],
+"language": ""
+},
+{
+"repo": "xmanrui/dsh-im",
+"stars": 2085,
+"description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+"topics": [
+"ai-agents",
+"chatbot",
+"cordis",
+"deepseek",
+"deepseek-harness",
+"dingtalk-bot",
+"discord-bot",
+"dsh",
+"dsh-plugin",
+"feishu-bot",
+"im-bot",
+"slack-bot",
+"telegram-bot",
+"wechat-bot",
+"whatsapp-bot"
+],
+"language": "JavaScript"
+},
+{
+"repo": "CYB3RMX/Qu1cksc0pe",
+"stars": 2084,
+"description": "All-in-One malware analysis tool.",
+"topics": [
+"all-in-one",
+"apk",
+"elf",
+"exe",
+"linux",
+"malware",
+"malware-analysis",
+"mcp",
+"mcp-server",
+"osx",
+"packer",
+"python3",
+"ransomware",
+"security-tools",
+"static-analysis",
+"strings",
+"suspicious-files",
+"termux",
+"threat-analysis",
+"windows"
+],
+"language": "YARA"
+},
+{
+"repo": "GoogleCloudPlatform/khi",
+"stars": 2084,
+"description": "A log viewer for Kubernetes troubleshooting",
+"topics": [
+"google-cloud-platform",
+"kubernetes",
+"logging",
+"observability",
+"troubleshooting",
+"visualizer"
+],
+"language": "Go"
+},
+{
+"repo": "A9T9/RPA",
+"stars": 2083,
+"description": "Browser and desktop automation with an MCP server for AI assistants. Record macros or write JavaScript to automate websites, extract data, and control desktop apps with OCR and image recognition.",
+"topics": [
+"ai-agents",
+"browser-automation",
+"browser-automation-ai-api",
+"browser-extension",
+"computer-use",
+"desktop-automation",
+"image-recognition",
+"macro-recorder",
+"mcp",
+"mcp-server",
+"ocr",
+"selenium-ide",
+"web-automation"
+],
+"language": "TypeScript"
+},
+{
+"repo": "NanoNets/docext",
+"stars": 2083,
+"description": "An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)",
+"topics": [
+"document",
+"document-analysis",
+"document-data-extraction",
+"document-information-extraction",
+"extraction",
+"llm-ocr",
+"llms",
+"machine-learning",
+"nlp",
+"ocr",
+"ocr-benchmark",
+"ocr-onpremise",
+"onprem",
+"onprem-ocr",
+"onprem-vision",
+"onpremise",
+"rag",
+"table-extraction",
+"unstructured-data",
+"vlms"
+],
+"language": "Python"
+},
+{
+"repo": "figma/mcp-server-guide",
+"stars": 2082,
+"description": "A guide on how to use the Figma MCP server",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "guinmoon/LLMFarm",
+"stars": 2081,
+"description": "llama and other  large language models on iOS and MacOS offline using GGML library.",
+"topics": [
+"ai",
+"ggml",
+"gpt-2",
+"gptneox",
+"ios",
+"llama",
+"macos",
+"rwkv",
+"starcoder",
+"swift"
+],
+"language": "C"
+},
+{
+"repo": "tourmind-com/Tourmind-Booking-Skills",
+"stars": 2079,
+"description": "AI agent skills for end-to-end hotel and flight booking—compare live hotel rates across leading OTAs and suppliers, search and verify real-time airfares worldwide, book stays and flights, and manage reservations, hotel cancellations, and payments via the TourMind API.",
+"topics": [
+"agent-skills",
+"ai-agent",
+"booking-api",
+"codex-skills",
+"flight-api",
+"flight-booking",
+"hotel-api",
+"hotel-booking",
+"hotel-price-comparison",
+"hotel-search",
+"online-travel-agency",
+"tourmind",
+"travel-booking",
+"travel-tech"
+],
+"language": "Python"
+},
+{
+"repo": "p0n1/epub_to_audiobook",
+"stars": 2077,
+"description": "EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included",
+"topics": [
+"audiobooks",
+"audiobookshelf",
+"chatgpt",
+"epub",
+"openai",
+"tts",
+"webui"
+],
+"language": "Python"
+},
+{
+"repo": "fikrikarim/parlor",
+"stars": 2076,
+"description": "On-device, real-time multimodal AI with features similar to GPT-Live",
+"topics": [
+"apple-silicon",
+"gemma",
+"kokoro",
+"litert-lm",
+"local-llm",
+"mlx",
+"multimodal",
+"on-device-ai",
+"python",
+"real-time",
+"speech-recognition",
+"text-to-speech",
+"voice-assistant"
+],
+"language": "Python"
+},
+{
+"repo": "jd-opensource/OxyGent",
+"stars": 2074,
+"description": "[ACL 2026] OxyGent: Making Multi-Agent Systems Modular, Observable, and Evolvable via Oxy Abstraction https://arxiv.org/abs/2604.25602",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "Syngnat/GoNavi",
+"stars": 2073,
+"description": "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。",
+"topics": [
+"ai",
+"cross-platform",
+"database-client",
+"database-gui",
+"desktop-app",
+"developer-tools",
+"golang",
+"kafka",
+"mcp",
+"model-context-protocol",
+"mongodb",
+"mqtt",
+"mysql",
+"oracle-database",
+"postgresql",
+"react",
+"redis",
+"sql-client",
+"typescript",
+"wails"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Ebony-Vinyl/EAC-Desktop",
+"stars": 2071,
+"description": "Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存",
+"topics": [
+"ai-agent",
+"deepseek",
+"deepseek-harness",
+"desktop",
+"desktop-app",
+"dsh",
+"dsh-plugin",
+"dsh-plugins",
+"dshdesktop",
+"electron",
+"tauri",
+"windows"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Comfy-Org/ComfyUI_frontend",
+"stars": 2071,
+"description": "Official front-end implementation of ComfyUI",
+"topics": [
+"generative-ai",
+"machine-learning"
+],
+"language": "TypeScript"
+},
+{
+"repo": "coldteadotai/pr-lens",
+"stars": 2070,
+"description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent",
+"topics": [
+"agent-skills",
+"architecture-as-code",
+"architecture-diagrams",
+"claude-skills",
+"code-visualisation",
+"codex",
+"coding-agents",
+"data-flow-diagram",
+"diagrams-as-code",
+"mermaid-alternative",
+"opencode",
+"sequence-diagrams",
+"software-architecture-and-design",
+"system-design",
+"text-to-diagram"
+],
+"language": "TypeScript"
+},
+{
+"repo": "zalando/logbook",
+"stars": 2069,
+"description": "An extensible Java library for HTTP request and response logging",
+"topics": [
+"client-side",
+"http-logs",
+"java",
+"logbook",
+"logger",
+"logging",
+"logs",
+"monitoring",
+"observability",
+"plugin-extension",
+"request-response",
+"server-side",
+"spring-boot",
+"spring-boot-starter"
+],
+"language": "Java"
+},
+{
+"repo": "xiufengsun/TokenTracker",
+"stars": 2068,
+"description": "Local-first AI token usage & cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini & DeepSeek Harness—with native apps. Never reads prompts.",
+"topics": [
+"ai-coding-tools",
+"ai-tools",
+"antigravity",
+"claude-code",
+"cli",
+"codex-cli",
+"cost-tracker",
+"cursor",
+"dashboard",
+"desktop-pet",
+"desktop-widget",
+"developer-tools",
+"gemini-cli",
+"local-first",
+"macos-app",
+"observability",
+"privacy-first",
+"token-tracker",
+"usage-tracker",
+"windows-app"
+],
+"language": "JavaScript"
+},
+{
+"repo": "ricky0123/vad",
+"stars": 2068,
+"description": "Voice activity detector (VAD) for the browser with a simple API",
+"topics": [
+"onnxruntime",
+"silero-vad",
+"speech-to-text",
+"typescript",
+"voice-activity-detection",
+"web",
+"web-audio-api"
+],
+"language": "TypeScript"
+},
+{
+"repo": "sherifabdlnaby/elastdocker",
+"stars": 2067,
+"description": "🐳  Elastic Stack (ELK) v9+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.",
+"topics": [
+"docker",
+"docker-compose",
+"elasticsearch",
+"elasticstack",
+"elk",
+"elk-stack",
+"kibana",
+"logstash",
+"observability",
+"siem"
+],
+"language": "Dockerfile"
+},
+{
+"repo": "run-llama/llama_deploy",
+"stars": 2066,
+"description": "Deploy your agentic worfklows to production",
+"topics": [
+"agents",
+"deployment",
+"framework",
+"llamaindex",
+"llm",
+"multi-agents"
+],
+"language": "Python"
+},
+{
+"repo": "superglue-ai/superglue",
+"stars": 2065,
+"description": "superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.",
+"topics": [
+"agentic-workflows",
+"agents",
+"ai",
+"ai-agents",
+"api",
+"api-connector",
+"api-gateway",
+"api-orchestration",
+"data-integration",
+"developer-tools",
+"etl-automation",
+"function-calling",
+"integration",
+"llm",
+"mcp",
+"oauth2",
+"open-source",
+"transformations"
+],
+"language": "TypeScript"
+},
+{
+"repo": "cbrock84/headcount",
+"stars": 2064,
+"description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
+"topics": [
+"agent-marketplace",
+"chatgpt-plugin",
+"chatgpt-skills",
+"claude-code",
+"claude-code-plugin",
+"claude-plugin",
+"claude-skills",
+"mcp",
+"organization"
+],
+"language": "Markdown"
+},
+{
+"repo": "photon-hq/spectrum-ts",
+"stars": 2064,
+"description": "Bring agents to any interfaces",
+"topics": [
+"agent",
+"ai",
+"photon",
+"typescript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "akdeb/ElatoAI",
+"stars": 2063,
+"description": "Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Companions, and Devices",
+"topics": [
+"agents",
+"ai",
+"arduino",
+"cloudflare",
+"deno",
+"elevenlabs",
+"esp32",
+"gemini",
+"grok",
+"hardware",
+"hume",
+"llm",
+"openai",
+"realtime",
+"speech-to-speech",
+"stt",
+"supabase",
+"tts",
+"websocket"
+],
+"language": "TypeScript"
+},
+{
+"repo": "fiatrete/OpenDAN-Personal-AI-OS",
+"stars": 2063,
+"description": "OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.",
+"topics": [
+"agent",
+"ai",
+"autogpt",
+"llm",
+"openai",
+"os"
+],
+"language": "Python"
+},
+{
+"repo": "uber/ADR",
+"stars": 2062,
+"description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+"topics": [
+"agent-security",
+"ai-agents",
+"ai-security",
+"benchmark",
+"claude",
+"claude-code",
+"codex",
+"cursor",
+"llm-security",
+"mcp",
+"model-context-protocol",
+"prompt-injection",
+"threat-detection"
+],
+"language": "Python"
+},
+{
+"repo": "bergside/typeui",
+"stars": 2061,
+"description": "Build better UI with AI",
+"topics": [
+"agent-skills",
+"ai",
+"ai-tools",
+"claude-design",
+"cli",
+"codex",
+"design",
+"design-md",
+"design-system",
+"design-tools",
+"gemini",
+"gemini-cli-extension",
+"google-stitch",
+"skills",
+"terminal",
+"ui"
+],
+"language": "TypeScript"
+},
+{
+"repo": "lupantech/AgentFlow",
+"stars": 2060,
+"description": "AgentFlow: In-the-Flow Agentic System Optimization",
+"topics": [
+"agentic-ai",
+"agentic-systems",
+"llms",
+"llms-reasoning",
+"multi-agent-systems",
+"reinforcement-learning",
+"tool-augmented"
+],
+"language": "Python"
+},
+{
+"repo": "langgraph4j/langgraph4j",
+"stars": 2058,
+"description": "🚀 LangGraph for Java is a library for Graph Engineering, designed to build sophisticated AI agentic architectures within the Java ecosystem. It works seamlessly with both Langchain4j and Spring AI.",
+"topics": [
+"agents",
+"ai",
+"langchain4j",
+"langgraph",
+"spring-ai",
+"workflow"
+],
+"language": "Java"
+},
+{
+"repo": "microsoft/intelligent-terminal",
+"stars": 2058,
+"description": "A fork of Windows Terminal with native agent integration, right in your command line.",
+"topics": [
+"acp",
+"agent",
+"agent-client-protocol",
+"agentic-ai",
+"ai",
+"cli",
+"command-line",
+"console",
+"copilot",
+"terminal",
+"windows",
+"windows-terminal"
+],
+"language": "C++"
+},
+{
+"repo": "handy-computer/transcribe.cpp",
+"stars": 2058,
+"description": " ggml speech-to-text inference for 16+ model families",
+"topics": [
+"asr",
+"ggml",
+"gguf",
+"speech-to-text"
+],
+"language": "C++"
+},
+{
+"repo": "aceliuchanghong/FAQ_Of_LLM_Interview",
+"stars": 2056,
+"description": "大模型算法岗面试题(含答案):常见问题和概念解析 \"大模型面试题\"、\"算法岗面试\"、\"面试常见问题\"、\"大模型算法面试\"、\"大模型应用基础\"",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "microsoft/azure-devops-mcp",
+"stars": 2055,
+"description": "The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "vmoranv/jshookmcp",
+"stars": 2054,
+"description": "A search-first, profile-aware reverse-engineering workspace for AI agents — 735 tools across 36 domains in one MCP server.",
+"topics": [
+"ai-agents",
+"anti-detection",
+"browser-automation",
+"chrome-devtools-protocol",
+"debugging",
+"deobfuscation",
+"frida",
+"javascript",
+"js-reverse",
+"llm",
+"mcp",
+"mcp-server",
+"model-context-protocol",
+"network-analysis",
+"reverse-engineering",
+"security-analysis",
+"source-maps",
+"typescript",
+"wasm",
+"web-security"
+],
+"language": "TypeScript"
+},
+{
+"repo": "matrixorigin/matrixone",
+"stars": 2054,
+"description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.",
+"topics": [
+"agents",
+"ai-native",
+"cloud-native",
+"database",
+"distributed-database",
+"distributed-systems",
+"fulltext-support",
+"git-for-data",
+"go",
+"htap",
+"hyperconverged",
+"memory",
+"mysql-compatible",
+"olap",
+"one-size-fits-all",
+"sql",
+"vector-database"
+],
+"language": "Go"
+},
+{
+"repo": "zereight/gitlab-mcp",
+"stars": 2049,
+"description": "MCP server for GitLab: 100+ tools for projects, MRs, issues, pipelines, wikis and more via the GitLab REST/GraphQL API",
+"topics": [
+"ai",
+"claude",
+"cursor",
+"devtools",
+"gitlab",
+"gitlab-api",
+"llm",
+"mcp",
+"mcp-server",
+"model-context-protocol"
+],
+"language": "TypeScript"
+},
+{
+"repo": "omnimind-ai/OmniBot",
+"stars": 2048,
+"description": "Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range of tasks in the Android world || 你的手机 AI 代理，她可以操作终端，也可以完成 Android 世界的广泛任务 ",
+"topics": [
+"agent",
+"ai",
+"alpine",
+"android",
+"automation",
+"bot",
+"claw",
+"codex",
+"gui",
+"linux",
+"on-device",
+"skills"
+],
+"language": "Dart"
+},
+{
+"repo": "Octane0411/open-vibe-island",
+"stars": 2048,
+"description": "Native macOS control center for AI coding agents — monitor sessions, approve actions, and jump back instantly.",
+"topics": [
+"agent",
+"claudecode",
+"code-island",
+"codeisland",
+"codex",
+"gemini-cli",
+"island",
+"open-island",
+"opencode",
+"openisland",
+"vibe",
+"vibe-coding",
+"vibe-island",
+"vibeisland"
+],
+"language": "Swift"
+},
+{
+"repo": "FlashML-org/FreeVideo",
+"stars": 2047,
+"description": "Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.",
+"topics": [
+"diffusion-models",
+"inference",
+"minimax-h3",
+"video-generation"
+],
+"language": "Python"
+},
+{
+"repo": "Cloud-CV/EvalAI",
+"stars": 2047,
+"description": ":cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI",
+"topics": [
+"ai",
+"ai-challenges",
+"angularjs",
+"artificial-intelligence",
+"challenge",
+"codecov",
+"coveralls",
+"django",
+"docker",
+"evalai",
+"evaluation",
+"evaluation-framework",
+"github-actions",
+"leaderboard",
+"machine-learning",
+"python",
+"reproducibility",
+"reproducible-research"
+],
+"language": "Python"
+},
+{
+"repo": "memorax-ai/memorax-code",
+"stars": 2046,
+"description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+"topics": [
+"ai-agents",
+"claude-code",
+"codex",
+"coding-memory",
+"developer-tools",
+"memorax",
+"typescript"
+],
+"language": "JavaScript"
+},
+{
+"repo": "AI-in-Health/MedLLMsPracticalGuide",
+"stars": 2046,
+"description": " [Nature Reviews Bioengineering🔥] Application of Large Language Models in Medicine.  A curated list of practical guide resources of Medical LLMs (Medical LLMs Tree, Tables, and Papers)",
+"topics": [
+"ai-in-medicine",
+"clinical-ai",
+"large-language-models",
+"medical-large-language-models",
+"survey"
+],
+"language": ""
+},
+{
+"repo": "afar1/fieldtheory-cli",
+"stars": 2045,
+"description": "Field Theory CLI for bookmarks, Library, commands, and agent workflows",
+"topics": [
+"agent-tools",
+"bookmarks",
+"cli",
+"local-first",
+"markdown"
+],
+"language": "TypeScript"
+},
+{
+"repo": "MiniMax-AI/minimax-code",
+"stars": 2044,
+"description": "An open-source coding agent for your terminal, powered by MiniMax.",
+"topics": [
+"coding-agents",
+"harness",
+"minimax"
+],
+"language": "TypeScript"
+},
+{
+"repo": "nottelabs/notte",
+"stars": 2039,
+"description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+"topics": [
+"agent",
+"ai",
+"anthropic",
+"automation",
+"browser",
+"llm",
+"openai",
+"web"
+],
+"language": "Python"
+},
+{
+"repo": "NVlabs/alpamayo",
+"stars": 2039,
+"description": "NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning.",
+"topics": [
+"alpamayo",
+"autonomous-driving",
+"autonomous-vehicles",
+"chain-of-causation",
+"computer-vision",
+"end-to-end-driving",
+"nvidia",
+"physical-ai",
+"reasoning",
+"robotics",
+"self-driving-car",
+"trajectory-prediction",
+"vision-language-action",
+"vla",
+"world-models"
+],
+"language": "Python"
+},
+{
+"repo": "Kochava-Studios/witsy",
+"stars": 2038,
+"description": "Witsy: desktop AI assistant / universal MCP client",
+"topics": [
+"anthropic",
+"deepseek",
+"electron-app",
+"electronjs",
+"gemini",
+"genai",
+"googleai",
+"groq",
+"mcp",
+"mcp-client",
+"mistral",
+"mistralai",
+"ollama",
+"ollama-gui",
+"openai",
+"openrouter",
+"vuejs",
+"vuejs3"
+],
+"language": "TypeScript"
+},
+{
+"repo": "TheGP/untidetect-tools",
+"stars": 2038,
+"description": "List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.",
+"topics": [
+"anti-detection",
+"antidetect",
+"antidetect-browser",
+"antidetect-browser-free",
+"bots",
+"browser-automation",
+"captcha-service",
+"captcha-solving",
+"fingerprinting",
+"humanize",
+"multi-account",
+"multi-login",
+"scraping",
+"stealth",
+"webgl"
+],
+"language": ""
+},
+{
+"repo": "systemd/mkosi",
+"stars": 2036,
+"description": "💽 Build Bespoke OS Images",
+"topics": [
+"boot",
+"btrfs",
+"btrfs-subvolume",
+"debian",
+"disk-image",
+"distro",
+"efi",
+"fedora",
+"gpt",
+"initramfs",
+"initramfs-generator",
+"initramfs-image",
+"luks",
+"mkosi",
+"opensuse",
+"partition",
+"squashfs",
+"ubuntu",
+"verity"
+],
+"language": "Python"
+},
+{
+"repo": "GrapheneOS/hardened_malloc",
+"stars": 2034,
+"description": "Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability/integration over time.",
+"topics": [
+"grapheneos",
+"hardening",
+"malloc",
+"malloc-library",
+"memory",
+"memory-allocation",
+"memory-allocator",
+"quarantine",
+"security",
+"slab-allocator"
+],
+"language": "C"
+},
+{
+"repo": "grp06/openclaw-studio",
+"stars": 2034,
+"description": "A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you like it!",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "ShenSeanChen/waku-agent",
+"stars": 2033,
+"description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.",
+"topics": [
+"agent-framework",
+"ai-agent",
+"ai-assistant",
+"claude",
+"evals",
+"llm",
+"llmops",
+"local-first",
+"openai",
+"personal-assistant",
+"python",
+"sqlite"
+],
+"language": "Python"
+},
+{
+"repo": "jkroepke/helm-secrets",
+"stars": 2033,
+"description": "A helm plugin that help manage secrets with Git workflow and store them anywhere",
+"topics": [
+"helm",
+"helm-plugin",
+"helm-plugins",
+"kubernetes",
+"k8s",
+"helm-charts",
+"helm-chart",
+"sops",
+"kubernetes-secrets",
+"kms"
+],
+"language": "Shell"
+},
+{
+"repo": "deer-flow/llm-space",
+"stars": 2030,
+"description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
+"topics": [
+"agent",
+"deer-flow",
+"develop",
+"electrobun",
+"harness",
+"llm",
+"llm-tools",
+"managed-agents"
+],
+"language": "TypeScript"
+},
+{
+"repo": "CaviraOSS/PageLM",
+"stars": 2030,
+"description": "PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.",
+"topics": [
+"ai",
+"docker",
+"edtech",
+"education",
+"flashcards",
+"javascript",
+"langchain",
+"nodejs",
+"notebooklm",
+"notes",
+"oss",
+"pagelm",
+"podcast",
+"quizzes",
+"rag",
+"react",
+"study-tools",
+"tailwindcss",
+"typescript",
+"vite"
+],
+"language": "TypeScript"
+},
+{
+"repo": "plugin87/ux-ui-agent-skills",
+"stars": 2029,
+"description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
+"topics": [
+"accessibility",
+"ai-agents",
+"claude",
+"claude-code",
+"claude-skills",
+"component-library",
+"design-system",
+"design-to-code",
+"design-tokens",
+"dtcg",
+"figma",
+"react",
+"tailwindcss",
+"ui",
+"ux",
+"wcag"
+],
+"language": "JavaScript"
+},
+{
+"repo": "Doorman11991/smallcode",
+"stars": 2029,
+"description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "vercel-labs/lat.md",
+"stars": 2029,
+"description": "Agent Lattice: a knowledge graph for your codebase, written in markdown.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "supermemoryai/markdowner",
+"stars": 2023,
+"description": "A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "jimmc414/onefilellm",
+"stars": 2022,
+"description": "Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion",
+"topics": [
+"arxiv",
+"doi",
+"github",
+"ipynb",
+"llm",
+"papers",
+"pdf",
+"pmid",
+"pull-request",
+"repository",
+"sci-hub",
+"text",
+"tiktoken",
+"youtube-transcript-api"
+],
+"language": "Python"
+},
+{
+"repo": "xmanrui/OpenClaw-bot-review",
+"stars": 2022,
+"description": "A lightweight web dashboard for viewing all your OpenClaw Bots/Agents/Models/Sessions status at a glance.",
+"topics": [
+"open-claw",
+"openclaw"
+],
+"language": "TypeScript"
+},
+{
+"repo": "youngfish42/Awesome-FL",
+"stars": 2020,
+"description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
+"topics": [
+"artificial-intelligence",
+"awesome",
+"computer-vision",
+"data-mining",
+"database",
+"deep-learning",
+"efficiency",
+"federated-learning",
+"federated-learning-framework",
+"graph",
+"graph-neural-networks",
+"information-retrieval",
+"knowledge-graph",
+"machine-learning",
+"natural-language-processing",
+"paper",
+"privacy",
+"security",
+"system",
+"tabular-data"
+],
+"language": "Python"
+},
+{
+"repo": "Urigo/graphql-cli",
+"stars": 2019,
+"description": "📟  Command line tool for common GraphQL development workflows",
+"topics": [
+"cli",
+"terminal",
+"apollo",
+"schema",
+"graphql"
+],
+"language": "TypeScript"
+},
+{
+"repo": "64bit/async-openai",
+"stars": 2018,
+"description": "Rust library for OpenAI ",
+"topics": [
+"openai",
+"rust"
+],
+"language": "Rust"
+},
+{
+"repo": "GuDaStudio/skills",
+"stars": 2017,
+"description": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.",
+"topics": [],
+"language": "PowerShell"
+},
+{
+"repo": "Open-Curiosity/gini-agent",
+"stars": 2015,
+"description": "The agent that remembers and learns.",
+"topics": [
+"agent",
+"agent-runtime",
+"ai-agent",
+"bun",
+"llm",
+"local-first",
+"mcp",
+"nextjs",
+"personal-agent",
+"typescript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Andrew-Jang/RAGHub",
+"stars": 2015,
+"description": "A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.",
+"topics": [
+"ai",
+"artificial-intelligence",
+"large-language-models",
+"llm",
+"machine-learning",
+"natural-language-processing",
+"nlp",
+"open-source",
+"rag",
+"retrieval-augmented-generation"
+],
+"language": ""
+},
+{
+"repo": "shcherbak-ai/contextgem",
+"stars": 2011,
+"description": "Extract structured data and insights from documents using LLMs and decision models",
+"topics": [
+"ai",
+"contract-analysis",
+"data-extraction",
+"decision-models",
+"document-ai",
+"document-intelligence",
+"document-processing",
+"generative-ai",
+"information-extraction",
+"legal-tech",
+"legaltech",
+"llm",
+"llm-framework",
+"llms",
+"multimodal-ai",
+"nlp",
+"prompt-engineering",
+"structured-output",
+"text-analysis",
+"unstructured-data"
+],
+"language": "Python"
+},
+{
+"repo": "AntigmaLabs/ante",
+"stars": 2010,
+"description": "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ",
+"topics": [
+"agent",
+"agentic-ai",
+"ai-agents",
+"artifical-life",
+"rust",
+"terminal"
+],
+"language": "Rust"
+},
+{
+"repo": "cambrian-mllm/cambrian",
+"stars": 2010,
+"description": "Cambrian-1 is a family of multimodal LLMs with a vision-centric design.",
+"topics": [
+"chatbot",
+"clip",
+"computer-vision",
+"dino",
+"instruction-tuning",
+"large-language-models",
+"llms",
+"mllm",
+"multimodal-large-language-models",
+"representation-learning"
+],
+"language": "Python"
+},
+{
+"repo": "tiddly-gittly/TidGi-Desktop",
+"stars": 2009,
+"description": "TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details) ",
+"topics": [
+"all-in-one",
+"anki",
+"backlinks",
+"electron",
+"evernote",
+"knowledge-graph",
+"knowledge-management",
+"linux",
+"local-first",
+"macos",
+"note-taking",
+"notebook",
+"notes-app",
+"notion",
+"obsidian",
+"pkm",
+"tiddlywiki",
+"tiddlywiki5",
+"windows",
+"zettelkasten"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Zoo-Code-Org/Zoo-Code",
+"stars": 2009,
+"description": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "filiksyos/gitreverse",
+"stars": 2007,
+"description": "Reverse engineer any repo into it's original prompt",
+"topics": [
+"prompt-engineering",
+"reverse-engineering",
+"vibe-coding"
+],
+"language": "TypeScript"
+},
+{
+"repo": "FireRedTeam/FireRedASR",
+"stars": 2006,
+"description": "Open-source industrial-grade ASR models supporting Mandarin, Chinese dialects and English, achieving a new SOTA on public Mandarin ASR benchmarks, while also offering outstanding singing lyrics recognition capability.",
+"topics": [
+"asr",
+"automatic-speech-recognition",
+"conformer",
+"industrial-grade",
+"llm",
+"multimodal-llm",
+"open-source",
+"speech-recognition",
+"speechllm",
+"transformer"
+],
+"language": "Python"
+},
+{
+"repo": "open-compress/claw-compactor",
+"stars": 2003,
+"description": "14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed.",
+"topics": [
+"ai-agent-tools",
+"ai-infrastructure",
+"ast-code-analysis",
+"claw-compactor",
+"context-compression",
+"context-pruning",
+"context-window-optimization",
+"developer-tools",
+"fusion-pipeline",
+"llm-compression",
+"llm-context-compression",
+"llm-cost-reduction",
+"llm-token-compression",
+"llm-tools",
+"openclaw",
+"prompt-compression",
+"python",
+"reversible-compression",
+"token-compression",
+"tree-sitter"
+],
+"language": "Python"
+},
+{
+"repo": "GuDaStudio/codexmcp",
+"stars": 2000,
+"description": "Enable seamless collaboration between Claude Code and Codex, transforming from a single agent to multiple agents for significantly enhanced productivity!",
+"topics": [
+"codex",
+"codex-mcp",
+"codexmcp"
+],
+"language": "Python"
+},
+{
+"repo": "mudler/LocalAGI",
+"stars": 2000,
+"description": "LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "RedPlanetHQ/core",
+"stars": 1999,
+"description": "Your Personal AI OS",
+"topics": [
+"ai-agent",
+"ai-memory",
+"automation",
+"automations",
+"claude-code",
+"codex",
+"developer-tools",
+"mcp",
+"ollama",
+"personal-assistant"
+],
+"language": "TypeScript"
+},
+{
+"repo": "win4r/AISuperDomain",
+"stars": 1999,
+"description": "Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.",
+"topics": [
+"autogpt",
+"autogpt-no-paid-api",
+"chatgpt",
+"chatgpt-app",
+"chatgpt-bot",
+"chatgpt-plugins",
+"chatgpt4",
+"claude",
+"claude3",
+"freegpt",
+"gemini",
+"gpt-5",
+"gpt5",
+"llama2",
+"openai",
+"openai-api",
+"stable",
+"stable-diffusion",
+"stable-diffusion-webui"
+],
+"language": "C#"
+}
+]

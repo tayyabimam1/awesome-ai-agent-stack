@@ -1,0 +1,825 @@
+[
+{
+"repo": "ruvnet/RuView",
+"description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+"topics": [
+"densepose",
+"wifi",
+"esp32",
+"monitoring",
+"rf",
+"wifi-security",
+"self-learning",
+"firmware",
+"pose-estimation",
+"spatial-intelligence"
+],
+"language": "Rust",
+"stars": 102047
+},
+{
+"repo": "opencv/opencv",
+"description": "Open Source Computer Vision Library",
+"topics": [
+"opencv",
+"c-plus-plus",
+"computer-vision",
+"deep-learning",
+"image-processing"
+],
+"language": "C++",
+"stars": 91407
+},
+{
+"repo": "koala73/worldmonitor",
+"description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+"topics": [
+"ai",
+"dashboard",
+"geopolitics",
+"monitoring",
+"news",
+"osint",
+"opensource",
+"palantir",
+"situation",
+"agent"
+],
+"language": "TypeScript",
+"stars": 89983
+},
+{
+"repo": "datawhalechina/hello-agents",
+"description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+"topics": [
+"agent",
+"tutorial",
+"llm",
+"rag"
+],
+"language": "Python",
+"stars": 85713
+},
+{
+"repo": "tensorflow/models",
+"description": "Models and examples built with TensorFlow",
+"topics": [],
+"language": "Python",
+"stars": 77638
+},
+{
+"repo": "scikit-learn/scikit-learn",
+"description": "scikit-learn: machine learning in Python",
+"topics": [
+"machine-learning",
+"python",
+"statistics",
+"data-science",
+"data-analysis"
+],
+"language": "Python",
+"stars": 67968
+},
+{
+"repo": "ZhuLinsen/daily_stock_analysis",
+"description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+"topics": [
+"aigc",
+"llm",
+"quant",
+"quantitative-trading",
+"a-stock",
+"ai-agent",
+"quantitative-finance"
+],
+"language": "Python",
+"stars": 67424
+},
+{
+"repo": "keras-team/keras",
+"description": "Deep Learning for humans",
+"topics": [
+"deep-learning",
+"tensorflow",
+"neural-networks",
+"machine-learning",
+"data-science",
+"python",
+"jax",
+"pytorch"
+],
+"language": "Python",
+"stars": 64413
+},
+{
+"repo": "commaai/openpilot",
+"description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+"topics": [
+"driver-assistance-systems",
+"robotics",
+"advanced-driver-assistance-systems"
+],
+"language": "Python",
+"stars": 64043
+},
+{
+"repo": "blader/humanizer",
+"description": "Agent skill that removes signs of AI-generated writing from text",
+"topics": [
+"agent-skills",
+"ai-writing",
+"claude-code",
+"codex",
+"cursor",
+"prompt-engineering",
+"writing-tools",
+"ai-humanizer",
+"chatgpt",
+"claude"
+],
+"language": "Python",
+"stars": 63681
+},
+{
+"repo": "sansan0/TrendRadar",
+"description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+"topics": [
+"data-analysis",
+"python",
+"trending-topics",
+"news",
+"hot-news",
+"docker",
+"ntfy",
+"mail",
+"mcp",
+"mcp-server"
+],
+"language": "Python",
+"stars": 63361
+},
+{
+"repo": "ultralytics/yolov5",
+"description": "Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.",
+"topics": [
+"yolov5",
+"object-detection",
+"pytorch",
+"onnx",
+"coreml",
+"tflite",
+"yolo",
+"deep-learning",
+"ultralytics",
+"computer-vision"
+],
+"language": "Python",
+"stars": 58249
+},
+{
+"repo": "deepfakes/faceswap",
+"description": "Deepfakes Software For All",
+"topics": [
+"faceswap",
+"face-swap",
+"deep-learning",
+"deeplearning",
+"deep-neural-networks",
+"deepfakes",
+"deepface",
+"deep-face-swap",
+"fakeapp",
+"neural-networks"
+],
+"language": "Python",
+"stars": 57599
+},
+{
+"repo": "Yuan1z0825/nature-skills",
+"description": "符合nature论文学术表达和科研绘图的Skill",
+"topics": [
+"codex-skills",
+"nature",
+"nature-skills"
+],
+"language": "Python",
+"stars": 51798
+},
+{
+"repo": "jeecgboot/JeecgBoot",
+"description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+"topics": [
+"antd",
+"activiti",
+"codegenerator",
+"springcloud",
+"springboot",
+"low-code",
+"vue3",
+"flowable",
+"langchain4j",
+"spring-ai"
+],
+"language": "Java",
+"stars": 48363
+},
+{
+"repo": "siyuan-note/siyuan",
+"description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+"topics": [
+"note-taking",
+"local-first",
+"knowledge-base",
+"markdown",
+"self-hosted",
+"siyuan",
+"ai-agent",
+"mcp",
+"agentic-ai",
+"workspace"
+],
+"language": "TypeScript",
+"stars": 47037
+},
+{
+"repo": "JustVugg/colibri",
+"description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+"topics": [],
+"language": "C",
+"stars": 46031
+},
+{
+"repo": "Wei-Shaw/sub2api",
+"description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+"topics": [
+"2api",
+"antigravity2api",
+"claude",
+"claude-code",
+"codex",
+"crs",
+"gemini",
+"cc2api",
+"crs2"
+],
+"language": "Go",
+"stars": 45281
+},
+{
+"repo": "chatanywhere/GPT_API_free",
+"description": "免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！",
+"topics": [
+"api",
+"chatgpt",
+"claude",
+"deepseek",
+"gemini",
+"gpt",
+"grok",
+"llm-agents"
+],
+"language": "",
+"stars": 45255
+},
+{
+"repo": "zhaoxuya520/reverse-skill",
+"description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+"topics": [],
+"language": "PowerShell",
+"stars": 43958
+},
+{
+"repo": "666ghj/BettaFish",
+"description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+"topics": [
+"agent-framework",
+"data-analysis",
+"multi-agent-system",
+"nlp",
+"public-opinion-analysis",
+"python3",
+"sentiment-analysis",
+"llms",
+"deep-research",
+"deep-search"
+],
+"language": "Python",
+"stars": 42570
+},
+{
+"repo": "lfnovo/open-notebook",
+"description": "An Open Source implementation of Notebook LM with more flexibility and features",
+"topics": [
+"assistant",
+"learning",
+"note-taking",
+"notebook",
+"notes-app",
+"self-learning"
+],
+"language": "TypeScript",
+"stars": 41327
+},
+{
+"repo": "linshenkx/prompt-optimizer",
+"description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+"topics": [
+"llm",
+"prompt",
+"prompt-engineering",
+"prompt-optimization",
+"prompt-toolkit",
+"prompt-tuning",
+"ai-prompts",
+"ai-tools",
+"prompt-optimizer",
+"prompt-testing"
+],
+"language": "TypeScript",
+"stars": 40328
+},
+{
+"repo": "RSSNext/Folo",
+"description": "🧡 Folo is the AI RSS Reader",
+"topics": [
+"reader",
+"rss",
+"rss-reader",
+"ai",
+"rsshub"
+],
+"language": "TypeScript",
+"stars": 39213
+},
+{
+"repo": "storytold/artcraft",
+"description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+"topics": [
+"3d-graphics",
+"ai",
+"aivideo",
+"filmmaking",
+"imagegeneration"
+],
+"language": "Rust",
+"stars": 38261
+},
+{
+"repo": "mukul975/Anthropic-Cybersecurity-Skills",
+"description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+"topics": [
+"ai-agents",
+"claude-code",
+"cybersecurity",
+"incident-response",
+"mitre-attack",
+"penetration-testing",
+"red-team",
+"security",
+"cloud-security",
+"malware-analysis"
+],
+"language": "Python",
+"stars": 35422
+},
+{
+"repo": "google-research/timesfm",
+"description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+"topics": [],
+"language": "Python",
+"stars": 35003
+},
+{
+"repo": "datawhalechina/happy-llm",
+"description": "📚 从零开始构建大模型",
+"topics": [
+"agent",
+"llm",
+"rag"
+],
+"language": "Jupyter Notebook",
+"stars": 34705
+},
+{
+"repo": "tinygrad/tinygrad",
+"description": "You like pytorch? You like micrograd? You love tinygrad! ❤️ ",
+"topics": [],
+"language": "Python",
+"stars": 33818
+},
+{
+"repo": "Yeachan-Heo/oh-my-codex",
+"description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+"topics": [],
+"language": "TypeScript",
+"stars": 33693
+},
+{
+"repo": "zeroclaw-labs/zeroclaw",
+"description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+"topics": [
+"agent",
+"agentic",
+"ai",
+"openclaw",
+"infra",
+"ml",
+"os",
+"zeroclaw"
+],
+"language": "Rust",
+"stars": 33098
+},
+{
+"repo": "hsliuping/TradingAgents-CN",
+"description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+"topics": [],
+"language": "Python",
+"stars": 32761
+},
+{
+"repo": "Zackriya-Solutions/meetily",
+"description": "Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% local processing. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker & Assistant for macOS & Windows",
+"topics": [
+"meeting-minutes",
+"meeting-notes",
+"llm",
+"mac",
+"windows",
+"rust",
+"whisper",
+"whisper-cpp",
+"ai",
+"transcription"
+],
+"language": "Rust",
+"stars": 32376
+},
+{
+"repo": "jackwener/OpenCLI",
+"description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+"topics": [
+"ai-agent",
+"ai-agents",
+"ai-tools",
+"cli",
+"browser-automation",
+"browser-use",
+"playwright"
+],
+"language": "JavaScript",
+"stars": 30831
+},
+{
+"repo": "baidu/Unlimited-OCR",
+"description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+"topics": [],
+"language": "Python",
+"stars": 30329
+},
+{
+"repo": "karakeep-app/karakeep",
+"description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+"topics": [
+"bookmarks",
+"bookmarks-manager",
+"nextjs",
+"react-native",
+"read-it-later",
+"bookmark-manager",
+"self-hosted"
+],
+"language": "TypeScript",
+"stars": 30240
+},
+{
+"repo": "Genesis-Embodied-AI/genesis-world",
+"description": "Simulation platform for general-purpose robotics & embodied AI learning.",
+"topics": [],
+"language": "Python",
+"stars": 30154
+},
+{
+"repo": "modular/modular",
+"description": "The Modular Platform (includes MAX & Mojo)",
+"topics": [
+"ai",
+"language",
+"machine-learning",
+"mojo",
+"modular",
+"programming-language",
+"max"
+],
+"language": "Mojo",
+"stars": 30090
+},
+{
+"repo": "harvard-edge/cs249r_book",
+"description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+"topics": [
+"artificial-intelligence",
+"cloud-ml",
+"computer-systems",
+"courseware",
+"deep-learning",
+"edge-machine-learning",
+"embedded-ml",
+"machine-learning",
+"machine-learning-systems",
+"mobile-ml"
+],
+"language": "Python",
+"stars": 29778
+},
+{
+"repo": "ATH-MaaS/Pixelle-Video",
+"description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+"topics": [
+"aigc",
+"comfyui",
+"image-generation",
+"tts",
+"video-generation"
+],
+"language": "Python",
+"stars": 29682
+},
+{
+"repo": "op7418/guizang-ppt-skill",
+"description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+"topics": [
+"ai-agent",
+"claude-code",
+"codex",
+"image-generation",
+"ppt",
+"presentation",
+"skill",
+"swiss-design",
+"web-ppt",
+"html-deck"
+],
+"language": "HTML",
+"stars": 29117
+},
+{
+"repo": "jarrodwatts/claude-hud",
+"description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+"topics": [
+"anthropic",
+"claude",
+"claude-code",
+"cli",
+"plugin",
+"statusline",
+"typescript"
+],
+"language": "JavaScript",
+"stars": 29080
+},
+{
+"repo": "srbhr/Resume-Matcher",
+"description": "The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.",
+"topics": [
+"text-similarity",
+"natural-language-processing",
+"word-embeddings",
+"python",
+"machine-learning",
+"resume",
+"vector-search",
+"resume-builder",
+"resume-parser",
+"ats"
+],
+"language": "Python",
+"stars": 29046
+},
+{
+"repo": "dmlc/xgboost",
+"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+"topics": [
+"gbdt",
+"gbrt",
+"gbm",
+"distributed-systems",
+"xgboost",
+"machine-learning"
+],
+"language": "C++",
+"stars": 28936
+},
+{
+"repo": "huggingface/lerobot",
+"description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+"topics": [],
+"language": "Python",
+"stars": 28641
+},
+{
+"repo": "openai/skills",
+"description": "Skills Catalog for Codex",
+"topics": [],
+"language": "Python",
+"stars": 28456
+},
+{
+"repo": "alchaincyf/huashu-design",
+"description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+"topics": [
+"agent-skills",
+"ai-design",
+"claude-code",
+"claude-skills",
+"codex",
+"cursor",
+"design",
+"html",
+"pptx",
+"prototype"
+],
+"language": "HTML",
+"stars": 28450
+},
+{
+"repo": "fastai/fastai",
+"description": "The fastai deep learning library",
+"topics": [
+"deep-learning",
+"machine-learning",
+"pytorch",
+"python",
+"gpu",
+"fastai",
+"notebooks",
+"colab"
+],
+"language": "Jupyter Notebook",
+"stars": 28256
+},
+{
+"repo": "JimLiu/baoyu-skills",
+"description": "",
+"topics": [
+"agent-skills",
+"claude-skills",
+"codex-skills",
+"openclaw-skills"
+],
+"language": "TypeScript",
+"stars": 27180
+},
+{
+"repo": "enescingoz/awesome-n8n-templates",
+"description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
+"topics": [
+"automation",
+"integration",
+"n8n",
+"n8n-automation",
+"no-code-ai",
+"no-code-automation",
+"workflow-automation",
+"automation-templates",
+"n8n-template",
+"ai-agents"
+],
+"language": "",
+"stars": 26225
+},
+{
+"repo": "toon-format/toon",
+"description": "🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.",
+"topics": [
+"data-format",
+"llm",
+"serialization",
+"tokenization"
+],
+"language": "TypeScript",
+"stars": 25594
+},
+{
+"repo": "pascalorg/editor",
+"description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+"topics": [
+"3d",
+"architecture",
+"bim",
+"cad",
+"editor",
+"floorplan",
+"mcp",
+"nextjs",
+"parametric-design",
+"react-three-fiber"
+],
+"language": "TypeScript",
+"stars": 25270
+},
+{
+"repo": "liguodongiot/llm-action",
+"description": "本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）",
+"topics": [
+"llm",
+"llm-inference",
+"llm-serving",
+"llm-training",
+"llmops"
+],
+"language": "HTML",
+"stars": 25239
+},
+{
+"repo": "Dao-AILab/flash-attention",
+"description": "Fast and memory-efficient exact attention",
+"topics": [],
+"language": "Python",
+"stars": 25236
+},
+{
+"repo": "nocobase/nocobase",
+"description": "NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.",
+"topics": [
+"no-code",
+"low-code",
+"internal-tools",
+"admin-dashboard",
+"crud",
+"workflows",
+"self-hosted",
+"crm",
+"erp",
+"ai-agent"
+],
+"language": "TypeScript",
+"stars": 24814
+},
+{
+"repo": "dolthub/dolt",
+"description": "Dolt – Git for Data",
+"topics": [
+"database",
+"data-version-control",
+"data-versioning",
+"sql",
+"git",
+"git-for-data",
+"mysql",
+"database-version-control",
+"version-controlled-database",
+"database-versioning"
+],
+"language": "Go",
+"stars": 24799
+},
+{
+"repo": "different-ai/openwork",
+"description": "The open-source alternative to Claude Cowork (powered by opencode)",
+"topics": [],
+"language": "TypeScript",
+"stars": 24366
+},
+{
+"repo": "AccumulateMore/CV",
+"description": "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】",
+"topics": [
+"book",
+"chinese",
+"computer-vision",
+"deep-learning",
+"machine-learning",
+"natural-language-processing",
+"notebook",
+"python",
+"jupyter-notebook",
+"agent"
+],
+"language": "Jupyter Notebook",
+"stars": 24186
+},
+{
+"repo": "PaddlePaddle/Paddle",
+"description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+"topics": [
+"paddlepaddle",
+"deep-learning",
+"scalability",
+"machine-learning",
+"neural-network",
+"python",
+"efficiency",
+"distributed-training"
+],
+"language": "C++",
+"stars": 24135
+},
+{
+"repo": "browser-use/jev-ultrafast",
+"description": "Fastest and cheapest web agent",
+"topics": [],
+"language": "Python",
+"stars": 24062
+}
+]

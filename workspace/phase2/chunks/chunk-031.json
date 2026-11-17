@@ -1,0 +1,2695 @@
+[
+{
+"repo": "hal9ai/awesome-dataviz",
+"stars": 4435,
+"description": "A curated list of awesome data visualization libraries and resources.",
+"topics": [
+"data-visualization",
+"visualization",
+"chart",
+"dataviz",
+"visualize-data",
+"awesome-list"
+],
+"language": "JavaScript"
+},
+{
+"repo": "openutau/OpenUtau",
+"stars": 4425,
+"description": "Open singing synthesis platform / Open source UTAU successor",
+"topics": [
+"utau",
+"vocaloid",
+"music",
+"singing-synthesis",
+"singing-voice-synthesis",
+"vocal-synthesis",
+"speech-synthesis",
+"vogen",
+"openutau"
+],
+"language": "C#"
+},
+{
+"repo": "bnsreenu/python_for_microscopists",
+"stars": 4419,
+"description": "https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "algolia/docsearch",
+"stars": 4381,
+"description": ":blue_book: The easiest way to add search to your documentation.",
+"topics": [
+"algolia",
+"search",
+"docsearch",
+"documentation",
+"javascript",
+"react",
+"typescript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "AI4Finance-Foundation/ElegantRL",
+"stars": 4369,
+"description": "Massively Parallel Deep Reinforcement Learning. 🔥",
+"topics": [
+"pytorch",
+"reinforcement-learning",
+"ppo",
+"sac",
+"td3",
+"dqn",
+"ddpg",
+"stable",
+"lightweight",
+"efficient"
+],
+"language": "Python"
+},
+{
+"repo": "Tarquinen/opencode-dynamic-context-pruning",
+"stars": 4366,
+"description": "Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "apache/lucene-solr",
+"stars": 4365,
+"description": "Apache Lucene and Solr open-source search software",
+"topics": [
+"lucene",
+"solr",
+"search",
+"nosql",
+"java",
+"backend",
+"search-engine",
+"information-retrieval"
+],
+"language": ""
+},
+{
+"repo": "mljar/mercury",
+"stars": 4357,
+"description": "Impress your boss and turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.",
+"topics": [
+"notebook-jupyter",
+"notebooks-jupyter",
+"notebook-application",
+"notebook-publish",
+"notebook-web",
+"python",
+"data-science",
+"data-visualization",
+"jupyter-notebook",
+"jupyter-lab"
+],
+"language": "Python"
+},
+{
+"repo": "open-legal-products/mike",
+"stars": 4353,
+"description": "OSS Legal AI Platform",
+"topics": [
+"legal-ai",
+"legal-tech"
+],
+"language": "TypeScript"
+},
+{
+"repo": "LLMQuant/quant-wiki",
+"stars": 4341,
+"description": "We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。",
+"topics": [
+"quantitative-finance",
+"quantitative-trading",
+"wiki"
+],
+"language": ""
+},
+{
+"repo": "wainshine/Chinese-Names-Corpus",
+"stars": 4340,
+"description": "中文人名语料库。人名生成器。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。可用于中文分词、人名实体识别。",
+"topics": [
+"names",
+"corpus",
+"dict",
+"ner",
+"dataset"
+],
+"language": ""
+},
+{
+"repo": "vslavik/diff-pdf",
+"stars": 4332,
+"description": "A simple tool for visually comparing two PDF files",
+"topics": [
+"pdf"
+],
+"language": "C++"
+},
+{
+"repo": "rust-ndarray/ndarray",
+"stars": 4330,
+"description": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations",
+"topics": [
+"rust",
+"numerics",
+"scientific-computing",
+"rust-sci"
+],
+"language": "Rust"
+},
+{
+"repo": "facebook/duckling",
+"stars": 4322,
+"description": "Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",
+"topics": [],
+"language": "Haskell"
+},
+{
+"repo": "zvtvz/zvt",
+"stars": 4313,
+"description": "modular quant framework.",
+"topics": [
+"stock",
+"quant",
+"fintech",
+"trading-platform",
+"technical-analysis",
+"cryptocurrency",
+"fundamental-analysis",
+"algorithmic-trading",
+"trading-strategies",
+"backtesting"
+],
+"language": "Python"
+},
+{
+"repo": "ourownstory/neural_prophet",
+"stars": 4308,
+"description": "NeuralProphet: A simple forecasting package",
+"topics": [
+"forecasting",
+"time-series",
+"machine-learning",
+"fbprophet",
+"prophet",
+"forecast",
+"artificial-intelligence",
+"prediction",
+"trend",
+"seasonality"
+],
+"language": "Python"
+},
+{
+"repo": "posit-dev/positron",
+"stars": 4305,
+"description": "Positron, a next-generation data science IDE",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "Nixtla/neuralforecast",
+"stars": 4287,
+"description": "Scalable and user friendly neural :brain: forecasting algorithms.",
+"topics": [
+"deep-learning",
+"forecasting",
+"esrnn",
+"nbeats",
+"nbeatsx",
+"time-series",
+"pytorch",
+"transformer",
+"nhits",
+"neural-network"
+],
+"language": "Python"
+},
+{
+"repo": "CLUEbenchmark/CLUE",
+"stars": 4286,
+"description": "中文语言理解测评基准 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard  ",
+"topics": [
+"nlu",
+"benchmark",
+"chinese",
+"corpus",
+"dataset",
+"bert",
+"albert",
+"chineseglue",
+"glue",
+"roberta"
+],
+"language": "Python"
+},
+{
+"repo": "grosser/parallel",
+"stars": 4269,
+"description": "Ruby: parallel processing made simple and fast",
+"topics": [],
+"language": "Ruby"
+},
+{
+"repo": "klinecharts/KLineChart",
+"stars": 4254,
+"description": "📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）",
+"topics": [
+"kline",
+"time-line",
+"candlestick",
+"canvas",
+"stock",
+"chart",
+"exchange",
+"finance",
+"klinechart",
+"stockchart"
+],
+"language": "TypeScript"
+},
+{
+"repo": "toshi-search/Toshi",
+"stars": 4254,
+"description": "A full-text search engine in rust",
+"topics": [
+"search",
+"search-engine",
+"indexing",
+"rust",
+"rust-lang",
+"elasticsearch"
+],
+"language": "Rust"
+},
+{
+"repo": "cvg/Hierarchical-Localization",
+"stars": 4243,
+"description": "Visual localization made easy with hloc",
+"topics": [
+"deep-learning",
+"visual-localization",
+"feature-matching",
+"image-retrieval",
+"structure-from-motion",
+"pose-estimation",
+"superglue"
+],
+"language": "Python"
+},
+{
+"repo": "actions/upload-artifact",
+"stars": 4230,
+"description": "",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "MaartenGr/KeyBERT",
+"stars": 4220,
+"description": "Minimal keyword extraction with BERT",
+"topics": [
+"keyword-extraction",
+"keyphrase-extraction",
+"bert",
+"mmr"
+],
+"language": "Python"
+},
+{
+"repo": "pydata/xarray",
+"stars": 4210,
+"description": "N-D labeled arrays and datasets in Python",
+"topics": [
+"python",
+"netcdf",
+"numpy",
+"pandas",
+"xarray",
+"dask"
+],
+"language": "Python"
+},
+{
+"repo": "rapidfuzz/RapidFuzz",
+"stars": 4170,
+"description": "Rapid fuzzy string matching in Python using various string metrics",
+"topics": [
+"string-matching",
+"string-similarity",
+"string-comparison",
+"levenshtein",
+"python",
+"cpp",
+"levenshtein-distance"
+],
+"language": "Python"
+},
+{
+"repo": "opengeos/segment-geospatial",
+"stars": 4169,
+"description": "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+"topics": [
+"artificial-intelligence",
+"deep-learning",
+"machine-learning",
+"segmentation",
+"geopython",
+"geospatial",
+"segment-anything"
+],
+"language": "Python"
+},
+{
+"repo": "stumpy-dev/stumpy",
+"stars": 4165,
+"description": "STUMPY is a powerful and scalable Python library for modern time series analysis",
+"topics": [
+"data-science",
+"time-series-analysis",
+"dask",
+"numba",
+"python",
+"anomaly-detection",
+"pattern-matching",
+"pydata",
+"matrix-profile",
+"motif-discovery"
+],
+"language": "Python"
+},
+{
+"repo": "cdcseacave/openMVS",
+"stars": 4154,
+"description": "open Structure-fom-Motion and Multi-View Stereo reconstruction library",
+"topics": [
+"multi-view-stereo",
+"3d-reconstruction",
+"point-cloud",
+"stereo-reconstruction-library",
+"mesh",
+"texture",
+"openmvs",
+"stereo",
+"surface",
+"refinement"
+],
+"language": "C++"
+},
+{
+"repo": "Infatoshi/cuda-course",
+"stars": 4147,
+"description": "",
+"topics": [],
+"language": "Cuda"
+},
+{
+"repo": "yacy/yacy_search_server",
+"stars": 4072,
+"description": "Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance",
+"topics": [
+"decentralized",
+"p2p",
+"p2p-network",
+"privacy",
+"privacy-protection",
+"search-engine",
+"searchengine",
+"web",
+"web-search-engine",
+"websearch"
+],
+"language": "Java"
+},
+{
+"repo": "timescale/pg_textsearch",
+"stars": 4034,
+"description": "PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.",
+"topics": [
+"bm25",
+"c-extension",
+"full-text-search",
+"postgresql"
+],
+"language": "C"
+},
+{
+"repo": "googleapis/python-genai",
+"stars": 4028,
+"description": "Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "kakoni/awesome-healthcare",
+"stars": 4017,
+"description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
+"topics": [
+"health",
+"awesome",
+"awesome-list",
+"list"
+],
+"language": ""
+},
+{
+"repo": "dora-rs/dora",
+"stars": 4016,
+"description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+"topics": [
+"dataflow",
+"low-latency",
+"robotics",
+"rust",
+"embodied-ai"
+],
+"language": "Rust"
+},
+{
+"repo": "SystemErrorWang/White-box-Cartoonization",
+"stars": 3999,
+"description": "Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "esokolov/ml-course-hse",
+"stars": 3964,
+"description": "Машинное обучение на ФКН ВШЭ",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "KoboldAI/KoboldAI-Client",
+"stars": 3953,
+"description": "For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "cornellius-gp/gpytorch",
+"stars": 3927,
+"description": "A highly efficient implementation of Gaussian Processes in PyTorch",
+"topics": [
+"pytorch",
+"gaussian-processes",
+"gpu-acceleration"
+],
+"language": "Python"
+},
+{
+"repo": "seandavi/awesome-single-cell",
+"stars": 3877,
+"description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
+"topics": [
+"rna-seq-data",
+"gene-expression",
+"scrna-seq-data",
+"bioinformatics",
+"awesome-list",
+"dimensionality-reduction",
+"atac-seq",
+"cell-differentiation",
+"python",
+"clustering"
+],
+"language": ""
+},
+{
+"repo": "shenweichen/GraphEmbedding",
+"stars": 3844,
+"description": "Implementation and experiments  of graph embedding algorithms.",
+"topics": [
+"deepwalk",
+"node2vec",
+"line",
+"sdne",
+"struc2vec",
+"graph",
+"graphembedding"
+],
+"language": "Python"
+},
+{
+"repo": "JohannesKaufmann/html-to-markdown",
+"stars": 3835,
+"description": "⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.",
+"topics": [
+"go",
+"golang",
+"html",
+"html-to-markdown",
+"markdown",
+"converter",
+"cli"
+],
+"language": "Go"
+},
+{
+"repo": "benfred/implicit",
+"stars": 3831,
+"description": "Fast Python Collaborative Filtering for Implicit Feedback Datasets",
+"topics": [
+"collaborative-filtering",
+"machine-learning",
+"matrix-factorization",
+"recommender-system",
+"recommendation-system",
+"recommendation"
+],
+"language": "Python"
+},
+{
+"repo": "mckinsey/vizro",
+"stars": 3810,
+"description": "Vizro is a low-code toolkit for building high-quality data visualization apps.",
+"topics": [
+"dashboard",
+"plotly",
+"plotly-dash",
+"python",
+"pydantic",
+"data-visualization",
+"visualization"
+],
+"language": "Python"
+},
+{
+"repo": "mapillary/OpenSfM",
+"stars": 3807,
+"description": "Open source Structure-from-Motion pipeline",
+"topics": [
+"opencv",
+"python",
+"sfm",
+"3d-reconstruction"
+],
+"language": "Python"
+},
+{
+"repo": "coleam00/local-ai-packaged",
+"stars": 3783,
+"description": "Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "sukeesh/Jarvis",
+"stars": 3763,
+"description": "Personal Assistant for Linux and macOS",
+"topics": [
+"linux",
+"personal-assistant",
+"macos"
+],
+"language": "Python"
+},
+{
+"repo": "DLR-RM/BlenderProc",
+"stars": 3753,
+"description": "A procedural Blender pipeline for photorealistic training image generation",
+"topics": [
+"blender-pipeline",
+"segmentation",
+"depth-images",
+"camera-positions",
+"suncg-scene",
+"camera-sampling",
+"blender-installation",
+"synthetic",
+"blender",
+"rendering"
+],
+"language": "Python"
+},
+{
+"repo": "robbyant-research/MagicQuill",
+"stars": 3685,
+"description": "[CVPR'25] Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System",
+"topics": [
+"aigc",
+"image-editing",
+"mllm",
+"gradio"
+],
+"language": "Python"
+},
+{
+"repo": "Arcenox-co/TickerQ",
+"stars": 3646,
+"description": "TickerQ is a fast, reflection-free background task scheduler for .NET  built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.",
+"topics": [
+"background-processing",
+"dotnet",
+"job-scheduler",
+"open-source",
+"real-time-dashboard"
+],
+"language": "C#"
+},
+{
+"repo": "apache/arrow-rs",
+"stars": 3641,
+"description": "Official Rust implementation of Apache Arrow",
+"topics": [
+"arrow",
+"parquet"
+],
+"language": "Rust"
+},
+{
+"repo": "rdkit/rdkit",
+"stars": 3627,
+"description": "The official sources for the RDKit library",
+"topics": [
+"cheminformatics",
+"c-plus-plus",
+"python",
+"rdkit"
+],
+"language": "HTML"
+},
+{
+"repo": "krzjoa/awesome-python-data-science",
+"stars": 3613,
+"description": "Probably the best curated list of data science software in Python.",
+"topics": [
+"awesome",
+"awesome-list",
+"awesome-python",
+"scikit-learn",
+"python",
+"deep-learning",
+"machine-learning",
+"data-science",
+"data-visualization",
+"data-analysis"
+],
+"language": ""
+},
+{
+"repo": "pawl/awesome-etl",
+"stars": 3595,
+"description": "A curated list of awesome ETL frameworks, libraries, and software.",
+"topics": [
+"awesome",
+"awesome-list",
+"etl"
+],
+"language": ""
+},
+{
+"repo": "roflcoopter/viseron",
+"stars": 3591,
+"description": "Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.",
+"topics": [
+"nvr",
+"network-video-capture",
+"network-video-recorder",
+"tensorflow",
+"darknet",
+"yolo",
+"hardware-acceleration",
+"object-detection",
+"motion-detection",
+"cuda"
+],
+"language": "Python"
+},
+{
+"repo": "apache/lucene",
+"stars": 3589,
+"description": "Apache Lucene open-source search software",
+"topics": [
+"lucene",
+"search",
+"nosql",
+"java",
+"backend",
+"search-engine",
+"information-retrieval"
+],
+"language": "Java"
+},
+{
+"repo": "borb-pdf/borb",
+"stars": 3571,
+"description": "borb is a library for reading, creating and manipulating PDF files in python.",
+"topics": [
+"pdf",
+"pdf-generation",
+"pdf-converter",
+"pdf-conversion",
+"pdf-library",
+"python",
+"python3",
+"typesetting",
+"library",
+"sdk"
+],
+"language": "Python"
+},
+{
+"repo": "pst-group/pysystemtrade",
+"stars": 3556,
+"description": "Systematic Trading in python",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "unitycatalog/unitycatalog",
+"stars": 3552,
+"description": "Open, Multi-modal Catalog for Data & AI",
+"topics": [],
+"language": "Java"
+},
+{
+"repo": "nagadomi/nunif",
+"stars": 3506,
+"description": "Misc; latest version of waifu2x;  2D video to stereo 3D video conversion",
+"topics": [
+"super-resolution",
+"vr",
+"waifu2x"
+],
+"language": "Python"
+},
+{
+"repo": "ethen8181/machine-learning",
+"stars": 3502,
+"description": ":earth_americas: machine learning tutorials (mainly in Python3) ",
+"topics": [
+"machine-learning",
+"data-science",
+"jupyter-notebook",
+"python3",
+"deep-learning",
+"python"
+],
+"language": "HTML"
+},
+{
+"repo": "matheusfacure/python-causality-handbook",
+"stars": 3489,
+"description": "Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and causality. ",
+"topics": [
+"causal-inference",
+"python",
+"causality",
+"data-science",
+"econometrics",
+"impact-estimation",
+"harmless-econometrics"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "nihui/waifu2x-ncnn-vulkan",
+"stars": 3488,
+"description": "waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan",
+"topics": [
+"waifu2x",
+"ncnn",
+"vulkan",
+"gpu",
+"amd",
+"nvidia",
+"intel",
+"windows",
+"linux",
+"macos"
+],
+"language": "C++"
+},
+{
+"repo": "NLPIR-team/NLPIR",
+"stars": 3480,
+"description": "",
+"topics": [],
+"language": "HTML"
+},
+{
+"repo": "Docta-ai/docta",
+"stars": 3478,
+"description": "A Doctor for your data",
+"topics": [
+"data",
+"data-centric-ai",
+"data-centric-machine-learning",
+"data-curation",
+"data-diagnosis",
+"language-model",
+"rlhf"
+],
+"language": "Python"
+},
+{
+"repo": "RainerKuemmerle/g2o",
+"stars": 3471,
+"description": "g2o: A General Framework for Graph Optimization",
+"topics": [
+"g2o",
+"slam",
+"c-plus-plus",
+"graph-optimization",
+"cpp"
+],
+"language": "C++"
+},
+{
+"repo": "lakehq/sail",
+"stars": 3455,
+"description": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+"topics": [
+"arrow",
+"big-data",
+"pyspark",
+"rust",
+"spark",
+"sql",
+"datafusion",
+"python",
+"artificial-intelligence",
+"data-engineering"
+],
+"language": "Rust"
+},
+{
+"repo": "aqlaboratory/openfold",
+"stars": 3439,
+"description": "Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2",
+"topics": [
+"pytorch",
+"protein-structure",
+"alphafold2"
+],
+"language": "Python"
+},
+{
+"repo": "luigifreda/pyslam",
+"stars": 3429,
+"description": "pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocular, stereo, and RGB-D cameras. It provides a broad set of modern local and global feature extractors, multiple loop-closure strategies, a volumetric reconstruction module, integrated depth-prediction models, and semantic segmentation capabilities for enhanced scene understanding.",
+"topics": [
+"3d-reconstruction",
+"depth-prediction",
+"feature-matching",
+"global-features",
+"local-features",
+"rgbd-slam",
+"scene-understanding",
+"semantic-mapping",
+"semantic-segmentation",
+"semantic-understanding"
+],
+"language": "Python"
+},
+{
+"repo": "hyperai/awesome-ai4s",
+"stars": 3390,
+"description": "AI for Science 论文解读合集（持续更新ing），论文/数据集/教程下载：hyper.ai",
+"topics": [],
+"language": ""
+},
+{
+"repo": "actionsflow/actionsflow",
+"stars": 3372,
+"description": "The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions",
+"topics": [
+"actionsflow",
+"workflow",
+"automate",
+"ifttt",
+"zapier",
+"actions",
+"hacktoberfest"
+],
+"language": "TypeScript"
+},
+{
+"repo": "libAudioFlux/audioFlux",
+"stars": 3372,
+"description": "A library for audio and music analysis, feature extraction.",
+"topics": [
+"audio",
+"audio-analysis",
+"audio-features",
+"python",
+"music",
+"music-information-retrieval",
+"spectrogram",
+"wavelet-transform",
+"spectral-analysis",
+"wavelet-analysis"
+],
+"language": "C"
+},
+{
+"repo": "linuxfoundation/crowd.dev",
+"stars": 3369,
+"description": "LFX Community Data Platform (CDP)",
+"topics": [
+"community",
+"cdp",
+"open-source"
+],
+"language": "TypeScript"
+},
+{
+"repo": "vladmandic/human",
+"stars": 3352,
+"description": "Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction, Gaze Tracking, Gesture Recognition",
+"topics": [
+"face-detection",
+"gender-prediction",
+"iris-tracking",
+"body-tracking",
+"hand-tracking",
+"tensorflowjs",
+"age-estimation",
+"face-position",
+"tfjs",
+"emotion-detection"
+],
+"language": "HTML"
+},
+{
+"repo": "delta-io/delta-rs",
+"stars": 3343,
+"description": "A native Rust library for Delta Lake, with bindings into Python",
+"topics": [
+"delta",
+"rust",
+"delta-lake",
+"databricks",
+"python",
+"pandas",
+"pandas-dataframe"
+],
+"language": "Rust"
+},
+{
+"repo": "duckdb/ducklake",
+"stars": 3315,
+"description": "DuckLake is an integrated data lake and catalog format",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "hbb1/2d-gaussian-splatting",
+"stars": 3313,
+"description": "[SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+"topics": [
+"novel-view-synthesis",
+"surface-reconstruction",
+"gaussian-splatting"
+],
+"language": "Python"
+},
+{
+"repo": "tensorforce/tensorforce",
+"stars": 3305,
+"description": "Tensorforce: a TensorFlow library for applied reinforcement learning",
+"topics": [
+"reinforcement-learning",
+"tensorflow",
+"deep-reinforcement-learning",
+"tensorflow-library",
+"tensorforce",
+"control",
+"system-control"
+],
+"language": "Python"
+},
+{
+"repo": "rguo12/awesome-causality-algorithms",
+"stars": 3292,
+"description": "An index of algorithms for learning causality with data",
+"topics": [
+"causality",
+"causal-inference",
+"causality-analysis",
+"causality-algorithms",
+"unconfoundedness-assumption",
+"baselines",
+"awesome",
+"learning-to-rank",
+"recommender-system",
+"multilabel-classification"
+],
+"language": ""
+},
+{
+"repo": "WeBankFinTech/DataSphereStudio",
+"stars": 3271,
+"description": "DataSphereStudio is a one stop data application development& management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualization, and task scheduling.",
+"topics": [
+"workflow",
+"governance",
+"azkaban",
+"davinci",
+"linkis",
+"spark",
+"hive",
+"hadoop",
+"visualis",
+"zeppelin"
+],
+"language": "Java"
+},
+{
+"repo": "VOICEVOX/voicevox",
+"stars": 3269,
+"description": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "Kanaries/graphic-walker",
+"stars": 3267,
+"description": "An open source alternative to Tableau. Embeddable visual analytic",
+"topics": [
+"tableau",
+"vega-lite",
+"visualization",
+"bi",
+"data-visualization",
+"pivot-table",
+"react",
+"data",
+"data-analysis",
+"data-mining"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Djdefrag/QualityScaler",
+"stars": 3210,
+"description": "QualityScaler - image/video AI upscaler app",
+"topics": [
+"python",
+"amd",
+"intel",
+"nvidia",
+"directx-12",
+"windows",
+"compression-artifact-reduction",
+"deep-learning",
+"gui-application",
+"noise-reduction"
+],
+"language": "Python"
+},
+{
+"repo": "minar09/awesome-virtual-try-on",
+"stars": 3202,
+"description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
+"topics": [
+"awesome-list",
+"curated",
+"curated-list",
+"collection",
+"vton",
+"virtual-try-on",
+"image-based",
+"2d-virtual-try-on",
+"try-on",
+"fashion"
+],
+"language": ""
+},
+{
+"repo": "teamtnt/tntsearch",
+"stars": 3200,
+"description": "A fully featured full text search engine written in PHP",
+"topics": [
+"php",
+"fulltext",
+"search",
+"search-engine",
+"full-text-search",
+"fuzzy-search",
+"geo-search",
+"fuzzy",
+"fuzzy-matching",
+"tntsearch"
+],
+"language": "PHP"
+},
+{
+"repo": "apache/hugegraph",
+"stars": 3192,
+"description": "A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)",
+"topics": [
+"database",
+"graph-database",
+"graph",
+"gremlin",
+"big-data",
+"graphdb"
+],
+"language": "Java"
+},
+{
+"repo": "tslearn-team/tslearn",
+"stars": 3187,
+"description": "The machine learning toolkit for time series analysis in Python",
+"topics": [
+"time-series",
+"timeseries",
+"time-series-analysis",
+"time-series-clustering",
+"machine-learning",
+"machine-learning-algorithms",
+"machinelearning",
+"dtw",
+"python",
+"time-series-classification"
+],
+"language": "Python"
+},
+{
+"repo": "chflame163/ComfyUI_LayerStyle",
+"stars": 3184,
+"description": "A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "domokane/FinancePy",
+"stars": 3184,
+"description": "A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives. ",
+"topics": [
+"risk",
+"pricing",
+"risk-management",
+"asset-allocation",
+"finance",
+"valuation",
+"python",
+"derivatives-pricing",
+"numba",
+"bonds"
+],
+"language": "Python"
+},
+{
+"repo": "stemrollerapp/stemroller",
+"stars": 3175,
+"description": "Isolate vocals, drums, bass, and other instrumental stems from any song",
+"topics": [
+"bass",
+"deep-learning",
+"demucs",
+"drums",
+"electron",
+"javascript",
+"python",
+"vocals",
+"machine-learning",
+"source-separation"
+],
+"language": "Svelte"
+},
+{
+"repo": "scikit-learn-contrib/hdbscan",
+"stars": 3156,
+"description": "A high performance implementation of HDBSCAN clustering.",
+"topics": [
+"machine-learning",
+"machine-learning-algorithms",
+"clustering",
+"clustering-algorithm",
+"cluster-analysis",
+"clustering-evaluation"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "z-x-yang/Segment-and-Track-Anything",
+"stars": 3141,
+"description": "An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.",
+"topics": [
+"interactive-segmentation",
+"segment-anything",
+"segment-anything-model",
+"video-object-segmentation",
+"visual-object-tracking"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "fbdesignpro/sweetviz",
+"stars": 3131,
+"description": "Visualize and compare datasets, target values and associations, with one line of code.",
+"topics": [
+"pandas-dataframe",
+"eda",
+"pandas",
+"data-exploration",
+"data-analysis",
+"data-science",
+"data-visualization",
+"machine-learning",
+"data-profiling",
+"exploratory-data-analysis"
+],
+"language": "Python"
+},
+{
+"repo": "unidoc/unipdf",
+"stars": 3127,
+"description": "Golang PDF library for creating and processing PDF files (pure go)",
+"topics": [
+"golang",
+"pdf",
+"pdf-library",
+"pdf-generation",
+"pdf-document-processor",
+"text-extraction",
+"pdf-manipulation",
+"pdf-compression",
+"pdf-reports",
+"signing"
+],
+"language": "Go"
+},
+{
+"repo": "ibelick/prompt-kit",
+"stars": 3125,
+"description": "Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.",
+"topics": [
+"ai",
+"components",
+"nextjs",
+"react",
+"shadcn",
+"shadcn-ui",
+"tailwindcss",
+"ui"
+],
+"language": "TypeScript"
+},
+{
+"repo": "msgbyte/tianji",
+"stars": 3112,
+"description": "Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives",
+"topics": [
+"analytics",
+"docker",
+"google-analytics",
+"monitor",
+"self-hosted",
+"selfhosted",
+"server-status",
+"statistics",
+"umami",
+"uptime"
+],
+"language": "TypeScript"
+},
+{
+"repo": "jobrunr/jobrunr",
+"stars": 3099,
+"description": "An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.",
+"topics": [
+"java-8",
+"background-jobs",
+"parallel-processing",
+"scheduling",
+"scheduled-jobs",
+"java",
+"quartz",
+"scheduler",
+"java-scheduler"
+],
+"language": "Java"
+},
+{
+"repo": "sonos/tract",
+"stars": 3093,
+"description": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+"topics": [
+"tensorflow",
+"onnx",
+"neural-networks",
+"artificial-intelligence",
+"rust-library",
+"rust"
+],
+"language": "Rust"
+},
+{
+"repo": "Nutlope/self.so",
+"stars": 3090,
+"description": "LinkedIn -> personal site generator",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "RosettaCommons/RFdiffusion",
+"stars": 3090,
+"description": "Code for running RFdiffusion",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "antimatter15/splat",
+"stars": 3074,
+"description": "WebGL 3D Gaussian Splat Viewer",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "Contrastive-LM/CLM",
+"stars": 3062,
+"description": "Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "jarrodwatts/jev-trader",
+"stars": 3028,
+"description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "luminal-ai/luminal",
+"stars": 3027,
+"description": "Inference at the speed of light.",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "pmorissette/bt",
+"stars": 2996,
+"description": "bt - flexible backtesting for Python",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "sunspot/sunspot",
+"stars": 2978,
+"description": "Solr-powered search for Ruby objects",
+"topics": [
+"sunspot",
+"solr",
+"solr-search-engine",
+"ruby"
+],
+"language": "JavaScript"
+},
+{
+"repo": "tinysearch/tinysearch",
+"stars": 2977,
+"description": "🔍 Tiny, full-text search engine for static websites built with Rust and Wasm",
+"topics": [
+"bloom-filter",
+"static-site",
+"search-engine",
+"wasm",
+"rust",
+"lunrjs",
+"elasticlunr",
+"hacktoberfest"
+],
+"language": "Rust"
+},
+{
+"repo": "sokrypton/ColabFold",
+"stars": 2964,
+"description": "Making Protein folding accessible to all!",
+"topics": [
+"bioinformatics",
+"multiple-sequence-alignment",
+"protein-structure",
+"structure-prediction"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "iscyy/ultralyticsPro",
+"stars": 2955,
+"description": "🔥🔥🔥 专注于YOLO11，YOLOv8、TYOLOv12、YOLOv10、RT-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+"topics": [
+"yolov5",
+"backbone",
+"pytorch",
+"transformer",
+"yolov3",
+"yolov4",
+"yolov7",
+"deep-learning",
+"yoloair",
+"yolov6"
+],
+"language": "Python"
+},
+{
+"repo": "signintech/gopdf",
+"stars": 2938,
+"description": "A simple library for generating PDF written in Go lang",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "decoderesearch/circuit-tracer",
+"stars": 2922,
+"description": "",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "mkkellogg/GaussianSplats3D",
+"stars": 2918,
+"description": "Three.js-based implementation of 3D Gaussian splatting",
+"topics": [
+"gaussian-splatting",
+"three-js",
+"webgl",
+"threejs",
+"3d-gaussian-splatting",
+"javascript"
+],
+"language": "JavaScript"
+},
+{
+"repo": "elixir-nx/nx",
+"stars": 2915,
+"description": "Multi-dimensional arrays (tensors) and numerical definitions for Elixir",
+"topics": [
+"gpu",
+"numerical",
+"elixir",
+"tensor",
+"xla",
+"pytorch",
+"jit"
+],
+"language": "Elixir"
+},
+{
+"repo": "JuliaLang/IJulia.jl",
+"stars": 2908,
+"description": "Julia kernel for Jupyter",
+"topics": [],
+"language": "Julia"
+},
+{
+"repo": "posit-dev/great-tables",
+"stars": 2902,
+"description": "Make awesome display tables using Python",
+"topics": [
+"easy-to-use",
+"formatting-data",
+"pandas-dataframe",
+"polars-dataframe",
+"python",
+"styling",
+"summary-tables",
+"tables"
+],
+"language": "Python"
+},
+{
+"repo": "googleapis/google-api-ruby-client",
+"stars": 2900,
+"description": "REST client for Google APIs",
+"topics": [],
+"language": "Ruby"
+},
+{
+"repo": "logpai/loghub",
+"stars": 2880,
+"description": "A large collection of system log datasets for AI-driven log analytics [ISSRE'23]",
+"topics": [
+"logs",
+"unstructured-logs",
+"log-analysis",
+"log-parsing",
+"datasets",
+"anomaly-detection",
+"log-intelligence"
+],
+"language": ""
+},
+{
+"repo": "F1bonacc1/process-compose",
+"stars": 2860,
+"description": "Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.",
+"topics": [
+"go",
+"golang",
+"open-source",
+"orchestration",
+"orchestrator",
+"processes",
+"tui",
+"workflows",
+"docker"
+],
+"language": "Go"
+},
+{
+"repo": "TeamHG-Memex/eli5",
+"stars": 2853,
+"description": "A library for debugging/inspecting machine learning classifiers and explaining their predictions",
+"topics": [
+"scikit-learn",
+"machine-learning",
+"xgboost",
+"lightgbm",
+"crfsuite",
+"inspection",
+"explanation",
+"nlp",
+"data-science",
+"python"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "dscripka/openWakeWord",
+"stars": 2850,
+"description": "An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "jupyter/nbdime",
+"stars": 2845,
+"description": "Tools for diffing and merging of Jupyter notebooks.",
+"topics": [
+"jupyterlab-extension",
+"jupyter",
+"jupyter-notebook",
+"diff",
+"diffing",
+"merge",
+"git",
+"hg",
+"mercurial",
+"mergetool"
+],
+"language": "TypeScript"
+},
+{
+"repo": "go-ego/gse",
+"stars": 2844,
+"description": "Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.",
+"topics": [
+"go",
+"segment",
+"nlp",
+"gse",
+"hmm",
+"jieba",
+"hmm-viterbi-algorithm",
+"trie",
+"chinese",
+"english"
+],
+"language": "Go"
+},
+{
+"repo": "viser-project/viser",
+"stars": 2823,
+"description": "Web-based 3D visualization in Python",
+"topics": [
+"python",
+"visualization",
+"web"
+],
+"language": "Python"
+},
+{
+"repo": "DominikDoom/a1111-sd-webui-tagcomplete",
+"stars": 2810,
+"description": "Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "zhpmatrix/nlp-competitions-list-review",
+"stars": 2805,
+"description": "复盘所有NLP比赛的TOP方案，只关注NLP比赛，持续更新中！",
+"topics": [
+"nlp-competition",
+"solution",
+"review"
+],
+"language": ""
+},
+{
+"repo": "napari/napari",
+"stars": 2783,
+"description": "napari: a fast, interactive, multi-dimensional image viewer for python",
+"topics": [
+"napari",
+"numpy",
+"visualization",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "johnfercher/maroto",
+"stars": 2770,
+"description": "A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.",
+"topics": [
+"pdf",
+"bootstrap",
+"golang",
+"fast",
+"simple",
+"grid"
+],
+"language": "Go"
+},
+{
+"repo": "apple-aiml-research/ml-ane-transformers",
+"stars": 2747,
+"description": "Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "skishore/makemeahanzi",
+"stars": 2720,
+"description": "Free, open-source Chinese character data",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "pmorissette/ffn",
+"stars": 2682,
+"description": "ffn - a financial function library for Python",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "the-momentum/open-wearables",
+"stars": 2667,
+"description": "Self-hosted platform to unify wearable health data through one AI-ready API.",
+"topics": [
+"wearables",
+"apple-health",
+"apple-watch",
+"fitness",
+"fitness-analysis",
+"fitness-api",
+"garmin",
+"health",
+"healthcare",
+"healthcare-ai"
+],
+"language": "Python"
+},
+{
+"repo": "sergree/matchering",
+"stars": 2662,
+"description": "🎚️ Open Source Audio Matching and Mastering",
+"topics": [
+"audio",
+"sound",
+"mastering",
+"matchering",
+"dsp",
+"equalizer",
+"music",
+"vst",
+"matching",
+"spectrum"
+],
+"language": "Python"
+},
+{
+"repo": "meltano/meltano",
+"stars": 2661,
+"description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.",
+"topics": [
+"dataops",
+"dataops-platform",
+"elt",
+"open-source",
+"opensource",
+"data",
+"pipelines",
+"extract-data",
+"meltano",
+"meltano-sdk"
+],
+"language": "Python"
+},
+{
+"repo": "swz30/Restormer",
+"stars": 2660,
+"description": "[CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring. ",
+"topics": [
+"image-restoration",
+"image-deraining",
+"image-deblurring",
+"defocus-deblurring",
+"motion-deblurring",
+"transformer",
+"pytorch",
+"low-level-vision",
+"cvpr2022",
+"high-resolution"
+],
+"language": "Python"
+},
+{
+"repo": "hora-search/hora",
+"stars": 2658,
+"description": "🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . ",
+"topics": [
+"search-engine",
+"rust",
+"approximate-nearest-neighbor-search",
+"artificial-intelligence",
+"recommender-system",
+"image-search",
+"vector-search",
+"algorithm",
+"data-structures",
+"simd"
+],
+"language": "Rust"
+},
+{
+"repo": "Faceplugin-ltd/Open-Source-Face-Recognition-SDK",
+"stars": 2633,
+"description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+"topics": [
+"deep-learning",
+"face-detection",
+"face-landmark-detection",
+"face-recognition",
+"identity-verification",
+"machine-learning",
+"open-source",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "scverse/scanpy",
+"stars": 2590,
+"description": "Single-cell analysis in Python. Scales to >100M cells.",
+"topics": [
+"machine-learning",
+"data-science",
+"visualize-data",
+"transcriptomics",
+"bioinformatics",
+"scanpy",
+"anndata",
+"python",
+"scverse"
+],
+"language": "Python"
+},
+{
+"repo": "UglyToad/PdfPig",
+"stars": 2588,
+"description": "Read and extract text and other content from PDFs in C# (port of PDFBox)",
+"topics": [
+"pdfbox",
+"pdf",
+"pdf-document",
+"csharp",
+"netstandard",
+"pdf-extractor",
+"pdf-document-processor",
+"pdf-files",
+"alto-xml",
+"hocr"
+],
+"language": "C#"
+},
+{
+"repo": "graphistry/pygraphistry",
+"stars": 2572,
+"description": "PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer",
+"topics": [
+"graph",
+"visualization",
+"gpu",
+"graphistry",
+"python",
+"rapids",
+"cugraph",
+"networkx",
+"neo4j",
+"tigergraph"
+],
+"language": "Python"
+},
+{
+"repo": "Project-MONAI/tutorials",
+"stars": 2568,
+"description": "MONAI Tutorials",
+"topics": [
+"monai",
+"monai-tutorials",
+"pytorch",
+"jupyter-notebook",
+"monai-workflows"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "s3prl/s3prl",
+"stars": 2568,
+"description": "Self-Supervised Speech Pre-training and Representation Learning Toolkit",
+"topics": [
+"speech-representation",
+"mockingjay",
+"representation-learning",
+"apc",
+"tera",
+"self-supervised-learning",
+"speech-pretraining",
+"vq-apc",
+"wav2vec",
+"vq-wav2vec"
+],
+"language": "Python"
+},
+{
+"repo": "sorenisanerd/gotty",
+"stars": 2560,
+"description": "Share your terminal as a web application",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "TianyuCodings/NanoJev",
+"stars": 2560,
+"description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "nusquama/n8nworkflows.xyz",
+"stars": 2530,
+"description": "N8N Workflows Catalog",
+"topics": [
+"n8n",
+"n8n-automation",
+"n8n-node",
+"n8n-nodes",
+"n8n-template",
+"n8n-workflow",
+"n8n-workflows"
+],
+"language": ""
+},
+{
+"repo": "skfolio/skfolio",
+"stars": 2516,
+"description": "Python library for portfolio optimization built on top of scikit-learn",
+"topics": [
+"asset-allocation",
+"asset-management",
+"convex-optimization",
+"cvar-optimization",
+"cvxpy",
+"efficient-frontier",
+"hierarchical-clustering",
+"machine-learning",
+"portfolio",
+"portfolio-optimization"
+],
+"language": "Python"
+},
+{
+"repo": "abhineet123/Deep-Learning-for-Tracking-and-Detection",
+"stars": 2515,
+"description": "Collection of papers, datasets, code and other resources for object tracking and detection using deep learning",
+"topics": [
+"deep-learning",
+"object-detection",
+"detection",
+"tracking-by-detection",
+"tracking",
+"papers",
+"paper-collection",
+"code-collection",
+"segmentation",
+"optical-flow"
+],
+"language": "HTML"
+},
+{
+"repo": "heyalexej/awesome-images",
+"stars": 2513,
+"description": "A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.",
+"topics": [],
+"language": ""
+},
+{
+"repo": "oegedijk/explainerdashboard",
+"stars": 2511,
+"description": "Quickly build Explainable AI dashboards that show the inner workings of so-called \"blackbox\" machine learning models.",
+"topics": [
+"dash",
+"shap-values",
+"dashboard",
+"model-predictions",
+"data-scientists",
+"explainer",
+"interactive-dashboards",
+"permutation-importances",
+"shap",
+"plotly"
+],
+"language": "Python"
+},
+{
+"repo": "scikit-learn-contrib/category_encoders",
+"stars": 2510,
+"description": "A library of sklearn compatible categorical variable encoders",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "earendil-works/absurd",
+"stars": 2502,
+"description": "An experiment in durability",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "twistedfall/opencv-rust",
+"stars": 2497,
+"description": "OpenCV API bindings for Rust",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "wgsxm/PartCrafter",
+"stars": 2492,
+"description": "[NeurIPS 2025] PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers",
+"topics": [
+"3d-generation",
+"3d-reconstruction",
+"3d",
+"image-to-3d",
+"3d-object-generation",
+"3d-object-reconstruction",
+"3d-scene-generation",
+"3d-scene-reconstruction"
+],
+"language": "Python"
+},
+{
+"repo": "benedekrozemberczki/awesome-decision-tree-papers",
+"stars": 2477,
+"description": "A collection of research papers on decision, classification and regression trees with implementations.",
+"topics": [
+"decision-tree",
+"decision-tree-classifier",
+"gradient-boosting",
+"gradient-boosting-machine",
+"regression-tree",
+"cart",
+"machine-learning",
+"machine-learning-research",
+"random-forest",
+"xgboost"
+],
+"language": "Python"
+},
+{
+"repo": "oldwinter/knowledge-garden",
+"stars": 2461,
+"description": "我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成",
+"topics": [
+"digital-garden",
+"logseq",
+"obsidian",
+"second-brain",
+"markdown",
+"notes",
+"vscode",
+"pkm",
+"knowledge-base",
+"local-first"
+],
+"language": "TypeScript"
+},
+{
+"repo": "Shuffle/Shuffle",
+"stars": 2458,
+"description": "Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.",
+"topics": [
+"automation",
+"cybersecurity",
+"openapi",
+"shuffle",
+"security",
+"workflow-editor",
+"integrations",
+"mitre-attack",
+"discord",
+"soar"
+],
+"language": "JavaScript"
+},
+{
+"repo": "benedekrozemberczki/awesome-community-detection",
+"stars": 2453,
+"description": "A curated list of community detection research papers with implementations. ",
+"topics": [
+"graph-clustering",
+"network-clustering",
+"clustering",
+"dimensionality-reduction",
+"factorization",
+"embedding",
+"deep-learning",
+"matrix-factorization",
+"igraph",
+"networkx"
+],
+"language": "Python"
+},
+{
+"repo": "TorchIO-project/torchio",
+"stars": 2451,
+"description": "Medical imaging processing for AI applications.",
+"topics": [
+"pytorch",
+"medical-image-computing",
+"deep-learning",
+"data-augmentation",
+"machine-learning",
+"python",
+"medical-image-processing",
+"medical-image-analysis",
+"augmentation"
+],
+"language": "Python"
+},
+{
+"repo": "alephdata/aleph",
+"stars": 2448,
+"description": "Search and browse documents and data; find the people and companies you look for.",
+"topics": [
+"python",
+"data-search",
+"graph-database",
+"journalism",
+"osint",
+"investigative-journalism"
+],
+"language": "JavaScript"
+},
+{
+"repo": "shenweichen/DeepMatch",
+"stars": 2436,
+"description": "A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors which can be used for ANN search.",
+"topics": [
+"dssm",
+"youtubednn",
+"mind",
+"collaborative-filtering",
+"factorization-machines",
+"matching",
+"recommendation",
+"comirec"
+],
+"language": "Python"
+},
+{
+"repo": "Smorodov/Multitarget-tracker",
+"stars": 2422,
+"description": "Multiple Object Tracker, Based on  Hungarian algorithm + Kalman filter.",
+"topics": [
+"multiple-object-tracking",
+"kalman-filter",
+"hungarian-algorithm",
+"car-tracking",
+"car-counting",
+"people-tracking",
+"abandoned-detector",
+"face-tracking",
+"mobilenet-ssd",
+"yolo"
+],
+"language": "C++"
+},
+{
+"repo": "josdejong/jsonrepair",
+"stars": 2410,
+"description": "Repair invalid JSON documents",
+"topics": [
+"json",
+"repair"
+],
+"language": "TypeScript"
+},
+{
+"repo": "MouseLand/cellpose",
+"stars": 2402,
+"description": "a generalist algorithm for cellular segmentation with human-in-the-loop capabilities",
+"topics": [
+"segmentation",
+"cell-segmentation",
+"cell-biology"
+],
+"language": "Python"
+},
+{
+"repo": "asyml/texar",
+"stars": 2391,
+"description": "Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/",
+"topics": [
+"machine-learning",
+"natural-language-processing",
+"tensorflow",
+"deep-learning",
+"text-generation",
+"python",
+"machine-translation",
+"dialog-systems",
+"texar",
+"bert"
+],
+"language": "Python"
+},
+{
+"repo": "gpu-mode/resource-stream",
+"stars": 2378,
+"description": "GPU programming related news and material links",
+"topics": [],
+"language": ""
+},
+{
+"repo": "MIT-SPARK/TEASER-plusplus",
+"stars": 2355,
+"description": "A fast and robust point cloud registration library",
+"topics": [
+"point-clouds",
+"robotics",
+"optimization",
+"3d-registration",
+"3d-reconstruction",
+"slam"
+],
+"language": "C++"
+},
+{
+"repo": "ASLP-lab/DiffRhythm",
+"stars": 2350,
+"description": "Di♪♪Rhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "JasonKessler/scattertext",
+"stars": 2344,
+"description": "Beautiful visualizations of how language differs among document types.",
+"topics": [
+"nlp",
+"d3",
+"word-embeddings",
+"machine-learning",
+"natural-language-processing",
+"visualization",
+"word2vec",
+"text-visualization",
+"text-mining",
+"japanese-language"
+],
+"language": "Python"
+},
+{
+"repo": "kijai/ComfyUI-SUPIR",
+"stars": 2309,
+"description": "SUPIR upscaling wrapper for ComfyUI",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "frgfm/torch-cam",
+"stars": 2308,
+"description": "Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM, SS-CAM, IS-CAM, XGrad-CAM, Layer-CAM, Finer-CAM, LeGrad, RefineCAM)",
+"topics": [
+"pytorch",
+"python",
+"deep-learning",
+"cnn",
+"activation-maps",
+"gradcam-plus-plus",
+"gradcam",
+"saliency-map",
+"interpretability",
+"interpretable-deep-learning"
+],
+"language": "Python"
+},
+{
+"repo": "winpython/winpython",
+"stars": 2289,
+"description": "A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "TEN-framework/ten-vad",
+"stars": 2288,
+"description": "Voice Activity Detector (VAD) : low-latency, high-performance and lightweight",
+"topics": [
+"conversational-ai",
+"real-time",
+"speech-processing",
+"vad",
+"voice-activity-detection",
+"voice-commands",
+"voice-recognition",
+"audio",
+"automatic-speech-recognition",
+"speech"
+],
+"language": "C"
+},
+{
+"repo": "itext/itext-java",
+"stars": 2260,
+"description": "iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText can be a boon to nearly every workflow.",
+"topics": [
+"pdf",
+"pdf-generation",
+"library",
+"sdk",
+"pdfa",
+"pdfua",
+"digital-signature",
+"security",
+"encryption",
+"documents"
+],
+"language": "Java"
+},
+{
+"repo": "LiveHelperChat/livehelperchat",
+"stars": 2250,
+"description": "Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot.",
+"topics": [
+"live-support",
+"chat-application",
+"chat",
+"livehelp",
+"live-help",
+"screenshare",
+"audio-call",
+"video-call",
+"ai",
+"ai-chatbot"
+],
+"language": "PHP"
+},
+{
+"repo": "OffcierCia/ultimate-defi-research-base",
+"stars": 2240,
+"description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
+"topics": [
+"cryptocurrency",
+"ethereum",
+"blockchain",
+"research",
+"awesome-list",
+"awesome",
+"blockchain-technology",
+"smart-contracts",
+"knowledge-base",
+"bitcoin"
+],
+"language": ""
+},
+{
+"repo": "invoice-x/invoice2data",
+"stars": 2235,
+"description": "Extract structured data from PDF invoices",
+"topics": [
+"python",
+"data-mining"
+],
+"language": "Python"
+},
+{
+"repo": "bespokelabsai/nimble",
+"stars": 2226,
+"description": "Local typed decisions, contrastive data curation, and model evaluation.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "v-modal/vmodal_sdk_flutter",
+"stars": 2208,
+"description": "V- Modal AI: Visual Video / Image Search - Flutter Video SDK",
+"topics": [
+"android-sdk",
+"flutter",
+"flutter-app",
+"flutter-package",
+"flutter-sdk",
+"flutter-video",
+"flutter-video-player",
+"flutter-videos",
+"flutter-videosdk",
+"flutter-video-sdk"
+],
+"language": "Dart"
+},
+{
+"repo": "kleinlee/DH_live",
+"stars": 2201,
+"description": "每个人都能用的数字人",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "MarginaliaSearch/MarginaliaSearch",
+"stars": 2199,
+"description": "Internet search engine for text-oriented websites. Indexing the small, old and weird web. ",
+"topics": [
+"search-engine",
+"no-cloud",
+"small-web",
+"internet-search",
+"indexer",
+"language-processing",
+"web-crawler",
+"alt-search",
+"self-hostable",
+"java"
+],
+"language": "Java"
+},
+{
+"repo": "ViTAE-Transformer/ViTPose",
+"stars": 2198,
+"description": "The official repo for [NeurIPS'22] \"ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation\" and [TPAMI'23] \"ViTPose++: Vision Transformer for Generic Body Pose Estimation\"",
+"topics": [
+"deep-learning",
+"distillation",
+"mae",
+"pose-estimation",
+"pytorch",
+"self-supervised-learning",
+"vision-transformer"
+],
+"language": "Python"
+},
+{
+"repo": "Yggdroot/LeaderF",
+"stars": 2198,
+"description": "An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.",
+"topics": [
+"fuzzy-search",
+"fuzzy-matching",
+"fuzzyfinder",
+"mru",
+"ctags",
+"vim",
+"fuzzy",
+"gtags",
+"ripgrep",
+"git"
+],
+"language": "Python"
+},
+{
+"repo": "zengyh1900/Awesome-Image-Inpainting",
+"stars": 2182,
+"description": "A curated list of image inpainting and video inpainting papers and resources",
+"topics": [
+"image-inpainting",
+"face-completion",
+"video-inpainting",
+"paper-list"
+],
+"language": "Python"
+},
+{
+"repo": "rupeshs/fastsdcpu",
+"stars": 2176,
+"description": "Fast stable diffusion on CPU and AI PC",
+"topics": [
+"cpu",
+"diffusion",
+"stablediffusion",
+"lcmdiffusion",
+"latentconsistencymodels",
+"fastsdcpu",
+"cli",
+"gradio",
+"qt",
+"desktopgui"
+],
+"language": "Python"
+},
+{
+"repo": "tumuyan/RealSR-NCNN-Android",
+"stars": 2160,
+"description": "An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...",
+"topics": [
+"super-resolution",
+"android",
+"real-esrgan",
+"realsr",
+"ncnn",
+"srmd",
+"waifu2x",
+"real-cugan",
+"interpolation",
+"image-processing"
+],
+"language": "C++"
+},
+{
+"repo": "apache/tinkerpop",
+"stars": 2147,
+"description": "Apache TinkerPop - a graph computing framework",
+"topics": [
+"tinkerpop",
+"gremlin",
+"graph",
+"graphdb",
+"graph-database",
+"gremlin-server",
+"apache"
+],
+"language": "Java"
+},
+{
+"repo": "cvxpy/cvxpylayers",
+"stars": 2142,
+"description": "Differentiable convex optimization layers",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "prabhuomkar/pytorch-cpp",
+"stars": 2142,
+"description": "C++ Implementation of PyTorch Tutorials for Everyone",
+"topics": [
+"cplusplus",
+"artificial-intelligence",
+"machine-learning",
+"pytorch",
+"torch",
+"tensors",
+"neural-network",
+"autograd",
+"libtorch",
+"recurrent-neural-network"
+],
+"language": "C++"
+},
+{
+"repo": "cuemacro/findatapy",
+"stars": 2133,
+"description": "Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.",
+"topics": [
+"market-data",
+"quandl",
+"bloomberg",
+"dukascopy",
+"arctic",
+"fred",
+"python-api",
+"eikon"
+],
+"language": "Python"
+},
+{
+"repo": "PKU-YuanGroup/LLaVA-CoT",
+"stars": 2130,
+"description": "[ICCV 2025] LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "opendatalab/OmniDocBench",
+"stars": 2115,
+"description": "[CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "PavelGrigoryevDS/awesome-data-analysis",
+"stars": 2108,
+"description": "🚀 500+ curated resources for Data Analysis & Data Science: Python, SQL, Statistics, ML, AI, Visualization, Cheatsheets, Roadmaps, Interview Prep. For beginners and experts. ",
+"topics": [
+"data-analysis",
+"data-science",
+"pandas",
+"python",
+"sql",
+"statistics",
+"big-data",
+"eda",
+"tutorials",
+"datasets"
+],
+"language": ""
+},
+{
+"repo": "marcoslucianops/DeepStream-Yolo",
+"stars": 2072,
+"description": "NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models",
+"topics": [
+"nvidia-deepstream-sdk",
+"deepstream",
+"object-detection",
+"yolo",
+"darknet",
+"tensorrt",
+"pytorch",
+"nvidia",
+"ultralytics",
+"ppyoloe"
+],
+"language": "Python"
+},
+{
+"repo": "schibsted/WAAS",
+"stars": 2072,
+"description": "Whisper as a Service (GUI and API with queuing for OpenAI Whisper)",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "deepmodeling/deepmd-kit",
+"stars": 2060,
+"description": "A deep learning package for many-body potential energy representation and molecular dynamics",
+"topics": [
+"deep-learning",
+"molecular-dynamics",
+"deepmd",
+"lammps",
+"potential-energy",
+"python",
+"tensorflow",
+"cpp",
+"cuda",
+"rocm"
+],
+"language": "Python"
+},
+{
+"repo": "pykeen/pykeen",
+"stars": 2045,
+"description": "🤖 A Python library for learning and evaluating knowledge graph embeddings ",
+"topics": [
+"knowledge-graph-embeddings",
+"knowledge-graphs",
+"machine-learning",
+"link-prediction",
+"knowledge-base-completion",
+"pykeen",
+"deep-learning",
+"cuda",
+"python",
+"torch"
+],
+"language": "Python"
+},
+{
+"repo": "zhanghang1989/PyTorch-Encoding",
+"stars": 2044,
+"description": "A CV toolkit for my papers.",
+"topics": [
+"deep-learning",
+"batchnorm",
+"synchronized-batchnorm",
+"encoding-layer"
+],
+"language": "Python"
+},
+{
+"repo": "vizzuhq/vizzu-lib",
+"stars": 2042,
+"description": "Library for animated data visualizations and data stories.",
+"topics": [
+"chart",
+"charts",
+"charting-library",
+"charting",
+"data-visualization",
+"data-analysis",
+"dashboard",
+"animation",
+"datavisualization",
+"dataviz"
+],
+"language": "JavaScript"
+},
+{
+"repo": "ai4s-research/awesome-ai-for-science",
+"stars": 2034,
+"description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+"topics": [
+"ai-for-science",
+"ai4s",
+"ai4science",
+"awesome",
+"awesome-list",
+"bioinformatics",
+"scientific-ai"
+],
+"language": ""
+},
+{
+"repo": "reugn/go-quartz",
+"stars": 2018,
+"description": "Minimalist and zero-dependency scheduling library for Go",
+"topics": [
+"scheduler",
+"job-scheduler",
+"quartz",
+"golang",
+"go",
+"job",
+"cron",
+"crontab",
+"zero-dependency",
+"jobqueue"
+],
+"language": "Go"
+}
+]

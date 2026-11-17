@@ -1,0 +1,2729 @@
+[
+{
+"repo": "d3/d3",
+"stars": 113766,
+"description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+"topics": [
+"visualization",
+"data-visualization",
+"charts",
+"svg",
+"chart",
+"d3"
+],
+"language": "Shell"
+},
+{
+"repo": "rust-unofficial/awesome-rust",
+"stars": 59939,
+"description": "A curated list of Rust code and resources.",
+"topics": [
+"rust",
+"awesome"
+],
+"language": "Rust"
+},
+{
+"repo": "rails/rails",
+"stars": 58849,
+"description": "Ruby on Rails",
+"topics": [
+"rails",
+"mvc",
+"html",
+"activerecord",
+"activejob",
+"ruby",
+"framework"
+],
+"language": "Ruby"
+},
+{
+"repo": "chinese-poetry/chinese-poetry",
+"stars": 53762,
+"description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
+"topics": [
+"json",
+"chinese",
+"poetry",
+"ci",
+"tangshi",
+"chinese-poetry"
+],
+"language": "JavaScript"
+},
+{
+"repo": "astral-sh/ruff",
+"stars": 50139,
+"description": "An extremely fast Python linter and code formatter, written in Rust.",
+"topics": [
+"linter",
+"pep8",
+"python",
+"python3",
+"rust",
+"rustpython",
+"static-analysis",
+"static-code-analysis",
+"style-guide",
+"styleguide"
+],
+"language": "Rust"
+},
+{
+"repo": "fastapi/full-stack-fastapi-template",
+"stars": 46031,
+"description": "Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.",
+"topics": [
+"python",
+"docker",
+"postgresql",
+"fastapi",
+"jwt",
+"openapi",
+"react",
+"tanstack-query",
+"tanstack-router",
+"typescript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "faif/python-patterns",
+"stars": 43050,
+"description": "A collection of design patterns/idioms in Python",
+"topics": [
+"python",
+"idioms",
+"design-patterns"
+],
+"language": "Python"
+},
+{
+"repo": "shiyu-coder/Kronos",
+"stars": 40957,
+"description": "Kronos: A Foundation Model for the Language of Financial Markets",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "fengdu78/Coursera-ML-AndrewNg-Notes",
+"stars": 37980,
+"description": "吴恩达老师的机器学习课程个人笔记",
+"topics": [
+"coursera",
+"machine-learning"
+],
+"language": "HTML"
+},
+{
+"repo": "hankcs/HanLP",
+"stars": 36515,
+"description": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+"topics": [
+"nlp",
+"natural-language-processing",
+"hanlp",
+"pos-tagging",
+"dependency-parser",
+"text-classification",
+"named-entity-recognition",
+"semantic-parsing"
+],
+"language": "Python"
+},
+{
+"repo": "casey/just",
+"stars": 36333,
+"description": "🤖 Just a command runner",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "NandhaKishorM/laya",
+"stars": 33317,
+"description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+"topics": [
+"calibration",
+"classification",
+"decision-model",
+"huggingface",
+"jev",
+"modernbert",
+"multilingual",
+"nlp",
+"python",
+"pytorch"
+],
+"language": "Python"
+},
+{
+"repo": "ziadoz/awesome-php",
+"stars": 32755,
+"description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+"topics": [
+"php",
+"php-framework",
+"php-library",
+"php-applications",
+"php-installation",
+"awesome-lists",
+"awesome"
+],
+"language": ""
+},
+{
+"repo": "tqdm/tqdm",
+"stars": 31357,
+"description": ":zap: A Fast, Extensible Progress Bar for Python and CLI",
+"topics": [
+"progressbar",
+"progressmeter",
+"progress-bar",
+"meter",
+"rate",
+"console",
+"terminal",
+"time",
+"progress",
+"gui"
+],
+"language": "Python"
+},
+{
+"repo": "parallax/jsPDF",
+"stars": 31312,
+"description": "Client-side JavaScript PDF generation for everyone.",
+"topics": [
+"hacktoberfest"
+],
+"language": "JavaScript"
+},
+{
+"repo": "heroui-inc/heroui",
+"stars": 30958,
+"description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)",
+"topics": [
+"reactjs",
+"library",
+"component-library",
+"components"
+],
+"language": "TypeScript"
+},
+{
+"repo": "xuxueli/xxl-job",
+"stars": 30620,
+"description": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+"topics": [
+"xxl-job",
+"job",
+"quartz",
+"glue",
+"task",
+"schedule",
+"scheduler",
+"java",
+"distributed",
+"restful"
+],
+"language": "Java"
+},
+{
+"repo": "nautechsystems/nautilus_trader",
+"stars": 30290,
+"description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+"topics": [
+"algorithmic-trading-engine",
+"trading-platform",
+"crypto-trading",
+"artificial-intelligence",
+"machine-learning",
+"trading",
+"python",
+"equity-trading",
+"forex",
+"futures-trading"
+],
+"language": "Rust"
+},
+{
+"repo": "wilsonfreitas/awesome-quant",
+"stars": 30183,
+"description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+"topics": [
+"finance",
+"financial-data",
+"stock-data",
+"awesome",
+"awesome-list",
+"quantitative-finance",
+"quant",
+"quantitative-trading",
+"yahoo-finance",
+"finance-api"
+],
+"language": "HTML"
+},
+{
+"repo": "karakeep-app/karakeep",
+"stars": 29744,
+"description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+"topics": [
+"bookmarks",
+"bookmarks-manager",
+"nextjs",
+"react-native",
+"read-it-later",
+"bookmark-manager",
+"self-hosted"
+],
+"language": "TypeScript"
+},
+{
+"repo": "recharts/recharts",
+"stars": 27638,
+"description": "Redefined chart library built with React and D3",
+"topics": [
+"react",
+"charting-library",
+"recharts",
+"d3",
+"chart",
+"components",
+"javascript",
+"ui",
+"data-visualisation",
+"typescript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "squidfunk/mkdocs-material",
+"stars": 27580,
+"description": "Documentation that simply works",
+"topics": [
+"mkdocs",
+"theme",
+"documentation",
+"material-design",
+"framework",
+"plugins"
+],
+"language": "Python"
+},
+{
+"repo": "ai/nanoid",
+"stars": 27105,
+"description": "A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "Anjok07/ultimatevocalremovergui",
+"stars": 26679,
+"description": " GUI for a Vocal Remover that uses Deep Neural Networks.",
+"topics": [
+"vocal-remover",
+"pytorch",
+"source",
+"separation",
+"kareokee",
+"karaoke",
+"spectrogram",
+"instrumental",
+"vocal",
+"vocals"
+],
+"language": "Python"
+},
+{
+"repo": "datawhalechina/pumpkin-book",
+"stars": 26127,
+"description": "南瓜书：《机器学习》（西瓜书）公式详解",
+"topics": [
+"machine-learning",
+"pumpkin-book",
+"book"
+],
+"language": ""
+},
+{
+"repo": "Redocly/redoc",
+"stars": 25963,
+"description": "📘  OpenAPI/Swagger-generated API Reference Documentation",
+"topics": [
+"openapi",
+"swagger",
+"api-documentation",
+"documentation-tool",
+"documentation-generator",
+"redoc",
+"reactjs",
+"openapi3",
+"hacktoberfest",
+"openapi-specification"
+],
+"language": "TypeScript"
+},
+{
+"repo": "dubinc/dub",
+"stars": 24904,
+"description": "The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.",
+"topics": [
+"vercel",
+"nextjs",
+"upstash",
+"tinybird",
+"clickhouse",
+"mysql",
+"open-source",
+"planetscale",
+"prisma",
+"tailwindcss"
+],
+"language": "TypeScript"
+},
+{
+"repo": "tursodatabase/turso",
+"stars": 24814,
+"description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
+"topics": [
+"database",
+"embedded-database",
+"sql",
+"sqlite3",
+"webassembly"
+],
+"language": "Rust"
+},
+{
+"repo": "JanDeDobbeleer/oh-my-posh",
+"stars": 23601,
+"description": "The most customisable and low-latency cross platform/shell prompt renderer",
+"topics": [
+"golang",
+"powershell",
+"zsh",
+"hacktoberfest",
+"prompt",
+"prompt-toolkit",
+"bash",
+"cmd",
+"fish",
+"fish-shell"
+],
+"language": "Go"
+},
+{
+"repo": "akfamily/akshare",
+"stars": 22980,
+"description": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",
+"topics": [
+"futures",
+"financial-data",
+"data-science",
+"quant",
+"fundamental",
+"akshare",
+"option",
+"stock",
+"data",
+"datasets"
+],
+"language": "Python"
+},
+{
+"repo": "QuantConnect/Lean",
+"stars": 22084,
+"description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+"topics": [
+"c-sharp",
+"algorithmic-trading-engine",
+"quantconnect",
+"lean-engine",
+"finance",
+"algorithm",
+"options",
+"trading-algorithms",
+"trading-platform",
+"trading-strategies"
+],
+"language": "C#"
+},
+{
+"repo": "gitbutlerapp/gitbutler",
+"stars": 21822,
+"description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+"topics": [
+"git",
+"github",
+"tauri"
+],
+"language": "Rust"
+},
+{
+"repo": "valeriansaliou/sonic",
+"stars": 21363,
+"description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+"topics": [
+"rust",
+"infrastructure",
+"search",
+"index",
+"graph",
+"database",
+"server",
+"backend",
+"search-server",
+"search-engine"
+],
+"language": "Rust"
+},
+{
+"repo": "w-okada/voice-changer",
+"stars": 21199,
+"description": "リアルタイムボイスチェンジャー Realtime Voice Changer",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "fengdu78/deeplearning_ai_books",
+"stars": 21175,
+"description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
+"topics": [
+"deeplearning-ai"
+],
+"language": "HTML"
+},
+{
+"repo": "facebook/prophet",
+"stars": 20440,
+"description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+"topics": [
+"forecasting",
+"r",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "linkwarden/linkwarden",
+"stars": 20137,
+"description": "⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.",
+"topics": [
+"collaboration",
+"self-hosted",
+"typescript",
+"nextjs",
+"bookmark-manager",
+"read-it-later",
+"bookmark",
+"react-native"
+],
+"language": "TypeScript"
+},
+{
+"repo": "kaixindelele/ChatPaper",
+"stars": 19939,
+"description": "Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复",
+"topics": [
+"arxiv",
+"paper"
+],
+"language": "Python"
+},
+{
+"repo": "bbfamily/abu",
+"stars": 18949,
+"description": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+"topics": [
+"quant",
+"trade",
+"machine-learning",
+"bitcoin",
+"algorithmic-trading",
+"quantitative-trading",
+"stock",
+"pandas",
+"matplotlib",
+"numpy"
+],
+"language": "Python"
+},
+{
+"repo": "NLP-LOVE/ML-NLP",
+"stars": 17835,
+"description": "此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。",
+"topics": [
+"nlp",
+"machine-learning",
+"deep-learning"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "rasbt/deeplearning-models",
+"stars": 17616,
+"description": "A collection of various deep learning architectures, models, and tips",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "cure53/DOMPurify",
+"stars": 17470,
+"description": "DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:",
+"topics": [
+"xss",
+"sanitizer",
+"dom",
+"security",
+"javascript",
+"dompurify",
+"prevent-xss-attacks",
+"mathml",
+"html",
+"svg"
+],
+"language": "JavaScript"
+},
+{
+"repo": "tursodatabase/libsql",
+"stars": 17280,
+"description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+"topics": [
+"sqlite",
+"database",
+"embedded-database",
+"rust",
+"webassembly"
+],
+"language": "C"
+},
+{
+"repo": "AaronFeng753/Waifu2x-Extension-GUI",
+"stars": 17123,
+"description": "Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.",
+"topics": [
+"waifu2x",
+"anime4k",
+"super-resolution",
+"video-enlarger",
+"image-enlarger",
+"ncnn",
+"vulkan",
+"noise-reduction",
+"upscaling",
+"waifu2x-ncnn-vulkan"
+],
+"language": "C++"
+},
+{
+"repo": "diegomura/react-pdf",
+"stars": 16833,
+"description": "📄  Create PDF files using React",
+"topics": [
+"react",
+"pdf",
+"renderer",
+"flexbox"
+],
+"language": "TypeScript"
+},
+{
+"repo": "ipython/ipython",
+"stars": 16790,
+"description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
+"topics": [
+"ipython",
+"jupyter",
+"data-science",
+"python",
+"hacktoberfest",
+"spec-0",
+"closember"
+],
+"language": "Python"
+},
+{
+"repo": "jpillora/chisel",
+"stars": 16660,
+"description": "A fast TCP/UDP tunnel over HTTP",
+"topics": [
+"tunnel",
+"tcp",
+"http",
+"golang"
+],
+"language": "Go"
+},
+{
+"repo": "Kanaries/pygwalker",
+"stars": 15987,
+"description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis",
+"topics": [
+"data-analysis",
+"pandas",
+"tableau",
+"tableau-alternative",
+"visualization",
+"data-exploration",
+"dataframe",
+"matplotlib",
+"plotly"
+],
+"language": "Python"
+},
+{
+"repo": "Y2Z/monolith",
+"stars": 15519,
+"description": "⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file",
+"topics": [
+"save-the-internet",
+"procrastination",
+"its-mine",
+"no-more-404",
+"tab-rehab",
+"e-hoarding",
+"make-the-internet-great-again",
+"come-and-take-it"
+],
+"language": "Rust"
+},
+{
+"repo": "fabric/fabric",
+"stars": 15518,
+"description": "Simple, Pythonic remote execution and deployment.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "documenso/documenso",
+"stars": 15457,
+"description": "The Open Source DocuSign Alternative.",
+"topics": [
+"document-signing",
+"next-auth",
+"nextjs",
+"open-source",
+"pades-standard",
+"pdf-sign",
+"pdf-signature",
+"postgresql",
+"prisma",
+"self-hosted"
+],
+"language": "TypeScript"
+},
+{
+"repo": "cmusatyalab/openface",
+"stars": 15442,
+"description": "Face recognition with deep neural networks.",
+"topics": [
+"deep-learning",
+"face-recognition",
+"facenet"
+],
+"language": "Lua"
+},
+{
+"repo": "cayleygraph/cayley",
+"stars": 15065,
+"description": "An open-source graph database",
+"topics": [
+"graph",
+"graph-database",
+"cayley",
+"go",
+"linked-data"
+],
+"language": "Go"
+},
+{
+"repo": "datawhalechina/easy-rl",
+"stars": 14804,
+"description": "强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+"topics": [
+"deep-reinforcement-learning",
+"reinforcement-learning",
+"dqn",
+"ppo",
+"a3c",
+"q-learning",
+"sarsa",
+"imitation-learning",
+"policy-gradient",
+"ddpg"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "paperswithbacktest/awesome-systematic-trading",
+"stars": 14804,
+"description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+"topics": [
+"finance",
+"awesome",
+"book",
+"paper",
+"trading-bot",
+"algotrading",
+"quant",
+"awesome-list",
+"trading-strategies",
+"trading-algorithms"
+],
+"language": "Python"
+},
+{
+"repo": "nltk/nltk",
+"stars": 14743,
+"description": "NLTK Source",
+"topics": [
+"nltk",
+"python",
+"nlp",
+"natural-language-processing",
+"machine-learning"
+],
+"language": "Python"
+},
+{
+"repo": "oxnr/awesome-bigdata",
+"stars": 14677,
+"description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+"topics": [
+"awesome",
+"bigdata",
+"data-warehouse",
+"data-analytics",
+"data-visualization",
+"data-stream",
+"database",
+"data-science",
+"data",
+"awesome-list"
+],
+"language": ""
+},
+{
+"repo": "itzg/docker-minecraft-server",
+"stars": 14448,
+"description": "Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",
+"topics": [
+"minecraft-server",
+"dockerfiles",
+"docker-image",
+"hacktoberfest",
+"java"
+],
+"language": "Shell"
+},
+{
+"repo": "QuestPDF/QuestPDF",
+"stars": 14205,
+"description": "QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a flexible, component-based approach.",
+"topics": [
+"pdf",
+"nuget",
+"c-sharp",
+"dotnet-core",
+"library",
+"export",
+"generation",
+"html",
+"invoice",
+"report"
+],
+"language": "C#"
+},
+{
+"repo": "markets/awesome-ruby",
+"stars": 14171,
+"description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software",
+"topics": [
+"awesome",
+"ruby",
+"collection",
+"awesome-list",
+"ruby-libraries",
+"curated-list"
+],
+"language": ""
+},
+{
+"repo": "nextapps-de/flexsearch",
+"stars": 13807,
+"description": "Next-generation full-text search library for Browser and Node.js",
+"topics": [
+"search",
+"search-algorithm",
+"search-engine",
+"searching-algorithms",
+"searching",
+"search-in-text",
+"full-text-search",
+"fulltext-search",
+"elasticsearch",
+"nodejs"
+],
+"language": "JavaScript"
+},
+{
+"repo": "searx/searx",
+"stars": 13557,
+"description": "Privacy-respecting metasearch engine",
+"topics": [
+"search",
+"metasearch",
+"metasearch-engine",
+"search-engine",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "rayon-rs/rayon",
+"stars": 13390,
+"description": "Rayon: A data parallelism library for Rust",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "formbricks/formbricks",
+"stars": 13123,
+"description": "Open Source Qualtrics Alternative",
+"topics": [
+"forms",
+"survey",
+"typescript",
+"nextjs",
+"react",
+"tailwindcss",
+"form",
+"reactjs",
+"survey-analysis",
+"survey-data"
+],
+"language": "TypeScript"
+},
+{
+"repo": "NoFxAiOS/nofx",
+"stars": 13102,
+"description": "Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.",
+"topics": [
+"ai-trading",
+"agentictrading",
+"ai",
+"trading",
+"arbitrage",
+"binance",
+"bitcoin",
+"exchange",
+"hyperliquid",
+"perp-dex"
+],
+"language": "Go"
+},
+{
+"repo": "wallabag/wallabag",
+"stars": 13017,
+"description": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+"topics": [
+"wallabag",
+"php",
+"read-it-later",
+"self-hosted",
+"symfony",
+"symfony-application",
+"hacktoberfest"
+],
+"language": "PHP"
+},
+{
+"repo": "rasbt/python-machine-learning-book",
+"stars": 12660,
+"description": "The \"Python Machine Learning (1st edition)\"  book code repository and info resource",
+"topics": [
+"machine-learning",
+"machine-learning-algorithms",
+"logistic-regression",
+"data-science",
+"data-mining",
+"python",
+"scikit-learn",
+"neural-network"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "antvis/G6",
+"stars": 12335,
+"description": "♾ A Graph Visualization Framework in JavaScript.",
+"topics": [
+"graph-drawing",
+"tree",
+"network",
+"graph",
+"visualization",
+"data-visualization",
+"graph-visualization",
+"visual-analytics",
+"graph-analytics",
+"hacktoberfest"
+],
+"language": "TypeScript"
+},
+{
+"repo": "jnv/lists",
+"stars": 11570,
+"description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+"topics": [
+"awesome",
+"lists",
+"resources",
+"awesome-list",
+"curated-lists"
+],
+"language": ""
+},
+{
+"repo": "mixmark-io/turndown",
+"stars": 11477,
+"description": "🛏 An HTML to Markdown converter written in JavaScript",
+"topics": [
+"javascript",
+"html",
+"markdown",
+"html-to-markdown",
+"browser",
+"node",
+"commonmark",
+"gfm"
+],
+"language": "HTML"
+},
+{
+"repo": "blevesearch/bleve",
+"stars": 11237,
+"description": "A modern text/numeric/geo-spatial/vector indexing library for go",
+"topics": [],
+"language": "Go"
+},
+{
+"repo": "wojtekmaj/react-pdf",
+"stars": 11190,
+"description": "Display PDFs in your React app as easily as if they were images.",
+"topics": [
+"react",
+"pdf",
+"pdf-viewer"
+],
+"language": "TypeScript"
+},
+{
+"repo": "rushter/MLAlgorithms",
+"stars": 11178,
+"description": "Minimal and clean examples of machine learning algorithms implementations",
+"topics": [
+"machine-learning",
+"deep-learning",
+"neural-networks",
+"machine-learning-algorithms",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "cs231n/cs231n.github.io",
+"stars": 11071,
+"description": "Public facing notes page",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "je-suis-tm/quant-trading",
+"stars": 11057,
+"description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD",
+"topics": [
+"trading-strategies",
+"quantitative-trading",
+"trading-bot",
+"quantitative-finance",
+"algorithmic-trading",
+"macd",
+"statistical-arbitrage",
+"bollinger-bands",
+"momentum-trading-strategy",
+"options-trading"
+],
+"language": "Python"
+},
+{
+"repo": "dtm-labs/dtm",
+"stars": 10919,
+"description": "A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.",
+"topics": [
+"saga",
+"xa",
+"tcc",
+"microservice",
+"seata",
+"go",
+"dtm",
+"golang",
+"distributed",
+"transaction"
+],
+"language": "Go"
+},
+{
+"repo": "foliojs/pdfkit",
+"stars": 10721,
+"description": "A JavaScript PDF generation library for Node and the browser",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "getlago/lago",
+"stars": 10688,
+"description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+"topics": [
+"billing",
+"fintech",
+"invoices",
+"payments",
+"usage-based-billing",
+"subscriptions",
+"metering",
+"pricing",
+"analytics",
+"open-source"
+],
+"language": "Go"
+},
+{
+"repo": "easydiffusion/easydiffusion",
+"stars": 10472,
+"description": "An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+"topics": [
+"art",
+"diffusion",
+"generative-art",
+"gui",
+"stable"
+],
+"language": "JavaScript"
+},
+{
+"repo": "playcanvas/supersplat",
+"stars": 10417,
+"description": "3D Gaussian Splat Editor",
+"topics": [
+"3d-gaussian-splatting",
+"playcanvas",
+"webgl",
+"webgpu",
+"pcui",
+"typescript",
+"gaussian-splatting",
+"3dgs"
+],
+"language": "TypeScript"
+},
+{
+"repo": "fossasia/visdom",
+"stars": 10325,
+"description": "Tool for real-time visualization, monitoring and collaborative analysis of AI/ML experiments and live data. Supports Python, PyTorch/Torch, NumPy, TensorFlow/Keras https://visdom.dev",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "satellite-image-deep-learning/techniques",
+"stars": 10284,
+"description": "Techniques for deep learning with satellite & aerial imagery",
+"topics": [
+"deep-learning",
+"deep-neural-networks",
+"satellite-imagery",
+"pytorch",
+"python",
+"machine-learning",
+"sentinel",
+"satellite-images",
+"dataset",
+"remote-sensing"
+],
+"language": ""
+},
+{
+"repo": "ymcui/Chinese-BERT-wwm",
+"stars": 10231,
+"description": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+"topics": [
+"chinese-bert",
+"tensorflow",
+"pytorch",
+"bert",
+"nlp",
+"roberta",
+"bert-wwm",
+"bert-wwm-ext",
+"roberta-wwm",
+"rbt"
+],
+"language": "Python"
+},
+{
+"repo": "alexeygrigorev/data-science-interviews",
+"stars": 10194,
+"description": "Data science interview questions and answers",
+"topics": [
+"data-science",
+"machine-learning",
+"interview-questions",
+"data-science-interviews"
+],
+"language": "HTML"
+},
+{
+"repo": "drivendataorg/cookiecutter-data-science",
+"stars": 10096,
+"description": "A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.",
+"topics": [
+"cookiecutter-data-science",
+"cookiecutter",
+"cookiecutter-template",
+"data-science",
+"machine-learning",
+"ai"
+],
+"language": "Python"
+},
+{
+"repo": "lipku/LiveTalking",
+"stars": 9951,
+"description": "Real time interactive streaming digital human",
+"topics": [
+"digital-human",
+"nerf",
+"realtime",
+"streaming",
+"aigc",
+"digihuman",
+"musetalk",
+"virtualhumans",
+"wav2lip",
+"er-nerf"
+],
+"language": "Python"
+},
+{
+"repo": "brightmart/nlp_chinese_corpus",
+"stars": 9923,
+"description": "大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP",
+"topics": [
+"chinese-dataset",
+"chinese-corpus",
+"pretrain",
+"word2vec",
+"nlp",
+"bert",
+"language-model",
+"wiki",
+"news",
+"question-answering"
+],
+"language": ""
+},
+{
+"repo": "bpmn-io/bpmn-js",
+"stars": 9694,
+"description": "A BPMN 2.0 rendering toolkit and web modeler.",
+"topics": [
+"bpmn",
+"javascript",
+"modeler",
+"toolkit",
+"browser",
+"bpmn-js",
+"hacktoberfest"
+],
+"language": "JavaScript"
+},
+{
+"repo": "reviewdog/reviewdog",
+"stars": 9674,
+"description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
+"topics": [
+"linter",
+"go",
+"lint",
+"ci",
+"code-review",
+"github",
+"gitlab",
+"codereview",
+"cli",
+"code-quality"
+],
+"language": "Go"
+},
+{
+"repo": "polakowo/vectorbt",
+"stars": 9418,
+"description": "The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.",
+"topics": [
+"backtesting",
+"trading",
+"algorithmic-trading",
+"trading-strategies",
+"cryptocurrency",
+"data-visualization",
+"time-series",
+"data-science",
+"finance",
+"machine-learning"
+],
+"language": "Python"
+},
+{
+"repo": "voicepaw/so-vits-svc-fork",
+"stars": 9333,
+"description": "so-vits-svc fork with realtime support, improved interface and more features.",
+"topics": [
+"sovits",
+"vits",
+"voice-conversion",
+"so-vits-svc",
+"hubert",
+"softvc",
+"realtime",
+"voice-changer",
+"deep-learning",
+"pytorch"
+],
+"language": "Python"
+},
+{
+"repo": "pyro-ppl/pyro",
+"stars": 9066,
+"description": "Deep universal probabilistic programming with Python and PyTorch",
+"topics": [
+"python",
+"pytorch",
+"machine-learning",
+"bayesian",
+"probabilistic-programming",
+"bayesian-inference",
+"variational-inference",
+"probabilistic-modeling",
+"deep-learning"
+],
+"language": "Python"
+},
+{
+"repo": "infinitered/nsfwjs",
+"stars": 9009,
+"description": "NSFW detection on the client-side via TensorFlow.js",
+"topics": [
+"machine-learning",
+"machinelearning",
+"javascript",
+"tensorflowjs",
+"tensorflow-js",
+"node-module",
+"content-management",
+"nsfw-recognition"
+],
+"language": "TypeScript"
+},
+{
+"repo": "theskumar/python-dotenv",
+"stars": 8898,
+"description": "Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.",
+"topics": [
+"python",
+"devops-tools",
+"dotenv",
+"12-factor-app",
+"configuration",
+"env",
+"environment-variables"
+],
+"language": "Python"
+},
+{
+"repo": "redpanda-data/connect",
+"stars": 8787,
+"description": "Fancy stream processing made operationally mundane",
+"topics": [
+"message-queue",
+"stream-processing",
+"streaming-data",
+"message-bus",
+"logs",
+"stream-processor",
+"cqrs",
+"event-sourcing",
+"go",
+"golang"
+],
+"language": "Go"
+},
+{
+"repo": "bayesian-optimization/BayesianOptimization",
+"stars": 8720,
+"description": "A Python implementation of global optimization with gaussian processes.",
+"topics": [
+"optimization",
+"gaussian-processes",
+"bayesian-optimization",
+"python",
+"simple"
+],
+"language": "Python"
+},
+{
+"repo": "mattpocock/ts-reset",
+"stars": 8627,
+"description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
+"topics": [
+"reset",
+"typescript"
+],
+"language": "TypeScript"
+},
+{
+"repo": "jasonppy/VoiceCraft",
+"stars": 8576,
+"description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "HKUDS/ClawWork",
+"stars": 8563,
+"description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours\"",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "rfordatascience/tidytuesday",
+"stars": 8446,
+"description": "Official repo for the #tidytuesday project",
+"topics": [],
+"language": "HTML"
+},
+{
+"repo": "py-why/dowhy",
+"stars": 8359,
+"description": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. ",
+"topics": [
+"causal-inference",
+"machine-learning",
+"graphical-models",
+"bayesian-networks",
+"data-science",
+"python3",
+"causality",
+"causal-models",
+"treatment-effects",
+"do-calculus"
+],
+"language": "Python"
+},
+{
+"repo": "duixcom/Duix-Mobile",
+"stars": 8280,
+"description": "🚀 The best real-time interactive AI avatar(digital human) with on-premise deployment and <1.5 s latency.",
+"topics": [
+"ai-companion",
+"ai-girlfriend",
+"digital-human",
+"ai-boyfriend",
+"realtime-avatar",
+"ai-avatars",
+"intereactive-avatar"
+],
+"language": "C++"
+},
+{
+"repo": "lmcinnes/umap",
+"stars": 8279,
+"description": "Uniform Manifold Approximation and Projection",
+"topics": [
+"umap",
+"dimensionality-reduction",
+"visualization",
+"machine-learning",
+"topological-data-analysis"
+],
+"language": "Python"
+},
+{
+"repo": "pemistahl/grex",
+"stars": 8233,
+"description": "A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
+"topics": [
+"command-line-tool",
+"tool",
+"regex",
+"regexp",
+"regex-pattern",
+"regular-expression",
+"regular-expressions",
+"rust",
+"cli",
+"rust-cli"
+],
+"language": "Rust"
+},
+{
+"repo": "PriorLabs/TabPFN",
+"stars": 8215,
+"description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+"topics": [
+"data-science",
+"foundation-models",
+"machine-learning",
+"tabpfn",
+"tabular-data"
+],
+"language": "Python"
+},
+{
+"repo": "davebcn87/pi-autoresearch",
+"stars": 8194,
+"description": "Autonomous experiment loop extension for pi",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "nadermx/backgroundremover",
+"stars": 8109,
+"description": "Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.",
+"topics": [
+"background-remover",
+"backgroundremover",
+"removebackground",
+"remove-background",
+"remove-background-image",
+"remove-background-video",
+"background-removal",
+"python",
+"video",
+"pytorch"
+],
+"language": "Python"
+},
+{
+"repo": "penrose/penrose",
+"stars": 7993,
+"description": "Create beautiful diagrams just by typing notation in plain text.",
+"topics": [
+"visualization",
+"domain-specific-language",
+"mathematics",
+"diagrams",
+"programming-language"
+],
+"language": "TypeScript"
+},
+{
+"repo": "SuanmoSuanyangTechnology/MemoryBear",
+"stars": 7911,
+"description": "MemoryBear Equip AI with human-like memory capability",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "lucidrains/PaLM-rlhf-pytorch",
+"stars": 7858,
+"description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+"topics": [
+"artificial-intelligence",
+"attention-mechanisms",
+"deep-learning",
+"reinforcement-learning",
+"transformers",
+"human-feedback"
+],
+"language": "Python"
+},
+{
+"repo": "PowerJob/PowerJob",
+"stars": 7798,
+"description": "Enterprise job scheduling middleware with distributed computing ability.",
+"topics": [
+"scheduler",
+"workflow",
+"distributed",
+"mapreduce",
+"java",
+"cron",
+"job",
+"job-scheduler"
+],
+"language": "Java"
+},
+{
+"repo": "memochou1993/gpt-ai-assistant",
+"stars": 7742,
+"description": "OpenAI + LINE + Vercel = GPT AI Assistant",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "datawhalechina/so-large-lm",
+"stars": 7736,
+"description": "大模型基础: 一文了解大模型基础知识",
+"topics": [],
+"language": ""
+},
+{
+"repo": "geekyutao/Inpaint-Anything",
+"stars": 7726,
+"description": "Inpaint anything using Segment Anything and inpainting models.",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "farzaa/clicky",
+"stars": 7725,
+"description": "",
+"topics": [],
+"language": "Swift"
+},
+{
+"repo": "ranaroussi/quantstats",
+"stars": 7720,
+"description": "Portfolio analytics for quants, written in Python",
+"topics": [
+"quant",
+"algotrading",
+"algorithmic-trading",
+"quantitative-trading",
+"quantitative-analysis",
+"algo-trading",
+"python",
+"visualization",
+"plotting",
+"quantitative-finance"
+],
+"language": "Python"
+},
+{
+"repo": "agronholm/apscheduler",
+"stars": 7659,
+"description": "Task scheduling library for Python",
+"topics": [
+"cron",
+"scheduling",
+"automation",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "PrismarineJS/mineflayer",
+"stars": 7598,
+"description": "Create Minecraft bots with a powerful, stable, and high level JavaScript API.",
+"topics": [
+"bot",
+"nodejs",
+"network",
+"minecraft",
+"minecraft-bot",
+"minecraft-api"
+],
+"language": "JavaScript"
+},
+{
+"repo": "1adrianb/face-alignment",
+"stars": 7546,
+"description": ":fire: 2D and 3D Face alignment library build using pytorch ",
+"topics": [
+"python",
+"deep-learning",
+"face-alignment",
+"face-detector",
+"pytorch",
+"face-detection"
+],
+"language": "Python"
+},
+{
+"repo": "HIPS/autograd",
+"stars": 7543,
+"description": "Efficiently computes derivatives of NumPy code.",
+"topics": [
+"autograd",
+"automatic-differentiation",
+"numpy",
+"python",
+"deep-learning",
+"derivative",
+"jax",
+"machine-learning",
+"neural-network",
+"numpy-arrays"
+],
+"language": "Python"
+},
+{
+"repo": "python-visualization/folium",
+"stars": 7413,
+"description": "Python Data. Leaflet.js Maps. ",
+"topics": [
+"data-science",
+"data-visualization",
+"javascript",
+"maps",
+"python"
+],
+"language": "Python"
+},
+{
+"repo": "mher/flower",
+"stars": 7239,
+"description": "Real-time monitor and web admin for Celery distributed task queue",
+"topics": [
+"celery",
+"task-queue",
+"monitoring",
+"administration",
+"workers",
+"rabbitmq",
+"redis",
+"python",
+"asynchronous"
+],
+"language": "Python"
+},
+{
+"repo": "go-co-op/gocron",
+"stars": 7175,
+"description": "Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron",
+"topics": [
+"cron",
+"scheduler",
+"gocron",
+"golang-job-scheduling",
+"golang",
+"clockwork",
+"schedule",
+"hacktoberfest"
+],
+"language": "Go"
+},
+{
+"repo": "scikit-learn-contrib/imbalanced-learn",
+"stars": 7129,
+"description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+"topics": [
+"machine-learning",
+"python",
+"statistics",
+"data-science",
+"data-analysis"
+],
+"language": "Python"
+},
+{
+"repo": "quartznet/quartznet",
+"stars": 7095,
+"description": "Quartz Enterprise Scheduler .NET",
+"topics": [
+"c-sharp",
+"dotnet",
+"scheduler",
+"scheduling",
+"scheduled-tasks",
+"scheduled-jobs",
+"cron",
+"quartz",
+"nuget",
+"job-scheduler"
+],
+"language": "C#"
+},
+{
+"repo": "gaomingqi/Track-Anything",
+"stars": 7009,
+"description": "Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.",
+"topics": [
+"segment-anything",
+"video-object-segmentation",
+"interactive-tracking",
+"track-anything",
+"video-object-tracking",
+"inpaint-anything"
+],
+"language": "Python"
+},
+{
+"repo": "xiangyuecn/AreaCity-JsSpider-StatsGov",
+"stars": 6936,
+"description": "省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2026年04月03日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、中国•国家地名信息库、统计局、高德地图、腾讯地图行政区划数据",
+"topics": [],
+"language": "JavaScript"
+},
+{
+"repo": "gpu-mode/lectures",
+"stars": 6877,
+"description": "Material for gpu-mode lectures",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "Beingpax/VoiceInk",
+"stars": 6851,
+"description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription",
+"topics": [
+"macos",
+"macos-app",
+"swift"
+],
+"language": "Swift"
+},
+{
+"repo": "ricequant/rqalpha",
+"stars": 6829,
+"description": "A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities",
+"topics": [
+"quant",
+"python",
+"backtest",
+"finance",
+"ricequant",
+"ta-lib",
+"rqalpha",
+"trading",
+"stock",
+"futures"
+],
+"language": "Python"
+},
+{
+"repo": "NicolasHug/Surprise",
+"stars": 6820,
+"description": "A Python scikit for building and analyzing recommender systems",
+"topics": [
+"recommender",
+"systems",
+"recommendation",
+"svd",
+"matrix",
+"factorization",
+"machine-learning"
+],
+"language": "Python"
+},
+{
+"repo": "ROCm/legacy-rocm-build",
+"stars": 6820,
+"description": "AMD ROCm™ Software - GitHub Home",
+"topics": [
+"documentation"
+],
+"language": "Shell"
+},
+{
+"repo": "Dooy/chatgpt-web-midjourney-proxy",
+"stars": 6798,
+"description": "One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
+"topics": [
+"chatgpt-ui",
+"midjourney-ui",
+"gpts",
+"suno",
+"runway",
+"viggle",
+"flux",
+"ideogram",
+"realtime",
+"kling"
+],
+"language": "JavaScript"
+},
+{
+"repo": "x402-foundation/x402",
+"stars": 6728,
+"description": "A payments protocol for the internet. Built on HTTP.",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "pditommaso/awesome-pipeline",
+"stars": 6626,
+"description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+"topics": [
+"awesome-list",
+"workflow"
+],
+"language": ""
+},
+{
+"repo": "evcxr/evcxr",
+"stars": 6498,
+"description": "",
+"topics": [],
+"language": "Rust"
+},
+{
+"repo": "wireservice/csvkit",
+"stars": 6416,
+"description": "A suite of utilities for converting to and working with CSV, the king of tabular file formats.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "aymericdamien/TopDeepLearning",
+"stars": 6369,
+"description": "A list of popular github projects related to deep learning",
+"topics": [
+"deep-learning",
+"machine-learning",
+"tensorflow",
+"pytorch"
+],
+"language": "Python"
+},
+{
+"repo": "vcaesar/riot",
+"stars": 6055,
+"description": "Go Open Source, Distributed, Simple and efficient Search Engine",
+"topics": [
+"go",
+"golang",
+"search-engine",
+"search",
+"riot",
+"index",
+"vector-search"
+],
+"language": "Go"
+},
+{
+"repo": "uber/causalml",
+"stars": 6027,
+"description": "Uplift modeling and causal inference with machine learning algorithms",
+"topics": [
+"incubation",
+"machine-learning",
+"causal-inference",
+"uplift-modeling"
+],
+"language": "Python"
+},
+{
+"repo": "Permify/permify",
+"stars": 5962,
+"description": "An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of FusionAuth 🎉",
+"topics": [
+"access-control",
+"authorization",
+"rbac",
+"rebac",
+"zanzibar",
+"acl",
+"golang",
+"permissions",
+"security",
+"distributed"
+],
+"language": "Go"
+},
+{
+"repo": "lucidrains/x-transformers",
+"stars": 5959,
+"description": "A concise but complete full-attention transformer with a set of promising experimental features from various papers",
+"topics": [
+"artificial-intelligence",
+"deep-learning",
+"attention-mechanism",
+"transformers"
+],
+"language": "Python"
+},
+{
+"repo": "danielgerlag/workflow-core",
+"stars": 5936,
+"description": "Lightweight workflow engine for .NET Standard",
+"topics": [
+"workflow",
+"saga-transactions",
+"saga",
+"workflow-engine",
+"hacktoberfest"
+],
+"language": "C#"
+},
+{
+"repo": "spotify/basic-pitch",
+"stars": 5930,
+"description": "A lightweight yet powerful audio-to-MIDI converter with pitch bend detection",
+"topics": [
+"lightweight",
+"machine-learning",
+"midi",
+"music",
+"pitch-detection",
+"polyphonic",
+"transcription",
+"audio",
+"python",
+"typescript"
+],
+"language": "Python"
+},
+{
+"repo": "OHF-Voice/piper1-gpl",
+"stars": 5908,
+"description": "Fast and local neural text-to-speech engine",
+"topics": [],
+"language": "C++"
+},
+{
+"repo": "image-rs/image",
+"stars": 5894,
+"description": "Encoding and decoding images in Rust",
+"topics": [
+"rust",
+"decoding-images",
+"pixel"
+],
+"language": "Rust"
+},
+{
+"repo": "connorferster/handcalcs",
+"stars": 5806,
+"description": "Python library for converting Python calculations into rendered latex.",
+"topics": [],
+"language": "CSS"
+},
+{
+"repo": "DeepLabCut/DeepLabCut",
+"stars": 5793,
+"description": "Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans",
+"topics": [
+"behavior-analysis",
+"deep-learning",
+"pose-estimation",
+"feature-detectors",
+"toolbox",
+"deeplabcut",
+"animal-pose-estimation",
+"labeling-tool",
+"keypoint-tracking",
+"keypoint-detection"
+],
+"language": "Python"
+},
+{
+"repo": "dnhkng/GLaDOS",
+"stars": 5744,
+"description": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "mlpack/mlpack",
+"stars": 5713,
+"description": "mlpack: a fast, header-only C++ machine learning library",
+"topics": [
+"machine-learning-library",
+"c-plus-plus",
+"deep-learning",
+"nearest-neighbor-search",
+"regression",
+"machine-learning",
+"scientific-computing"
+],
+"language": "C++"
+},
+{
+"repo": "danger/danger",
+"stars": 5695,
+"description": "🚫 Stop saying \"you forgot to …\" in code review (in Ruby)",
+"topics": [
+"ci",
+"automation",
+"github",
+"gitlab",
+"bitbucket",
+"travis",
+"circle",
+"danger",
+"code-review"
+],
+"language": "Ruby"
+},
+{
+"repo": "anishathalye/neural-style",
+"stars": 5547,
+"description": "Neural style in TensorFlow! 🎨",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "danger/danger-js",
+"stars": 5514,
+"description": "⚠️ Stop saying \"you forgot to …\" in code review",
+"topics": [
+"code-review",
+"danger",
+"ci",
+"travis",
+"jenkins",
+"circle",
+"danger-js",
+"github-actions"
+],
+"language": "TypeScript"
+},
+{
+"repo": "zhaoxin94/awesome-domain-adaptation",
+"stars": 5455,
+"description": "A collection of AWESOME things about domain adaptation",
+"topics": [
+"transfer-learning",
+"domain-adaptation",
+"adversarial-learning",
+"image-translation",
+"awesome-list",
+"paper",
+"zero-shot-learning",
+"few-shot-learning",
+"optimal-transport"
+],
+"language": ""
+},
+{
+"repo": "cuberite/cuberite",
+"stars": 5454,
+"description": "A lightweight, fast and extensible game server for Minecraft",
+"topics": [
+"cuberite",
+"linux",
+"c-plus-plus",
+"lua",
+"server",
+"windows",
+"android",
+"plugins",
+"minecraft",
+"raspberry-pi"
+],
+"language": "C++"
+},
+{
+"repo": "Rust-GPU/rust-cuda",
+"stars": 5409,
+"description": "Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.",
+"topics": [
+"cuda",
+"cuda-kernels",
+"cuda-programming",
+"gpgpu",
+"gpu",
+"gpu-programming",
+"rust",
+"rust-lang"
+],
+"language": "Rust"
+},
+{
+"repo": "mozillazg/python-pinyin",
+"stars": 5375,
+"description": "汉字转拼音(pypinyin)",
+"topics": [
+"python",
+"pinyin",
+"pypinyin",
+"hanzi",
+"hanzi-pinyin",
+"python2",
+"python3",
+"chinese"
+],
+"language": "Python"
+},
+{
+"repo": "pingdotgg/uploadthing",
+"stars": 5351,
+"description": "File uploads for modern web devs",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "benjamine/jsondiffpatch",
+"stars": 5348,
+"description": "Diff & patch JavaScript objects",
+"topics": [
+"json",
+"diff",
+"patch",
+"text-diff",
+"jsondiffpatch",
+"delta",
+"diffing"
+],
+"language": "TypeScript"
+},
+{
+"repo": "BuilderIO/ai-shell",
+"stars": 5305,
+"description": "A CLI that converts natural language to shell commands.",
+"topics": [
+"ai"
+],
+"language": "TypeScript"
+},
+{
+"repo": "geopandas/geopandas",
+"stars": 5281,
+"description": "Python tools for geographic data",
+"topics": [
+"geoparquet",
+"geospatial",
+"pandas",
+"python",
+"spatial"
+],
+"language": "Python"
+},
+{
+"repo": "HIT-SCIR/ltp",
+"stars": 5264,
+"description": "Language Technology Platform",
+"topics": [
+"nlp",
+"natural-language-processing",
+"chinese-nlp",
+"machine-learning"
+],
+"language": "Python"
+},
+{
+"repo": "bukosabino/ta",
+"stars": 5237,
+"description": "Technical Analysis Library using Pandas and Numpy",
+"topics": [
+"trading",
+"technical-analysis",
+"python3",
+"volume",
+"technical-analysis-library",
+"volatility",
+"trend-analysis",
+"momentum",
+"fundamental-analysis",
+"numpy"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "ArthurBrussee/brush",
+"stars": 5189,
+"description": "3D Reconstruction for all",
+"topics": [
+"gaussian-splatting",
+"graphics",
+"reconstruction"
+],
+"language": "Rust"
+},
+{
+"repo": "udacity/deep-reinforcement-learning",
+"stars": 5182,
+"description": "Repo for the Deep Reinforcement Learning Nanodegree program",
+"topics": [
+"deep-reinforcement-learning",
+"reinforcement-learning",
+"reinforcement-learning-algorithms",
+"neural-networks",
+"pytorch",
+"pytorch-rl",
+"ddpg",
+"dqn",
+"ppo",
+"dynamic-programming"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "open-mmlab/mmaction2",
+"stars": 5178,
+"description": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+"topics": [
+"action-recognition",
+"temporal-action-localization",
+"pytorch",
+"video-understanding",
+"tsn",
+"i3d",
+"slowfast",
+"ava",
+"spatial-temporal-action-detection",
+"benchmark"
+],
+"language": "Python"
+},
+{
+"repo": "humphd/have-fun-with-machine-learning",
+"stars": 5116,
+"description": "An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks",
+"topics": [
+"neural-network",
+"image-classification",
+"machine-learning",
+"caffe",
+"tutorial"
+],
+"language": "Python"
+},
+{
+"repo": "rafaelpadilla/Object-Detection-Metrics",
+"stars": 5105,
+"description": "Most popular metrics used to evaluate object detection algorithms.",
+"topics": [
+"metrics",
+"object-detection",
+"average-precision",
+"mean-average-precision",
+"bounding-boxes",
+"precision-recall",
+"pascal-voc"
+],
+"language": "Python"
+},
+{
+"repo": "naganandy/graph-based-deep-learning-literature",
+"stars": 5104,
+"description": "links to conference publications in graph-based deep learning",
+"topics": [
+"graph-neural-networks",
+"graph-convolutional-networks",
+"graph",
+"deep-learning",
+"neural-networks",
+"graph-representation-learning",
+"conference-publications"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "nashory/gans-awesome-applications",
+"stars": 5101,
+"description": "Curated list of awesome GAN applications and demo",
+"topics": [
+"generative-adversarial-network",
+"curated-list",
+"applications",
+"demonstration",
+"papers",
+"github"
+],
+"language": ""
+},
+{
+"repo": "cjhutto/vaderSentiment",
+"stars": 5084,
+"description": "VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains. ",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "fspecii/ace-step-ui",
+"stars": 5072,
+"description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+"topics": [
+"ace-step",
+"ai",
+"ai-music",
+"local-first",
+"music",
+"music-generation",
+"open-source",
+"react",
+"typescript",
+"suno-alternative"
+],
+"language": "JavaScript"
+},
+{
+"repo": "ArroyoSystems/arroyo",
+"stars": 5056,
+"description": "Distributed stream processing engine in Rust",
+"topics": [
+"data",
+"dev-tools",
+"infrastructure",
+"kafka",
+"rust",
+"sql",
+"stream-processing",
+"data-stream-processing",
+"stream-processing-engine"
+],
+"language": "Rust"
+},
+{
+"repo": "orientechnologies/orientdb",
+"stars": 4993,
+"description": "OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries.",
+"topics": [
+"orientdb",
+"graph-database",
+"document-database",
+"dbms",
+"nosql",
+"graph-store",
+"multi-master",
+"multi-model-dbms",
+"database",
+"performance"
+],
+"language": "Java"
+},
+{
+"repo": "going-doer/Paper2Code",
+"stars": 4989,
+"description": "Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "hynek/structlog",
+"stars": 4977,
+"description": "Simple, powerful, and fast logging for Python.",
+"topics": [
+"python",
+"logging",
+"structured-logging"
+],
+"language": "Python"
+},
+{
+"repo": "ace-step/ACE-Step",
+"stars": 4953,
+"description": "ACE-Step: A Step Towards Music Generation Foundation Model",
+"topics": [],
+"language": "Python"
+},
+{
+"repo": "andrewekhalel/MLQuestions",
+"stars": 4928,
+"description": "Machine Learning and Computer Vision Engineer - Technical Interview Questions",
+"topics": [
+"computer-vision-interview-questions",
+"data-science-interview",
+"data-science-interview-questions",
+"data-science-interviews",
+"deep-learning-interview",
+"deep-learning-interview-questions",
+"machine-learning-interview",
+"machine-learning-interview-questions",
+"ml-interview",
+"ml-interview-prep"
+],
+"language": "Python"
+},
+{
+"repo": "Martian-Engineering/lossless-claw",
+"stars": 4908,
+"description": "Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "pdfme/pdfme",
+"stars": 4905,
+"description": "Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both browser and Node.js environments.",
+"topics": [
+"pdf",
+"pdf-generation",
+"pdf-designer",
+"pdf-viewer",
+"typescript",
+"react",
+"pdf-generator",
+"pdf-lib",
+"pdf-library"
+],
+"language": "TypeScript"
+},
+{
+"repo": "apache/age",
+"stars": 4897,
+"description": "Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.",
+"topics": [
+"postgresql",
+"graph-database",
+"analytics",
+"postgresql-extension",
+"graphdb",
+"multi-model-dbms",
+"agensgraph",
+"age-database"
+],
+"language": "C"
+},
+{
+"repo": "cberner/redb",
+"stars": 4853,
+"description": "An embedded key-value database in pure Rust",
+"topics": [
+"rust"
+],
+"language": "Rust"
+},
+{
+"repo": "grahamjenson/list_of_recommender_systems",
+"stars": 4848,
+"description": "A List of Recommender Systems and Resources",
+"topics": [],
+"language": ""
+},
+{
+"repo": "cvg/LightGlue",
+"stars": 4828,
+"description": "LightGlue: Local Feature Matching at Light Speed (ICCV 2023)",
+"topics": [
+"deep-learning",
+"image-matching",
+"pose-estimation",
+"transformers"
+],
+"language": "Python"
+},
+{
+"repo": "prawnpdf/prawn",
+"stars": 4824,
+"description": "Fast, Nimble PDF Writer for Ruby",
+"topics": [
+"ruby",
+"pdf-generator",
+"prawn",
+"pdf"
+],
+"language": "Ruby"
+},
+{
+"repo": "py-why/EconML",
+"stars": 4817,
+"description": "ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.",
+"topics": [
+"machine-learning",
+"economics",
+"causal-inference",
+"causality",
+"econometrics",
+"treatment-effects"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "dimforge/nalgebra",
+"stars": 4802,
+"description": "Linear algebra library for Rust.",
+"topics": [
+"linear-algebra",
+"matrix",
+"vector",
+"algebra"
+],
+"language": "Rust"
+},
+{
+"repo": "Bing-su/adetailer",
+"stars": 4791,
+"description": "Auto detecting, masking and inpainting with detection model.",
+"topics": [
+"sd-webui",
+"stable-diffusion-webui",
+"stable-diffusion-webui-plugin"
+],
+"language": "Python"
+},
+{
+"repo": "has2k1/plotnine",
+"stars": 4774,
+"description": "A Grammar of Graphics for Python",
+"topics": [
+"plotting",
+"grammar",
+"graphics",
+"python",
+"data-analysis"
+],
+"language": "Python"
+},
+{
+"repo": "deanmalmgren/textract",
+"stars": 4724,
+"description": "extract text from any document. no muss. no fuss.",
+"topics": [
+"python",
+"natural-language-processing",
+"data-mining",
+"text-mining"
+],
+"language": "HTML"
+},
+{
+"repo": "WorldBrain/Memex",
+"stars": 4721,
+"description": "Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.",
+"topics": [
+"web-extension",
+"chrome-extension",
+"firefox-addon",
+"typescript",
+"javascript",
+"full-text-search",
+"browser-extension",
+"annotations",
+"annotation",
+"annotate"
+],
+"language": "TypeScript"
+},
+{
+"repo": "AutumnWhj/ChatGPT-wechat-bot",
+"stars": 4716,
+"description": "ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+"topics": [],
+"language": "TypeScript"
+},
+{
+"repo": "mpdf/mpdf",
+"stars": 4703,
+"description": "PHP library generating PDF files from UTF-8 encoded HTML",
+"topics": [
+"php",
+"pdf",
+"html",
+"utf-8",
+"cjk",
+"css"
+],
+"language": "PHP"
+},
+{
+"repo": "r0f1/datascience",
+"stars": 4682,
+"description": "Curated list of Python resources for data science.",
+"topics": [
+"awesome",
+"awesome-list",
+"data-science",
+"datascience",
+"python",
+"deep-learning",
+"data-analysis",
+"data-visualization",
+"data-mining",
+"machine-learning"
+],
+"language": ""
+},
+{
+"repo": "makcedward/nlpaug",
+"stars": 4664,
+"description": "Data augmentation for NLP ",
+"topics": [
+"nlp",
+"augmentation",
+"machine-learning",
+"artificial-intelligence",
+"data-science",
+"natural-language-processing",
+"adversarial-attacks",
+"adversarial-example",
+"ai",
+"ml"
+],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "plotters-rs/plotters",
+"stars": 4633,
+"description": "A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀",
+"topics": [
+"rust",
+"visualization",
+"plotting",
+"webassembly",
+"science",
+"graphing",
+"data-plotting",
+"rust-crate",
+"plot"
+],
+"language": "Rust"
+},
+{
+"repo": "dcajasn/Riskfolio-Lib",
+"stars": 4547,
+"description": "Portfolio Optimization in Python",
+"topics": [
+"portfolio-optimization",
+"convex-optimization",
+"stepwise-regression",
+"duration-matching",
+"drawdown-model",
+"sharpe-ratio",
+"trading",
+"investment",
+"finance",
+"asset-allocation"
+],
+"language": "C++"
+},
+{
+"repo": "PolymathicAI/the_well",
+"stars": 4472,
+"description": "A 15TB Collection of Physics Simulation Datasets",
+"topics": [],
+"language": "Jupyter Notebook"
+},
+{
+"repo": "lululxvi/deepxde",
+"stars": 4471,
+"description": "A library for scientific machine learning and physics-informed learning",
+"topics": [
+"neural-network",
+"deep-learning",
+"scientific-machine-learning",
+"pinn",
+"multi-fidelity-data",
+"operator",
+"pytorch",
+"physics-informed-learning",
+"jax",
+"deeponet"
+],
+"language": "Python"
+},
+{
+"repo": "layumi/Person_reID_baseline_pytorch",
+"stars": 4450,
+"description": ":bouncing_ball_person: Pytorch ReID: A tiny, friendly, strong pytorch implement of person re-id / vehicle re-id baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial",
+"topics": [
+"open-reid",
+"pytorch",
+"person-reidentification",
+"image-retrieval",
+"person-reid",
+"re-ranking",
+"random-erasing",
+"image-search",
+"market-1501",
+"tutorial"
+],
+"language": "Python"
+}
+]

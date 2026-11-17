@@ -1,0 +1,2346 @@
+# Rejected candidates
+
+- microsoft/vscode (193786★): General code editor, not AI tooling
+- coder/code-server (79638★): VS Code in browser, no AI angle
+- ansible/ansible (71003★): Generic IT automation
+- termux/termux-app (62840★): Android terminal emulator, not AI
+- tw93/Pake (62146★): Website-to-desktop wrapper, not AI
+- appwrite/appwrite (57714★): General backend-as-a-service
+- elder-plinius/CL4R1T4S (51330★): Leaked system prompt dump
+- tldraw/tldraw (50961★): Canvas SDK, not AI tooling
+- DavidHDev/react-bits (49523★): Generic React component library
+- calcom/cal.diy (49110★): Scheduling software, not AI
+- cli/cli (46675★): GitHub CLI, not AI
+- vnpy/vnpy (45923★): Quant trading framework, no AI tooling
+- logseq/logseq (45268★): Note-taking app, no AI angle
+- LC044/WeChatMsg (42095★): No description; chat export tool
+- drawdb-io/drawdb (40055★): Database diagram editor
+- TriliumNext/Trilium (38378★): Note app, no AI angle
+- pbatard/rufus (38010★): USB formatting utility
+- gitroomhq/postiz-app (37322★): Social scheduling app, AI incidental
+- medusajs/medusa (36780★): Commerce platform, not AI
+- alibaba/nacos (33461★): Service discovery platform; AI registry secondary
+- zeromicro/go-zero (33386★): Go microservices framework
+- gulpjs/gulp (32921★): JS build tool
+- jumpserver/jumpserver (31787★): Privileged access management, AI incidental
+- anywhere-labs/dsh-desktop (31260★): Unclear plugin-ecosystem desktop, likely promotional
+- gitleaks/gitleaks (30069★): Secret scanner, not AI
+- netbirdio/netbird (30034★): VPN networking, not AI
+- Infisical/infisical (29828★): Secrets manager, AI incidental
+- python-telegram-bot/python-telegram-bot (29520★): Telegram API wrapper, not AI
+- nrwl/nx (29413★): Monorepo build tool
+- pppscn/SmsForwarder (28467★): SMS forwarder, not AI
+- cilium/cilium (25677★): eBPF networking, not AI
+- ranaroussi/yfinance (25543★): Market data downloader, not AI
+- readest/readest (25347★): Ebook reader, not AI
+- pypa/pipenv (25021★): Python packaging tool
+- apache/skywalking (24970★): General APM, not AI
+- vectordotdev/vector (22719★): Observability pipeline, not AI
+- pranshuparmar/witr (22713★): Process tracing CLI, not AI
+- docmost/docmost (22011★): Wiki software, AI incidental
+- elder-plinius/L1B3RT4S (21903★): Jailbreak prompt dump
+- elastic/kibana (21315★): Dashboards, not AI
+- nikivdev/code (21104★): No description
+- qax-os/excelize (20999★): Excel library, not AI
+- hummingbot/hummingbot (20519★): Crypto trading bot
+- dailydotdev/daily (20109★): Developer news feed
+- immersive-translate/immersive-translate (19344★): Translation extension; AI unclear from fields
+- nukeop/nuclear (18725★): Music player
+- VictoriaMetrics/VictoriaMetrics (17878★): Time-series monitoring DB
+- influxdata/telegraf (17864★): Metrics collector
+- openzipkin/zipkin (17467★): Generic distributed tracing, no AI angle
+- Effect-TS/effect (17316★): General TypeScript library, not AI
+- semgrep/semgrep (17104★): General static analysis, no AI core
+- amplication/amplication (16005★): Code generation platform, not AI
+- gojue/ecapture (15510★): Network TLS capture, no AI
+- bloomberg/memray (15383★): Python memory profiler, not AI
+- electerm/electerm (15380★): Terminal client, AI is peripheral
+- gvergnaud/ts-pattern (15184★): TypeScript pattern matching, not AI
+- tisfeng/Easydict (14987★): Dictionary app, AI is one backend
+- jujumilk3/leaked-system-prompts (14967★): Leaked prompt dump
+- xcanwin/KeepChatGPT (14900★): ChatGPT userscript bypassing audits
+- sml2h3/ddddocr (14850★): Captcha solving OCR, abuse-oriented
+- mickael-kerjean/filestash (14803★): File manager, no AI core
+- oblien/openship (14792★): Generic deployment platform
+- bytebase/bytebase (14592★): Database governance, no AI core
+- juicedata/juicefs (14548★): Distributed filesystem, not AI
+- forwardemail/supertest (14401★): HTTP testing library, not AI
+- thanos-io/thanos (14238★): Prometheus storage, not AI
+- vercel/satori (14096★): HTML to SVG library, not AI
+- YouMind-OpenLab/awesome-nano-banana-pro-prompts (13609★): Prompt dump
+- jupyter/notebook (13442★): General notebook tool
+- zoicware/RemoveWindowsAI (13379★): Windows debloat script
+- darktable-org/darktable (13289★): Photo editor, not AI
+- roots/sage (13280★): WordPress theme
+- halfrost/Halfrost-Field (13248★): Personal engineering blog
+- DuarteSantos8/openGym (13095★): Fitness tracker, not AI
+- JoeanAmier/XHS-Downloader (13038★): Social media downloader
+- vercel-labs/portless (12700★): Local URL dev utility
+- 0xk1h0/ChatGPT_DAN (12618★): Jailbreak prompt dump
+- infracost/infracost (12565★): Cloud cost tool, not AI
+- open-policy-agent/opa (12376★): Policy engine, not AI
+- future-architect/vuls (12286★): Vulnerability scanner, not AI
+- actions/starter-workflows (12174★): GitHub Actions templates, not AI
+- pestphp/pest (11742★): PHP testing framework
+- grafana/pyroscope (11696★): Continuous profiling, not AI
+- 0xJacky/nginx-ui (11640★): Nginx web UI
+- trycompai/crm (11370★): CRM, AI angle unclear
+- giampaolo/psutil (11299★): System monitoring library
+- JOYCEQL/magic-resume (11103★): Resume editor, AI peripheral
+- openspug/spug (11088★): Ops platform, not AI
+- Fechin/reference (10909★): Developer cheat sheets
+- henrypp/memreduct (10848★): Memory cleaner, not AI
+- accomplish-ai/coworker (10840★): No description or substance
+- Freika/dawarich (10688★): Location history app
+- serbanghita/Mobile-Detect (10677★): PHP device detection
+- instantdb/instant (10547★): Generic backend platform
+- openframeworks/openFrameworks (10443★): Creative coding toolkit, not AI
+- modin-project/modin (10390★): Pandas scaling, not AI
+- ZeroLu/awesome-nanobanana-pro (10351★): Prompt dump
+- faisalman/ua-parser-js (10202★): User-agent parser, not AI
+- MiniMax-AI/MiniMax-H3 (10075★): No description to judge
+- hyperdxio/hyperdx (9953★): General observability platform
+- friuns2/BlackFriday-GPTs-Prompts (9831★): Prompt and jailbreak dump, spam topics
+- upgundecha/howtheysre (9830★): SRE resource list, not AI
+- ChinaSiro/claude-code-sourcemap (9710★): Leaked source dump, no description
+- unicity-sphere/sphere (9629★): Crypto wallet platform
+- leanprover/lean4 (9574★): Programming language and theorem prover, not AI
+- usekaneo/kaneo (9507★): Project management tool, AI incidental
+- ccfddl/ccf-deadlines (9457★): Conference deadline tracker, not AI tooling
+- highlight/highlight (9380★): General app monitoring, not AI
+- risingwavelabs/risingwave (9374★): Stream processing database, AI branding only
+- yagop/node-telegram-bot-api (9212★): Generic Telegram bot library
+- openstatusHQ/openstatus (9190★): Status page and uptime monitoring, not AI
+- We5ter/Scanners-Box (9113★): General security tool list, AI tangential
+- realsenseai/librealsense (9057★): Camera hardware SDK, not AI tooling
+- CoreBunch/Instatic (8965★): Visual CMS, AI angle marginal
+- liyupi/codefather (8862★): General programming learning roadmap
+- elder-plinius/OBLITERATUS (8842★): Jailbreak/guardrail removal, no substance described
+- freecodexyz/free-code (8760★): Modified leaked Claude Code with guardrails stripped
+- Sitoi/dailycheckin (8730★): Daily check-in scripts, not AI
+- ChenLiu-1996/figures4papers (8669★): Plotting scripts, not AI tooling
+- vastsa/FileCodeBox (8625★): File sharing tool, not AI
+- meshtastic/firmware (8439★): Mesh radio firmware, not AI
+- MariaDB/server (8381★): General relational database
+- krzysztofzablocki/Sourcery (8026★): Swift metaprogramming, not AI
+- coroot/coroot (7975★): General APM tool, AI incidental
+- datahaven-xyz/datahaven (7880★): Blockchain chain, no AI tooling
+- HuLaSpark/HuLa (7766★): Instant messaging app, not AI
+- OneUptime/oneuptime (7745★): General monitoring platform
+- open-telemetry/opentelemetry-collector (7670★): General telemetry, not AI-specific
+- markqvist/Reticulum (7545★): Networking stack, not AI
+- conda/conda (7532★): General package manager
+- TheCraigHewitt/seomachine (7510★): SEO content workspace
+- LuckyOne7777/LLM-Trading-Lab (7505★): Personal trading experiment
+- xirong/my-git (7395★): Git handbook, AI angle marginal
+- projectcalico/calico (7394★): Kubernetes networking, not AI
+- spiritLHLS/ecs (7248★): VPS benchmark script, not AI
+- marionettejs/marionette (7036★): JavaScript UI library, not AI
+- firebase/firebase-ios-sdk (6968★): General app SDK
+- GreptimeTeam/greptimedb (6742★): General observability database, no AI focus
+- LaoFeng-mouse/flyingmouse-format (6726★): Generic file format converter
+- pig-mesh/pig (6693★): RBAC permission system, not AI
+- crisxuan/bestJavaer (6620★): Personal lab notes, no clear tooling
+- j3ssie/osmedeus (6601★): Security recon engine, AI marginal
+- pixie-io/pixie (6548★): Kubernetes observability, not AI
+- MaterializeInc/materialize (6385★): Streaming SQL database, no AI angle
+- nirholas/fresh-start (6232★): Placeholder after DMCA, no substance
+- kubernetes/kube-state-metrics (6222★): Kubernetes metrics, not AI
+- dsherret/ts-morph (6204★): TypeScript compiler wrapper, not AI
+- javaparser/javaparser (6162★): Java parser, not AI
+- botman/botman (6155★): PHP chatbot library, no AI
+- goadesign/goa (6110★): Go API framework, not AI
+- btraceio/btrace (5999★): JVM tracing, not AI
+- liyupi/mianshiya (5977★): General programming interview site
+- cypress-io/cypress-realworld-app (5914★): Cypress testing demo, not AI
+- mg-chao/snow-apps (5913★): Screenshot tools, not AI
+- pbek/QOwnNotes (5909★): Notes app, AI marginal
+- livebook-dev/livebook (5883★): Elixir notebooks, not AI-specific
+- ruby-concurrency/concurrent-ruby (5836★): Ruby concurrency, not AI
+- kornelski/pngquant (5758★): PNG compressor, not AI
+- Cog-Creators/Red-DiscordBot (5746★): Discord bot, not AI
+- zxlie/FeHelper (5678★): Frontend browser toolbox, not AI
+- GargantuaX/gemini-watermark-remover (5670★): AI watermark removal, abuse-adjacent
+- xiangyuecn/Recorder (5637★): Browser audio recorder library
+- Ne0nd0g/merlin (5617★): C2 post-exploitation server, not AI
+- digitalinnovationone/potencializando-estudos-carreira-com-ia (5602★): Thin course repo, little substance
+- permitio/opal (5524★): Policy administration, not AI
+- hey-api/hey-api (5503★): OpenAPI SDK generator, not AI
+- JerBouma/FinanceToolkit (5437★): Financial analysis library, no AI
+- ExpressLRS/ExpressLRS (5413★): RC radio link, not AI
+- lingodotdev/lingo.dev (5397★): Localization tools, AI not evident
+- CreditTone/hooker (5327★): Android reverse engineering, not AI
+- deepfence/ThreatMapper (5325★): Cloud security platform, not AI
+- CCOSTAN/Home-AssistantConfig (5301★): Personal home automation config, not AI tooling
+- landing-ai/vision-agent (5301★): Deprecated by its authors
+- zhkl0228/unidbg (5277★): Android/iOS native emulator, not AI
+- grafana/mimir (5256★): Prometheus storage, no AI angle
+- unlayer/react-email-editor (5246★): Email editor component, AI topics are SEO
+- rajnandan1/kener (5208★): Status page tool, no AI
+- tianshiyeben/wgcloud (5188★): Linux ops monitoring, no AI
+- IgorMundstein/WinMemoryCleaner (5166★): Windows RAM cleaner, not AI
+- GoogleChromeLabs/react-adaptive-hooks (5155★): React performance hooks, no AI
+- fallow-rs/fallow (5152★): Static analysis tool, MCP is incidental
+- MeteorNOX/DeepSeek-Balance-Whale-Widget (5108★): Novelty balance widget, little substance
+- facebook/memlab (5072★): JS memory leak tool, no AI
+- actions/github-script (5037★): GitHub Actions scripting, no AI
+- shader-effects-inc/shaders (4998★): WebGPU shader components, not AI
+- parca-dev/parca (4995★): Continuous profiling, no AI
+- mock-server/mockserver-monorepo (4993★): General HTTP mock server, AI incidental
+- rachelos/we-mp-rss (4941★): WeChat RSS scraper, SEO-stuffed, little AI
+- flipt-io/flipt (4919★): Feature flags, no AI
+- mailru/easyjson (4914★): Go JSON library, no AI
+- micrometer-metrics/micrometer (4910★): Generic observability facade, no AI
+- aya-rs/aya (4857★): eBPF library, no AI
+- JabRef/jabref (4814★): Bibliography manager, AI incidental
+- mitchellkrogza/nginx-ultimate-bad-bot-blocker (4811★): Nginx bot blocker, no AI
+- nikolaydubina/go-recipes (4793★): Go tooling list, no AI
+- EnzeD/vibe-coding (4789★): No description to judge
+- yonggekkk/warp-yg (4646★): VPN/WARP script, not AI
+- cyanfish/naps2 (4646★): Scanner app, OCR incidental
+- cerbos/cerbos (4626★): General authorization engine, AI incidental
+- asmjit/asmjit (4622★): JIT assembler, no AI
+- Dav1dde/glad (4615★): OpenGL loader generator, no AI
+- ceres-solver/ceres-solver (4580★): General optimization library, no AI
+- solidSpoon/DashPlayer (4548★): English learning video player, AI incidental
+- Astrosp/Awesome-OSINT-List (4548★): OSINT list, not AI
+- intuitem/ciso-assistant-community (4523★): GRC platform, AI incidental
+- volatilityfoundation/volatility3 (4506★): Memory forensics, no AI
+- typedb/typedb (4485★): General database, no AI angle
+- KnpLabs/snappy (4475★): PHP PDF wrapper, no AI
+- getopenscreen/openscreen (4458★): Screen recorder, AI incidental
+- SchedMD/slurm (4448★): HPC scheduler, no direct AI angle
+- crate/crate (4443★): General SQL database
+- textbee/textbee (3179★): SMS gateway, not AI tooling
+- microsoft/retina (3179★): Kubernetes network observability, no AI angle
+- kite-org/kite (3171★): Generic Kubernetes dashboard
+- allenk/GeminiWatermarkTool (3130★): Watermark removal for AI images, abuse risk
+- kane50613/takumi (3118★): OG image renderer, not AI
+- mcncarl/jianying-headless (3108★): Private preview, little substance
+- subtrace/subtrace (3100★): Generic network inspector
+- odygrd/quill (3056★): C++ logging library, not AI
+- abhinavxd/libredesk (3043★): Helpdesk software, AI peripheral
+- apollographql/apollo-tooling (3041★): GraphQL CLI, not AI
+- elegantapp/pwa-asset-generator (3041★): PWA icon generator, not AI
+- xyproto/algernon (3031★): Generic web server
+- qxresearch/qxresearch-event-1 (3016★): General Python mini-projects
+- weld-project/weld (3010★): Data analytics runtime, not AI
+- x4nth055/pythoncode-tutorials (3001★): General Python tutorials
+- Minglink/dsh-infinite-gen-5 (2993★): DeepSeek reverse-engineering abuse tool
+- mmcloughlin/avo (2990★): Assembly generator, not AI
+- Licoy/wordpress-theme-puock (2973★): WordPress theme
+- openctp/openctp (2967★): Trading API, no AI
+- huangwb8/ChineseResearchLaTeX (2947★): LaTeX templates, not AI
+- hello245m/free-stockdb (2940★): Stock data engine, no AI
+- gharlan/alfred-github-workflow (2916★): Alfred GitHub workflow, not AI
+- cskefu/cskefu (2900★): Customer service system, no clear AI
+- eko/gocache (2888★): Go cache library, not AI
+- viewflow/viewflow (2877★): Django workflow library, no AI
+- marketcalls/openalgo (2873★): Trading platform, no real AI
+- goniszewski/grimoire (2867★): Bookmark manager
+- chauncygu/collection-claude-code-source-code (2851★): Leaked source collection
+- sahibzada-allahyar/YC-Killer (2845★): Incoherent topics, hype
+- gioblu/PJON (2834★): IoT network protocol
+- rusq/slackdump (2830★): Slack export tool, MCP is incidental
+- ColinIanKing/stress-ng (2802★): System stress testing, not AI
+- MIgHTy-alIeN/ethereum-flashloan-mev-bot (2790★): Crypto MEV bot, likely scam
+- linsa-io/alfred-workflows (2778★): Non-AI awesome list
+- awnumar/memguard (2764★): Go memory security library, not AI
+- Bearer/bearer (2759★): General SAST scanner, no AI angle
+- ZeroLu/awesome-seedance (2729★): Prompt dump with SEO framing
+- prateek-chaubey/YTPro (2699★): YouTube client, AI incidental
+- serenity-is/Serenity (2694★): Business app framework, not AI
+- zhaoweih/Shadowsocks-Tutorial (2689★): VPN tutorial, not AI
+- sindresorhus/alfy (2657★): Alfred workflow library, not AI
+- absmach/magistrala (2651★): IoT platform, not AI
+- google/zerocopy (2619★): Rust memory library, not AI
+- go-nunu/nunu (2611★): Go scaffolding CLI, not AI
+- markqvist/NomadNet (2595★): Mesh networking, not AI
+- pythops/oryx (2594★): Network sniffer, not AI
+- fivetaku/insane-search (2584★): Website block bypass tool
+- TNT-Likely/BeeCount (2577★): Bookkeeping app, AI incidental
+- sismics/docs (2570★): Document management, no AI
+- slok/sloth (2557★): Prometheus SLO generator, not AI
+- mjansson/rpmalloc (2520★): Memory allocator, not AI
+- cixingguangming55555/wechat-bot (2519★): Vague proxy toolset, no substance
+- YTwsy/OpenSurge-for-Mac (2516★): Network proxy gateway, not AI
+- akuity/awesome-argo (2500★): Duplicate non-AI awesome list
+- itmeo/webgradients (2492★): CSS gradients, not AI
+- perses/perses (2489★): Generic observability dashboards, no AI
+- MG1937/ASC (2463★): Android decompiler, little AI tooling
+- drl990114/MarkFlowy (2401★): Markdown editor, AI peripheral
+- KartikLabhshetwar/better-shot (2397★): Screenshot app, not AI
+- tannerhelland/PhotoDemon (2387★): Photo editor, not AI
+- VictoriaMetrics/VictoriaLogs (2383★): Log database, no AI
+- KrishMunot/awesome-startup (2372★): Non-AI startup list
+- ponponon/claude_code_src (2334★): Leaked proprietary source
+- jarmuine/claude-code (2329★): Leaked source fork
+- casadi/casadi (2314★): Numeric optimization, not AI
+- jenkinsci/kubernetes-plugin (2313★): Jenkins CI plugin, not AI
+- ChunelFeng/CGraph (2312★): Generic DAG framework
+- google/gnostic (2308★): OpenAPI compiler, not AI
+- muxy-app/muxy (2307★): Terminal multiplexer, not AI
+- xrpcommunity/XRP-community-wallet (2300★): Crypto wallet
+- Future-Scholars/paperlib (2300★): Paper manager, not AI
+- DanOps-1/Gpt-Agreement-Payment (2295★): Subscription replay and captcha abuse
+- relation-graph/relation-graph (2280★): Graph UI component, not AI
+- ZeroLu/awesome-gpt-image (2268★): Prompt collection dump
+- google/generative-ai-docs (2262★): Deprecated, to be archived
+- op7418/Youtube-clipper-skill (2243★): No description
+- mathworks/MATLAB-Simulink-Challenge-Project-Hub (2225★): Student project ideas list, not AI tooling
+- martin-ger/esp32_nat_router (2218★): Network router firmware, AI is peripheral
+- alibaba/loongcollector (2208★): Generic observability collector, no AI angle
+- aws/amazon-ecs-agent (2184★): Container agent, not AI
+- 0Chencc/clawgod (2174★): Patch bypassing Claude Code limits
+- MRPT/mrpt (2169★): Robotics toolkit, not AI tooling
+- scambier/obsidian-omnisearch (2167★): Obsidian search plugin, no AI
+- grafana/beyla (2147★): eBPF observability, no AI angle
+- elastio/bon (2140★): Rust builder macro library, not AI
+- OpenVidu/openvidu (2137★): Video conferencing platform, AI peripheral
+- apioo/fusio (2126★): Generic API management platform
+- jtmuller5/The-HustleGPT-Challenge (2125★): Startup challenge log, not tooling
+- cyberman54/ESP32-Paxcounter (2114★): IoT device, not AI
+- olaxbt/ai-market-maker (2114★): Crypto trading bot
+- streamich/memfs (2106★): Node filesystem library, not AI
+- ChinaGodMan/UserScripts (2097★): Userscripts collection, not AI
+- pydoit/doit (2094★): Generic task runner, not AI
+- CYB3RMX/Qu1cksc0pe (2084★): Malware analysis tool, AI peripheral
+- GoogleCloudPlatform/khi (2084★): Kubernetes log viewer, not AI
+- Syngnat/GoNavi (2073★): Database client, AI is peripheral
+- zalando/logbook (2069★): HTTP logging library, not AI
+- sherifabdlnaby/elastdocker (2067★): ELK Docker setup, not AI
+- TheGP/untidetect-tools (2038★): Multi-account and captcha abuse tools
+- systemd/mkosi (2036★): OS image builder, not AI
+- GrapheneOS/hardened_malloc (2034★): Memory allocator, not AI
+- jkroepke/helm-secrets (2033★): Helm secrets plugin, not AI
+- Urigo/graphql-cli (2019★): GraphQL CLI, not AI
+- tiddly-gittly/TidGi-Desktop (2009★): Note-taking app, no AI angle
+- Tencent/TSW (1805★): Generic Node.js server framework
+- B3o/GPTS-Prompt-Collection (1802★): Prompt dump
+- minecraft-dev/MinecraftDev (1800★): Game modding IDE plugin
+- wgpsec/AboutSecurity (1794★): Security knowledge base, not AI tooling
+- jm33-m0/emp3r0r (1790★): Offensive tooling, not AI
+- haydenbleasel/blume (1789★): Generic docs framework
+- dreamfactorysoftware/dreamfactory (1785★): API generator, weak AI angle
+- stack-chan/stack-chan (1784★): Hobby robot, minimal AI
+- AgentDock/AgentDock (1773★): Framework retired
+- kubetail-org/kubetail (1771★): Kubernetes logging, no AI
+- dongsheng123132/u-claw (1759★): Commercial installer bundle
+- manateelazycat/lsp-bridge (1753★): Generic LSP client
+- cubewhy/skid-homework (1748★): Homework solver app
+- kyleskom/NBA-Machine-Learning-Sports-Betting (1746★): Sports betting project
+- elder-plinius/V3SP3R (1741★): No README substance
+- openucx/ucx (1729★): HPC networking, no AI
+- KusionStack/karpor (1724★): Kubernetes visualization tool
+- gdamdam/awesome-decentralized-web (1719★): Non-AI awesome list
+- disler/pi-vs-claude-code (1716★): Comparison repo, thin
+- metrico/gigapipe (1714★): Generic observability, no AI
+- llm2014/llm_benchmark (1701★): No README substance
+- LjyYano/Thinking_in_Java_MindMapping (1688★): Personal notes
+- Rohithgilla12/data-peek (1678★): Database client
+- Olcmyk/HuChenFeng (1667★): Personal content archive
+- mourner/flamebearer (1662★): CPU profiler, not AI
+- dromara/yft-design (1661★): Design editor, no AI
+- SkyAPM/SkyAPM-dotnet (1658★): APM agent, not AI
+- luangjokaj/wordpressify (1642★): WordPress build tool, not AI
+- ariacom/Seal-Report (1640★): Generic .NET reporting tool, AI only in topics
+- jxlarrea/kiosk-satellite (1633★): Home Assistant kiosk app, not AI tooling
+- minkphp/Mink (1609★): PHP browser emulator, no AI angle
+- shinshin86/oh-my-logo (1604★): ASCII logo CLI, not AI
+- isaackogan/TikTokLive (1600★): TikTok API library, not AI
+- haydenbleasel/files-sdk (1597★): Generic storage SDK, no AI angle
+- mxschmitt/awesome-playwright (1596★): Non-AI awesome-list
+- tmijs/tmi.js (1588★): Twitch chat library, not AI
+- eatmoreduck/boss-zhipin-scraper (1586★): Site-specific scraper bypassing anti-scraping
+- protegeproject/protege (1585★): Ontology editor, not LLM tooling
+- cyberpapiii/chipotlai-max (1578★): Abuses third-party chatbot compute, joke fork
+- caezium/burrow (1577★): Mac cleanup utility, minor AI angle
+- cv-cat/XianYuApis (1576★): Reverse-engineered marketplace API automation
+- skernelx/tavily-key-generator (1571★): Signup automation for API key abuse
+- Gowtham-Darkseid/AutoPentestX (1566★): Pentest tool, no AI angle
+- vanloctech/youwee (1565★): yt-dlp downloader GUI, minor AI feature
+- Hexeption/MCP-Reborn (1565★): Minecraft Mod Coder Pack, not AI
+- kr1sp1n/awesome-gemini (1565★): Gemini internet protocol, not AI
+- wevm/vocs (1562★): Docs framework, not AI
+- Unclecheng-li/AI_Animation (1561★): Prompt collection dump
+- zhongwencool/observer_cli (1536★): Erlang node monitor, not AI
+- ray-lothian/UserAgent-Switcher (1532★): User-agent spoofer extension, not AI
+- Zhengqbbb/cz-git (1531★): Commitizen adapter, AI marginal
+- mxsm/rocketmq-rust (1529★): Message queue, AI is marketing
+- edmund-io/edmunds-claude-code (1510★): No description, likely personal config
+- reactor/BlockHound (1509★): Java agent for blocking calls, not AI
+- webfactory/ssh-agent (1485★): SSH agent GitHub Action, not AI
+- softwaremill/tapir (1475★): Scala API library, not AI
+- OWASP/wrongsecrets (1472★): Secrets training app, not AI tooling
+- qpoint-io/qtap (1464★): eBPF network agent, not AI
+- rage-rb/rage (1445★): Ruby web framework, not AI
+- zz85/space-radar (1443★): Disk visualization app, not AI
+- mchav/with (1443★): Shell command prefix utility, not AI
+- opendatadiscovery/odd-platform (1437★): Data catalog, no AI angle
+- fendouai/OpenCVTutorials (1436★): OpenCV documentation translation, not LLM tooling
+- lzhgus/Capso (1435★): Screenshot app, not AI
+- scikit-learn-contrib/metric-learn (1431★): Classical ML library, not LLM or agent tooling
+- cloudflare/nimbus (1428★): Docs site template, weak AI angle
+- millylee/anyrouter-check-in (1423★): Free-credit check-in script, account-abuse risk
+- xlrpa/FlowBot (1422★): WeChat hook RPA bot, no real AI tooling
+- imagej/imagej2 (1412★): Scientific image processing, not AI tooling
+- agent0ai/space-agent (1412★): No README substance in given fields
+- monperrus/crawler-user-agents (1411★): Bot user-agent patterns, not AI
+- ovh/utask (1410★): YAML automation engine, no AI angle
+- dairoot/ChatGPT-Mirror (1404★): Account-sharing mirror site deployment
+- nachifur/MulimgViewer (1403★): Image viewer, not AI tooling
+- xxxily/hello-ai (1402★): Slogan description, unclear substance
+- wikieden/Freedom-To-Chatgpt-Claude-Agent (1399★): Prompt dump guide
+- taielab/awesome-hacking-lists (1395★): General hacking tools list, not AI-focused
+- grafana/grafana-operator (1390★): Generic Kubernetes operator, no AI angle
+- noobnooc/agent (1387★): Personal profile repo
+- zelon88/HRConvert2 (1381★): Generic file conversion server
+- cubxxw/awesome-cs-cloudnative-blockchain (1378★): General CS and blockchain list
+- dadhi/FastExpressionCompiler (1378★): C# compiler library, not AI
+- Demizo/Daily_You (1369★): Diary app, no AI
+- mehdibha/dotUI (1366★): Design system, weak AI angle
+- makew0rld/amfora (1361★): Gemini protocol browser, not AI
+- HalFrgrd/flyline (1351★): Bash line editor, AI incidental
+- hexdigest/gowrap (1339★): Go code generator, not AI
+- whitecatboard/Lua-RTOS-ESP32 (1337★): Embedded RTOS, not AI
+- DataDog/dd-agent (1331★): Monitoring agent, not AI
+- slackapi/bolt-python (1329★): Slack app framework, not AI
+- KusionStack/kusion (1323★): Platform orchestrator, AI incidental
+- loco-3d/crocoddyl (1321★): Robot optimal control, not AI tooling
+- BetterDB-inc/monitor (1309★): Redis monitoring, AI incidental
+- abo-abo/lispy (1301★): Emacs Lisp editing, not AI
+- liamcottle/reticulum-meshchat (1300★): Mesh networking app, not AI
+- microsoft/gctoolkit (1299★): JVM GC log parser, not AI
+- yasewang1337-svg/winutil-cn (1057★): Windows utility localization, MCP is incidental
+- github0null/eide (1054★): Embedded IDE, not AI tooling
+- SnapXL/SnapX (1052★): Screenshot tool, not AI
+- cloudflare/pint (1052★): Prometheus linter, not AI
+- zepen/predict_Lottery_ticket (1050★): Lottery prediction, no real AI tooling
+- Ttungx/codex_auto_register (1047★): Account auto-registration abuse tool
+- MOLAorg/mola (1041★): SLAM robotics framework, not AI tooling
+- Zygo/bees (1041★): btrfs dedupe, not AI
+- chrisgrieser/shimmering-obsidian (1040★): Alfred Obsidian workflow, not AI
+- OpenMined/TenSEAL (1040★): Homomorphic encryption library, weak AI fit
+- open-telemetry/opentelemetry-go-instrumentation (1038★): Generic observability, no AI angle
+- microsoft/HydraLab (1030★): Cloud device testing, AI angle minimal
+- lyusupov/SoftRF (1030★): Aviation hardware, not AI
+- mariadb-operator/mariadb-operator (1027★): Database operator, no AI angle
+- MacPaw/cleanmymac-cli (1021★): Disk cleaner, not AI tooling
+- ZhangJinHaHaHa/AgentLens (1020★): Blockchain agent marketplace, no real tooling
+- Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report (1020★): Benchmark presentation, no repo substance
+- SamuelQZQ/auto-coding-agent-demo (1018★): Demo experiment with little substance
+- tapparelj/gr-lora_sdr (1013★): LoRa radio, not AI
+- schpet/linear-cli (1013★): Issue tracker CLI, AI angle minor
+- goat-sdk/goat (1009★): Archived, crypto agent toolkit
+- bytedoger/awesome-OpenPrice (1003★): Subscription price comparison, not tooling
+- newrelic/node-newrelic (1000★): APM agent, not AI
+- openai/math (15142★): No description or README substance to judge
+- scipy/scipy (15122★): General scientific computing library, not AI
+- sympy/sympy (15020★): Computer algebra system, not AI
+- alibaba/hooks (14973★): React hooks library, not AI
+- maurosoria/dirsearch (14973★): Web path scanner, not AI
+- microsoft/RustTraining (14948★): General Rust programming course
+- google/brotli (14933★): Compression format, not AI
+- pyodide/pyodide (14896★): Python WebAssembly distribution, not AI
+- Azure/azure-quickstart-templates (14891★): Generic Azure infrastructure templates
+- ajv-validator/ajv (14863★): JSON schema validator, no AI angle
+- microsoft/edit (14707★): Terminal text editor, not AI
+- dail8859/NotepadNext (14701★): Text editor, not AI
+- alibaba/ARouter (14454★): Android routing framework, not AI
+- microsoft/playwright-cli (14326★): Playwright CLI, no stated AI angle
+- vercel/commerce (14310★): E-commerce template, not AI
+- google/or-tools (14225★): Operations research solver, not AI tooling
+- geldata/gel (14177★): Postgres data layer, AI angle marginal
+- thunderbird/thunderbird-android (14112★): Email app, not AI
+- apache/druid (14088★): Analytics database, not AI
+- mwaskom/seaborn (14075★): Statistical plotting library, not AI
+- google/yapf (13992★): Python formatter, not AI
+- Zettlr/Zettlr (13782★): Markdown editor, not AI
+- bin456789/reinstall (13775★): VPS OS reinstall script, not AI
+- facebook/watchman (13743★): File watching service, not AI
+- github-linguist/linguist (13737★): Language detection for GitHub, not AI
+- github/gh-ost (13605★): MySQL migration tool, not AI
+- mealie-recipes/mealie (13602★): Recipe manager, not AI
+- m3y54m/Embedded-Engineering-Roadmap (13579★): Embedded systems roadmap, not AI
+- anomalyco/opentui (13573★): General TUI library, no AI angle stated
+- browserslist/browserslist (13571★): Front-end browser targeting, not AI
+- opencontainers/runc (13490★): Container runtime, not AI
+- microsoft/mimalloc (13470★): Memory allocator, not AI
+- alibaba/tengine (13394★): Web server, not AI
+- Tencent/omi (13275★): Web components framework, not AI
+- alibaba/COLA (13069★): Java architecture template, not AI
+- microsoft/language-server-protocol (13048★): Editor protocol spec, not AI
+- aws/aws-cdk (12941★): Infrastructure-as-code framework, not AI
+- microsoft/windows-rs (12833★): Rust Windows bindings, not AI
+- cloudflare/quiche (12798★): QUIC implementation, not AI
+- google/oss-fuzz (12750★): Fuzzing service, not AI
+- google/guice (12729★): Java dependency injection, not AI
+- convex/convex-backend (12713★): Reactive database, no AI angle
+- Kludex/starlette (12672★): General ASGI framework, not AI
+- IBM/sarama (12525★): Kafka client, not AI
+- darrenburns/posting (12523★): Terminal API client, not AI
+- google/sanitizers (12505★): Memory sanitizers, not AI
+- fmhy/edit (12452★): Free media link site, not AI
+- paulmillr/chokidar (12247★): File watcher, not AI
+- autowarefoundation/autoware (12165★): Autonomous driving stack, no fitting section
+- makerspet/oomwoo (12090★): DIY vacuum robot, not AI tooling
+- microsoft/garnet (12052★): Redis-compatible cache store, not AI
+- OpenRefine/OpenRefine (12042★): Data cleaning tool, not AI
+- GitoxideLabs/gitoxide (12028★): Rust Git implementation, not AI
+- Milkdown/milkdown (11994★): Markdown editor framework, not AI
+- microsoft/wslg (11956★): WSL GUI support, not AI
+- charmbracelet/lipgloss (11935★): Terminal styling library, not AI
+- YiiGuxing/TranslationPlugin (11863★): IDE translation plugin, no AI angle stated
+- quic-go/quic-go (11812★): QUIC implementation, not AI
+- flxzt/rnote (11772★): Handwritten notes app, not AI
+- quickwit-oss/quickwit (11724★): Log search engine, no AI angle
+- IBM/plex (11703★): Typeface, not AI
+- statsmodels/statsmodels (11689★): Statistics library, not AI tooling
+- Tencent/wcdb (11642★): Mobile database framework, not AI
+- apple/pkl (11546★): Configuration language, not AI
+- google/go-github (11322★): GitHub API client, not AI
+- perspective-dev/perspective (11315★): Data visualization component, not AI
+- microsoft/sql-server-samples (11262★): SQL Server samples, not AI
+- google/osv-scanner (11202★): Dependency vulnerability scanner, not AI
+- microsoft/winget-pkgs (11189★): Package manifests, not AI
+- numba/numba (11181★): Python JIT compiler, not AI
+- microsoft/STL (11166★): C++ standard library, not AI
+- aws/chalice (11056★): Serverless microframework, not AI
+- google/skia (10990★): 2D graphics library, not AI
+- microsoft/fluentui-system-icons (10905★): Icon set, not AI
+- OffcierCia/DeFi-Developer-Road-Map (10863★): Crypto developer roadmap, not AI
+- hslatman/awesome-threat-intelligence (10745★): Non-AI awesome list
+- microsoft/inshellisense (10739★): Shell autocomplete, not AI
+- helmetjs/helmet (10737★): Express security headers, not AI
+- hydra-ecosystem/hydra (10705★): General configuration framework
+- foundry-rs/foundry (10676★): Ethereum development toolkit, not AI
+- vercel/micro (10625★): HTTP microservices library, not AI
+- microsoft/WSL2-Linux-Kernel (10581★): Linux kernel source, not AI
+- google/auto (10561★): Java code generators, not AI
+- google/benchmark (10468★): Microbenchmark library, not AI
+- sourcegraph/conc (10432★): Go concurrency library, not AI
+- pmndrs/valtio (10242★): React state library, not AI
+- Tencent/xLua (10202★): Lua for Unity, not AI
+- microsoft/vscode-extension-samples (10191★): VS Code extension samples, not AI
+- intel/intel-one-mono (10177★): Font, not AI
+- microsoft/fluentui-emoji (10168★): Emoji set, not AI
+- ophub/amlogic-s9xxx-armbian (10161★): Armbian images, not AI
+- sktime/sktime (10069★): Classical time series ML, no fitting section
+- antiwork/gumroad (9965★): Commerce platform, not AI
+- google/go-cloud (9914★): Cloud portability SDK, not AI
+- vercel/serve (9906★): Static file server, not AI
+- vercel/ncc (9843★): Node bundler, not AI
+- google/re2 (9824★): Regex engine, not AI
+- NVIDIA/cudf (9778★): GPU DataFrame library, not AI agent tooling
+- NVIDIA/cuda-samples (9706★): CUDA samples, not AI tooling
+- microsoft/Windows-universal-samples (9697★): UWP samples, not AI
+- microsoft/fast (9678★): Web component design system, not AI
+- bytedance/sonic (9630★): JSON library, not AI
+- star-history/star-history (9614★): GitHub star chart, not AI
+- checkstyle/checkstyle (9608★): Java style checker, not AI
+- aws/serverless-application-model (9576★): CloudFormation macro, not AI
+- GoogleCloudPlatform/knowledge-catalog (9491★): Unclear scope, sparse description
+- cloudflare/cfssl (9487★): PKI toolkit, not AI
+- spyder-ide/spyder (9365★): Scientific Python IDE, not AI
+- nhost/nhost (9357★): Backend platform, not AI
+- google/pprof (9307★): Profiler, not AI
+- bytedance/xgplayer (9304★): HTML5 video player, not AI
+- cordiverse/cordis (9238★): Generic Node meta-framework, not AI
+- kpdecker/jsdiff (9214★): Text diff library, not AI
+- cloudflare/vinext (9172★): Vite plugin for Next.js API, not AI
+- podman-container-tools/buildah (9128★): OCI image builder, not AI
+- maxgoedjen/secretive (9013★): SSH key manager, not AI
+- cloudflare/workerd (9008★): JavaScript runtime, not AI
+- charmbracelet/bubbles (8997★): TUI components, not AI
+- apple/containerization (8981★): Swift Linux container package, not AI
+- kunchenguid/no-mistakes (8909★): Unclear purpose from description
+- clips/pattern (8853★): Legacy web mining module, marginal
+- awslabs/llrt (8816★): JavaScript runtime, not AI
+- primer/octicons (8769★): Icon set, not AI
+- apache/beam (8686★): Data processing model, not AI
+- jonobr1/two.js (8672★): 2D drawing API, not AI
+- GoogleCloudPlatform/training-data-analyst (8662★): GCP course labs, general
+- oapi-codegen/oapi-codegen (8626★): OpenAPI code generator, not AI
+- google/tsunami-security-scanner (8618★): Network scanner, not AI
+- gitextensions/gitextensions (8594★): Git GUI, not AI
+- Tencent/Hippy (8562★): Cross-platform app framework, not AI
+- apple/swift-nio (8538★): Network framework, not AI
+- microsoft/microsoft-ui-xaml (8535★): WinUI framework, not AI
+- openclaw/gogcli (8511★): Google Workspace CLI, no stated AI angle
+- FluentRead/FluentRead (8507★): Translation extension, no stated AI angle
+- growthbook/growthbook (8507★): Feature flags and experimentation, not AI
+- jupyter/docker-stacks (8468★): Jupyter Docker images, not AI
+- mockoon/mockoon (8447★): Mock API tool, not AI
+- alibaba/transmittable-thread-local (8310★): Java thread-local library, not AI
+- simple-statistics/simple-statistics (3526★): Plain statistics library
+- MoonshotAI/Attention-Residuals (3525★): No description or README substance given
+- vercel-labs/wterm (3499★): Web terminal emulator, not AI
+- open-telemetry/opentelemetry-js (3494★): Generic observability, no AI angle
+- google/ksp (3481★): Kotlin compiler API, not AI
+- google/robotstxt (3479★): robots.txt parser, not AI
+- microsoft/tgrep (3472★): Grep tool, no stated AI angle
+- sourcegraph/checkup (3460★): Health checks, not AI
+- google/earthengine-api (3455★): Geospatial API, not AI
+- google/OpenSK (3454★): Security key firmware
+- terminusdb/terminusdb (3449★): Graph database without AI focus
+- kejilion/sh (3442★): Linux admin script
+- google/timesketch (3436★): Forensic timeline tool
+- google/volley (3414★): Android networking library
+- rocicorp/mono (3413★): Sync engine, not AI
+- charmbracelet/log (3406★): Go logging library
+- NVIDIA/cuda-python (3399★): General CUDA bindings
+- google/honggfuzz (3398★): Fuzzer, not AI
+- tone-row/flowchart-fun (3393★): Diagram generator, not AI
+- microsoft/Power-Fx (3362★): Low-code language, not AI
+- microsoft/reflect-metadata (3362★): JS metadata API
+- awslabs/aws-sdk-rust (3353★): Cloud SDK, not AI
+- intel/pcm (3346★): CPU performance counters
+- Tencent/spring-cloud-tencent (3298★): Microservice governance
+- pyeve/cerberus (3281★): Generic validation library
+- google-research/harness2 (3257★): No description to judge
+- google/brax (3249★): Physics simulator
+- intel/acat (3231★): Assistive toolkit, not AI
+- thananon/9arm-skills (3224★): No description or topics
+- cloudflare/tableflip (3216★): Go process restarts
+- google/bindiff (3210★): Binary diffing tool
+- catppuccin/tmux (3199★): Tmux theme
+- Tencent/weui.js (3181★): UI library
+- Tencent/Tendis (3172★): Redis-compatible store, no AI
+- microsoft/WindowsDeveloperConfig (3170★): Dev environment setup
+- microsoft/litebox (3164★): Library OS, no stated AI angle
+- microsoft/amplifier (3127★): No description to judge
+- m0bilesecurity/RMS-Runtime-Mobile-Security (3123★): Mobile security tool, not AI
+- nuxt-content/docus (3117★): Documentation theme
+- Azure/azure-rest-api-specs (3104★): Cloud API specs
+- Ionaru/easy-markdown-editor (3090★): Markdown editor
+- apache/parquet-java (3087★): File format library
+- microsoft/ProcDump-Linux (3085★): Debugging utility
+- GoogleCloudPlatform/professional-services (3082★): Generic cloud solutions
+- microsoft/service-fabric (3068★): Distributed systems platform
+- rstudio/rmarkdown (3064★): R documents
+- google/mozc (3015★): Input method editor
+- cordiverse/paper (3014★): Programming paradigm paper, not AI
+- vercel/next-app-router-playground (3006★): Next.js demo, not AI
+- GoogleCloudPlatform/nodejs-docs-samples (2996★): Generic cloud samples
+- google/mangle (2993★): Deductive database language
+- microsoft/wil (2989★): Windows C++ library
+- google/mozc-devices (2982★): Keyboard hardware
+- google/osv.dev (2977★): Vulnerability database
+- microsoft/AttackSurfaceAnalyzer (2973★): OS security tool
+- codse/animata (2966★): Animation components, not AI
+- alibaba/sentinel-golang (2962★): Microservice resiliency
+- microsoft/restler-fuzzer (2955★): REST API fuzzer
+- charmbracelet/pop (2923★): Terminal email sender
+- google/breakpad (2905★): Crash reporting
+- microsoft/Ontology-Playground (2905★): Ontology learning app, weak AI angle
+- Azure/fetch-event-source (2891★): Generic SSE client
+- aws/jsii (2870★): Cross-language binding tool
+- microsoft/DirectXTK (2864★): Graphics helper library
+- openclaw/wacli (2823★): WhatsApp CLI, no clear AI angle
+- microsoft/TemplateStudio (2812★): App wizard, not AI
+- dgunning/edgartools (2798★): SEC filings library, no AI angle
+- Tencent/UnLua (2796★): Game scripting plugin
+- google/truth (2793★): Java assertions
+- vuestorefront/storefront-ui (2785★): Ecommerce UI kit
+- google/starlark-go (2784★): Config language
+- xnl-h4ck3r/waymore (2767★): Recon tool
+- trzsz/trzsz-ssh (2759★): SSH client
+- aws/aws-lambda-web-adapter (2756★): Generic serverless adapter
+- elayadesign/ai-design-skills (2752★): No description to judge
+- microsoft/clarity (2751★): Web analytics
+- Paymenter/Paymenter (2746★): Hosting webshop
+- szTheory/exifcleaner (2740★): Metadata cleaner
+- connorgallopo/Tracearr (2736★): Media server monitor
+- google/s2geometry (2735★): Geometry library
+- microsoft/vscode-react-native (2732★): React Native extension
+- awslabs/amazon-ecr-credential-helper (2724★): Docker credential helper
+- ninehills/blog (2721★): Personal blog
+- jlblancoc/nanoflann (2697★): KD-tree library, low-dimensional
+- gnome-terminator/terminator (2692★): Terminal emulator
+- bytedance/Elkeid (2687★): Host security platform
+- awslabs/amazon-eks-ami (2677★): EKS node image
+- ARISE-Initiative/robosuite (2668★): Robot simulation
+- cloudflare/ebpf_exporter (2653★): Prometheus exporter
+- google/googlesql (2641★): SQL analyzer
+- microsoft/vscode-pull-request-github (2635★): PR extension, no AI focus
+- hackclub/hackclub (2634★): Community site
+- aws/aws-sdk-java-v2 (2630★): Cloud SDK
+- alibaba/kiwi (2624★): i18n tool
+- google/cpu_features (2620★): CPU detection library
+- CamDavidsonPilon/lifelines (2616★): Survival analysis statistics
+- microsoft/microsoft.github.io (2615★): Org website
+- bytedance/bhook (2603★): Android hook library
+- KomputeProject/kompute (2577★): General GPU compute framework
+- microsoft/PTVS (2566★): Visual Studio Python tools
+- Azure/azure-sdk-for-java (2564★): Cloud SDK
+- google/jimfs (2564★): Java in-memory filesystem
+- google/swiftshader (2554★): CPU Vulkan renderer
+- microsoft/TypeScript-Website (2553★): TypeScript docs site
+- bytedance/btrace (2548★): Mobile app tracing
+- NVIDIA/cccl (2539★): General CUDA libraries
+- NVIDIA/CUDALibrarySamples (2531★): CUDA samples
+- bytedance/scene (2526★): Android framework
+- microsoft/CsWin32 (2524★): Win32 source generator
+- brightbeanxyz/brightbean-studio (2516★): Social media scheduler, no AI angle
+- apache/ossie (2495★): Semantic metadata spec, weak AI agent fit
+- microsoft/debugpy (2488★): Python debug adapter, not AI
+- NVIDIA/stdexec (2465★): C++ async library, not AI
+- aws/amazon-vpc-cni-k8s (2458★): Kubernetes networking, not AI
+- typelevel/fs2 (2454★): Scala streaming library, not AI
+- volcengine/ai-app-lab (2452★): No description or README substance given
+- cloudflare/gokey (2438★): Password manager, not AI
+- bytedance/android-inline-hook (2422★): Android hook library, not AI
+- microsoft/live-share (2386★): Collaboration tool, not AI
+- alibaba/EasyRec (2361★): Recommender systems, off-scope
+- zasper-io/zasper (2355★): Jupyter IDE, no AI angle
+- borgmatic-collective/borgmatic (2354★): Backup software, not AI
+- cloudflare/meet (2314★): No description, not AI
+- microsoft/pxt (2312★): MakeCode editor, not AI
+- GoogleCloudPlatform/gcsfuse (2311★): Cloud storage filesystem, not AI
+- Azure/azure-sdk-for-js (2302★): Generic cloud SDK
+- twitter/algebird (2295★): Scala algebra library, not AI
+- google/boringssl (2282★): TLS library, not AI
+- Azure/Azurite (2281★): Storage emulator, not AI
+- Leviidev/Husk (2275★): Android on iOS emulation, not AI
+- google-deepmind/mujoco_playground (2255★): Robot learning simulation, off-scope
+- salesforce/cloudsplaining (2250★): AWS IAM scanner, not AI
+- jamesturk/jellyfish (2232★): String matching library, not AI
+- aws/aws-sdk-cpp (2213★): Generic cloud SDK
+- s1t5/mail-archiver (2210★): Email archiver, not AI
+- alibaba/async_simple (2208★): C++ async library, not AI
+- Tencent/tdesign-vue-next (2199★): Vue UI library, not AI
+- tensorflow/quantum (2197★): Quantum ML, off-scope
+- microsoft/powerbi-desktop-samples (2195★): Power BI sample files
+- google/shaderc (2194★): Shader compiler, not AI
+- ramnes/notion-sdk-py (2194★): Notion API client, not AI
+- alibaba/yalantinglibs (2185★): C++ libraries, not AI
+- ruby-oauth/oauth2 (2181★): OAuth library, not AI
+- salesforce/policy_sentry (2175★): IAM policy tool, not AI
+- microsoft/Sysmon-Linux (2168★): System monitor, not AI
+- aws/aws-eks-best-practices (2164★): EKS guide, not AI
+- microsoft/DirectXTex (2161★): Texture library, not AI
+- bytedance/terarkdb (2159★): KV storage engine, not AI
+- google/gin-config (2157★): Python config library
+- apache/atlas (2155★): Metadata governance, not AI
+- cloudflare/templates (2153★): Workers templates, not AI
+- microsoft/Microsoft.IO.RecyclableMemoryStream (2151★): .NET library, not AI
+- awslabs/aws-well-architected-labs (2147★): Cloud architecture labs
+- google/go-querystring (2144★): Go library, not AI
+- Azure/AKS (2143★): Kubernetes service tracker
+- microsoft/pylance-release (2132★): Language server issues tracker
+- MunifTanjim/nui.nvim (2131★): Neovim UI library
+- google/spatial-media (2127★): 360 video tools, not AI
+- GoogleCloudPlatform/cloud-foundation-fabric (2117★): Terraform modules, not AI
+- ornith-ai/Ornith-1 (2116★): No description or README substance given
+- GAIR-NLP/daVinci-MagiHuman (2114★): No description given, unclear scope
+- patrick-kidger/diffrax (2114★): Numerical ODE solvers
+- cloudflare/wildebeest (2113★): Mastodon server, not AI
+- kroitor/asciichart (2106★): ASCII chart library, not AI
+- google/android-emulator-container-scripts (2105★): Emulator container scripts
+- openai/NavierStokesAndEuler (2102★): Math proof certificates
+- aws/eks-anywhere (2101★): Kubernetes distribution, not AI
+- cloudflare/cloudflare-go (2100★): Cloudflare API SDK
+- aws-samples/custom-lens-wa-hub (2089★): Well-Architected templates
+- microsoft/sbom-tool (2085★): SBOM generator, not AI
+- moveit/moveit2 (2077★): Robot motion planning, not AI
+- zarr-developers/zarr-python (2077★): Array storage library
+- shellhub-io/shellhub (2076★): SSH access tool, not AI
+- cloudflare/lol-html (2073★): HTML rewriter, not AI
+- NVIDIA/accelerated-computing-hub (2058★): General GPU programming resources
+- bytewax/bytewax (2056★): Stream processing, no AI focus
+- bytedance/gopkg (2050★): Go utilities, not AI
+- microsoft/node-pty (2049★): Pseudoterminal library, not AI
+- microsoft/maker.js (2040★): CAD drawing library, not AI
+- IBM/fp-go (2033★): Go functional library, not AI
+- Tencent/soter (2033★): Biometric auth standard, not AI
+- microsoft/just (2025★): JS task library, not AI
+- Azure/azure-functions-host (2023★): Functions runtime, not AI
+- gabriel-vasile/mimetype (2023★): MIME detection library
+- microsoft/msticpy (2018★): Threat intelligence tools, not AI
+- google/google-authenticator-libpam (2015★): PAM module, not AI
+- GoogleCloudPlatform/PerfKitBenchmarker (2014★): Cloud benchmarks, not AI
+- aws/aws-toolkit-vscode (1996★): General AWS toolkit
+- microsoft/PowerApps-Samples (1995★): Power Apps samples
+- cnlimiter/codex-manager (1994★): No description, possible account abuse
+- Netflix/void-model (1991★): No description given, unclear scope
+- Tencent/sluaunreal (1989★): Unreal Lua plugin, not AI
+- alibaba/compileflow (1986★): Process engine, not AI
+- apple/swift-openapi-generator (1986★): OpenAPI code generator
+- microsoft/vscode-js-debug (1984★): JS debugger, not AI
+- cloudflare/wrangler-action (1977★): Deploy action, not AI
+- microsoft/snmalloc (1977★): Memory allocator
+- sourcegraph/zoekt (1973★): Code search engine, no AI angle
+- microsoft/GlobalMLBuildingFootprints (1971★): Geospatial dataset, off-scope
+- microsoft/AdaptiveCards (1968★): Card UI format, not AI
+- vercel/little-date (1967★): Date formatter, not AI
+- microsoft/vscode-eslint (1963★): ESLint extension, not AI
+- Azure/Enterprise-Scale (1962★): Azure landing zones, not AI
+- Azure/Microsoft-Defender-for-Cloud (1961★): Cloud security community repo
+- google/argh (1961★): Rust argument parser
+- Farama-Foundation/Gymnasium-Robotics (1959★): Robotics RL environments, off-scope
+- microsoft/PowerBI-Developer-Samples (1959★): Power BI samples
+- charmbracelet/fang (1957★): CLI starter kit, not AI
+- google/xls (1953★): Hardware synthesis toolchain
+- featbit/featbit (1944★): Feature flag platform, not AI
+- microsoft/openvmm (1936★): Virtual machine monitor
+- google/rune (1935★): Programming language, not AI
+- microsoft/windows-drivers-rs (1933★): Driver development, not AI
+- zed-industries/extensions (1931★): Editor extensions registry
+- ResearAI/AutoFigure (1929★): No description or README text; purpose unclear from fields.
+- alibaba/xquic (1928★): QUIC and HTTP/3 transport library with no AI angle.
+- NVlabs/curobo (1922★): GPU robot motion planning; classical planning, not AI tooling.
+- vercel-labs/emulate (1922★): Local API emulation for CI; no AI angle.
+- Azure/aztfexport (1918★): Terraform import tool for Azure; no AI angle.
+- microsoft/vscode-mssql (1915★): SQL Server VS Code extension; no AI angle.
+- mathiasbynens/emoji-regex (1912★): Regular expression library; no AI angle.
+- GoogleCloudPlatform/java-docs-samples (1909★): General Google Cloud code samples, mostly non-AI.
+- microsoft/WhatTheHack (1906★): Hack-a-thon course material, not AI tooling.
+- hummingbird-project/hummingbird (1894★): Swift HTTP server framework; no AI angle.
+- microsoft/mssql-docker (1892★): SQL Server Docker resources; no AI angle.
+- google/fruit (1890★): C++ dependency injection framework; no AI angle.
+- microsoft/msphpsql (1885★): PHP SQL Server driver; no AI angle.
+- vercel/react-tweet (1885★): Tweet embed component; no AI angle.
+- cloudflare/workers-oauth-provider (1884★): OAuth library for Workers; no AI angle.
+- reflex-dev/xy (1879★): Python charting library; no AI angle.
+- microsoft/cppwinrt (1877★): C++/WinRT language projection; no AI angle.
+- apple/swift-numerics (1876★): Swift math library; no AI angle.
+- google/CausalImpact (1864★): Causal inference statistics package; not AI tooling.
+- arviz-devs/arviz (1861★): Bayesian statistics visualization; not AI tooling.
+- Jellify-Music/App (1859★): Jellyfin music player app; no AI angle.
+- webpilot-ai/Webpilot (1859★): No description; purpose unclear from fields.
+- Azure/azure-sdk-for-go (1857★): Azure SDK for Go; no AI angle.
+- google/go-jsonnet (1855★): Jsonnet implementation in Go; no AI angle.
+- golang/geo (1854★): S2 geometry library; no AI angle.
+- Tencent/CodeAnalysis (1851★): Static code analysis platform; no AI angle.
+- charmbracelet/skate (1847★): Personal key-value store; no AI angle.
+- google/yamlfmt (1841★): YAML formatter; no AI angle.
+- JuliaData/DataFrames.jl (1839★): Tabular data library; no AI angle.
+- google/protobuf-gradle-plugin (1832★): Gradle plugin for protobuf; no AI angle.
+- aws-samples/serverless-patterns (1827★): Serverless code patterns; no AI angle.
+- google/woff2 (1825★): Web font compression library; no AI angle.
+- alibaba/MongoShake (1820★): MongoDB replication tool; no AI angle.
+- google/nomulus (1816★): Domain name registry service; no AI angle.
+- microsoft/DirectXMath (1811★): SIMD linear algebra library; no AI angle.
+- towardsthecloud/cloudburn (1800★): AWS spend policy engine; no AI angle.
+- prettytable/prettytable (1796★): ASCII table display library; no AI angle.
+- salesforce/lwc (1796★): Web components framework; no AI angle.
+- microsoft/vscode-languageserver-node (1794★): Language server protocol library; no AI angle.
+- microsoft/nodejstools (1793★): Node.js tooling for Visual Studio; no AI angle.
+- kubevious/kubevious (1791★): Kubernetes dashboard tool; no AI angle.
+- microsoft/debug-adapter-protocol (1789★): Debug adapter protocol specification; no AI angle.
+- Tencent/tdesign-miniprogram (1779★): WeChat mini-program UI components; no AI angle.
+- alexmojaki/birdseye (1775★): Python debugger; no AI angle.
+- google/sandboxed-api (1769★): Sandboxing for C/C++ libraries; not AI-specific.
+- Netflix/genie (1766★): Big data orchestration service; no AI angle.
+- aws/aws-node-termination-handler (1763★): Kubernetes EC2 termination handler; no AI angle.
+- microsoft/DirectXTK12 (1762★): DirectX 12 helper library; no AI angle.
+- DialmasterOrg/Youtarr (1756★): YouTube downloader and media server automation; no AI angle.
+- bytedance/appshark (1754★): Android static taint analysis; no AI angle.
+- jaywcjlove/awesome-swift-macos-apps (1754★): Non-AI awesome list of macOS apps.
+- pd4d10/debugtron (1749★): Electron app debugging tool; no AI angle.
+- google-deepmind/mujoco_mpc (1746★): Predictive control for robotics; classical control, not AI tooling.
+- awslabs/aws-config-rules (1743★): Sample AWS Config custom rules; no AI angle.
+- microsoft/rnx-kit (1739★): React Native build tooling; no AI angle.
+- smartstore/Smartstore (1733★): ASP.NET eCommerce platform; no AI angle.
+- apple/swift-crypto (1732★): Swift cryptography library; no AI angle.
+- cloudflare/circl (1728★): Cryptography library; no AI angle.
+- nvim-java/nvim-java (1724★): Neovim Java plugin; no AI angle.
+- microsoft/GDK (1720★): Game development SDK; no AI angle.
+- aws/aws-sdk-php-laravel (1715★): AWS SDK service provider for Laravel; no AI angle.
+- microsoft/ARI (1715★): Azure resource inventory tool; no AI angle.
+- AllenDowney/ThinkBayes (1705★): Bayesian statistics book code; no AI tooling.
+- google-research/dex-lang (1704★): Array programming language research; no AI angle.
+- cloudflare/foundations (1700★): Rust service foundations library; no AI angle.
+- microsoft/TypeScript-Sublime-Plugin (1700★): Sublime Text TypeScript plugin backend; no AI angle.
+- Azure/azure-policy (1697★): Azure policy definitions; no AI angle.
+- pacstall/pacstall (1696★): Ubuntu package manager; no AI angle.
+- B16f00t/whapa (1693★): WhatsApp forensic parser; no AI angle.
+- Netflix/metacat (1692★): Metadata catalog service; no AI angle.
+- aws/aws-fpga (1689★): FPGA hardware development kit; no AI angle.
+- google/atheris (1689★): Python fuzzing engine; no AI angle.
+- microsoft/vscode-cmake-tools (1686★): CMake extension for VS Code; no AI angle.
+- Tencent/Biny (1681★): PHP web framework; no AI angle.
+- vercel/nft (1678★): Node.js dependency tracing utility; no AI angle.
+- charmbracelet/wishlist (1672★): SSH directory tool; no AI angle.
+- microsoft/Mage (1667★): No description; purpose unclear from fields.
+- aws/aws-lambda-dotnet (1662★): AWS Lambda libraries for .NET; no AI angle.
+- awslabs/eks-node-viewer (1644★): Terminal viewer for EKS nodes; no AI angle.
+- NVlabs/sionna (1641★): Communications systems simulation library; not AI tooling.
+- microsoft/vscode-generator-code (1636★): VS Code extension scaffolding tool; no AI angle.
+- charmbracelet/harmonica (1627★): Physics-based animation library; no AI angle.
+- vercel/nextjs-postgres-nextauth-tailwindcss-template (1622★): Admin dashboard template; no AI angle.
+- google/json_serializable.dart (1619★): Dart JSON code generator; no AI angle.
+- microsoft/OpenAPI.NET (1611★): OpenAPI document object model for .NET; no AI angle.
+- fabiocaccamo/python-benedict (1606★): Python dict utility library; no AI angle.
+- dfm/emcee (1603★): MCMC sampling toolkit; statistics, not AI tooling.
+- geekplux/markvis (1599★): Markdown chart plugin; no AI angle.
+- microsoft/coyote (1599★): Concurrency testing tool for C#; no AI angle.
+- Tencent/tgfx (1594★): 2D graphics rendering library; no AI angle.
+- awslabs/diagram-as-code (1588★): AWS architecture diagramming tool; no AI angle.
+- salesforce/sloop (1585★): Kubernetes history visualizer; no AI angle.
+- eval-exec/neomacs (1572★): GPU-accelerated Emacs editor; no AI angle.
+- aws/serverless-java-container (1566★): Java wrapper for AWS Lambda; no AI angle.
+- google/neuroglancer (1564★): Volumetric data viewer; not AI tooling.
+- google-deepmind/mujoco_warp (1563★): GPU physics simulator; classical simulation, not AI tooling.
+- pydantic/httpx2 (1554★): General-purpose HTTP client; no AI angle.
+- google/tensorstore (1547★): Multi-dimensional array storage library; not AI-specific.
+- microsoft/Microsoft-Win32-Content-Prep-Tool (1547★): Intune packaging tool; no AI angle.
+- google-research/rrsi (1541★): No description; purpose unclear from fields.
+- microsoft/vscode-jupyter (1541★): Jupyter extension for VS Code; no AI angle.
+- aws-samples/aws-glue-samples (1539★): AWS Glue ETL code samples; no AI angle.
+- microsoft/scalar (1539★): Git tooling for large monorepos; no AI angle.
+- intel/llvm (1536★): Compiler toolchain staging area, not AI tooling.
+- wuyoscar/AISafetyHot-Hub (1536★): News monitor website repo, not AI tooling.
+- sindresorhus/p-map (1517★): Generic concurrency utility with no AI angle.
+- awslabs/aws-support-tools (1510★): AWS support scripts with no AI angle.
+- Azure/iotedge (1508★): IoT Edge runtime, no AI angle.
+- microsoft/win32metadata (1504★): Windows API metadata generator, not AI.
+- microsoft/automatic-graph-layout (1502★): Graph layout tools, not AI.
+- pydantic/pydantic-settings (1483★): Settings library with no AI angle.
+- ghuntley/overalls (1482★): Pre-launch platform; promotional text, unclear substance.
+- google/flogger (1481★): Java logging API, not AI.
+- microsoft/pict (1477★): Pairwise test generation tool, not AI.
+- Azure/azure-functions-core-tools (1466★): Azure Functions CLI, no AI angle.
+- GoogleCloudPlatform/bank-of-anthos (1466★): Banking sample app for Kubernetes, no AI angle.
+- cloudflare/serverless-registry (1464★): Container registry on Cloudflare Workers, no AI angle.
+- GoogleCloudPlatform/cloud-builders (1463★): Cloud Build images, no AI angle.
+- aws/eks-distro (1460★): Kubernetes distribution, no AI angle.
+- langchain-ai/openwork (1458★): Empty description, purpose unclear.
+- intel/compute-runtime (1457★): GPU driver runtime with no explicit AI tooling angle.
+- zed-industries/awesome-gpui (1456★): Awesome list for the GPUI UI framework, not AI.
+- intel/confidential-computing.sgx (1455★): Trusted execution extension, no AI angle.
+- NVIDIA/MatX (1449★): GPU numerical computing library, no explicit AI angle.
+- microsoft/fluentui-react-native (1446★): React Native UI component library, not AI.
+- catppuccin/discord (1443★): Discord colour theme, not AI.
+- pytorch/hub (1440★): Hub submission repo with no tooling substance.
+- Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2 (1439★): Microsoft identity sample app, no AI angle.
+- Tencent/tquic (1439★): QUIC transport library, no AI angle.
+- GoogleCloudPlatform/cloud-sql-proxy (1437★): Cloud SQL connection proxy, no AI angle.
+- huggingface/Mongoku (1428★): MongoDB web GUI, no AI angle.
+- apple/swift-system (1426★): Swift system-call bindings, no AI angle.
+- NVIDIA/gdrcopy (1424★): GPU memory copy library, no explicit AI angle.
+- microsoft/diskspd (1417★): Storage benchmark tool, no AI angle.
+- google/conscrypt (1413★): Java security provider, no AI angle.
+- cloudflare/cf-terraforming (1412★): Terraform utility for Cloudflare, no AI angle.
+- Tencent/flare (1407★): C++ backend framework, no AI angle.
+- google/site-kit-wp (1403★): WordPress analytics plugin, no AI angle.
+- mugnavo/cove (1397★): Web starter template with no AI angle.
+- vercel/avatar (1395★): Avatar image microservice, no AI angle.
+- microsoft/fhir-server (1388★): FHIR healthcare data server, no AI angle.
+- GoogleCloudPlatform/functions-framework-nodejs (1386★): Node.js FaaS framework, no AI angle.
+- Tencent/feflow (1385★): Front-end CLI workflow tool, no AI angle.
+- google/j2cl (1381★): Java to JavaScript transpiler, no AI angle.
+- aws/s2n-quic (1376★): QUIC protocol implementation, no AI angle.
+- giacomelli/GeneticSharp (1376★): Genetic algorithm library with no clear AI tooling fit.
+- google/nftables (1371★): Linux nftables Go module, no AI angle.
+- NVIDIA/open-gpu-doc (1369★): NVIDIA hardware interface documentation, no AI angle.
+- microsoft/FFmpegInterop (1365★): FFmpeg sample for Windows apps, no AI angle.
+- GoogleCloudPlatform/kubernetes-engine-samples (1363★): GKE sample applications, no explicit AI angle.
+- awslabs/aws-solutions-constructs (1357★): CDK infrastructure patterns, no AI angle.
+- pingdotgg/ts-rust (1356★): Rust port of the TypeScript compiler, no AI angle.
+- alibaba/react-intl-universal (1354★): React internationalization library, no AI angle.
+- Bartuzen/qBitController (1354★): qBittorrent remote control app, not AI.
+- JoySafety/JoySafety (1354★): Empty description, purpose unclear.
+- vinnylarouge/jevlike (1352★): Empty description, purpose unclear.
+- go-webauthn/webauthn (1350★): Passkey authentication library, no AI angle.
+- microsoft/tslib (1345★): TypeScript helper runtime library, no AI angle.
+- cloudflare/terraform-provider-cloudflare (1344★): Terraform provider for Cloudflare, no AI angle.
+- google/crosvm (1341★): Virtual machine monitor, no AI angle.
+- Azure/review-checklists (1337★): Azure best-practice checklists, no AI angle.
+- anomalyco/rift (1334★): Empty description, purpose unclear.
+- google/monster-mash (1330★): Empty description, purpose unclear.
+- salesforce/jarm (1326★): TLS fingerprinting tool, security without AI angle.
+- microsoft/winappCli (1321★): Windows app development CLI, no AI angle.
+- GoogleCloudPlatform/DataflowTemplates (1318★): Dataflow pipeline templates, data tooling without AI angle.
+- GoogleCloudPlatform/bigquery-utils (1317★): BigQuery SQL utilities, no AI angle.
+- aws/eks-charts (1313★): Helm charts for EKS, no AI angle.
+- microsoft/roosterjs (1312★): Rich text editor, no AI angle.
+- cloudflare/sslconfig (1311★): SSL configuration reference, no AI angle.
+- GoogleCloudPlatform/cloud-builders-community (1307★): Cloud Build community images, no AI angle.
+- GoogleCloudPlatform/berglas (1302★): Secrets management tool for Google Cloud, no AI angle.
+- micromatch/picomatch (1302★): Glob matcher library, no AI angle.
+- microsoft/MSLab (1302★): Windows lab deployment scripts, no AI angle.
+- microsoft/PowerPlatformConnectors (1299★): Power Platform connectors, no AI angle.
+- dvcoolarun/web2pdf (1295★): Web page to PDF converter, generic utility with no AI angle.
+- alibaba/GaiaX (1288★): Mobile card rendering engine, no AI angle.
+- google/nsync (1287★): C synchronization primitives, no AI angle.
+- microsoft/CSS-Exchange (1284★): Exchange Server support scripts, no AI angle.
+- vercel/bidc (1284★): Bidirectional channel library for JavaScript, no AI angle.
+- anthropics/fermats-last-theorem (1282★): Lean proof project with empty description.
+- microsoft/griffel (1281★): CSS-in-JS library, no AI angle.
+- google/glazier (1261★): Windows OS installation automation, no AI angle.
+- google/re2j (1261★): Java regex library, no AI angle.
+- intel/media-driver (1253★): Intel hardware video driver, no AI angle.
+- wannesm/dtaidistance (1247★): Time series distance measures, no explicit AI angle.
+- jreleaser/jreleaser (1244★): Release automation tool, no AI angle.
+- microsoft/demikernel (1239★): Kernel-bypass OS library, no AI angle.
+- awslabs/swift-aws-lambda-runtime (1236★): Swift Lambda runtime, no AI angle.
+- Michaelliv/pi-dynamic-workflows (1235★): Empty description, purpose unclear.
+- DataDog/guarddog (1233★): Malicious package scanner, supply-chain security without AI angle.
+- alibaba/PhotonLibOS (1231★): Coroutine networking library, no AI angle.
+- cloudflare/bpftools (1231★): Packet analysis toolkit, no AI angle.
+- google/google-toolbox-for-mac (1230★): Objective-C utility library, no AI angle.
+- LucasPickering/slumber (1230★): Terminal HTTP client, no AI angle.
+- cloudflare/cloudflare-blog (1225★): Blog code samples, no AI angle.
+- Tencent/tdesign-flutter (1216★): Flutter UI component library, no AI angle.
+- Azure/AzurePublicDataset (1214★): Cloud workload traces dataset, no AI angle.
+- google/binexport (1213★): Binary disassembly export for reverse engineering, no AI angle.
+- awslabs/amazon-kinesis-video-streams-webrtc-sdk-c (1210★): Streaming video WebRTC SDK, no AI angle.
+- clj-python/libpython-clj (1210★): Python bindings for Clojure, no AI angle.
+- microsoft/Web-Dev-For-Beginners (96984★): General web development course, not AI.
+- home-assistant/core (91579★): General home automation, not AI tooling.
+- storybookjs/storybook (91326★): UI component development tool, not AI.
+- mermaid-js/mermaid (90728★): Diagramming tool from text, not AI.
+- MunGell/awesome-for-beginners (90387★): General awesome list, not AI tooling.
+- realworld-apps/realworld (84300★): General web development demo apps, not AI.
+- codecrafters-io/build-your-own-x (554232★): General programming tutorials, not AI.
+- EbookFoundation/free-programming-books (399429★): General programming books, not AI.
+- awesome-selfhosted/awesome-selfhosted (327880★): General self-hosting awesome list, not AI.
+- practical-tutorials/project-based-learning (287128★): General programming tutorials, not AI.
+- torvalds/linux (252357★): Linux kernel, not AI tooling.
+- TheAlgorithms/Python (225370★): General algorithms collection, not AI tooling.
+- getify/You-Dont-Know-JS (184821★): General JavaScript book series, not AI.
+- microsoft/PowerToys (139447★): General Windows productivity utilities, not AI.
+- Chalarangelo/30-seconds-of-code (129243★): General programming learning resource, not AI.
+- godotengine/godot (118601★): General game engine, not AI tooling.
+- d3/d3 (113766★): General data visualization library, not AI.
+- microsoft/TypeScript (111521★): General programming language, not AI tooling.
+- axios/axios (109301★): General HTTP client library, not AI.
+- microsoft/terminal (105179★): General terminal emulator, not AI.
+- vitejs/vite (83380★): Generic frontend build tool, not AI-related.
+- python/cpython (77673★): The Python programming language itself, not an AI tool.
+- enaqx/awesome-react (74937★): Generic awesome list for React, not AI-related.
+- BurntSushi/ripgrep (69212★): Generic command-line search tool, not AI-related.
+- apache/echarts (67538★): Generic data visualization library, not AI tooling.
+- prometheus/prometheus (66620★): Generic monitoring system, not AI tooling.
+- leonardomso/33-js-concepts (66528★): General JavaScript programming concepts, not AI-related.
+- TheAlgorithms/Java (66378★): General algorithms and data structures, not AI-related.
+- webpack/webpack (65980★): Generic JavaScript module bundler, not AI tooling.
+- remotion-dev/remotion (64905★): Programmatic video creation library, no explicit AI angle.
+- marktext/marktext (62783★): Generic markdown editor, no AI.
+- ghostty-org/ghostty (62341★): Generic terminal emulator, no AI.
+- penpot/penpot (61318★): Generic design platform, no AI.
+- lodash/lodash (61287★): Generic JavaScript utility library, no AI.
+- makeplane/plane (61049★): Generic project management platform, no AI.
+- rust-unofficial/awesome-rust (59939★): Generic awesome list, not AI-specific.
+- jquery/jquery (59866★): Generic web development library, not AI.
+- rails/rails (58849★): Generic web development framework, not AI.
+- pmndrs/zustand (58835★): Generic state management library for React, not AI.
+- google/material-design-icons (54127★): Not AI-related, a collection of design icons.
+- chinese-poetry/chinese-poetry (53762★): Not AI-related, a database of poetry.
+- jesseduffield/lazydocker (53153★): Not AI-related, a Docker management utility.
+- expo/expo (52806★): Not AI-related, a general app development framework.
+- dbeaver/dbeaver (52112★): Not AI-related, a general database client.
+- google/guava (51918★): Not AI-related, general-purpose Java libraries.
+- apple/container (50785★): Not AI-related, a containerization tool for macOS.
+- ClickHouse/ClickHouse (50471★): Not AI-related, a general analytics database.
+- TanStack/query (50453★): Generic web development library, no AI angle.
+- pandas-dev/pandas (50154★): General data manipulation library, not AI-specific tooling.
+- astral-sh/ruff (50139★): General programming utility, not AI-specific tooling.
+- hashicorp/terraform (49963★): Infrastructure as Code tool, not AI-specific.
+- slidevjs/slidev (49112★): Presentation tool, not AI-related.
+- bevyengine/bevy (49102★): Game engine, not AI-related.
+- brillout/awesome-react-components (48674★): Generic awesome list, not AI-related.
+- abhigyanpatwari/GitNexus (47932★): Vague description, no clear AI relation.
+- acmesh-official/acme.sh (47831★): SSL/TLS certificate automation, not AI-related.
+- prisma/orm (47694★): Generic ORM for databases, not AI-related.
+- emilkowalski/skills (47229★): Vague description, likely a generic resource list.
+- microsoft/monaco-editor (46874★): Generic browser-based code editor, not AI-related.
+- RocketChat/Rocket.Chat (46285★): Generic chat and collaboration platform, no AI features.
+- fastapi/full-stack-fastapi-template (46031★): Generic web development template, no AI.
+- google/zx (45804★): Generic scripting utility, no AI.
+- Leaflet/Leaflet (45765★): Generic mapping library, no AI.
+- charmbracelet/bubbletea (45444★): Generic TUI framework, no AI.
+- vercel/hyper (44741★): Generic terminal emulator, no AI.
+- ccxt/ccxt (44442★): Trading API library, no explicit AI tooling.
+- apache/spark (44237★): General big data processing engine, not specific AI tooling.
+- colinhacks/zod (44152★): General TypeScript schema validation library, not AI-specific.
+- babel/babel (44058★): General JavaScript compiler, not AI-specific tooling.
+- faif/python-patterns (43050★): General Python design patterns, not AI-specific.
+- sxyazi/yazi (42897★): General terminal file manager, not AI-specific.
+- GyulyVGC/sniffnet (41609★): Network traffic monitor, no AI relevance.
+- llvm/llvm-project (41104★): Compiler and toolchain project, no AI relevance.
+- vuetifyjs/vuetify (41031★): Generic UI component framework, no AI relevance.
+- outline/outline (40945★): Generic knowledge base, no AI relevance.
+- hankcs/HanLP (36515★): NLP library, not an agent tool
+- casey/just (36333★): command runner, not AI-related
+- gchq/CyberChef (36149★): data analysis tool, not AI-related
+- utmapp/UTM (35973★): virtual machine software, not AI-related
+- seaweedfs/seaweedfs (35563★): distributed storage system, not AI-related
+- netty/netty (35058★): network application framework, not AI-related
+- aristocratos/btop (35026★): not AI-related
+- derailed/k9s (34834★): not AI-related
+- motiondivision/motion (34294★): not AI-related
+- microsoft/WSL (34124★): not AI-related
+- xai-org/x-algorithm (33674★): not AI-related
+- google/comprehensive-rust (33432★): General Rust programming course, not AI tooling.
+- NandhaKishorM/laya (33317★): Non-autoregressive system for text decisions, not a general AI agent.
+- numpy/numpy (33039★): Fundamental scientific computing library, not AI tooling.
+- ziadoz/awesome-php (32755★): Not AI-related, it's a curated list of PHP libraries.
+- vercel/swr (32491★): Generic React data fetching library, not AI agent tooling.
+- facebook/rocksdb (32207★): General-purpose key-value store, no specific AI angle.
+- google/material-design-lite (32181★): UI component library, not AI agent tooling.
+- influxdata/influxdb (31770★): database, no AI
+- fabricjs/fabric.js (31505★): javascript library, no AI
+- tqdm/tqdm (31357★): progress bar, no AI
+- parallax/jsPDF (31312★): PDF generation, no AI
+- vercel/turborepo (31217★): build system, no AI
+- microsoft/calculator (31083★): calculator, no AI
+- heroui-inc/heroui (30958★): Not AI-related
+- AtsushiSakai/PythonRobotics (30722★): Not AI-related
+- xuxueli/xxl-job (30620★): Not AI-related
+- opentofu/opentofu (30530★): Not AI-related
+- tobi/qmd (30467★): Not AI-related
+- trailofbits/algo (30425★): Not AI-related
+- nautechsystems/nautilus_trader (30290★): not AI-related
+- wilsonfreitas/awesome-quant (30183★): not AI-related
+- hashicorp/consul (30088★): not AI-related
+- zhiwehu/Python-programming-exercises (29790★): not AI-related
+- alibaba/canal (29737★): not AI-related
+- notepad-plus-plus/notepad-plus-plus (29594★): not AI-related
+- composer/composer (29554★): not AI-related
+- plausible/analytics (29541★): not AI-related
+- alibaba/spring-cloud-alibaba (29175★): not AI-related
+- fengdu78/Coursera-ML-AndrewNg-Notes (37980★): not a tool
+- denysdovhan/wtfjs (37692★): not AI-related
+- alibaba/arthas (37585★): not AI-related
+- keycloak/keycloak (37419★): not AI-related
+- fastify/fastify (37284★): not AI-related
+- markedjs/marked (37238★): not AI-related
+- postcss/postcss (28966★): Not AI-related
+- getredash/redash (28836★): Not AI-related
+- firecrawl/open-lovable (28724★): Not AI-related
+- mongodb/mongo (28650★): Not AI-related
+- tj/commander.js (28426★): Not AI-related
+- google/python-fire (28224★): Not AI-related
+- alibaba/druid (28168★): Not AI-related
+- charmbracelet/glow (27726★): Not AI-related
+- cloudflare/pingora (27640★): Not AI-related
+- recharts/recharts (27638★): not AI-related
+- squidfunk/mkdocs-material (27580★): not AI-related
+- microsoft/vcpkg (27524★): not AI-related
+- Tencent/weui (27445★): not AI-related
+- ai/nanoid (27105★): not AI-related
+- google/flatbuffers (26568★): not AI-related
+- microsoft/winget-cli (26510★): not AI-related
+- apache/flink (26412★): not AI-related
+- anomalyco/sst (26360★): not AI-related
+- matteocrippa/awesome-swift (26329★): not AI-related
+- vapor/vapor (26230★): not AI-related
+- kovidgoyal/calibre (26175★): not AI-related
+- datawhalechina/pumpkin-book (26127★): not AI-related
+- Redocly/redoc (25963★): not AI-related
+- select2/select2 (25909★): not AI-related
+- pulumi/pulumi (25792★): not AI-related
+- d2lang/d2 (25627★): not AI-related
+- tayllan/awesome-algorithms (25623★): not AI-related
+- ageron/handson-ml (25602★): not AI-related
+- zloirock/core-js (25531★): not AI-related
+- clockworklabs/SpacetimeDB (25313★): not AI-related
+- dimsemenov/PhotoSwipe (25279★): not AI-related
+- taosdata/TDengine (25167★): not AI-related
+- highlightjs/highlight.js (25003★): not AI-related
+- vadimdemedes/ink (40115★): Generic UI framework for command-line apps.
+- google/styleguide (39682★): Collection of coding style guides.
+- google/googletest (39653★): Generic C++ testing and mocking framework.
+- google/leveldb (39500★): Generic key-value storage library.
+- sqlmapproject/sqlmap (38727★): Automatic SQL injection and database takeover tool.
+- dubinc/dub (24904★): Generic link attribution platform, not AI-related.
+- actix/actix-web (24867★): Generic web framework for Rust, not AI-related.
+- tursodatabase/turso (24814★): Generic SQL database, no specific AI angle.
+- charmbracelet/gum (24515★): Generic tool for shell scripts, not AI-related.
+- kriasoft/react-starter-kit (23695★): Generic web development starter kit.
+- JanDeDobbeleer/oh-my-posh (23601★): Generic shell prompt renderer, not AI-related.
+- matplotlib/matplotlib (23380★): Generic data visualization library, not AI-specific tooling.
+- microsoft/api-guidelines (23337★): General API design guidelines, not AI-related.
+- chalk/chalk (23330★): Generic terminal string styling library.
+- neondatabase/neon (23214★): Serverless Postgres database, no AI angle.
+- alibaba/Sentinel (23150★): Generic microservices flow control component.
+- google/gson (24237★): Generic Java JSON library.
+- processing/p5.js (24140★): Creative coding library, not AI tooling.
+- MagicMirrorOrg/MagicMirror (24135★): Smart mirror platform, not AI tooling.
+- timescale/timescaledb (23713★): Time-series database, not AI tooling.
+- akfamily/akshare (22980★): Financial data library, not AI tooling.
+- yjs/yjs (22947★): Generic library for collaborative software, not AI.
+- super-productivity/super-productivity (22917★): Generic productivity and todo list app.
+- websockets/ws (22807★): Generic WebSocket client and server library.
+- gleam-lang/gleam (21994★): General-purpose programming language, not AI-specific.
+- google/ExoPlayer (21944★): Deprecated, stale, and not AI-related.
+- aidenybai/react-scan (21878★): Generic web development utility, not AI-related.
+- JetBrains/intellij-community (20635★): General-purpose IDE, not AI tooling.
+- google/filament (20622★): General 3D rendering engine, not AI.
+- spaceship-prompt/spaceship-prompt (20591★): Zsh shell prompt theme, not AI.
+- krisk/Fuse (20506★): General-purpose fuzzy search library, not AI.
+- bokeh/bokeh (20460★): General data visualization library, not AI.
+- facebook/prophet (20440★): Statistical time series forecasting library, not AI tooling.
+- charmbracelet/vhs (21142★): General CLI recording tool, not AI-related.
+- GoogleCloudPlatform/microservices-demo (21061★): General cloud microservices demo, not AI-related.
+- allinurl/goaccess (21058★): General web log analyzer, not AI-related.
+- avajs/ava (20824★): General Node.js test runner, not AI-related.
+- apache/shardingsphere (20810★): Distributed SQL database solution, not AI-related.
+- google/fonts (20644★): Repository for Google Fonts, not AI-related.
+- alibaba/ice (18603★): Generic web application framework, not AI.
+- alibaba/weex (18492★): Generic mobile cross-platform UI framework, not AI.
+- trekhleb/learn-python (18414★): General Python learning resource, not AI-specific.
+- google/libphonenumber (18319★): Generic utility library for phone numbers, not AI.
+- zincsearch/zincsearch (17920★): General-purpose search engine, no explicit AI/LLM/agent angle.
+- asciinema/asciinema (17887★): General terminal session recorder, no AI angle.
+- rqlite/rqlite (17805★): General distributed database built on SQLite, no AI angle.
+- ImageMagick/ImageMagick (17675★): General image processing suite, no explicit AI/LLM/agent angle.
+- google/cadvisor (19483★): Generic container monitoring tool, no AI angle.
+- golangci/golangci-lint (19444★): Generic Go linter, no AI angle.
+- mountain-loop/yaak (19328★): Generic desktop API client, no AI angle.
+- Orange-OpenSource/hurl (19262★): Generic HTTP client and testing tool, no AI angle.
+- graphql/graphql-js (20340★): General web API technology, not AI tooling.
+- microsoft/fluentui (20323★): General UI component library, not AI tooling.
+- linkwarden/linkwarden (20137★): Self-hosted bookmark manager, not AI tooling.
+- docker-mailserver/docker-mailserver (19610★): Production-ready mail server, not AI tooling.
+- react/yoga (18929★): Generic web layout engine, not AI-related.
+- Tencent/MMKV (18763★): Generic mobile key-value storage, not AI-related.
+- jpillora/chisel (16660★): Not AI related, it's a network tunnel.
+- vercel/vercel (16409★): Not AI related, it's a deployment platform.
+- go-task/task (16261★): Not AI related, it's a build tool.
+- goreleaser/goreleaser (16104★): Not AI related, it's a release automation tool.
+- react-bootstrap/react-bootstrap (22607★): Generic UI component library, no AI angle.
+- postgres/postgres (22457★): Traditional database mirror, no AI relevance.
+- QuantConnect/Lean (22084★): Algorithmic trading engine, no explicit AI tooling.
+- diegomura/react-pdf (16833★): Not AI-related
+- carloscuesta/gitmoji (16805★): Not AI-related
+- ipython/ipython (16790★): Not AI-related
+- apple/foundationdb (16783★): Not AI-related
+- prestodb/presto (16762★): Not AI-related
+- a2ui-project/a2ui (16731★): No description
+- ArduPilot/ardupilot (16087★): Not AI or LLM related, drone autopilot software.
+- Kanaries/pygwalker (15987★): Data visualization tool, not AI agent tooling.
+- scylladb/scylladb (15788★): Database, not AI agent tooling.
+- dgraph-io/badger (15784★): Database, not AI agent tooling.
+- documenso/documenso (15457★): Not AI-related, document signing alternative.
+- jupyter/jupyter (15355★): Metapackage for Jupyter, not AI tooling.
+- apache/pulsar (15349★): Distributed messaging system, not AI tooling.
+- Tencent/weui-wxss (15271★): UI library for WeChat, not AI tooling.
+- fmhy/FMHY (15157★): Not AI tooling, appears to be a link aggregator.
+- spree/spree (15762★): not AI-related
+- google-deepmind/mujoco (15735★): not AI-related
+- apache/hadoop (15694★): not AI-related
+- microsoft/pyright (15685★): not AI-related
+- Y2Z/monolith (15519★): not AI-related
+- fabric/fabric (15518★): not AI-related
+- gitbutlerapp/gitbutler (21822★): Generic version control client, not AI tooling.
+- itzg/docker-minecraft-server (14448★): Minecraft server Docker image, not AI agent tooling.
+- cure53/DOMPurify (17470★): Generic web security library, not AI.
+- sindresorhus/type-fest (17458★): Generic TypeScript utility library, not AI.
+- questdb/questdb (17449★): General time-series database, no AI angle.
+- alibaba/DataX (17363★): General data integration tool, not AI-specific.
+- microsoft/react-native-windows (17359★): UI framework for Windows apps, not AI.
+- aws/aws-cli (17307★): General AWS CLI, not AI-specific tooling.
+- tursodatabase/libsql (17280★): General embedded database, no AI angle.
+- paperswithbacktest/awesome-systematic-trading (14804★): Not AI tooling, but trading strategies and finance.
+- oxnr/awesome-bigdata (14677★): General big data list, not AI agent tooling.
+- memcached/memcached (14297★): Distributed memory object caching system, not AI.
+- QuestPDF/QuestPDF (14205★): PDF generation library, not AI agent tooling.
+- markets/awesome-ruby (14171★): Not an AI or LLM tool, but an awesome list.
+- nextapps-de/flexsearch (13807★): Not AI-related; it's a general-purpose search library.
+- Tencent/tinker (17658★): Android hot-fix library, not AI-related.
+- rasbt/deeplearning-models (17616★): General deep learning model collection, not specific AI agent tooling.
+- Tencent/vConsole (17532★): Front-end developer tool, not AI-related.
+- NVIDIA/open-gpu-kernel-modules (17475★): Low-level GPU kernel modules, not AI tooling.
+- apache/arrow (17210★): General data format, not AI-specific tooling.
+- microsoft/IoT-For-Beginners (17150★): General IoT learning course, not AI tooling.
+- ceph/ceph (17136★): General distributed storage platform, not AI tooling.
+- rayon-rs/rayon (13390★): not AI-related
+- trinodb/trino (13345★): not AI-related
+- citusdata/citus (12818★): Not AI
+- formbricks/formbricks (13123★): Not AI-related
+- NoFxAiOS/nofx (13102★): Trading bot
+- wallabag/wallabag (13017★): not AI-related
+- rasbt/python-machine-learning-book (12660★): book code
+- redpanda-data/redpanda (12621★): not AI
+- searx/searx (13557★): not AI-related
+- Tyrrrz/DiscordChatExporter (12210★): not AI-related
+- StarRocks/starrocks (12186★): not AI-related
+- leachim6/hello-world (12000★): not AI-related
+- jnv/lists (11570★): not AI-related
+- antvis/G6 (12335★): Generic graph visualization framework, not AI-specific.
+- retejs/rete (12293★): Generic visual programming framework, not AI-specific.
+- FerretDB/FerretDB (11101★): not AI-related
+- svgdotjs/svg.js (11832★): not AI-related
+- mixmark-io/turndown (11477★): not AI-related
+- wojtekmaj/react-pdf (11190★): not AI-related
+- dtm-labs/dtm (10919★): not AI-related
+- AutoMQ/automq (10917★): not AI-related
+- cs231n/cs231n.github.io (11071★): not AI tooling
+- je-suis-tm/quant-trading (11057★): not AI-related
+- resilience4j/resilience4j (10788★): Not AI-related
+- playcanvas/supersplat (10417★): Not AI-related
+- alexeygrigorev/data-science-interviews (10194★): Not AI tooling
+- drivendataorg/cookiecutter-data-science (10096★): not AI-related
+- yugabyte/yugabyte-db (10601★): Not AI-related
+- s3fs-fuse/s3fs-fuse (10012★): not AI-related
+- foliojs/pdfkit (10721★): not AI-related
+- getlago/lago (10688★): not AI-related
+- bpmn-io/bpmn-js (9694★): not AI-related
+- reviewdog/reviewdog (9674★): not AI-related
+- tidwall/tile38 (9745★): not AI-related
+- platformio/platformio-core (9536★): not AI-related
+- voidcosmos/npkill (9477★): not AI-related
+- theskumar/python-dotenv (8898★): not AI-related
+- codenotary/immudb (9045★): not AI-related
+- redpanda-data/connect (8787★): not AI-related
+- polakowo/vectorbt (9418★): trading bot
+- react-toolbox/react-toolbox (8604★): not AI-related
+- HKUDS/ClawWork (8563★): not AI-related
+- rfordatascience/tidytuesday (8446★): not AI-related
+- pemistahl/grex (8233★): Not AI-related
+- davebcn87/pi-autoresearch (8194★): Insufficient information
+- vudovn/ag-kit (8191★): No description or topics
+- mattpocock/ts-reset (8627★): not AI-related
+- google/model-viewer (8277★): Not AI-related
+- allegro/bigcache (8171★): Not AI-related
+- GoogleCloudPlatform/python-docs-samples (8147★): Not AI-related
+- Tencent/Shadow (7788★): not AI-related
+- vercel-labs/native (7781★): not AI-related
+- vercel/styled-jsx (7774★): not AI-related
+- datawhalechina/so-large-lm (7736★): not a tool
+- penrose/penrose (7993★): not AI-related
+- rorkai/App-Store-Connect-CLI (7959★): not AI-related
+- microsoft/Windows-driver-samples (7879★): not AI-related
+- sphinx-doc/sphinx (8065★): Not AI-related
+- wasm3/wasm3 (8055★): Not AI-related
+- lanpa/tensorboardX (8002★): Not AI-related
+- juliencrn/usehooks-ts (7859★): Not AI-related
+- alibaba/x-render (7852★): Not AI-related
+- go-git/go-git (7802★): Not AI-related
+- PowerJob/PowerJob (7798★): Not AI-related
+- farzaa/clicky (7725★): No description
+- aws/karpenter-provider-aws (7723★): Not AI-related
+- ranaroussi/quantstats (7720★): Not AI-related
+- mapstruct/mapstruct (7700★): Not AI-related
+- google/closure-compiler (7692★): Not AI-related
+- openai/tart (7563★): not AI-related
+- facebookresearch/sam-3d-objects (7536★): insufficient info
+- PrismarineJS/mineflayer (7598★): Not AI-related
+- google/jsonnet (7580★): Not AI-related
+- rustls/rustls (7688★): not AI-related
+- vercel/next-forge (7666★): not AI-related
+- agronholm/apscheduler (7659★): not AI-related
+- sindresorhus/execa (7619★): not AI-related
+- erikgrinaker/toydb (7295★): not AI-related
+- PaddlePaddle/Paddle-Lite (7289★): not AI-related
+- mfussenegger/nvim-dap (7281★): not AI-related
+- jupytext/jupytext (7269★): not AI-related
+- charmbracelet/soft-serve (7264★): not AI-related
+- python-visualization/folium (7413★): Not AI-related
+- fastfire/deepdarkCTI (7402★): Not AI-related
+- evcc-io/evcc (7388★): Not AI-related
+- glushchenko/fsnotes (7536★): not AI-related
+- google/draco (7517★): not AI-related
+- LiamGvchi/gc-minimal-zine-poster (7349★): Not AI-related
+- XBuilderLAB/cheat-on-content (7302★): Not AI-related
+- charmbracelet/huh (7206★): Not AI-related
+- alibaba/flutter_boost (7198★): Not AI-related
+- go-co-op/gocron (7175★): Not AI-related
+- eclipse-che/che (7170★): Not AI-related
+- authzed/spicedb (7154★): Not AI-related
+- nisrulz/flutter-examples (7153★): Not AI-related
+- google/error-prone (7256★): not AI-related
+- mher/flower (7239★): task queue monitor
+- cloudflare/boringtun (7223★): wireguard implementation
+- railsgirls/guides.railsgirls.com (7221★): tutorial website
+- littlefs-project/littlefs (6971★): Not AI-related
+- alibaba/jvm-sandbox (6958★): Not AI-related
+- xiangyuecn/AreaCity-JsSpider-StatsGov (6936★): Not AI-related
+- karminski/one-small-step (7003★): Not AI-related
+- mapbox/pixelmatch (6994★): Not AI-related
+- microsoft/Security-101 (6988★): Not AI-related
+- apache/couchdb (6978★): Not AI-related
+- snowplow/snowplow (7041★): Not AI-related
+- google/gops (7019★): Not AI-related
+- tidyverse/ggplot2 (7011★): Not AI-related
+- microsoft/SandDance (7152★): not AI-related
+- scikit-learn-contrib/imbalanced-learn (7129★): not AI-related
+- google-research/arxiv-latex-cleaner (7101★): not AI-related
+- quartznet/quartznet (7095★): not AI-related
+- ricequant/rqalpha (6829★): not AI-related
+- ROCm/legacy-rocm-build (6820★): not AI-related
+- vercel/platforms (6719★): not AI-related
+- microsoft/vscode-docs (6671★): not AI-related
+- apache/zeppelin (6665★): not AI-related
+- google/perfetto (6660★): not AI-related
+- microsoft/FASTER (6636★): not AI-related
+- pditommaso/awesome-pipeline (6626★): not AI-related
+- google/snappy (6620★): not AI-related
+- pawelmalak/flame (6619★): not AI-related
+- cloudquery/cloudquery (6542★): not AI-related
+- nativescript-vue/nativescript-vue (6534★): not AI-related
+- microsoft/rushstack (6500★): not AI-related
+- evcxr/evcxr (6498★): no description
+- nteract/papermill (6493★): not AI-related
+- brunch/brunch (6758★): Not AI-related
+- aws/aws-sam-cli (6738★): Not AI-related
+- microsoft/GSL (6730★): Not AI-related
+- x402-foundation/x402 (6728★): Not AI-related
+- google/wireit (6432★): not AI-related
+- apache/iotdb (6420★): not AI-related
+- wireservice/csvkit (6416★): not AI-related
+- microsoft/Detours (6409★): not AI-related
+- ejbills/DockDoor (6376★): Not AI-related
+- microsoft/aspire (6373★): Not AI-related
+- aymericdamien/TopDeepLearning (6369★): Not a tool
+- google/syzkaller (6356★): Not AI-related
+- pierrecomputer/pierre (6279★): No README substance
+- TableProApp/TablePro (6267★): Not AI-related
+- apache/pinot (6160★): Generic OLAP database, no specific AI angle.
+- microsoft/VFSForGit (6144★): Virtual File System for Git, not AI-related.
+- OpenAtomFoundation/pikiwidb (6134★): Redis-compatible database, no specific AI angle.
+- apache/flink-cdc (6485★): Not AI-related
+- tensorflow/docs (6341★): Not AI tooling
+- Tencent/lemon-cleaner (6340★): Not AI-related
+- apple/swift-algorithms (6338★): Not AI-related
+- MichaIng/DietPi (6335★): Not AI-related
+- apache/hudi (6330★): Not AI tooling
+- external-secrets/external-secrets (6906★): Not AI-related
+- raphw/byte-buddy (6898★): Not AI-related
+- gpu-mode/lectures (6877★): Not a tool
+- microsoft/DirectX-Graphics-Samples (6849★): Not AI-related
+- deepseek-ai/awesome-deepseek-agent (6237★): No description
+- Tencent/puerts (6226★): Not AI-related
+- google/google-java-format (6212★): Not AI-related
+- vercel-labs/scriptc (6212★): Not AI-related
+- aws/aws-sdk-php (6207★): Not AI-related
+- Azure/Azure-Sentinel (6192★): Not AI-related
+- ros2/ros2 (6183★): Not AI-related
+- microsoft/vscode-cpptools (6174★): Not AI-related
+- google/bbr (5952★): no AI relation
+- danielgerlag/workflow-core (5936★): not AI-related
+- google/highway (5935★): not AI-related
+- isaacs/node-lru-cache (5916★): not AI-related
+- google/j2objc (6035★): Not AI-related
+- apache/hive (6031★): Not AI-related
+- microsoft/tsyringe (6009★): Not AI-related
+- stdlib-js/stdlib (6001★): Not AI-related
+- microsoft/typespec (5895★): not AI-related
+- image-rs/image (5894★): not AI-related
+- cortexproject/cortex (5878★): not AI-related
+- microsoft/ethr (5869★): not AI-related
+- google/clasp (5867★): not AI-related
+- microsoft/MixedRealityToolkit-Unity (6077★): Mixed reality toolkit, not AI.
+- Azure/azure-sdk-for-net (6068★): General Azure SDK, not specific AI tooling.
+- css-doodle/css-doodle (6064★): CSS web component for visual art, not AI generation.
+- cockroachdb/pebble (6057★): Key-value database, no AI angle.
+- bytedance/MegaTTS3 (6099★): No README substance, empty description.
+- quarto-dev/quarto-cli (6099★): General scientific publishing system, not AI-specific.
+- microsoft/sudo (5862★): not AI-related
+- isaacs/rimraf (5854★): not AI-related
+- komodorio/helm-dashboard (5838★): not AI-related
+- alibaba/AliSQL (5987★): General-purpose MySQL database, no explicit AI or vector features.
+- Permify/permify (5962★): General authorization service, not AI tooling.
+- voila-dashboards/voila (5953★): General tool for turning Jupyter notebooks into web applications, not AI-specific.
+- aws-samples/aws-cdk-examples (5649★): not AI-related
+- alibaba/QLExpress (5642★): not AI-related
+- Azure/azure-sdk-for-python (5620★): not AI-related
+- haraka/Haraka (5617★): not AI-related
+- alibaba/jetcache (5615★): not AI-related
+- google/clusterfuzz (5614★): not AI-related
+- anthropics/sandbox-runtime (5578★): not AI-related
+- apache/hbase (5566★): not AI-related
+- google/EarlGrey (5699★): Not AI-related
+- danger/danger (5695★): Not AI-related
+- microsoft/Windows-classic-samples (5684★): Not AI-related
+- cubefs/cubefs (5679★): Not AI-related
+- google/seesaw (5675★): Not AI-related
+- thuquant/awesome-quant (5674★): Not AI-related
+- connorferster/handcalcs (5806★): not AI-related
+- Tencent/libpag (5802★): not AI-related
+- microsoft/WPF-Samples (5742★): Not AI-related
+- dmytrodanylyk/circular-progress-button (5739★): Not AI-related
+- python-websockets/websockets (5733★): Not AI-related
+- awslabs/mountpoint-s3 (5785★): Not AI-related
+- ossf/scorecard (5763★): Not AI-related
+- alainm23/planify (5755★): Not AI-related
+- intel/hyperscan (5504★): Not AI-related
+- portapack-mayhem/mayhem-firmware (5488★): Not AI-related
+- npm/node-semver (5468★): Not AI-related
+- google/tf-quant-finance (5531★): Not AI-related
+- danger/danger-js (5514★): Not AI-related
+- nyblnet/bento (5509★): Not AI-related
+- valor-software/ngx-bootstrap (5508★): Not AI-related
+- google/tcmalloc (5380★): Not AI-related
+- ag2ai/faststream (5375★): Not AI-related
+- mozillazg/python-pinyin (5375★): Not AI-related
+- leits/MeetingBar (5374★): Not AI-related
+- microsoft/azurelinux (5355★): not AI-related
+- astropy/astropy (5351★): not AI-related
+- pingdotgg/uploadthing (5351★): not AI-related
+- benjamine/jsondiffpatch (5348★): not AI-related
+- cloudflare/cloudflare-docs (5325★): not AI-related
+- Rust-GPU/rust-cuda (5409★): Not AI related
+- JuliaPluto/Pluto.jl (5396★): Not AI related
+- tensorflow/tpu (5282★): Not AI tooling
+- geopandas/geopandas (5281★): Geographic data
+- gluster/glusterfs (5259★): Filesystem tool
+- microsoft/coreutils (5258★): Coreutils installer
+- leizongmin/js-xss (5308★): not AI-related
+- RsyncProject/rsync (5293★): not AI-related
+- wangzhe3224/awesome-systematic-trading (5293★): not AI tooling
+- google/gts (5291★): not AI-related
+- google/bloaty (5562★): Not AI-related
+- charmbracelet/wish (5560★): Not AI-related
+- vercel/ms (5559★): Not AI-related
+- Tencent/teamai-cli (5546★): Not enough info
+- aaddrick/claude-desktop-debian (5459★): Not AI tooling
+- cuberite/cuberite (5454★): Not AI related
+- elbywan/wretch (5180★): Not AI-related
+- NVIDIA/nccl (5173★): Not AI-related
+- vercel/examples (5156★): not AI-related
+- ckan/ckan (5139★): not AI-related
+- homarr-labs/homarr (5127★): not AI-related
+- mitchellh/vouch (5125★): not AI-related
+- jitsucom/jitsu (5108★): not AI-related
+- naganandy/graph-based-deep-learning-literature (5104★): not a tool
+- microsoft/SynapseML (5247★): not AI tooling
+- bukosabino/ta (5237★): trading bot
+- man-group/dtale (5230★): data visualization
+- Richasy/Bili.Copilot (5218★): not AI-related
+- apple/swift-protobuf (4963★): not AI-related
+- microsoft/FluidFramework (4946★): not AI-related
+- Tencent/tmagic-editor (4945★): no description
+- Nixtla/statsforecast (4935★): not AI-related
+- nashory/gans-awesome-applications (5101★): Not a tool
+- google/grr (5091★): Not AI-related
+- apache/ignite (5087★): Not AI-related
+- perplexityai/bumblebee (5082★): Not AI-related
+- pomerium/pomerium (5049★): Not AI-related
+- apple/password-manager-resources (4902★): Not AI-related
+- google-deepmind/alphageometry (4901★): No description or topics
+- charmbracelet/freeze (4889★): Not AI-related
+- nathom/streamrip (5076★): not AI-related
+- unovue/inspira-ui (5056★): not AI-related
+- ArroyoSystems/arroyo (5056★): not AI-related
+- google/google-ctf (5051★): not AI-related
+- Tencent/wujie (5051★): not AI-related
+- sktime/pytorch-forecasting (5001★): Not AI agent
+- orientechnologies/orientdb (4993★): Not AI tooling
+- tidwall/buntdb (4871★): Not AI-related
+- f3d-app/f3d (4857★): Not AI-related
+- Codeception/Codeception (4856★): Not AI-related
+- microsoft/fluentui-blazor (4853★): Not AI-related
+- chipsalliance/chisel (4811★): Not AI-related
+- Azure/azure-powershell (4802★): Not AI-related
+- dimforge/nalgebra (4802★): Not AI-related
+- vercel/next-learn (4797★): Not AI-related
+- andrewekhalel/MLQuestions (4928★): not a tool
+- Tencent/kbone (4917★): not AI-related
+- Martian-Engineering/lossless-claw (4908★): not enough info
+- m3db/m3 (4907★): not AI-related
+- Tencent/cherry-markdown (4905★): not AI-related
+- cberner/redb (4853★): not AI-related
+- google/wuffs (4852★): not AI-related
+- grahamjenson/list_of_recommender_systems (4848★): not a tool
+- prawnpdf/prawn (4824★): not AI-related
+- karlhorky/learn-to-program (4982★): Not AI-related
+- hynek/structlog (4977★): Not AI-related
+- microsoft/tsdoc (4974★): Not AI-related
+- google/security-research (4705★): Not AI-related
+- microsoft/WindowsAppSDK (4703★): Not AI-related
+- mpdf/mpdf (4703★): Not AI-related
+- microsoft/msquic (4788★): not AI-related
+- aws/s2n-tls (4780★): not AI-related
+- has2k1/plotnine (4774★): not AI-related
+- hledgerorg/hledger (4771★): not AI-related
+- dustinspecker/awesome-eslint (4767★): not AI-related
+- microsoft/perfview (4766★): not AI-related
+- ferdium/ferdium-app (4728★): Not AI-related
+- WorldBrain/Memex (4721★): Not AI-related
+- Azure/autorest (4793★): Not AI-related
+- microsoft/ProcMon-Linux (4751★): Not AI-related
+- swiftbar/SwiftBar (4689★): Not AI-related
+- r0f1/datascience (4682★): Not AI-related
+- google/go-cmp (4679★): Not AI-related
+- autobrr/qui (4673★): Not AI-related
+- google/mcp (4645★): no description
+- cloudflare/workers-sdk (4634★): not AI-related
+- plotters-rs/plotters (4633★): not AI-related
+- GoogleCloudPlatform/golang-samples (4665★): Not AI-related
+- facebookresearch/vggt-omega (4663★): No description
+- Azure/azure-cli (4650★): Not AI-related
+- microsoft/codetour (4592★): Not AI-related
+- APIs-guru/openapi-directory (4580★): Not AI-related
+- pa11y/pa11y (4577★): Not AI-related
+- YauhenKavalchuk/interview-questions (4571★): Not AI-related
+- NVIDIA/nvidia-container-toolkit (4597★): not AI-related
+- polynote/polynote (4597★): not AI-related
+- slvDev/esp32-ai (4549★): No description
+- dcajasn/Riskfolio-Lib (4547★): Not AI-related
+- zudochkin/awesome-newsletters (4501★): not AI-related
+- rudderlabs/rudder-server (4501★): not AI-related
+- PolymathicAI/the_well (4472★): not AI-related
+- apple/swift-collections (4519★): Not AI-related
+- pyqtgraph/pyqtgraph (4429★): not AI-related
+- alibaba/fastjson2 (4424★): not AI-related
+- bnsreenu/python_for_microscopists (4419★): no README substance
+- tortuvshin/open-apps (4466★): Not AI-related
+- apache/kvrocks (4463★): Not AI-related
+- hal9ai/awesome-dataviz (4435★): Not AI-related
+- LLMQuant/quant-wiki (4341★): Not AI-related
+- wainshine/Chinese-Names-Corpus (4340★): Not AI-related
+- MichaelGrupp/evo (4339★): Not AI-related
+- vslavik/diff-pdf (4332★): Not AI-related
+- rust-ndarray/ndarray (4330★): Not AI-related
+- algolia/docsearch (4381★): Not AI-related
+- cilium/hubble (4369★): Not AI-related
+- google/open-location-code (4365★): Not AI-related
+- apache/lucene-solr (4365★): Not AI-related
+- microsoft/RulesEngine (4362★): Not AI-related
+- ResearAI/AutoFigure-Edit (4361★): No description
+- mljar/mercury (4357★): Not AI-related
+- Tencent/westore (4284★): not AI-related
+- StructuredLabs/preswald (4270★): not AI-related
+- grosser/parallel (4269★): not AI-related
+- charlie947/social-media-skills (4260★): no description
+- danveloper/flash-moe (4259★): not AI-related
+- jwohlwend/boltz (4256★): not AI-related
+- zvtvz/zvt (4313★): Trading platform
+- wal-g/wal-g (4311★): Database backup
+- posit-dev/positron (4305★): Data science IDE
+- uptrace/uptrace (4304★): APM tool
+- httprunner/httprunner (4302★): Testing framework
+- deepflowio/deepflow (4298★): Not AI-related
+- isaac-sim/IsaacSim (4287★): Not AI-related
+- pydata/xarray (4210★): Not AI-related
+- aws/aws-sdk-java (4203★): Not AI-related
+- kunchenguid/gnhf (4199★): No substance
+- ai-robots-txt/ai.robots.txt (4198★): Not AI tooling
+- klinecharts/KLineChart (4254★): not AI-related
+- toshi-search/Toshi (4254★): not AI-related
+- Azure/DotNetty (4250★): not AI-related
+- GitJournal/GitJournal (4243★): not AI-related
+- actions/upload-artifact (4230★): Not AI-related
+- tmstack/awesome-persona-skills (4229★): Not a tool or library
+- google/tamperchrome (4228★): Not AI-related
+- Infatoshi/cuda-course (4147★): no description
+- sjqzhang/go-fastdfs (4140★): not AI-related
+- SteveTheKiller/KillerPDF (4136★): not AI-related
+- alexandreborges/malwoverview (4132★): not AI-related
+- microsoft/ApplicationInspector (4398★): Not AI tooling
+- microsoft/vscode-remote-release (4195★): not AI-related
+- anthropics/original_performance_takehome (4187★): no AI tooling
+- txn2/kubefwd (4178★): not AI-related
+- github/mona-sans (4172★): not AI-related
+- stemdeckapp/stemdeck (4170★): not AI-related
+- pypi/warehouse (4169★): not AI-related
+- killop/anything_about_game (4165★): not AI-related
+- stumpy-dev/stumpy (4165★): not AI-related
+- square/kotlinpoet (4164★): not AI-related
+- google/go-containerregistry (4090★): not AI-related
+- yonggekkk/x-ui-yg (4089★): not AI-related
+- cloudflare/kumo (4080★): not AI-related
+- urllib3/urllib3 (4073★): not AI-related
+- yacy/yacy_search_server (4072★): not AI-related
+- donutbrowser/donutbrowser (4071★): not AI-related
+- google/bundletool (4043★): not AI-related
+- getwud/wud (4036★): not AI-related
+- timescale/pg_textsearch (4034★): not AI-related
+- google/mtail (4032★): not AI-related
+- VoltAgent/awesome-claude-design (4110★): not AI tooling
+- Tencent/tdesign (4108★): not AI-related
+- 1technophile/OpenMQTTGateway (4106★): not AI-related
+- google/angle (4104★): not AI-related
+- DTStack/chunjun (4103★): not AI-related
+- octelium/octelium (4101★): not AI-related
+- apple/swift-log (4053★): Not AI-related
+- microsoft/SEAL (4053★): Not AI-related
+- introlab/rtabmap (4044★): Not AI-related
+- google/oboe (4124★): Not AI-related
+- aws/aws-sdk-pandas (4122★): Not AI-related
+- microfeed/microfeed (4115★): Not AI-related
+- aykutkardas/regexlearn.com (4111★): Not AI-related
+- osTicket/osTicket (3987★): Not AI-related
+- google/codesearch (4017★): Not AI-related
+- kakoni/awesome-healthcare (4017★): Not AI-related
+- cloudflare/capnweb (4014★): Not AI-related
+- emitter-io/emitter (4009★): Not AI-related
+- NetHack/NetHack (3952★): Not AI-related
+- gyoridavid/ai_agents_az (3922★): No description
+- NVIDIA/k8s-device-plugin (3904★): Not AI-related
+- yaojingang/GEOFlow (3844★): Not AI-focused
+- TracecatHQ/tracecat (3836★): Not AI-focused
+- JohannesKaufmann/html-to-markdown (3835★): Not AI-related
+- microsoft/kiota (3834★): not AI-related
+- midday-ai/packrun (3833★): not AI-related
+- google/promises (3828★): not AI-related
+- M-3LAB/awesome-industrial-anomaly-detection (3824★): not a tool
+- dotdc/grafana-dashboards-kubernetes (3824★): not AI-related
+- google/copybara (3886★): not AI-related
+- hyperion-project/hyperion.ng (3886★): not AI-related
+- MrNeRF/LichtFeld-Studio (3877★): not AI-related
+- pimcore/pimcore (3877★): not AI-related
+- seandavi/awesome-single-cell (3877★): not AI-related
+- jamesmurdza/awesome-ai-devtools (3972★): not AI tooling
+- quickjs-ng/quickjs (3968★): not AI-related
+- esokolov/ml-course-hse (3964★): not AI tooling
+- KoboldAI/KoboldAI-Client (3953★): not enough info
+- evoiz/Agentic-Design-Patterns (3872★): No description
+- datawhalechina/daily-interview (3868★): Not AI tooling
+- Limine-Bootloader/Limine (3866★): Not AI-related
+- mergisi/awesome-openclaw-agents (4007★): awesome list
+- Goochbeater/Spiritual-Spell-Red-Teaming (4004★): jailbreak
+- Sumanth077/Hands-On-AI-Engineering (3996★): tutorial collection
+- fern-api/fern (3818★): Not AI-related
+- mckinsey/vizro (3810★): Not AI-related
+- didi/xiaoju-survey (3801★): Not AI-related
+- aws/aws-lambda-go (3801★): Not AI-related
+- stack-of-tasks/pinocchio (3792★): Not AI-related
+- apple/swift-argument-parser (3792★): Not AI-related
+- google/fully-homomorphic-encryption (3785★): Not AI-related
+- google/tarpc (3751★): Not AI-related
+- cloudflare/workers-rs (3743★): Not AI-related
+- Tyrrrz/YoutubeExplode (3741★): Not AI-related
+- charmbracelet/glamour (3735★): Not AI-related
+- NVIDIA/cuda-rust (3735★): Not AI-related
+- DataDog/datadog-agent (3765★): not AI-related
+- google/skywater-pdk (3763★): not AI-related
+- google/trillian (3759★): not AI-related
+- HazyResearch/ThunderKittens (3757★): not AI-related
+- Jakubantalik/thinking-orbs (3751★): not AI-related
+- aws/aws-sdk-go-v2 (3668★): not AI-related
+- microsoft/DirectXShaderCompiler (3668★): not AI-related
+- hamed-elfayome/Claude-Usage-Tracker (3666★): not AI tooling
+- dembrandt/dembrandt (3664★): not AI-related
+- microsoft/azure-pipelines-tasks (3660★): not AI-related
+- aws/aws-sdk-ruby (3657★): not AI-related
+- panphora/overtype (3704★): Not AI-related
+- microsoft/WinUI-Gallery (3697★): Not AI-related
+- bqplot/bqplot (3693★): Not AI-related
+- str4d/rage (3690★): Not AI-related
+- AmintaCCCP/GithubStarsManager (3688★): not AI tooling
+- anomalyco/guide (3685★): not AI-related
+- aws/aws-sdk-js-v3 (3676★): not AI-related
+- odigos-io/odigos (3674★): not AI-related
+- jurplel/qView (3670★): not AI-related
+- apache/kylin (3781★): not AI-related
+- NVlabs/GR00T-WholeBodyControl (3775★): not AI-related
+- liyupi/free-programming-resources (3770★): not AI-related
+- simonlin1212/TradingAgents-astock (3725★): Not AI tooling
+- MauriceNino/dashdot (3724★): Not AI related
+- apple/swift-async-algorithms (3713★): Not AI related
+- kiali/kiali (3645★): not AI-related
+- apache/arrow-rs (3641★): not AI-related
+- dave/jennifer (3631★): not AI-related
+- oxylabs/google-ai-mode-scraper (3628★): not AI tooling
+- rdkit/rdkit (3627★): not AI related
+- enactic/openarm (3622★): not AI tooling
+- grafana/alloy (3619★): not AI related
+- Azure/bicep (3657★): not AI-related
+- vercel/geist-font (3653★): not AI-related
+- TelegramBots/Telegram.Bot (3648★): not AI-related
+- Arcenox-co/TickerQ (3646★): not AI-related
+- edtechre/pybroker (3618★): algorithmic trading with ML
+- aws/aws-lambda-rust-runtime (3617★): Rust runtime for AWS Lambda
+- RafalWilinski/express-status-monitor (3615★): monitoring solution for Node.js apps
+- krzjoa/awesome-python-data-science (3613★): awesome list for Python data science
+- HanaokaYuzu/Gemini-API (3609★): reverse-engineered Python API for Google Gemini
+- vispy/vispy (3606★): visualization library for Python
+- chaskiq/chaskiq (3573★): not AI-related
+- Netflix/atlas (3573★): not AI-related
+- dongyubin/Free-AppleId-Serve (3572★): piracy and malware
+- microsoft/ebpf-for-windows (3572★): not AI-related
+- LinShunKang/MyPerf4J (3568★): not AI-related
+- vercel/release (3585★): Not AI-related
+- nutsdb/nutsdb (3583★): Not AI-related
+- google/recaptcha (3579★): Not AI-related
+- sanjeed5/awesome-cursor-rules-mdc (3574★): Not AI-related
+- wyf3/llm_related (3551★): Not a tool
+- huggingface/blog (3548★): Blog posts
+- matomo-org/device-detector (3541★): Not AI-related
+- matheusfacure/python-causality-handbook (3489★): Not AI tooling
+- NLPIR-team/NLPIR (3480★): No description
+- ethen8181/machine-learning (3502★): Not a tool
+- swarmpit/swarmpit (3500★): Not AI-related
+- mourner/suncalc (3498★): Not AI-related
+- mxschmitt/playwright-go (3522★): not AI-related
+- google/zopfli (3599★): Not AI-related
+- pawl/awesome-etl (3595★): Not AI-related
+- CloudAI-X/threejs-skills (3590★): No description or topics
+- fasiondog/hikyuu (3562★): Not AI-related
+- awesome-scripts/awesome-userscripts (3558★): Not AI-related
+- pst-group/pysystemtrade (3556★): Not AI-related
+- filipecalegario/awesome-generative-ai (3555★): Not a tool
+- qawolf/cli (3455★): Not AI-related
+- fantastic-admin/basic (3418★): not AI-related
+- buchidonggua/dg-ai-notes (3406★): not AI-related
+- hyperai/awesome-ai4s (3390★): not a tool
+- oxylabs/chatgpt-scraper (3372★): scraper, not AI tooling
+- actionsflow/actionsflow (3372★): not AI-related
+- sysstat/sysstat (3371★): Not AI-related
+- linuxfoundation/crowd.dev (3369★): Not AI-related
+- lakehq/sail (3455★): Not AI-related
+- agavra/tuicr (3401★): Not AI-related
+- PrismML-Eng/Bonsai-demo (3393★): Not enough info
+- joreilly/PeopleInSpace (3435★): Not AI-related
+- angelos-p/llm-from-scratch (3430★): No description
+- taishi-i/awesome-ChatGPT-repositories (3306★): Awesome list
+- bcefghj/ai-agent-interview-guide (3304★): Interview guide
+- ekalinin/github-markdown-toc (3304★): Non-AI utility
+- irazasyed/telegram-bot-sdk (3298★): Non-AI bot SDK
+- delta-io/delta-rs (3343★): Not AI-related
+- haydenbleasel/ultracite (3341★): Not AI-related
+- BBuf/how-to-optim-algorithm-in-cuda (3317★): Not AI tooling
+- duckdb/ducklake (3315★): Not AI related
+- hbb1/2d-gaussian-splatting (3313★): Not AI tooling
+- stellar/stellar-core (3309★): Not AI related
+- WeBankFinTech/DataSphereStudio (3271★): not AI-related
+- vortex-data/vortex (3269★): not AI-related
+- Kanaries/graphic-walker (3267★): not AI-related
+- cortex-docs/cortex (3262★): not AI-related
+- rguo12/awesome-causality-algorithms (3292★): not AI-related
+- xpf0000/FlyEnv (3289★): not AI-related
+- minar09/awesome-virtual-try-on (3202★): Not AI tooling
+- teamtnt/tntsearch (3200★): Not AI-related
+- wx-chevalier/Developer-Zero-To-Mastery (3199★): Not AI tooling
+- soundcloud/roshi (3175★): not AI-related
+- lxf746/any-auto-register (3353★): Account manager
+- openocta/openocta (3212★): Not AI-related
+- shadcn-ui/lint (3211★): Not AI-related
+- scikit-learn-contrib/hdbscan (3156★): Not AI-related
+- tslearn-team/tslearn (3187★): Not AI-related
+- domokane/FinancePy (3184★): Not AI-related
+- rmurai0610/MASt3R-SLAM (3219★): Not AI-related
+- WecomTeam/wecom-cli (3216★): Not AI-related
+- Nutlope/self.so (3090★): not AI-related
+- msgbyte/tianji (3112★): Not AI-related
+- CVEProject/cvelistV5 (3056★): Not AI-related
+- jobrunr/jobrunr (3099★): not AI-related
+- antimatter15/splat (3074★): Not AI-related
+- lindb/lindb (3065★): Not AI-related
+- jarrodwatts/jev-trader (3028★): not AI tooling
+- unidoc/unipdf (3127★): not AI-related
+- pmorissette/bt (2996★): not AI-related
+- sunspot/sunspot (2978★): not AI-related
+- tinysearch/tinysearch (2977★): not AI-related
+- posit-dev/great-tables (2902★): not AI-related
+- googleapis/google-api-ruby-client (2900★): not AI-related
+- signintech/gopdf (2938★): not AI-related
+- open-policy-agent/conftest (3284★): Not AI-related; policy testing tool.
+- storj/storj (3283★): Not AI-related; decentralized storage.
+- cirosantilli/china-dictatorship (3275★): Political propaganda repository, not AI-related.
+- openaddresses/openaddresses (3274★): Not AI-related; open address data repository.
+- decoderesearch/circuit-tracer (2922★): no description
+- mkkellogg/GaussianSplats3D (2918★): not AI-related
+- jupyter/nbdime (2845★): Not AI-related
+- viser-project/viser (2823★): Not AI-related
+- logpai/loghub (2880★): Not AI-related
+- mourner/rbush (2787★): Not AI-related
+- JuliaLang/IJulia.jl (2908★): not AI-related
+- microlinkhq/metascraper (2747★): Not AI-related
+- zhpmatrix/nlp-competitions-list-review (2805★): not AI tooling
+- johnfercher/maroto (2770★): not AI-related
+- pmorissette/ffn (2682★): Not AI-related
+- the-momentum/open-wearables (2667★): Not AI-related
+- meltano/meltano (2661★): Not AI-related
+- skishore/makemeahanzi (2720★): Not AI-related
+- mapbox/delaunator (2633★): not AI-related
+- mapbox/earcut (2603★): not AI tooling
+- apache/logging-flume (2574★): not AI-related
+- scverse/scanpy (2590★): not AI tooling
+- UglyToad/PdfPig (2588★): not AI-related
+- sorenisanerd/gotty (2560★): Not AI-related
+- abhineet123/Deep-Learning-for-Tracking-and-Detection (2515★): Curated paper list, not a tool
+- heyalexej/awesome-images (2513★): Curated image list, not AI
+- github/advisory-database (2499★): Security database, no AI
+- twistedfall/opencv-rust (2497★): OpenCV bindings, not AI
+- oldwinter/knowledge-garden (2461★): Personal knowledge‑garden, no AI component.
+- Shuffle/Shuffle (2458★): Security automation platform, no AI
+- unitedstates/congress-legislators (2452★): Dataset of legislators, not an AI tool
+- alephdata/aleph (2448★): Not AI-related
+- shenweichen/DeepMatch (2436★): not AI-related
+- Smorodov/Multitarget-tracker (2422★): Algorithmic tracker, not AI model
+- mapbox/supercluster (2384★): Geospatial clustering library, not AI.
+- gpu-mode/resource-stream (2378★): Curated news list, not a tool
+- scikit-learn-contrib/category_encoders (2510★): generic ML preprocessing library
+- earendil-works/absurd (2502★): no AI content, unclear purpose
+- OffcierCia/ultimate-defi-research-base (2240★): Just an awesome list, not AI tool
+- trekhleb/nano-neuron (2273★): not AI-related
+- LiveHelperChat/livehelperchat (2250★): Traditional live chat support software lacking native AI core focus.
+- pinterest/querybook (2295★): generic data querying UI, not AI-specific
+- winpython/winpython (2289★): generic Python distribution, not AI-specific
+- apache/tinkerpop (2147★): Graph computing framework, no AI focus.
+- tumuyan/RealSR-NCNN-Android (2160★): Not AI-related
+- benedekrozemberczki/awesome-decision-tree-papers (2477★): Awesome list, not a tool
+- griddb/griddb (2474★): General database, no AI component
+- MarginaliaSearch/MarginaliaSearch (2199★): generic search engine, no AI angle
+- ViTAE-Transformer/ViTPose (2198★): vision transformer research, no agent tooling
+- Yggdroot/LeaderF (2198★): generic fuzzy finder, no AI relevance
+- cuemacro/findatapy (2133★): General market data API, no AI component
+- itext/itext-java (2260★): General PDF library, no AI component.
+- lotusdblabs/lotusdb (2256★): Key-value store without AI functionality.
+- zengyh1900/Awesome-Image-Inpainting (2182★): Not an AI tool
+- ompl/ompl (2178★): Not an AI tool
+- mapbox/geojson-vt (2080★): GIS mapping utility for slicing GeoJSON with no AI capabilities.
+- deepmodeling/deepmd-kit (2060★): Scientific ML, not AI tooling
+- reugn/go-quartz (2018★): general job scheduler library
+- moosefs/moosefs (2008★): Distributed storage system, not AI.
+- INRIA/spoon (1959★): Java metaprogramming, no AI
+- android/androidify (1989★): Sample Android app, not AI‑related
+- BurntSushi/rust-csv (1964★): CSV parsing library, unrelated to AI
+- rq/django-rq (1953★): Generic task queue library, no AI.
+- AlexxIT/YandexStation (1951★): Home automation integration, not AI tooling.
+- composio-community/awesome-claude-plugins (1950★): Curated list, not a tool.
+- cherrypy/cherrypy (1947★): General web framework, not AI.
+- kubewall/kubewall (1943★): Kubernetes dashboard, not AI tooling.
+- Aleph-Alpha/ts-rs (1923★): Generic Rust to TypeScript binding generator without AI functionality.
+- vizzuhq/vizzu-lib (2042★): Generic charting library, no AI component.
+- John19187/The-40-Best-VPNs (1983★): Not AI-related
+- InternLM/Tutorial (1981★): No clear AI focus
+- ymcui/Chinese-LLaMA-Alpaca-3 (1980★): No clear AI focus
+- helallao/perplexity-ai (1977★): No clear AI focus
+- microsoft/azure-pipelines-agent (1919★): Traditional CI/CD build agent with no AI capabilities.
+- trailofbits/publications (1911★): General cybersecurity research publications not specific to AI tooling
+- simonw/tools (1910★): Personal collection of web tools created with LLMs, not AI developer tooling
+- sweetpad-dev/sweetpad (1910★): Generic iOS build utility for xcodebuild without core AI capabilities
+- sallowayma-git/IELTS-practice (1935★): Language learning app without AI component
+- raphaelvallat/pingouin (1935★): Statistical library, not AI-focused
+- elastic/elasticsearch-ruby (1976★): Standard Ruby client for Elasticsearch, not AI-specific
+- johannfaouzi/pyts (1879★): Classical machine learning library for time series analysis
+- markqvist/Sideband (1876★): Mesh communication software without AI capability
+- bootchk/resynthesizer (1880★): Classical algorithmic texture synthesis plugin, not modern AI/ML.
+- sartography/SpiffWorkflow (1928★): Generic workflow engine, not AI.
+- openacid/slim (1926★): Data structure library, not AI.
+- XiaomingX/indie-hacker-tools-plus (1895★): General tech stack list for indie hackers, not AI focused.
+- pawurb/hotpath-rs (1895★): Generic Rust application profiler without AI capability.
+- evloghq/evlog (1895★): Standard web application logging library without AI functionality.
+- plasma-umass/Mesh (1887★): General C/C++ memory allocator without AI capabilities.
+- VAST-AI-Research/UniRig (1848★): Not an AI tool fitting existing categories
+- VoidenHQ/voiden (1846★): Non‑AI API client
+- wzc520pyfm/ant-design-x-vue (1840★): UI library, not AI
+- abinthomasonline/repo2txt (1838★): Generic repo-to-text conversion tool
+- openai/gpt-5-coding-examples (1909★): not AI-related
+- best-of-lists/best-of (1909★): not AI-related
+- laminas/laminas-code (1904★): not AI-related
+- totogo/awesome-knowledge-graph (1903★): Not AI-related
+- AkaliKong/MiniOneRec (1901★): Not AI-related
+- safe-graph/graph-fraud-detection-papers (1900★): Not AI-related
+- mourner/bullshit.js (1898★): Not AI-related
+- Thinklab-SJTU/Awesome-LLM4AD (1897★): Not AI-related
+- meshtastic/Meshtastic-Android (1874★): Android app unrelated to AI.
+- mwmbl/mwmbl (1873★): Search engine without AI component.
+- feigeCode/navop (1872★): General productivity workspace, not AI tooling.
+- kunchenguid/treehouse (1872★): Git worktree tool, no AI.
+- MorDavid/BruteForceAI (1872★): Malicious LLM brute‑force tool.
+- probcomp/Gen.jl (1854★): probabilistic programming, not AI agents
+- VaalaCat/frp-panel (1853★): networking tool, no AI agent focus
+- KasperZutterman/Second-Brain (1853★): knowledge organization, not AI tooling
+- zhihongz/awesome-low-light-image-enhancement (1852★): image processing list, not AI agents
+- unicodeveloper/globalthreatmap (1851★): geopolitical data, not AI agents
+- bmabey/pyLDAvis (1851★): topic modeling visualization, not AI agent tooling
+- tanelpoder/0xtools (1825★): Non‑AI observability tool
+- elder-plinius/ST3GG (1825★): Steganography suite, no AI
+- artivis/manif (1824★): Non‑AI library
+- pengchengneo/Claude-Code (1810★): Unclear AI purpose, likely personal Claude code
+- Picrew/awesome-agent-harness (1862★): Awesome list, not a tool
+- TuGraph-family/tugraph-db (1764★): General graph database without explicit AI features
+- kairosdb/kairosdb (1761★): Time series database with no AI features
+- thbar/kiba (1776★): Not AI-related
+- kubb-labs/kubb (1823★): Generic code generator for OpenAPI specifications with no AI features
+- avhz/RustQuant (1823★): Quantitative finance library in Rust with no AI or LLM focus
+- root-gg/plik (1822★): Temporary file sharing system with no AI component
+- alkaline-ml/pmdarima (1737★): Traditional statistical time-series forecasting library.
+- adashofdata/nlp-in-python-tutorial (1731★): Tutorial on classic non-LLM natural language processing.
+- EnzymeAD/Enzyme (1719★): Automatic differentiation for LLVM/MLIR, no agent tooling.
+- centerforaisafety/hle (1717★): Alignment research project, no agent tooling or infrastructure.
+- meta-pytorch/tnt (1723★): Generic PyTorch training utilities, no AI agent focus.
+- datalens-tech/datalens (1707★): General business intelligence tool without specific AI agent focus.
+- clerk/javascript (1767★): General authentication library, not AI-specific.
+- ScottfreeLLC/AlphaPy (1766★): General machine learning for trading, not agent-specific.
+- mlr-org/mlr (1687★): General machine learning library, not specific to the AI agent stack.
+- polardb/polardbx-sql (1686★): General-purpose distributed database, lacks AI-specific tooling.
+- basicmi/AI-Chip (1712★): It is an awesome-list of hardware, not AI tooling.
+- cswinter/LocustDB (1647★): General-purpose analytics database without specific AI agent integration.
+- benthecoder/yt-channels-DS-AI-ML-CS (1644★): General educational resource list, not specific to agent tooling.
+- kagkarlsson/db-scheduler (1667★): General-purpose database scheduler, lacks specific AI/agent utility.
+- msgi/nlp-journey (1629★): General collection of NLP papers and code, not specific tooling.
+- Ademking/MD-This-Page (1621★): General web utility for markdown conversion, lacks specific AI integration.
+- pat/thinking-sphinx (1620★): Traditional search indexing library, not AI-specific.
+- scikit-learn-contrib/MAPIE (1604★): not AI-related
+- camunda/camunda-modeler (1726★): General BPMN modeling tool, no AI.
+- jokergoo/ComplexHeatmap (1559★): Data visualization library, not AI.
+- alpacahq/alpaca-py (1557★): Finance SDK, unrelated to AI.
+- vshymanskyy/StandWithUkraine (1552★): Political banner repository, not AI related
+- Florian-Barthel/splatviz (1551★): Visualization tool, not AI core functionality
+- BurntSushi/memchr (1584★): Generic Rust string search utility, not AI.
+- benbalter/word-to-markdown (1549★): Word to Markdown conversion without AI.
+- polarsignals/frostdb (1549★): General columnar database, no AI focus.
+- wangyongjie-ntu/Awesome-explainable-AI (1661★): Just an awesome list, not a tool
+- Marvomatic/n8n-templates (1545★): Non‑AI workflow templates.
+- jupyter-widgets/ipyleaflet (1542★): Jupyter widget for maps, not AI.
+- gazebosim/gz-sim (1542★): Robotics simulator unrelated to AI tooling.
+- fastplotlib/fastplotlib (1531★): Non-AI plotting and visualization library using GPU rendering.
+- graphite-project/carbon (1531★): Time-series metrics storage daemon for Graphite monitoring.
+- ad-si/awesome-music-production (1530★): Non-AI awesome list for music production software and resources.
+- pysal/pysal (1529★): Spatial data analysis library with no AI or LLM tooling.
+- apache/inlong (1508★): Data integration framework, not AI-related
+- janbjorge/pgqueuer (1540★): Generic task queue, not AI tooling.
+- flutter/genui (1783★): No description or AI relevance
+- JetBrains/lets-plot (1783★): General data visualization library
+- JustGlowing/minisom (1609★): Classic ML implementation, not LLM/Agent tooling.
+- pyjanitor-devs/pyjanitor (1499★): Data cleaning library
+- geomstats/geomstats (1524★): Generic mathematics/statistics library, not AI agent tooling.
+- MaxHalford/prince (1485★): Non-AI data analysis library
+- skaiworldwide-oss/agensgraph (1511★): Generic graph database, no AI focus
+- igraph/python-igraph (1464★): General graph theory library, not specific to AI/LLM tooling.
+- filodb/FiloDB (1468★): General-purpose time-series database without specific AI/agent functionality.
+- plotly/plotly.rs (1458★): General data visualization library, not AI-specific.
+- apalis-dev/apalis (1444★): General-purpose background job library, no specific AI focus.
+- flashbots/mev-boost (1449★): Crypto/MEV infrastructure, not AI-related.
+- apache/cloudberry (1432★): General-purpose MPP database, not specific AI agent infrastructure.
+- googleapis/google-cloud-ruby (1427★): Generic cloud SDK, not specific AI agent tooling.
+- dbos-inc/dbos-transact-ts (1402★): Not AI-related
+- microlinkhq/unavatar (1473★): social media avatar aggregation, no AI
+- s8sg/goflow (1380★): General workflow engine without AI components.
+- Detaysoft/react-chat-elements (1383★): Generic React chat UI components, no AI agent integration.
+- aerospike/aerospike-server (1383★): Generic NoSQL database, no AI or agent tooling.
+- ACEsuit/mace (1390★): Not AI or agent related
+- PyO3/rust-numpy (1389★): Non-AI library
+- playcanvas/splat-transform (1385★): Non-AI 3D processing tool
+- puppyone-ai/puppyone (1370★): No AI functionality evident.
+- holoviz/hvplot (1358★): Data visualization tool, not AI-related.
+- obspy/obspy (1340★): Not AI-related
+- mapillary/inplace_abn (1333★): Not AI-related
+- brianspiering/awesome-dl4nlp (1311★): Awesome list, not AI tooling or agent framework
+- valeman/awesome-conformal-prediction (1326★): awesome list, not tooling
+- BurntSushi/aho-corasick (1304★): Non‑AI algorithm library
+- apache/ozone (1316★): General distributed storage system, not AI.
+- step-security/harden-runner (1283★): non-AI security tool
+- modal-labs/modal-examples (1282★): examples, not tooling
+- ShichenLiu/SoftRas (1301★): Graphics research code, not AI tooling.
+- trevor-vincent/awesome-high-performance-computing (1331★): generic HPC awesome list, not AI
+- DBraun/DawDreamer (1329★): digital audio workstation, not AI-focused
+- zerodha/dungbeetle (1280★): not AI-related
+- nationalparkservice/data (1280★): not AI-related
+- argmin-rs/argmin (1278★): not AI-related
+- ipa-lab/hackingBuddyGPT (1277★): not AI-related
+- DTStack/Taier (1286★): Not AI-related
+- ProxyShard/ShardBrowser (1284★): Not AI-related
+- Renumics/spotlight (1281★): Data visualization tool, not AI-specific
+- cosmosgl/graph (1298★): Visualization library, not AI tool
+- elixir-explorer/explorer (1296★): Dataframe library, unrelated to AI
+- cloudflare/partykit (1295★): General real‑time framework, not AI‑specific
+- rdbo/libmem (1263★): Non-AI hacking library
+- mbrg/power-pwn (1262★): Security hacking tool, no AI
+- ICT-FinD-Lab/alphagen (1270★): crypto or trading bots
+- NVlabs/alpasim (1269★): autonomous vehicle simulation
+- better-auth/better-hub (1269★): code collaboration for humans and agents
+- shengjidaguai-china/BossHunter (1274★): AI recruitment tool
+- jbmusso/awesome-graph (1274★): Graph database list
+- AgenticHealthAI/Awesome-AI-Agents-for-Healthcare (1272★): Healthcare agent list
+- durable-workflow/workflow (1251★): General PHP workflow engine, not AI‑specific.
+- tembo/tembo (1267★): No description or AI context
+- meta-pytorch/data (1267★): General ML utilities, no AI angle
+- google/schema-dts (1250★): No AI functionality, just type definitions
+- cococry/ragnar (1249★): General window manager, not AI
+- dariubs/awesome-workflow-automation (1248★): Curated list, not a tool
+- ga642381/speech-trident (1248★): Awesome list, not an actual tool
+- chelsea0x3b/cudarc (1237★): Generic CUDA wrapper, no AI angle.
+- bangle-io/bangle-io (1236★): Note‑taking app, unrelated to AI.
+- bambinos/bambi (1305★): Statistical library, not AI tooling
+- trhhubsd/ARTEX (1228★): cybersecurity penetration testing tool
+- run-house/kubetorch (1228★): Kubernetes ML infrastructure, not AI agent tooling
+- qpython-android/qpython (1226★): Android Python engine, not AI agent tooling
+- dmlc/dlpack (1257★): generic tensor library, no AI angle
+- nethical6/conversation-steganography (1256★): message hiding, not AI tooling
+- zjunlp/KnowledgeEditingPapers (1254★): paper list, not AI tooling
+- e2b-dev/awesome-ai-sdks (1232★): Curated list, not a tool.
+- graphite-project/whisper (1261★): not AI-related
+- wilbowes/EchoMuse (1260★): not AI-related
+- lmbelo/pyscripter (1257★): not AI-related
+- temporalio/sdk-python (1225★): Not AI-related
+- brian-team/brian2 (1246★): Neuroscience simulator, not AI tooling
+- neon-mmd/websurfx (1218★): Non‑AI search engine
+- creaktive/rainbarf (1209★): CLI system monitoring, not AI-related
+- newrelic/newrelic-ruby-agent (1209★): Generic APM agent, no AI-specific functionality
+- percona/percona-server (1275★): Not AI-related
+- torlando-tech/columba (1218★): Not AI related.
+- databuddy-analytics/Databuddy (1204★): Primarily analytics platform, AI is secondary feature.
+- EmbraceAGI/Awesome-AI-GPTs (1204★): Awesome list and prompt collection, not tooling.
+- Cerebras/modelzoo (1204★): No description or topics, cannot verify AI relevance.
+- JuliaStats/Distributions.jl (1204★): General statistics library, not AI-specific tooling.
+- Morgensonne/EditDeck (1204★): No description or topics, cannot verify purpose.
+- ItsRiprod/DeskThing (1195★): no AI tooling, generic utilities
+- ALwrity/ALwrity (1192★): marketing platform, not AI tooling
+- microsoft/opensource.microsoft.com (1192★): static website, not AI-related
+- timqian/openprompt.co (1215★): generic prompt engineering, no AI agent tooling
+- NoDataFound/hackGPT (1213★): malware analysis tools, not AI agent infrastructure
+- KnpLabs/KnpSnappyBundle (1245★): Non-AI PDF generation tool
+- 0xSojalSec/LLMs-local (1196★): awesome list, not a tool
+- microsoft/XmlNotepad (1196★): general XML editor, no AI
+- cloudflare/ai (1195★): insufficient info, unclear AI tool
+- google/certificate-transparency-go (1195★): TLS auditing, not AI
+- google/double-conversion (1195★): numeric conversion library, not AI
+- UiPath/CoreWF (1178★): Not related to AI tooling.
+- google/dawn (1178★): Graphics library unrelated to AI.
+- microsoft/AzureMonitorCommunity (1178★): Azure monitoring tool, no AI component.
+- openGemini/openGemini (1177★): General time-series DB without AI angle.
+- GoogleCloudPlatform/buildpacks (1170★): Non‑AI container tooling
+- TheThingsNetwork/lorawan-stack (1169★): IoT network server, no AI
+- Guru322/GURU-Ai (1168★): Purpose unclear
+- microsoft/clrmd (1168★): Non‑AI diagnostics library
+- Dao-AILab/quack (1176★): Not AI-related tool.
+- hoothin/SearchJumper (1176★): Browser extension without AI.
+- ameshkov/dnslookup (1172★): General CLI utility, no AI.
+- microsoft/vscode-codicons (1172★): Icon font, unrelated to AI.
+- junyanz/CatPapers (1167★): not AI-related
+- MarkMoHR/Awesome-Image-Colorization (1167★): not AI-related
+- TooTallNate/proxy-agents (1166★): not AI-related
+- datasets/covid-19 (1166★): not AI-related
+- Rishabh-creator601/Books (1165★): not AI-related
+- aws/aws-codebuild-docker-images (1165★): not AI-related
+- cloudflare/wirefilter (1165★): not AI-related
+- ncalc/ncalc (1163★): Non‑AI expression evaluator library.
+- omrilotan/isbot (1162★): Bot detection utility, not AI.
+- NVIDIA/cuda-quantum (1162★): Quantum programming, not AI tooling.
+- aws-samples/aws-security-reference-architecture-examples (1162★): AWS security templates, no AI component.
+- dungngminh/simutil (1189★): Generic device automation, not AI‑focused
+- aws/amazon-ssm-agent (1161★): Not AI-related
+- facebookresearch/meshrcnn (1161★): Not AI-related
+- chengtan9907/OpenSTL (1160★): Not AI-related
+- MIT-SPARK/VGGT-SLAM (1160★): Not AI-related
+- pytorch/cpuinfo (1189★): Not AI‑related library
+- intoli/user-agents (1186★): Generic user‑agent generator, no AI component
+- yejy53/Editable-Design (1186★): Unclear AI functionality, likely non‑AI tool
+- apple-aiml-research/ml-clara (1154★): No description or topics provided.
+- steven2358/awesome-blockchain-ai (1157★): Curated list, not a tool
+- jangles-byte/Pythia (1155★): Specific data service, not a general tool
+- zclucas/RMT (1151★): AutoHotkey macro tool, no AI.
+- google/wwwbasic (1151★): BASIC interpreter, unrelated to AI.
+- DataDog/integrations-core (1149★): Datadog integrations, not AI.
+- meta-pytorch/torchcodec (1186★): media encoding/decoding, not AI agent tooling
+- nzbdav-dev/nzbdav (1185★): Usenet streaming, no AI agent relevance
+- pypa/gh-action-pypi-publish (1184★): CI/CD automation, not AI-related
+- n8n-io/n8n-nodes-starter (1184★): n8n node template, not AI-specific
+- sheshbabu/zen (1183★): Self-hosted notes app, no AI agent relevance
+- rashakil-ds/Roadmap-Docs (1146★): Roadmap list, not a tool
+- cloudflare/hellogopher (1145★): Non-AI generic Go project template
+- rohitgandikota/sliders (1144★): Only a notebook demo, no reusable tool
+- local-inference-lab/rtx6kpro (1143★): Wiki documentation, not a code tool
+- microsoft/RecAI (1203★): LLM-recommender bridge, not agent-focused.
+- lessthanoptimal/BoofCV (1203★): Computer vision library, no AI agent focus.
+- pytorch/extension-cpp (1203★): PyTorch C++ extensions, not AI agent tooling.
+- auto-novel/auto-novel (1202★): Light novel translator, not AI agent tooling.
+- apple/swift-atomics (1202★): Concurrency primitives, unrelated to AI agents.
+- hanruihua/ir-sim (1146★): Robot simulator not fitting taxonomy.
+- aws/aws-lambda-runtime-interface-emulator (1141★): not AI-related
+- microsoft/PowerBI-JavaScript (1140★): not AI-related
+- EdinburghNLP/awesome-hallucination-detection (1139★): not a tool
+- marclou/mailcheap (1200★): Not AI-related
+- castorini/anserini (1200★): Not AI-related
+- microsoft/FeatureManagement-Dotnet (1181★): Feature flag library, no AI component.
+- currenjin/site-for-developers (1179★): Curated developer bookmark list, not AI tool.
+- garylab/MakeMoneyWithAI (1134★): SEO-style money-making list, deepfake topics concerning
+- ccfos/huatuo (1134★): eBPF kernel observability, not AI-specific tooling
+- duanyytop/agents-radar (1134★): News digest automation, not AI tooling or infrastructure
+- NVIDIA/libnvidia-container (1134★): General GPU container runtime, not AI-specific tooling
+- blackjax-devs/blackjax (1134★): Bayesian statistics library, not LLM or agent tooling
+- Azure/Azure-Functions (1125★): Not AI
+- ghostty-org/ghostling (1125★): Not AI
+- weihaox/GAN-Inversion (1125★): Awesome list
+- google/capslock (1183★): No AI-related content
+- pydata/bottleneck (1183★): General NumPy performance library
+- google-deepmind/synthid-text (1182★): Insufficient description to verify AI relevance
+- louiszengCN/CarlaAir (1116★): not AI-related
+- techtanic/Discounted-Udemy-Course-Enroller (1116★): not AI-related
+- sensu/sensu-go (1114★): not AI-related
+- aws-samples/aws-incident-response-playbooks (1114★): not AI-related
+- chAng-L19/codex-redteam-mode (1117★): Red teaming and hacking tool
+- grf-labs/grf (1117★): Generalized Random Forests
+- AlexSergey/rockpack (1112★): Boilerplate framework, not AI tooling.
+- rdi-berkeley/agents-last-exam (1112★): Insufficient info; not a usable AI tool.
+- AKCodez/hackingtool-plugin (1112★): Facilitates hacking; violates policy on malicious tools.
+- anthropics/oss-scanner (1112★): Security scanner unrelated to AI.
+- emil-e/rapidcheck (1112★): Property‑based testing library, not AI.
+- percona/pmm (1111★): Database monitoring tool, no AI component.
+- eszdman/PhotonCamera (1120★): Non-AI computational photography tool.
+- chirpstack/chirpstack (1120★): LoRaWAN network server, no AI tooling.
+- blueswen/fastapi-observability (1120★): Observability tools for FastAPI, no AI focus.
+- vigolium/vigolium (1120★): Vulnerability scanner, no AI agent or tooling.
+- oetiker/rrdtool-1.x (1120★): Time-series database, no AI relevance.
+- vivekkalyanarangan30/llm_from_scratch (1119★): Incomplete repo, no clear AI tooling or purpose.
+- google/crubit (1133★): generic C++ bindings, no AI
+- yksr-melt/Meltype (1133★): Japanese input tool, no AI
+- GoogleCloudPlatform/cloud-foundation-toolkit (1132★): GCP infrastructure toolkit, no AI
+- tuan3w/obsidian-template (1130★): Note-taking templates, no AI agent
+- stardustai/dataset-viewer (1100★): Dataset viewer UI, not core AI tool
+- microsoft/agentrc (1100★): Small repo‑setup script, limited AI relevance
+- antvis/Graphin (1099★): Graph visualization library, not AI‑related
+- microsoft/shell-intune-samples (1099★): Shell scripts for admin tasks, no AI
+- reaviz/reagraph (1097★): Graph visualization library
+- k8spacket/k8spacket (1097★): Kubernetes traffic visualization tool
+- microsoft/TimeCraft (1096★): Time series generation framework
+- buildkite/agent (1095★): Non-AI CI/CD tool
+- ludo-technologies/pyscn (1095★): Non-AI code analysis
+- Achuan-2/pandoc_docx_template (1094★): Non-AI template
+- google/transit (1090★): No description or topics
+- microsoft/mssql-jdbc (1136★): Database driver, not AI-related
+- awesome-gptX/awesome-gpt (1135★): Curated list, not a tool
+- Mexit/MultiOS-USB (1135★): Boot utility, unrelated to AI
+- leomaurodesenv/game-datasets (1135★): Dataset list, not an AI tool
+- dkorunic/betteralign (1088★): Non‑AI static analysis tool.
+- turkyden/lizhi (1085★): Music player, not AI tool.
+- intake/intake (1085★): General data library, no AI focus.
+- jf-tech/omniparser (1085★): Generic ETL parser, not AI.
+- KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub (1083★): Only a list of interview questions.
+- microsoft/go-winio (1083★): General OS utilities, unrelated to AI.
+- zhuyansen/new-term-radar (1079★): Generic AI term monitoring script
+- instructa/ai-prompts (1103★): generic prompt collection, no agent integration
+- danielrobbins/keychain (1102★): generic SSH/GPG manager, no AI angle
+- Kim-Hammar/awesome-rl-for-cybersecurity (1102★): awesome-list, not AI tooling or agent
+- Toni-SM/skrl (1101★): reinforcement learning library, no agent focus
+- aangelopoulos/conformal-prediction (1101★): uncertainty estimation, not agent tooling
+- flopperam/unreal-engine-mcp (1101★): deprecated, moved to Aura (no active MCP)
+- memflow/memflow (1108★): not AI-related
+- google/cluster-data (1108★): not AI-related
+- Tencent/hel (1108★): not AI-related
+- chrisbanes/skills (1107★): not AI-related
+- fraunhoferportugal/tsfel (1107★): not AI-specific library
+- geek-fun/dockit (1142★): Generic database GUI, no AI agent angle.
+- souravkl11/raganork-md (1142★): Generic WhatsApp bot framework, no AI agent relevance.
+- arianrhodsandlot/retroassembly (1142★): Retro gaming emulator, unrelated to AI agents.
+- wandb/weave (1142★): AI application development toolkit, too generic and unclear AI-agent focus.
+- Lightricks/Kintsugi (1071★): not AI-related
+- microsoft/msix-packaging (1071★): not AI-related
+- GoogleCloudPlatform/k8s-config-connector (1070★): not AI-related
+- google/fuzztest (1064★): Non-AI tool
+- google/quiver-dart (1064★): Non-AI tool
+- NVIDIA/cuopt (1064★): Non-AI tool
+- salesforce/tough-cookie (1064★): Non-AI tool
+- childrentime/reactuse (1063★): Non-AI tool
+- harmonycloud/kindling (1063★): Non-AI tool
+- aws/aws-graviton-getting-started (1063★): Non-AI tool
+- legeling/awesome-codex-pet (1129★): Curated list of desktop pets rather than AI tooling.
+- OpenExoplanetCatalogue/open_exoplanet_catalogue (1129★): Scientific dataset for astronomy with no AI angle.
+- 3641397194-wq/gpt6-Astra (1127★): Jailbreak/prompt injection dump
+- aws/pgactive (1111★): Not AI‑related tool or library
+- abshare/abshare.github.io (1108★): Provides VPN/proxy lists, not AI tooling
+- Tencent/WeSmartFlow (1061★): Not AI-related
+- Pokee-AI/PokeeResearchOSS (1077★): Insufficient AI tooling focus
+- bashtage/linearmodels (1077★): Not AI-related
+- microsoft/bf-tree (1076★): Not AI-related
+- bytedance/SandboxFusion (1075★): no AI or agent tooling
+- microsoft/Zoomit-Mac (1075★): general MacOS utility, no AI
+- Devinterview-io/llms-interview-questions (1074★): interview questions, not AI tooling
+- ZhengYinan-AIR/Diffusion-Planner (1074★): autonomous driving research, no agent tooling
+- google/agi (1073★): GPU profiler, not AI tooling
+- RL-VIG/LibFewShot (1071★): few-shot learning library, no agent tooling
+- CellProfiler/CellProfiler (1139★): not AI-related
+- alibaba/f2e-spec (1138★): not AI-related
+- Junyi-99/ChatGPT-API-Scanner (1137★): spam or SEO repo
+- cloudflare/forge (1137★): no README substance
+- jarrodwatts/claude-code-config (1062★): personal config, not a tool
+- pgplex/pgschema (1062★): database migration, no AI
+- apple/security-pcc (1062★): non-AI product
+- aws/aws-iot-device-sdk-embedded-C (1062★): non-AI SDK
+- X-LANCE/SLAM-LLM (1067★): broad audio processing, not AI agent-focused
+- google/jaxopt (1067★): optimization library, not AI agent tooling
+- doccker/cc-use-exp (1066★): deprecated, no longer maintained
+- google-research/morph-net (1042★): Research implementation, not a general AI tool
+- NVIDIA/cuda-tile (1042★): Low‑level CUDA compiler, not AI‑specific
+- kijai/ComfyUI-Hunyuan3DWrapper (1046★): No description
+- lillian039/ELF (1045★): No description
+- apple/servicetalk (1044★): Not AI-related
+- dropseed/plain (1044★): Not AI-related
+- AlexandrosGounis/pdfx (1079★): PDF viewer without AI features
+- awslabs/shuttle (1079★): Concurrency testing library, not AI
+- NVIDIA/jetson-gpio (1079★): GPIO hardware control, not AI tooling
+- azooKey/azooKey-Desktop (1078★): IME with optional LLM, not core AI tooling
+- Lazarus-AI/clearwing (1077★): Empty description, cannot determine purpose
+- PreferredAI/cornac (1057★): not AI-related
+- pytorch/benchmark (1054★): not AI-related
+- awslabs/aws-icons-for-plantuml (1053★): not AI-related
+- microsoft/testfx (1053★): not AI-related
+- benedekrozemberczki/awesome-gradient-boosting-papers (1053★): Curated list, not a tool.
+- microsoft/vscode-vsce (1052★): VS Code extension manager, not AI.
+- bigdatagenomics/adam (1060★): Genomics platform, no AI component.
+- star23/Day1Global-Skills (1059★): Finance skill list, not AI tool.
+- intel/isa-l (1104★): Non-AI storage acceleration library
+- mikesart/gpuvis (1029★): GPU trace visualizer, not AI-related
+- TutteInstitute/datamapplot (1028★): Data map plotting tool, not AI-related
+- google-deepmind/tree (1026★): Non-AI library
+- google/kati (1025★): Non-AI tool
+- alibaba/taokeeper (1041★): ZooKeeper monitor, no AI component
+- pytorch/tensordict (1041★): Generic PyTorch tensor container, not AI-specific
+- google/ml_collections (1036★): not AI-related
+- Tencent/tdesign-vue-next-starter (1036★): not AI-related
+- microsoft/avml (1124★): not AI related
+- bishwaghimire/ai-learning-roadmaps (1122★): general AI learning resources, not tooling
+- Haleclipse/Claudix (1122★): VS Code extension, no agent tooling
+- cloudflare/workers-chat-demo (1122★): generic Cloudflare demo, no AI agent
+- red-data-tools/pycall.rb (1121★): language bridge, no AI tooling
+- GoogleCloudPlatform/php-docs-samples (1049★): General cloud samples, not AI
+- Robbyant/lingbot-vla-v2 (1049★): Unclear AI relevance, likely generic code
+- google/fscrypt (1038★): filesystem encryption, not AI-related
+- rl-tools/rl-tools (1037★): reinforcement learning library, not agent-focused
+- google/tsunami-security-scanner-plugins (1022★): Security scanner plugins, no AI component
+- huawei-noah/noah-research (1013★): Insufficient AI relevance details
+- microsoft/qdk (1022★): quantum development kit, not AI
+- vercel/fun (1022★): generic serverless runtime, no AI
+- NVIDIA/cudf-spark (1011★): Not AI-related, GPU Spark plugin
+- GoogleCloudPlatform/open-knowledge-format (1006★): No description or topics
+- microsoft/BuildXL (1020★): Not AI‑related build tool
+- Tencent/TencentKona-8 (1005★): Java distribution, not AI tooling
+- vercel-labs/web-interface-guidelines (1005★): Web design guidelines, not AI
+- google/go-licenses (1018★): Not AI-related
+- inngest/inngest-js (1016★): Not AI-related
+- microsoft/WindowsAppSDK-Samples (1016★): Not AI-related
+- microsoft/uf2 (1040★): file format specification, not AI
+- microsoft/vs-threading (1040★): threading library, unrelated to AI
+- inspatio/inspatio-world (1039★): insufficient AI relevance
+- Tencent/tdesign-vue (1033★): UI component library, no AI
+- apple/swift-http-types (1032★): General HTTP types library, not AI
+- zatosource/zato (1016★): not AI-related
+- google-research/inksight (1014★): insufficient information
+- intel/xess (1014★): not AI-related
+- apple-aiml-research/ml-simplefold (1000★): Insufficient information to confirm AI relevance
+- firecmsco/firecms (1281★): Non-AI CMS, unrelated to AI tooling
+- web-infra-dev/rsdoctor (1147★): Build analyzer, no AI functionality
+- scaleway/scaleway-cli (1013★): CLI for cloud provider, not AI
+- ohmyzsh/ohmyzsh (190066★): Shell configuration framework, no AI component.
+- jackfrued/Python-100-Days (187273★): Learning resource for Python, not AI tooling.
+- flutter/flutter (180263★): UI framework, unrelated to AI.
+- github/gitignore (175980★): Collection of .gitignore templates, no AI.
+- twbs/bootstrap (174929★): CSS/HTML framework, not AI-related.
+- airbnb/javascript (148061★): Style guide for JavaScript, no AI content.
+- ytdl-org/youtube-dl (141320★): Video downloader, not AI tooling.
+- golang/go (139301★): Programming language implementation, unrelated to AI.
+- labuladong/fucking-algorithm (135923★): Algorithm study notes, no AI focus.
+- react/react-native (126701★): Mobile app framework, not AI-related.
+- firebase/firebase-tools (4475★): not AI-related
+- tolgee/tolgee-platform (4132★): not AI-related
+- revolist/revogrid (3450★): not AI-related
+- Anil-matcha/awesome-open-source-saas-alternatives (3408★): not AI-related
+- linq2db/linq2db (3334★): not AI-related
+- medplum/medplum (2749★): not AI-related
+- nteract/semiotic (2716★): not AI-related
+- Checkmk/checkmk (2597★): not AI-related
+- usertour/usertour (2323★): not AI-related
+- NuGet/Home (1555★): Package manager tooling, not AI
+- rzru/nightingale (1502★): End‑user app, not a developer tool
+- measure-sh/measure (1412★): APM tool, not AI
+- nrwl/nx-console (1412★): Developer UI, not AI
+- anypost/emailmd (1381★): Markdown to email HTML, not AI
+- dongdongbh/Mindwtr (2280★): not AI-related
+- betterleaks/betterleaks (2258★): security tool, not AI
+- Emanuele-web04/synara (2117★): insufficient information
+- Billionmail/BillionMail (15925★): Not AI-related email server
+- fastrepl/anarlog (9526★): Unclear AI purpose, appears generic app
+- CarterPerez-dev/Cybersecurity-Projects (8311★): Educational list, not a tool
+- MystenLabs/sui (7778★): Blockchain platform, no AI component
+- Countly/countly-server (5918★): Analytics platform, not core AI tooling
+- jgraph/drawio-mcp (5655★): No AI indication, insufficient info
+- ProtonMail/WebClients (5640★): Email client suite, not AI
+- electron/electron (123380★): General desktop framework, no AI component.
+- justjavac/free-programming-books-zh_CN (119256★): Curated book list, not AI tooling.
+- immich-app/immich (116548★): Photo manager app, not core AI tool.
+- binhnguyennus/awesome-scalability (74807★): Awesome list, not AI-related.
+- HeyPuter/puter (43803★): Web desktop OS, unrelated to AI.
+- photoprism/photoprism (40318★): AI photo app, but not developer tooling.
+- projectdiscovery/nuclei (32105★): Vulnerability scanner, unrelated to AI.
+- compiler-explorer/compiler-explorer (19139★): Compiler web UI, no AI functionality.
+- openimsdk/open-im-server (16701★): Chat server, lacks AI features.

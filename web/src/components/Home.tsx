@@ -11,7 +11,9 @@ import {
 
 export function Home() {
   const data = useData();
-  useEffect(() => { document.title = "Awesome AI Agent Stack: 3,000+ open-source AI agent tools, ranked by stars"; }, []);
+  useEffect(() => {
+    if (data) document.title = `Awesome AI Agent Stack: ${Math.floor(data.total / 1000).toLocaleString()},000+ open-source AI agent tools, ranked by stars`;
+  }, [data]);
   if (!data) return <div className="px-8 py-16 text-muted">Loading…</div>;
   return <HomeContent data={data} />;
 }
