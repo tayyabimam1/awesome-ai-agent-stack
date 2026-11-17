@@ -901,6 +901,7 @@
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud-native agentic AI framework for Kubernetes.
 - [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source AI cybersecurity harness to build & deploy continuous security agents that find, prove, fix and monitor vulnerabilities.
 - [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop.
+- [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) - The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.
 
 ## Memory & Persistent Context
 
