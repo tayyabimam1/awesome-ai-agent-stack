@@ -18,7 +18,7 @@ const fallbackLong = `${sec.title}: ${sec.count} open-source tools, ranked by Gi
   `\n\nFull list: ${url}\nAll ${data.total.toLocaleString('en-US')} tools: ${SITE}`;
 
 let short = fallbackShort, long = fallbackLong, source = 'template';
-try {
+for (let attempt = 0; attempt < 3 && source === 'template'; attempt++) try {   // free gateways fail now and then
   const res = await this.helpers.httpRequest({
     method: 'POST', url: $env.FREELLMAPI_URL + '/chat/completions', json: true, timeout: 120000,
     headers: { Authorization: 'Bearer ' + $env.FREELLMAPI_KEY },
