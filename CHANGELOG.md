@@ -2,6 +2,17 @@
 
 All notable changes to the Awesome AI Agent Stack are documented here.
 
+## [2026.11.17] - 2026-11-17
+
+### Added
+
+- 2,634 tools, taking the list from 3,476 to 6,110 repositories. Each has 1,000+ stars and a push in the last 12 months, was kept in the same category by two separate judge runs, and shows an AI signal in its own name, description or topics.
+- `workspace/swarm/`, the scripts behind this expansion.
+
+### Changed
+
+- Star counts added for every new repository.
+
 ## [2026.11.16] - 2026-11-16
 
 ### Added
