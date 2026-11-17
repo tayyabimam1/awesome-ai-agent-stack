@@ -1556,7 +1556,6 @@
 - [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) - A multi-agent framework for text-to-CAD generation using constrained test-time compute.
 - [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) - Agentic operating system for coordinating AI agent swarms and workflows.
 - [Emiyaaaaa/HiveMind](https://github.com/Emiyaaaaa/HiveMind) - Python runtime layer for multi-agent systems with persistent state and orchestration.
-- [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) - Self-hosted multi-agent orchestration engine with multiple harnesses for teams.
 - [xvirobotics/metabot](https://github.com/xvirobotics/metabot) - Infrastructure for supervised, self-improving agent organizations with shared memory and mobile access.
 
 **Visual & low-code builders**
@@ -1657,7 +1656,7 @@
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud-native agentic AI framework for Kubernetes.
 - [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source AI cybersecurity harness to build & deploy continuous security agents that find, prove, fix and monitor vulnerabilities.
 - [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop.
-- [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) - The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.
+- [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) - Self-hosted multi-agent orchestration engine with multiple harnesses for teams.
 
 ## Memory & Persistent Context
 
@@ -3818,6 +3817,7 @@
 - [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) - Agentic AI security tool for proactive source code analysis.
 - [mrwadams/stride-gpt](https://github.com/mrwadams/stride-gpt) - An AI-powered threat modeling tool based on the STRIDE methodology.
 - [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide) - Comprehensive guide to adversarial testing and security evaluation of AI systems.
+- [s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode) - Multi-agent penetration testing system with persistent engagement state and parallel agents.
 
 **Fairness & governance**
 
@@ -6137,6 +6137,7 @@
 - [NeuroAIHub/BrainPilot](https://github.com/NeuroAIHub/BrainPilot) - Automates brain discovery research using agentic AI workflows.
 - [asreview/asreview](https://github.com/asreview/asreview) - Active learning tool for accelerating systematic literature reviews.
 - [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw) - Self-evolving AI agents for scientific research with verifiable skill growth.
+- [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) - Multi-agent framework for automated AI research paper writing.
 
 **Deep research agents**
 
