@@ -1657,6 +1657,8 @@
 - [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source AI cybersecurity harness to build & deploy continuous security agents that find, prove, fix and monitor vulnerabilities.
 - [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop.
 - [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) - Self-hosted multi-agent orchestration engine with multiple harnesses for teams.
+- [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, programmable component-based rule engine — where AI Agents orchestrate just like ordinary components.
+- [Roy3838/Observer](https://github.com/Roy3838/Observer) - The micro-agent orchestrator that monitors anything for you. Running completely locally. Open Source.
 
 ## Memory & Persistent Context
 
@@ -6931,6 +6933,7 @@
 - [jiahaoli57/Call-for-Reviewers](https://github.com/jiahaoli57/Call-for-Reviewers) - Aggregates 'call for reviewers' links from top CS/ML/AI conferences.
 - [shaypal5/awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data) - A list of Twitter datasets and related resources.
 - [AxiomeCG/awesome-threejs](https://github.com/AxiomeCG/awesome-threejs) - Curated list of ThreeJS resources for creative coding and generative graphics.
+- [reacher-z/Awesome-CUA](https://github.com/reacher-z/Awesome-CUA) - Open, source-backed catalog of computer-use agents: reviewed papers, GUI models, datasets, benchmarks, tools, and reusable data.
 
 ## Contributing
 
