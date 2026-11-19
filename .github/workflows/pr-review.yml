@@ -1,8 +1,9 @@
 name: AI PR review
 
-# The moment a PR is opened or reopened (forks included), review the diff with
-# the team's FreeLLMAPI gateway and post the verdict as a PR comment.
-# Comments only — it never approves, requests changes formally, or merges.
+# The moment a PR is opened, reopened, or amended (forks included), review
+# the diff with the team's FreeLLMAPI gateway and post the verdict as a PR
+# comment. Comments only — it never approves, requests changes formally, or
+# merges.
 #
 # Config lives in repo Settings → Secrets and variables → Actions (nothing
 # sensitive is committed to this repo):
@@ -12,9 +13,12 @@ name: AI PR review
 #     (override with the REVIEW_MODEL variable if you want a specific one).
 #
 # Quota guardrails:
-# - fires on opened/reopened only, never on every push; skips drafts and bots;
+# - fires on opened/reopened/synchronize (a push/amend re-reviews the new
+#   diff and REPLACES the previous automated comment, so there is still
+#   exactly one review per PR and it never goes stale); skips drafts and bots;
 # - monthly review budget tracked in .github/pr-review-budget.json
-#   (default 30, set REVIEW_MONTHLY_LIMIT repo variable to change).
+#   (default 30, set REVIEW_MONTHLY_LIMIT repo variable to change) — each
+#   posted review, including a re-review, spends one unit.
 # - Settings kill-switch: set the PR_REVIEW_ENABLED repo variable to "false"
 #   to turn the reviewer off.
 #
@@ -23,7 +27,7 @@ name: AI PR review
 # branch and the diff is only ever sent to the LLM as data.
 on:
   pull_request_target:
-    types: [opened, reopened]
+    types: [opened, reopened, synchronize]
   workflow_dispatch:
     inputs:
       pr:
@@ -50,5 +54,6 @@ jobs:
           FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
           FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
           REVIEW_MODEL: ${{ vars.REVIEW_MODEL }}
+          REVIEW_UPDATE: ${{ github.event.action == 'synchronize' || github.event_name == 'workflow_dispatch' }}
           PR_NUMBER: ${{ github.event.inputs.pr || github.event.pull_request.number }}
         run: python scripts/pr_review.py

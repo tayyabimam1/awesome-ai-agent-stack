@@ -2,7 +2,7 @@
 """Instant AI review for pull requests, posted as a PR comment.
 
 Triggered by .github/workflows/pr-review.yml on pull_request_target
-(opened/reopened). The model backend is switchable:
+(opened/reopened/synchronize). The model backend is switchable:
 
 - github (default): GitHub Models — free for every repo, no API keys at all.
   Uses the workflow's own GITHUB_TOKEN with `models: read` permission.
@@ -18,10 +18,28 @@ Select with env REVIEW_BACKEND=github|freellmapi|meta. Needs PR_NUMBER too.
 Comments only — never approves, never requests changes formally, never merges.
 The PR diff is treated as data under review, never as instructions.
 
+For README entry additions the bar is checked against LIVE GitHub data, not
+the model's guess: every added `owner/repo` is fetched via the GitHub API
+(stars, archived, fork, pushed_at) and the numbers are injected into the
+prompt. If any added repo is below 1,000 stars, archived, a fork, or not
+pushed in the last 12 months (or the repo no longer exists), the verdict is
+forced to "needs changes" in the script itself, whatever the model said.
+That is what stops another #212 (20 stars) or #214 (258 stars) getting a
+"looks good to merge".
+
+Re-review: the workflow also fires on `synchronize` (push/amend) and on
+manual dispatch, with REVIEW_UPDATE=true. In that mode the script deletes
+its previous automated review comment and posts one fresh comment, so a PR
+still has exactly one automated review at any time and the review never goes
+stale after a force-push. Plain opened/reopened runs keep the old behaviour
+(skip when a review already exists).
+
 Quota guardrails (the backend may be a small free-tier deployment):
-- Only reviews PRs opened/reopened (not every push), skips drafts and bots.
+- Only reviews PRs opened/reopened/amended (not every push to main), skips
+  drafts and bots.
 - Monthly budget in .github/pr-review-budget.json (default 30, via
-  REVIEW_MONTHLY_LIMIT); skips quietly when exhausted.
+  REVIEW_MONTHLY_LIMIT); skips quietly when exhausted. Each posted review
+  (including a re-review) spends one unit.
 
 Repo-agnostic: owner/repo come from GITHUB_REPOSITORY, so the same two files
 (.github/workflows/pr-review.yml + this script) drop into any repo.
@@ -30,6 +48,7 @@ import base64
 import datetime
 import json
 import os
+import re
 import subprocess
 import time
 import urllib.request
@@ -41,6 +60,16 @@ META_URL = "https://api.meta.ai/v1"
 MARKER_TEXT = "Automated review, posted by the repo owner's assistant"
 MAX_DIFF = 40000
 BUDGET_PATH = ".github/pr-review-budget.json"
+MIN_STARS = 1000
+MAX_PUSH_AGE_DAYS = 365
+MAX_REVIEW_WORDS = 500
+# Added README entry lines in a unified diff: `+- [owner/repo](url) - ...`
+ENTRY_RE = re.compile(
+    r"^\s*-\s*\[([A-Za-z0-9_.\-]+/[A-Za-z0-9_.\-]+)\]"
+    r"\(https://github\.com/[^)]+\)")
+VERDICT_RE = re.compile(
+    r"\*\*Verdict:\s*(?:looks good to merge|needs changes)\s*\*\*",
+    re.IGNORECASE)
 
 
 def sh(*args, stdin_text=None):
@@ -49,9 +78,171 @@ def sh(*args, stdin_text=None):
                           input=stdin_text)
 
 
+def parse_added_readme_entries(diff):
+    """Added `owner/repo` entries from the README.md hunks of a unified diff.
+
+    Only lines added under a `+++ b/README.md` file section count, so the
+    `+++` header lines and other files' additions are ignored. Order is
+    preserved, duplicates removed.
+    """
+    entries = []
+    in_readme = False
+    for line in (diff or "").splitlines():
+        if line.startswith("+++ "):
+            in_readme = line.strip() == "+++ b/README.md"
+            continue
+        if line.startswith("diff --git "):
+            in_readme = False
+            continue
+        if not in_readme:
+            continue
+        if not line.startswith("+") or line.startswith("+++"):
+            continue
+        m = ENTRY_RE.match(line[1:])
+        if m and m.group(1) not in entries:
+            entries.append(m.group(1))
+    return entries
+
+
+def fetch_repo_stats(full_name):
+    """Live repo stats via the GitHub API. Returns a dict, or None when the
+    repo cannot be fetched (404 = deleted/renamed/private, or API error)."""
+    r = sh("gh", "api", f"repos/{full_name}")
+    if r.returncode != 0:
+        print(f"Could not fetch stats for {full_name} "
+              f"(gh api exit {r.returncode}): {r.stderr.strip()[:200]}")
+        return None
+    try:
+        data = json.loads(r.stdout or "{}")
+    except ValueError:
+        print(f"Could not parse stats for {full_name}.")
+        return None
+    if not isinstance(data, dict) or "stargazers_count" not in data:
+        print(f"No usable stats returned for {full_name}.")
+        return None
+    return {
+        "full_name": full_name,
+        "stars": int(data.get("stargazers_count", 0)),
+        "archived": bool(data.get("archived")),
+        "fork": bool(data.get("fork")),
+        "pushed_at": data.get("pushed_at") or "",
+    }
+
+
+def check_added_repos(entries):
+    """Fetch live stats for each added entry and check the 1,000-star bar.
+
+    Returns (stats, failures): stats is a list of per-repo dicts (with
+    "missing": True for repos the API could not find); failures is a list of
+    human-readable bar-failure strings (empty when everything passes).
+    """
+    stats = []
+    failures = []
+    now = datetime.datetime.now(datetime.timezone.utc)
+    for name in entries:
+        s = fetch_repo_stats(name)
+        if s is None:
+            stats.append({"full_name": name, "missing": True})
+            failures.append(
+                f"{name} — could not be found via the GitHub API "
+                f"(deleted, renamed, or private).")
+            continue
+        s["missing"] = False
+        stats.append(s)
+        if s["stars"] < MIN_STARS:
+            failures.append(
+                f"{name} — only {s['stars']:,} stars "
+                f"(bar is {MIN_STARS:,}+).")
+        if s["archived"]:
+            failures.append(f"{name} — archived.")
+        if s["fork"]:
+            failures.append(f"{name} — is a fork.")
+        pushed = s["pushed_at"]
+        try:
+            pushed_dt = datetime.datetime.fromisoformat(
+                pushed.replace("Z", "+00:00"))
+            age_days = (now - pushed_dt).days
+        except (ValueError, TypeError):
+            age_days = None
+        if age_days is None:
+            failures.append(f"{name} — last-push date unknown.")
+        elif age_days > MAX_PUSH_AGE_DAYS:
+            failures.append(
+                f"{name} — last pushed {pushed[:10]} "
+                f"({age_days} days ago, bar is {MAX_PUSH_AGE_DAYS} days).")
+    return stats, failures
+
+
+def stats_table(stats):
+    """Markdown table of the verified live stats, for prompt and comment."""
+    rows = ["| Repo | Stars | Archived | Fork | Last push |",
+            "|---|---|---|---|---|"]
+    for s in stats:
+        if s.get("missing"):
+            rows.append(f"| {s['full_name']} | not found | — | — | — |")
+        else:
+            rows.append(
+                f"| {s['full_name']} | {s['stars']:,} | "
+                f"{'yes' if s['archived'] else 'no'} | "
+                f"{'yes' if s['fork'] else 'no'} | "
+                f"{(s['pushed_at'] or 'unknown')[:10]} |")
+    return "\n".join(rows)
+
+
+def enforce_verdict(review, stats, failures):
+    """Force 'needs changes' when the live bar check failed, citing the stats.
+
+    Replaces whatever verdict line the model wrote, and inserts the verified
+    stats table plus the failure list right after the verdict line so the
+    reason is visible before the model's own reasoning.
+    """
+    if VERDICT_RE.search(review):
+        review = VERDICT_RE.sub("**Verdict: needs changes**", review, count=1)
+    else:
+        review = "**Verdict: needs changes**\n\n" + review
+    insert = (
+        "\n\n**Verified repo stats (checked live via the GitHub API):**\n\n"
+        + stats_table(stats)
+        + "\n\n**Bar failures (list bar: 1,000+ stars, not archived, not a "
+        "fork, pushed in the last 12 months):**\n"
+        + "\n".join(f"- {f}" for f in failures)
+        + "\n")
+    first, sep, rest = review.partition("\n")
+    return first + insert + (sep + rest if sep else "")
+
+
+def automated_comment_ids(pr):
+    """IDs of this script's earlier review comments on the PR (usually 0-1)."""
+    r = sh("gh", "api", f"repos/{OWNER}/{REPO}/issues/{pr}/comments",
+           "--paginate")
+    try:
+        comments = json.loads(r.stdout or "[]")
+    except ValueError:
+        return []
+    if not isinstance(comments, list):
+        return []
+    return [c.get("id") for c in comments
+            if isinstance(c, dict) and MARKER_TEXT in (c.get("body") or "")
+            and c.get("id") is not None]
+
+
+def delete_comments(ids, pr):
+    """Delete prior automated review comments (best effort)."""
+    for cid in ids:
+        r = sh("gh", "api", f"repos/{OWNER}/{REPO}/issues/comments/{cid}",
+               "--method", "DELETE")
+        if r.returncode == 0:
+            print(f"Deleted prior automated review comment {cid} "
+                  f"on PR #{pr} (re-review).")
+        else:
+            print(f"Warning: could not delete prior review comment {cid}: "
+                  f"{r.stderr.strip()[:200]}")
+
+
 def main() -> None:
     pr = os.environ.get("PR_NUMBER", "").strip()
     backend = os.environ.get("REVIEW_BACKEND", "github").strip().lower()
+    update = os.environ.get("REVIEW_UPDATE", "").strip().lower() == "true"
     if backend == "meta":
         key = os.environ.get("META_API_KEY", "").strip()
         base_url = META_URL
@@ -88,10 +279,12 @@ def main() -> None:
 
     repo_flag = ["-R", f"{OWNER}/{REPO}"]
 
-    # One review per PR: skip if an automated review is already posted.
-    bodies = sh("gh", "api", f"repos/{OWNER}/{REPO}/issues/{pr}/comments",
-                "--paginate", "-q", ".[].body").stdout
-    if MARKER_TEXT in bodies:
+    # One review per PR: skip if an automated review is already posted,
+    # unless this is an update run (synchronize / manual re-review), in
+    # which case the old comment is replaced below, after the new review
+    # has been generated — so a failed re-review never leaves the PR bare.
+    prior_ids = automated_comment_ids(pr)
+    if prior_ids and not update:
         print(f"PR #{pr} already has an automated review — skipping.")
         return
 
@@ -115,6 +308,26 @@ def main() -> None:
     if truncated:
         diff = diff[:MAX_DIFF]
 
+    # Live bar check for added README entries (the fix for #212 / #214).
+    entries = parse_added_readme_entries(diff)
+    stats, failures = ([], [])
+    stats_section = ""
+    if entries:
+        print(f"Added README entries: {', '.join(entries)}")
+        stats, failures = check_added_repos(entries)
+        stats_section = (
+            "\n\nVerified repo statistics (fetched live from the GitHub API "
+            "for this review — use these exact numbers, do not invent others):\n"
+            + stats_table(stats) + "\n"
+            + ("Bar failures found by the live check:\n"
+               + "\n".join(f"- {f}" for f in failures) + "\n"
+               if failures else
+               "All added repos pass the live bar check "
+               "(1,000+ stars, not archived, not a fork, pushed in the last "
+               "12 months).\n"))
+        if failures:
+            print("Live bar check FAILED: " + "; ".join(failures))
+
     prompt = (
         f"You are reviewing a pull request on {OWNER}/{REPO}. "
         "If it looks like a curated awesome-list of AI agent tools (mostly README.md entries), "
@@ -127,13 +340,14 @@ def main() -> None:
         f"{'; truncated, showing first 40k chars' if truncated else ''}):\n```\n{diff}\n```\n\n"
         "Review rules for README entry additions (the common case):\n"
         "- Does each added repo look real and healthy (not archived, recently active)? "
-        "Judge from the name/description; flag anything dead or off-theme.\n"
+        "Use the verified statistics table below — never guess stars or dates.\n"
         "- Is it on-theme for an AI agent stack (agents, LLMs, frameworks, tools, infra — not generic dev tools)?\n"
         "- Is the entry format `- [owner/repo](https://github.com/owner/repo) - Description.` "
         "and placed in a sensible section?\n"
         "- Flag anything suspicious (typo-squatted names, placeholder descriptions).\n"
         "For code/workflow/site changes: check correctness and safety; flag anything "
         "destructive or secret-leaking.\n\n"
+        f"{stats_section}"
         "Reply in Markdown with this exact structure:\n"
         "1. One verdict line: **Verdict: looks good to merge** OR **Verdict: needs changes**\n"
         "2. A **Why** section that ALWAYS appears and explains the reasoning behind the verdict, "
@@ -146,7 +360,11 @@ def main() -> None:
         "3. A **Findings** bullet list of anything that should be fixed or double-checked (write "
         "'Nothing to flag.' if there is genuinely nothing).\n"
         "Be specific and concrete: quote the entry or line you are judging and say what you based the "
-        "judgment on. Do not invent repo statistics (stars, dates) you cannot see in the PR text or diff."
+        "judgment on. Use only the verified statistics in the table above for stars and dates — "
+        "never invent repo statistics. If the table lists a bar failure for an entry, the verdict "
+        "must be needs changes.\n"
+        f"Keep the whole review short: about {MAX_REVIEW_WORDS} words maximum, "
+        "a few lines per entry in Why, no essays."
     )
 
     req = urllib.request.Request(
@@ -164,6 +382,15 @@ def main() -> None:
     except Exception as e:  # gateway still unreachable after retries: skip quietly
         print(f"LLM call failed after retries ({e}) — skipping comment.")
         return
+
+    # Deterministic bar enforcement: a live bar failure overrides the model.
+    if failures:
+        review = enforce_verdict(review, stats, failures)
+        print("Verdict forced to needs changes by the live bar check.")
+
+    # Replace the old review only now that the new one exists.
+    if prior_ids and update:
+        delete_comments(prior_ids, pr)
 
     body = f"_{MARKER_TEXT} — not a manual review._\n\n{review}"
     with open("review.md", "w", encoding="utf-8") as fh:
