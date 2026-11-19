@@ -985,6 +985,7 @@
 - [limingrui679-design/high-stakes-analytics-decision-lab](https://github.com/limingrui679-design/high-stakes-analytics-decision-lab) - A platform-neutral analytical skill for high-stakes decisions.
 - [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb) - Injects taste into AI workflows to stop agents from generating boring, AI slop.
 - [icebird1998/scientific-illustrator](https://github.com/icebird1998/scientific-illustrator) - Create editable scientific figures in PowerPoint and draw.io via Codex and MCP with quality gates.
+- [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step.
 
 **Hooks, status lines & usage tracking**
 
@@ -2908,6 +2909,7 @@
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - Simple, lean service bus implementation for .NET.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Flexible workload orchestrator for containers and batch jobs.
 - [wenfxl/openai-cpa](https://github.com/wenfxl/openai-cpa) - Enterprise Distributed Automation Platform for massive concurrent workload execution.
+- [trypostit/trypost](https://github.com/trypostit/trypost) - Open-source social media scheduler built for AI agents — create, schedule and publish posts to every network through MCP or the REST API.
 
 **BPM & process engines**
 
@@ -5340,6 +5342,7 @@
 - [JMAN730/opendroid](https://github.com/JMAN730/opendroid) - A self-planning AI assistant for Android with screen automation.
 - [agents-io/PokeClaw](https://github.com/agents-io/PokeClaw) - On-device AI agent that controls an Android phone using local models.
 - [suyiiyii/AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI) - Web GUI for AutoGLM to automate Android device operations.
+- [HKUDS/PhoneGo](https://github.com/HKUDS/PhoneGo) - Personal AI agent on your phone — describe a task in natural language and it opens and operates the right apps, then reports back.
 
 **Benchmarks & environments**
 
@@ -6326,6 +6329,7 @@
 - [worm128/AI-YinMei](https://github.com/worm128/AI-YinMei) - AI vtuber and desktop pet agent with voice interaction.
 - [SterlingChin/marvin-template](https://github.com/SterlingChin/marvin-template) - Personal AI assistant template that connects to apps and handles daily tasks.
 - [death34018-hue/AionsHome](https://github.com/death34018-hue/AionsHome) - Self-hosted AI companion with long-term memory, voice, camera vision, and smart home integration.
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer — a free, open-source alternative to Granola for Mac, Windows and Linux.
 
 **Second brain & knowledge**
 
