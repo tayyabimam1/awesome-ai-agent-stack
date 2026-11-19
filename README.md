@@ -3881,6 +3881,7 @@
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review tool for the Linux kernel and other critical systems software.
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AI-powered, provider-agnostic code review tool.
 - [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - AI-first quality intelligence platform for automated testing and code review.
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - A Claude Code plugin that draws a live map of agent work: every tool call, model step, hook and skill, beside the chat.
 
 ## Production Architectures & Reference Systems
 
