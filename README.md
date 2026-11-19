@@ -2353,6 +2353,8 @@
 - [microsoft/work-iq](https://github.com/microsoft/work-iq) - An MCP server and CLI for querying Microsoft Work IQ data.
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) - MCP server for creating and modifying Google Sheets and Drive files.
 
+- [aleksandrjefimov4-crypto/cheapcarent-mcp](https://github.com/aleksandrjefimov4-crypto/cheapcarent-mcp) - Read-only MCP server to search car rental offers and list pickup locations.
+
 **Creative & app-control servers**
 
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - v0-style UI component generation inside your editor.
