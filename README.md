@@ -3884,6 +3884,7 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AI-powered, provider-agnostic code review tool.
 - [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - AI-first quality intelligence platform for automated testing and code review.
 - [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - A Claude Code plugin that draws a live map of agent work: every tool call, model step, hook and skill, beside the chat.
+- [editmamei/editmamei](https://github.com/editmamei/editmamei) - MCP server for editing images in Photoshop and GIMP.
 
 ## Production Architectures & Reference Systems
 
