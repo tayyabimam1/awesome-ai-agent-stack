@@ -1476,6 +1476,7 @@
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Go library for building AI agents with multiple providers.
 - [agents-flex/agents-flex](https://github.com/agents-flex/agents-flex) - A lightweight Java AI agent development framework with RAG, MCP, and skills support.
 - [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) - Java platform for adding agents to existing enterprise systems such as OA, ERP, and CRM.
+- [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, programmable component-based rule engine — where AI Agents orchestrate just like ordinary components.
 
 **Multi-agent systems**
 
@@ -1557,6 +1558,7 @@
 - [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) - Agentic operating system for coordinating AI agent swarms and workflows.
 - [Emiyaaaaa/HiveMind](https://github.com/Emiyaaaaa/HiveMind) - Python runtime layer for multi-agent systems with persistent state and orchestration.
 - [xvirobotics/metabot](https://github.com/xvirobotics/metabot) - Infrastructure for supervised, self-improving agent organizations with shared memory and mobile access.
+- [Roy3838/Observer](https://github.com/Roy3838/Observer) - The micro-agent orchestrator that monitors anything for you. Running completely locally. Open Source.
 
 **Visual & low-code builders**
 
@@ -6931,6 +6933,7 @@
 - [jiahaoli57/Call-for-Reviewers](https://github.com/jiahaoli57/Call-for-Reviewers) - Aggregates 'call for reviewers' links from top CS/ML/AI conferences.
 - [shaypal5/awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data) - A list of Twitter datasets and related resources.
 - [AxiomeCG/awesome-threejs](https://github.com/AxiomeCG/awesome-threejs) - Curated list of ThreeJS resources for creative coding and generative graphics.
+- [reacher-z/Awesome-CUA](https://github.com/reacher-z/Awesome-CUA) - Open, source-backed catalog of computer-use agents: reviewed papers, GUI models, datasets, benchmarks, tools, and reusable data.
 
 ## Contributing
 
