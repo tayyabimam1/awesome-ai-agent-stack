@@ -1667,6 +1667,7 @@
 
 **Memory layers & frameworks**
 
+- [SebastiaanBoon/cloud-alter-ego](https://github.com/SebastiaanBoon/cloud-alter-ego) - Shared rules and automatic journals for Claude Code and Codex, kept in your own Git repo.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Drop-in memory layer for agents and apps.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Stateful agents with self-editing memory (formerly MemGPT).
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Temporal knowledge graphs for agent memory.
