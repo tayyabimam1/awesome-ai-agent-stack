@@ -1437,6 +1437,7 @@
 - [photon-hq/spectrum-ts](https://github.com/photon-hq/spectrum-ts) - Bring agents to any interfaces.
 - [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - TypeScript kit that connects AI agents to Solana blockchain protocols and tools.
 - [microsoft/Agents](https://github.com/microsoft/Agents) - SDK for building multichannel Microsoft 365, Teams, and Copilot Studio agents.
+- [ARO-FIA/wirefox](https://github.com/ARO-FIA/wirefox) - Lightweight AI agent and tool-loop micro-framework for TypeScript and JavaScript.
 
 **Go, Java, Rust, Ruby & other languages**
 
