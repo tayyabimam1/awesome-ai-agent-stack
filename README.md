@@ -2048,6 +2048,7 @@
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph: learn Retrieval-Augmented Generation agents in minutes.
 - [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) - Python framework for building semantic, graph-based reasoning layers over data for LLM and agent workflows.
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Your personal librarian agent: ask anything on your computer, organize files and remember what matters.
+- [tobi/qmd](https://github.com/tobi/qmd) - On-device search engine for notes, docs and knowledge bases: BM25, vector search and LLM re-ranking, built for agentic flows.
 
 ## MCP Servers & Tool Integration
 
@@ -3602,6 +3603,11 @@
 - [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Driver patch to unlock full tensor throughput on consumer GPUs for AI workloads.
 - [google-coral/coralnpu](https://github.com/google-coral/coralnpu) - A machine learning accelerator core designed for energy-efficient AI at the edge.
 - [fastmachinelearning/hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning on FPGAs using HLS.
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine: typed choice, score and yes/no decisions over text, image, audio and video in one pass.
+- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Small Jev-like decision models built on Qwen that you can train and run yourself, for fast typed agent decisions.
+- [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) - Semantic ifs from open models: typed decisions for agent routing and checks, read directly from model probabilities.
+- [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) - A 0.6B parallel decision model replica of Jev: states and questions in, probability distributions out, zero token decoding.
+- [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) - Open Jev alternative: data, model and training recipe for local typed decisions and model evaluation.
 
 ## Evaluation, Observability & Code Review
 
