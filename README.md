@@ -3740,6 +3740,7 @@
 - [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) - Unified framework for holistic evaluation and quality rewards of AI agents.
 - [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym) - Cybersecurity evaluation framework for assessing AI agents on real-world vulnerability analysis tasks.
 - [langwatch/scenario](https://github.com/langwatch/scenario) - Testing framework for simulating and evaluating agentic codebases.
+- [evalshift/evalshift-cli](https://github.com/evalshift/evalshift-cli) - Replays agent runs on two models and reports tool-call and output regressions.
 
 **Benchmarks**
 
