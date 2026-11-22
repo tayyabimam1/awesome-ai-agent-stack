@@ -479,6 +479,7 @@
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex, developed and maintained with no human intervention.
 - [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) - Visual manager for OpenAI Codex desktop/CLI: provider/API switching, session sync, prompt injection, Skills/MCP management, visual TOML config.
 - [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Adapter that lets any ACP client use the Claude Agent SDK.
+- [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer) - Open-source Devin alternative: a coding agent your team works with in Slack, on its own computers, in your cloud or self-hosted.
 
 ## Skills, Plugins & Context Engineering
 
