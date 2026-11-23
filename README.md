@@ -2287,6 +2287,7 @@
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) - MCP server that gives agents access to Brave Search.
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) - MCP server for DuckDuckGo web search with content fetching and parsing.
 
+- [GeminiGeorge22/publicrecords-mcp](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword: members, price, rating, estimated monthly revenue, and daily growth. Remote MCP hosted on Apify.
 **Productivity, files & business servers**
 
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - Feature-rich Slack MCP server with channels, DMs, and smart history fetch.
