@@ -257,6 +257,7 @@
 - [asklokesh/loki-mode](https://github.com/asklokesh/loki-mode) - Autonomous software factory that generates pull requests from GitHub issues or tasks.
 - [marcus/nightshift](https://github.com/marcus/nightshift) - Uses leftover LLM budget to autonomously generate useful pull requests.
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open-source autonomous software development system that plans and writes code.
+- [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer) - Open-source Devin alternative: a coding agent your team works with in Slack, on its own computers, in your cloud or self-hosted.
 
 **General-purpose agent harnesses**
 
