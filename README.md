@@ -3674,6 +3674,7 @@
 - [furkankly/zoetrope](https://github.com/furkankly/zoetrope) - Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser.
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - Enterprise LLM relay service availability monitoring with real-time tracking and dashboard.
 - [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Local observability tool for monitoring AI coding agents.
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Open-source agent for CI/CD reliability that investigates failures and keeps pipelines healthy.
 
 **Evaluation**
 
@@ -6338,6 +6339,7 @@
 - [SterlingChin/marvin-template](https://github.com/SterlingChin/marvin-template) - Personal AI assistant template that connects to apps and handles daily tasks.
 - [death34018-hue/AionsHome](https://github.com/death34018-hue/AionsHome) - Self-hosted AI companion with long-term memory, voice, camera vision, and smart home integration.
 - [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer — a free, open-source alternative to Granola for Mac, Windows and Linux.
+- [simplexai-labs/linger](https://github.com/simplexai-labs/linger) - Source-available personal agent that runs fully on your PC, bringing powerful local AI to everyday computers.
 
 **Second brain & knowledge**
 
