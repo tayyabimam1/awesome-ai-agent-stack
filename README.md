@@ -849,7 +849,7 @@
 - [lixiaoxiao9888-create/manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) - AIGC short-drama creation skill set covering scriptwriting, assets, and storyboarding.
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - Agent skill for writing and fixing business Japanese to be more readable and understandable.
 - [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) - Agent skills for medical research, including protocol design, data analysis and academic writing.
-- [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) - Reverse-engineered system prompt and skill library for an accessibility-aware design collaborator.
+- [Trystan-SA/product-engineer-skills](https://github.com/Trystan-SA/product-engineer-skills) - Reverse-engineered system prompt and skill library for an accessibility-aware design collaborator.
 - [cth9191/animate](https://github.com/cth9191/animate) - Procedural animation in any style for Claude Code, creating short single-file canvas videos.
 - [EpicGames/unreal-engine-skills-for-claude-code-plugin](https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin) - Unreal Engine skills plugin for Claude Code.
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - README design skill for Claude Code and Codex.
@@ -2028,7 +2028,7 @@
 - [xmpuspus/kb-arena](https://github.com/xmpuspus/kb-arena) - Benchmark 19 retrieval architectures: vector, contextual, and knowledge-based.
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - Python toolkit for reproducing and benchmarking efficient RAG pipelines.
 - [xerj-org/xerj](https://github.com/xerj-org/xerj) - Local-first search engine and MCP server for AI agents; one Rust binary indexes code and docs.
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Personal web-history search engine.
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Personal web-history search engine.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features.
 - [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) - VideoRAG: chat with your videos, a retrieval-augmented generation framework for video understanding.
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long-horizon agents.
@@ -2134,7 +2134,7 @@
 
 **Servers**
 
-- [roomi-fields/notebooklm-mcp](https://github.com/roomi-fields/notebooklm-mcp) - Google NotebookLM over MCP plus a local HTTP REST API.
+- [roomi-fields/gemini-notebook-mcp](https://github.com/roomi-fields/gemini-notebook-mcp) - Google NotebookLM over MCP plus a local HTTP REST API.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - Official GitHub MCP server.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - Make any software agent-native by wrapping it as a CLI.
@@ -2419,7 +2419,7 @@
 - [gotempsh/temps](https://github.com/gotempsh/temps) - Self-hosted Rust platform with AI-agent sandboxes, gateway, and observability.
 - [schmitthub/clawker](https://github.com/schmitthub/clawker) - AI coding agent sandbox: isolated Docker containers behind an egress firewall.
 - [octelium/cordium](https://github.com/octelium/cordium) - General-purpose sandbox platform with identity-based secure access for agents.
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - NVIDIA's safe, private runtime for autonomous AI agents.
+- [ai-openshell/openshell](https://github.com/ai-openshell/openshell) - NVIDIA's safe, private runtime for autonomous AI agents.
 - [e2b-dev/runtime](https://github.com/e2b-dev/runtime) - The runtime behind E2B sandboxes, runnable on your own machine.
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Secure agent execution runtime for running sandboxes at high density.
 - [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) - Open runtime for running and securing AI agents.
@@ -2446,7 +2446,7 @@
 **Isolation runtimes & dev environments**
 
 - [google/nsjail](https://github.com/google/nsjail) - Lightweight process isolation using Linux namespaces and seccomp.
-- [google/gvisor](https://github.com/google/gvisor) - Application kernel for containers with strong syscall isolation.
+- [gvisor/gvisor](https://github.com/gvisor/gvisor) - Application kernel for containers with strong syscall isolation.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless sandbox workloads.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - Fast and lightweight sandboxes for apps and AI agents.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Lightweight, fast, secure WebAssembly runtime for sandboxed code.
@@ -4273,13 +4273,13 @@
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - A collection of notes and resources for software engineers tracking AI developments.
 - [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe) - A systematic tutorial for learning full-stack development using AI coding assistants.
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) - Chinese AI agent course covering LangChain, LangGraph, MCP and RAG, with projects and interview prep.
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) - Learn how to build an end-to-end production-ready LLM and RAG system.
+- [itsdecodingai/llm-twin-course](https://github.com/itsdecodingai/llm-twin-course) - Learn how to build an end-to-end production-ready LLM and RAG system.
 - [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) - Chinese book dissecting Claude Code architecture and how to build your own agent harness.
 - [ombharatiya/ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals.
 - [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A collection of hands-on AI courses covering agents, RAG, and MLOps.
 - [microsoft/agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons for getting started building agents with Copilot Studio.
 - [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Five-lesson course on applying generative AI in .NET applications.
-- [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) - Learn to build a personal second brain assistant with LLMs, agents, RAG, and LLMOps.
+- [itsdecodingai/second-brain-ai-assistant-course](https://github.com/itsdecodingai/second-brain-ai-assistant-course) - Learn to build a personal second brain assistant with LLMs, agents, RAG, and LLMOps.
 - [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) - A learning path and resource hub for building AI personal assistants.
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - Live-updated guide to the Claude Code CLI.
 - [automata/aicodeguide](https://github.com/automata/aicodeguide) - Roadmap and course for learning to code with AI tools.
@@ -4345,7 +4345,7 @@
 - [Windy3f3f3f3f/claude-code-from-scratch](https://github.com/Windy3f3f3f3f/claude-code-from-scratch) - Step-by-step tutorial for building a Claude Code-style coding agent from scratch.
 - [datawhalechina/zero-to-sglang](https://github.com/datawhalechina/zero-to-sglang) - Course on LLM inference: build a mini-sglang from scratch, then read the SGLang source.
 - [hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook) - Chinese hands-on textbook that builds a Pi-style agent from scratch across 15 checkpoints.
-- [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) - A free course for building a Claude Code-style coding agent from scratch.
+- [itsdecodingai/building-a-coding-agent-from-scratch-course](https://github.com/itsdecodingai/building-a-coding-agent-from-scratch-course) - A free course for building a Claude Code-style coding agent from scratch.
 
 **Reinforcement learning**
 
@@ -4620,7 +4620,7 @@
 - [kyutai-labs/moshi-finetune](https://github.com/kyutai-labs/moshi-finetune) - Fine-tuning toolkit for the Moshi full-duplex spoken dialogue model.
 - [agent-next/call-use](https://github.com/agent-next/call-use) - Open-source runtime giving AI agents outbound phone-call ability.
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Pipeline for building voice agents from open-source models.
-- [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) - Framework for building real-time voice and vision agents with any model.
+- [GetStream/Agents](https://github.com/GetStream/Agents) - Framework for building real-time voice and vision agents with any model.
 - [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open-source self-hosted voice AI platform, alternative to Vapi and Retell.
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents.
 - [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - Backend service for xiaozhi-esp32 that lets you quickly set up an ESP32 device control server.
@@ -4737,7 +4737,7 @@
 - [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) - Suite of native multimodal models designed to understand images, text, and videos.
 - [thu-ml/Motus](https://github.com/thu-ml/Motus) - Official code for Motus: A unified latent action world model for robotic manipulation.
 - [stereolabs/zed-sdk](https://github.com/stereolabs/zed-sdk) - Spatial perception framework for robots and smart spaces.
-- [EvolvingLMMs-Lab/LLaVA-OneVision-2](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) - Fully open framework for democratized multimodal training.
+- [EvolvingLMMs-Lab/LLaVA-OneVision-2.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2.5) - Fully open framework for democratized multimodal training.
 - [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) - Vision-language model for object-level and pixel-level perception tasks.
 - [atiilla/GeoIntel](https://github.com/atiilla/GeoIntel) - AI-powered geo-location analysis of photos using Google's Gemini API.
 - [InternRobotics/PointLLM](https://github.com/InternRobotics/PointLLM) - Multimodal large language model that understands 3D point clouds.
@@ -4855,7 +4855,7 @@
 - [open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2) - A toolbox for video understanding, action recognition, and benchmarking.
 - [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video analysis framework based on computer vision models and multimodal LLMs.
 - [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - Extracts scene-aware, deduplicated frames and a transcript so an LLM can watch a video.
-- [IliasHad/edit-mind](https://github.com/IliasHad/edit-mind) - Local-first video knowledge base with YOLO, DeepFace and Whisper analysis and semantic search.
+- [IliasHad/orcah-studio](https://github.com/IliasHad/orcah-studio) - Local-first video knowledge base with YOLO, DeepFace and Whisper analysis and semantic search.
 - [zapdos-labs/unblink](https://github.com/zapdos-labs/unblink) - Camera and NVR monitoring driven by Vision-Language Models.
 - [ByteDance-Seed/SeedVR](https://github.com/ByteDance-Seed/SeedVR) - Research repository for SeedVR and SeedVR2 video and image restoration models.
 
@@ -6846,7 +6846,7 @@
 - [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) - Curated resources for AI security research.
 - [subinium/Awesome-Scientific-LLM-Benchmarks](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) - Accuracy-first list of benchmarks for evaluating LLMs on scientific reasoning.
 - [BerSecHub/awesome-ai-red-team](https://github.com/BerSecHub/awesome-ai-red-team) - Definitive resource list for offensive AI security and LLM red teaming.
-- [brandonhimpfen/awesome-ai-benchmarks-evaluation](https://github.com/brandonhimpfen/awesome-ai-benchmarks-evaluation) - Curated list of AI benchmarks, evaluation tools, datasets, and leaderboards.
+- [awelist/awesome-ai-benchmarks-evaluation](https://github.com/awelist/awesome-ai-benchmarks-evaluation) - Curated list of AI benchmarks, evaluation tools, datasets, and leaderboards.
 - [anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection) - Free AI security resources: pentesting roadmap and prompt-injection tools.
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - Comprehensive list of papers using LLMs and VLMs for robotics and RL.
 - [yenanjing/awesome-ai-for-science](https://github.com/yenanjing/awesome-ai-for-science) - Curated list of AI projects automating scientific research and discovery.
