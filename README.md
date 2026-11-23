@@ -987,6 +987,7 @@
 - [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb) - Injects taste into AI workflows to stop agents from generating boring, AI slop.
 - [icebird1998/scientific-illustrator](https://github.com/icebird1998/scientific-illustrator) - Create editable scientific figures in PowerPoint and draw.io via Codex and MCP with quality gates.
 - [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Profiles Python, Node or Ruby apps and has your coding agent port only the slow 5% to Rust, proving the port behaves the same.
 
 **Hooks, status lines & usage tracking**
 
@@ -3674,6 +3675,7 @@
 - [furkankly/zoetrope](https://github.com/furkankly/zoetrope) - Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser.
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - Enterprise LLM relay service availability monitoring with real-time tracking and dashboard.
 - [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Local observability tool for monitoring AI coding agents.
+- [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted Sentry alternative in Rust: error tracking, performance, logs and AI agent traces in one small container.
 
 **Evaluation**
 
