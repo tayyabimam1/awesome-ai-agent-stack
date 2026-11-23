@@ -3724,6 +3724,7 @@
 - [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) - Unified framework for holistic evaluation and quality rewards of AI agents.
 - [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym) - Cybersecurity evaluation framework for assessing AI agents on real-world vulnerability analysis tasks.
 - [langwatch/scenario](https://github.com/langwatch/scenario) - Testing framework for simulating and evaluating agentic codebases.
+- [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) - Runs 20 Claude Code testers on 20 phones in parallel, hunting UI and accessibility bugs.
 
 **Benchmarks**
 
