@@ -2391,7 +2391,6 @@
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Local MCP server giving your coding agent a desktop toolbox: downloads, media conversion, files and chats.
 - [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - MCP server letting LLMs like Claude directly interact with KiCAD for printed circuit board design.
 - [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact and Resume, and durable multi-agent workflows.
-- [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT, Claude, Gemini, Ollama, OpenCode.
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - QR code generator supporting animated GIF output.
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - MCP server and skills that generate 25+ chart types with AntV for data analysis.
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server that lets AI agents control DaVinci Resolve Studio.
