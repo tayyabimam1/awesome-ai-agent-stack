@@ -6338,7 +6338,7 @@
 - [SterlingChin/marvin-template](https://github.com/SterlingChin/marvin-template) - Personal AI assistant template that connects to apps and handles daily tasks.
 - [death34018-hue/AionsHome](https://github.com/death34018-hue/AionsHome) - Self-hosted AI companion with long-term memory, voice, camera vision, and smart home integration.
 - [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer — a free, open-source alternative to Granola for Mac, Windows and Linux.
-- [simplexai-labs/linger](https://github.com/simplexai-labs/linger) - Open-source personal agent that runs fully on your PC, bringing powerful local AI to everyday computers.
+- [simplexai-labs/linger](https://github.com/simplexai-labs/linger) - Source-available personal agent that runs fully on your PC, bringing powerful local AI to everyday computers.
 
 **Second brain & knowledge**
 
