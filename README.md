@@ -983,6 +983,7 @@
 - [icebird1998/scientific-illustrator](https://github.com/icebird1998/scientific-illustrator) - Create editable scientific figures in PowerPoint and draw.io via Codex and MCP with quality gates.
 - [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step.
 - [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Profiles Python, Node or Ruby apps and has your coding agent port only the slow 5% to Rust, proving the port behaves the same.
+- [wzyn20051216/solidworks-automation-skill](https://github.com/wzyn20051216/solidworks-automation-skill) - Reliable AI skill and MCP toolkit for agent-driven desktop CAD automation.
 
 **Hooks, status lines & usage tracking**
 
