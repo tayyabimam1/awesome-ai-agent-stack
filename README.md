@@ -475,6 +475,7 @@
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex, developed and maintained with no human intervention.
 - [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) - Visual manager for OpenAI Codex desktop/CLI: provider/API switching, session sync, prompt injection, Skills/MCP management, visual TOML config.
 - [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Adapter that lets any ACP client use the Claude Agent SDK.
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is an open-source platform for building custom IDEs and tools. It includes Theia AI, the vendor-neutral AI harness platform.
 
 ## Skills, Plugins & Context Engineering
 
