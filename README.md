@@ -6055,6 +6055,7 @@
 - [whchien/ai-trader](https://github.com/whchien/ai-trader) - Backtrader-powered backtesting framework for algorithmic trading with an integrated MCP server.
 - [Superior-Trade/trading-terminal](https://github.com/Superior-Trade/trading-terminal) - Self-hosted AI trading terminal that reads charts and deploys validated strategies.
 - [simonlin1212/vibe-astock](https://github.com/simonlin1212/vibe-astock) - A-share trading review and tracking workbench with AI analysis.
+- [ZhuLinsen/alphasift](https://github.com/ZhuLinsen/alphasift) - Multi-market stock screener CLI and 14-tool read-only MCP server with walk-forward pattern replay.
 
 **Healthcare & life sciences**
 
