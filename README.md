@@ -2399,6 +2399,7 @@
 - [jingcheng-chen/rhinomcp](https://github.com/jingcheng-chen/rhinomcp) - MCP server that connects Rhino 3D software to AI agents.
 - [ATH-MaaS/Pixelle-MCP](https://github.com/ATH-MaaS/Pixelle-MCP) - Multimodal AIGC solution integrating ComfyUI with the Model Context Protocol.
 - [ChiR24/Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) - MCP server letting AI assistants control Unreal Engine via the Automation Bridge.
+- [withcoral/coral](https://github.com/withcoral/coral) - Execution rails for agents. Equip your AI to work with sensitive enterprise systems with precise permissions and custom tools.
 
 ## Sandboxes, Browsers & Computer Use
 
@@ -3593,6 +3594,7 @@
 - [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) - Semantic ifs from open models: typed decisions for agent routing and checks, read directly from model probabilities.
 - [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) - A 0.6B parallel decision model replica of Jev: states and questions in, probability distributions out, zero token decoding.
 - [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) - Open Jev alternative: data, model and training recipe for local typed decisions and model evaluation.
+- [opensetlabs/openset-llm](https://github.com/opensetlabs/openset-llm) - Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.
 
 ## Evaluation, Observability & Code Review
 
