@@ -5248,6 +5248,7 @@
 - [fastgs/FastGS](https://github.com/fastgs/FastGS) - Accelerated 3D Gaussian Splatting training achieving 100-second training times.
 - [Bingeljell/image-to-3dlab](https://github.com/Bingeljell/image-to-3dlab) - An open-source image-to-3D pipeline for game assets.
 - [deepopen-com/deepopen-3d-webs](https://github.com/deepopen-com/deepopen-3d-webs) - Image-driven 3D scene generation with Gaussian splatting and camera trajectory control.
+- [mutonby/openshorts](https://github.com/mutonby/openshorts) - Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing.
 
 ## Computer Use & GUI Agents
 
@@ -6195,6 +6196,7 @@
 - [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Open-source outreach platform that runs on your Claude or ChatGPT plan: finds leads and runs outreach.
 - [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research) - Stock research workbench for China A-shares, US and HK stocks: watchlists, holdings, backtests, 168 data endpoints, agent-driven via Claude Code/Codex.
 - [open-legal-products/mike](https://github.com/open-legal-products/mike) - Open-source legal AI platform.
+- [nexu-io/opengame](https://github.com/nexu-io/opengame) - The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents into a game studio.
 
 ## Assistants, Copilots & Personal Agents
 
