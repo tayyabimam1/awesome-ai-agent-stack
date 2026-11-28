@@ -2256,6 +2256,7 @@
 - [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - Industrial IoT runtime with protocol drivers and MCP tool gateway for AI agent device interaction.
 - [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers exposing UniFi Network, Protect, and Access APIs to AI agents.
 - [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server) - MCP server that provides SSH-based remote access for agents.
+- [connormatthewdouglas/agent-work-stack-deals](https://github.com/connormatthewdouglas/agent-work-stack-deals) - MCP server that compares cloud GPU rental prices, price changes and job cost estimates.
 
 **Browser, search & scraping servers**
 
