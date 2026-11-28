@@ -1296,6 +1296,7 @@
 - [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) - Desktop app to write once and sync AI agent skills to 32 coding tools via symlinks.
 - [YangYuHou/github-skill-forge](https://github.com/YangYuHou/github-skill-forge) - Tool that automates converting any GitHub repository into standardized AI agent skills.
 - [guanyang/open-agent-hub](https://github.com/guanyang/open-agent-hub) - CLI tool to manage and activate skills for AI coding assistants like Claude Code and Cursor.
+- [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - 100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code.
 
 ## Agent Frameworks & Orchestration
 
@@ -1652,6 +1653,7 @@
 - [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source AI cybersecurity harness to build & deploy continuous security agents that find, prove, fix and monitor vulnerabilities.
 - [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop.
 - [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) - Self-hosted multi-agent orchestration engine with multiple harnesses for teams.
+- [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The Harness of Harnesses • Super Agent: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.
 
 ## Memory & Persistent Context
 
@@ -4707,6 +4709,7 @@
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fast macOS dictation app with on-device speech-to-text and a custom trained AI enhancement model.
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Low-latency, high-quality voice chat software for communities and gaming.
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - Open-source programmable voice AI platform for telephony.
+- [pipecat-ai/smart-turn](https://github.com/pipecat-ai/smart-turn) - An open source, community-driven, native audio turn detection model.
 
 ## Vision & Multimodal
 
